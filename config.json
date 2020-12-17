@@ -2,7 +2,7 @@
    "settings": {
       "xml_dir": "xml",
       "output_dir": "json_th",
-      "JsonLocalizationOutput" : "th.json"
+      "JsonLocalizationOutput" : "./localization/th.json"
    },
    "localizationData": {
       "localization": [
