@@ -1,0 +1,33 @@
+{
+   "settings": {
+      "xml_dir": "xml",
+      "output_dir": "json_th",
+      "JsonLocalizationOutput" : "th.json"
+   },
+   "localizationData": {
+      "localization": [
+         "atmospheric_text.xml",
+         "savefile.xml",
+         "system_text.xml",
+         "systemmenu.xml"
+      ],
+      "blackmarket": [
+         "blackmarket.xml"
+      ],
+      "subtitles": [
+         "subtitles.xml"
+      ],
+      "vr": [
+         "vr.xml"
+      ],
+      "menu": [
+         "menu.xml"
+      ],
+      "hud": [
+         "hud.xml"
+      ],
+      "heist": [
+         "heist.xml"
+      ]
+   }
+}

@@ -1,0 +1,1302 @@
+{
+    "american_desc_codex": {
+        "base_text": "Houston could never hold a job even if his life would depend on it. His life style turned him to a life of cons and burglary. He committed his first major felony at the age of 24 and the stakes have only increased since.",
+        "loc_text": "Houston could never hold a job even if his life would depend on it. His life style turned him to a life of cons and burglary. He committed his first major felony at the age of 24 and the stakes have only increased since.",
+        "string_id": "american_desc_codex"
+    },
+    "chill_combat_desc": {
+        "base_text": "Your Safe House is under attack! Defend it!",
+        "loc_text": "Your Safe House is under attack! Defend it!",
+        "string_id": "chill_combat_desc"
+    },
+    "chill_combat_header": {
+        "base_text": "Safe House Raid",
+        "loc_text": "Safe House Raid",
+        "string_id": "chill_combat_header"
+    },
+    "chill_combat_rewards": {
+        "base_text": "Rewards",
+        "loc_text": "Rewards",
+        "string_id": "chill_combat_rewards"
+    },
+    "eday1_brief": {
+        "base_text": "The Elephant's PR will claim he came to power through depth, leadership and integrity, but that's bullshit. That oily bastard is going to cheat his way to the Senate, and this is where you come in. There are trucks at Pier 39. One of them has voting machines. Find the truck, and attach a GPS tracker to it. We'll deal with it down the line. Naturally, The Elephant wants this done with as little chance of bad press coming back to him as possible. So he's ear-marked some of his considerable campaign funds for a special black-ops bonus. You guys do this quietly, and the good politician will see you are well rewarded.",
+        "loc_text": "The Elephant's PR will claim he came to power through depth, leadership and integrity, but that's bullshit. That oily bastard is going to cheat his way to the Senate, and this is where you come in. There are trucks at Pier 39. One of them has voting machines. Find the truck, and attach a GPS tracker to it. We'll deal with it down the line. Naturally, The Elephant wants this done with as little chance of bad press coming back to him as possible. So he's ear-marked some of his considerable campaign funds for a special black-ops bonus. You guys do this quietly, and the good politician will see you are well rewarded.",
+        "string_id": "eday1_brief"
+    },
+    "eday2_brief": {
+        "base_text": "I've traced the truck to a warehouse out by Goose Island. It's a distribution depot, contracted to ship the voting machines to their final destination. With a little technical wizardry, we're going to make those machines a bit more sympathetic to The Elephants' mayoral candidate - that slimy ballbag McKendrick. Get in there, get them hacked, get out - simple.",
+        "loc_text": "I've traced the truck to a warehouse out by Goose Island. It's a distribution depot, contracted to ship the voting machines to their final destination. With a little technical wizardry, we're going to make those machines a bit more sympathetic to The Elephants' mayoral candidate - that slimy ballbag McKendrick. Get in there, get them hacked, get out - simple.",
+        "string_id": "eday2_brief"
+    },
+    "eday3_brief_skip1": {
+        "base_text": "That truck you assholes tagged wasn't the right one, so we can forget about intercepting those voting machines. We're going to try something else to keep the Elephant sweet. We can trigger a re-election by scrambling the server at the polling place. To avoid suspicion on our sponsor, we'll make it look like collateral damage by robbing the bank next door.",
+        "loc_text": "That truck you assholes tagged wasn't the right one, so we can forget about intercepting those voting machines. We're going to try something else to keep the Elephant sweet. We can trigger a re-election by scrambling the server at the polling place. To avoid suspicion on our sponsor, we'll make it look like collateral damage by robbing the bank next door.",
+        "string_id": "eday3_brief_skip1"
+    },
+    "german_desc_codex": {
+        "base_text": "Wolf can be happy-go-lucky one second and mad as hell the next. After his mental breakdown he reinvented his personality and it's now a mash-up of action movie characters and his own ideas of what criminals should be like.",
+        "loc_text": "Wolf can be happy-go-lucky one second and mad as hell the next. After his mental breakdown he reinvented his personality and it's now a mash-up of action movie characters and his own ideas of what criminals should be like.",
+        "string_id": "german_desc_codex"
+    },
+    "heist_alex": {
+        "base_text": "Rats",
+        "loc_text": "Rats",
+        "string_id": "heist_alex"
+    },
+    "heist_alex_1_hl": {
+        "base_text": "Cook Off",
+        "loc_text": "Cook Off",
+        "string_id": "heist_alex_1_hl"
+    },
+    "heist_alex_3_hl": {
+        "base_text": "Bus Stop",
+        "loc_text": "Bus Stop",
+        "string_id": "heist_alex_3_hl"
+    },
+    "heist_alex_crimenet": {
+        "base_text": "Help Hector wipe out the Mendoza leaders.$NL;$NL;» Retrieve meth from the Mendoza lab$NL;» Trade meth for info with the Cobras$NL;» Eliminate the Mendoza cartel leaders",
+        "loc_text": "Help Hector wipe out the Mendoza leaders.$NL;$NL;» Retrieve meth from the Mendoza lab$NL;» Trade meth for info with the Cobras$NL;» Eliminate the Mendoza cartel leaders",
+        "string_id": "heist_alex_crimenet"
+    },
+    "heist_arena": {
+        "base_text": "The Alesso Heist",
+        "loc_text": "The Alesso Heist",
+        "string_id": "heist_arena"
+    },
+    "heist_arena_crimenet": {
+        "base_text": "Alesso is in town tonight. He's playing at the Gensec Arena, and that's where we're headed. But Alesso isn't the target. The Arena doubles as a secured fortress, and it's where Gensec are showcasing their new vault - the Investment Safe. They think it's impenetrable. Let's prove them wrong. $NL;$NL;» Search the arena and locate the C4 $NL;» Plant the C4 in the garage beneath the vault $NL;» Hack into the Pyro Booth and detonate the C4 $NL;» Drill the vault bottom $NL;» Secure the loot and escape",
+        "loc_text": "Alesso is in town tonight. He's playing at the Gensec Arena, and that's where we're headed. But Alesso isn't the target. The Arena doubles as a secured fortress, and it's where Gensec are showcasing their new vault - the Investment Safe. They think it's impenetrable. Let's prove them wrong. $NL;$NL;» Search the arena and locate the C4 $NL;» Plant the C4 in the garage beneath the vault $NL;» Hack into the Pyro Booth and detonate the C4 $NL;» Drill the vault bottom $NL;» Secure the loot and escape",
+        "string_id": "heist_arena_crimenet"
+    },
+    "heist_arena_hl": {
+        "base_text": "The Alesso Heist",
+        "loc_text": "The Alesso Heist",
+        "string_id": "heist_arena_hl"
+    },
+    "heist_arm_cro": {
+        "base_text": "Transport: Crossroads",
+        "loc_text": "Transport: Crossroads",
+        "string_id": "heist_arm_cro"
+    },
+    "heist_arm_cro_crimenet": {
+        "base_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "loc_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "string_id": "heist_arm_cro_crimenet"
+    },
+    "heist_arm_fac": {
+        "base_text": "Transport: Harbor",
+        "loc_text": "Transport: Harbor",
+        "string_id": "heist_arm_fac"
+    },
+    "heist_arm_fac_briefing": {
+        "base_text": "We're using a magnetic crane to drop a little present in the path of the Gensec convoy - a steel container of professional badasses. Hit the trucks, and get the loot to the getaway. These docks have a rich history of heistery, gentlemen - do it proud.",
+        "loc_text": "We're using a magnetic crane to drop a little present in the path of the Gensec convoy - a steel container of professional badasses. Hit the trucks, and get the loot to the getaway. These docks have a rich history of heistery, gentlemen - do it proud.",
+        "string_id": "heist_arm_fac_briefing"
+    },
+    "heist_arm_fac_crimenet": {
+        "base_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "loc_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "string_id": "heist_arm_fac_crimenet"
+    },
+    "heist_arm_fac_hl": {
+        "base_text": "Transport: Harbor",
+        "loc_text": "Transport: Harbor",
+        "string_id": "heist_arm_fac_hl"
+    },
+    "heist_arm_for": {
+        "base_text": "Transport: Train Heist",
+        "loc_text": "Transport: Train Heist",
+        "string_id": "heist_arm_for"
+    },
+    "heist_arm_for_briefing": {
+        "base_text": "That blueprint you found was for a new type of infantry turret - codenamed RC1. Real next-gen shit. Digging a little deeper, I got word of a specially chartered train, headed in to the Pentagon. I've hacked the rail network, and they think they've stopped due to a glitch in the switches. Three railcars. One has the hardware. The other two have its ammo. It all sells, but your priority is the turret. They won't be expecting you.",
+        "loc_text": "That blueprint you found was for a new type of infantry turret - codenamed RC1. Real next-gen shit. Digging a little deeper, I got word of a specially chartered train, headed in to the Pentagon. I've hacked the rail network, and they think they've stopped due to a glitch in the switches. Three railcars. One has the hardware. The other two have its ammo. It all sells, but your priority is the turret. They won't be expecting you.",
+        "string_id": "heist_arm_for_briefing"
+    },
+    "heist_arm_for_crimenet": {
+        "base_text": "That blueprint you found in the last job was for a prototype infantry weapon, a new kind of turret. It's also carrying significant amounts of ammunition, which you can also try to retrieve. $NL;$NL;» Find and break into the correct railcar$NL;» Recover the prototype turret$NL;» Dismantle and secure the turret components$NL;» Acquire the required amounts of ammunition$NL;» Secure all items in the waiting vehicle",
+        "loc_text": "That blueprint you found in the last job was for a prototype infantry weapon, a new kind of turret. It's also carrying significant amounts of ammunition, which you can also try to retrieve. $NL;$NL;» Find and break into the correct railcar$NL;» Recover the prototype turret$NL;» Dismantle and secure the turret components$NL;» Acquire the required amounts of ammunition$NL;» Secure all items in the waiting vehicle",
+        "string_id": "heist_arm_for_crimenet"
+    },
+    "heist_arm_for_hl": {
+        "base_text": "Transport: Train Heist",
+        "loc_text": "Transport: Train Heist",
+        "string_id": "heist_arm_for_hl"
+    },
+    "heist_arm_hcm": {
+        "base_text": "Transport: Downtown",
+        "loc_text": "Transport: Downtown",
+        "string_id": "heist_arm_hcm"
+    },
+    "heist_arm_hcm_crimenet": {
+        "base_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "loc_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "string_id": "heist_arm_hcm_crimenet"
+    },
+    "heist_arm_hcm_hl": {
+        "base_text": "Transport: Downtown",
+        "loc_text": "Transport: Downtown",
+        "string_id": "heist_arm_hcm_hl"
+    },
+    "heist_arm_par": {
+        "base_text": "Transport: Park",
+        "loc_text": "Transport: Park",
+        "string_id": "heist_arm_par"
+    },
+    "heist_arm_par_crimenet": {
+        "base_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "loc_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "string_id": "heist_arm_par_crimenet"
+    },
+    "heist_arm_und": {
+        "base_text": "Transport: Underpass",
+        "loc_text": "Transport: Underpass",
+        "string_id": "heist_arm_und"
+    },
+    "heist_arm_und_crimenet": {
+        "base_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "loc_text": "Bain has intercepted a convoy of armored Gensec trucks. They're carrying high-value cargo and you need to get in fast and steal it.$NL;$NL;» Break into the immobilized trucks$NL;» Crack open the strongboxes$NL;» Get the loot to the getaway vehicle",
+        "string_id": "heist_arm_und_crimenet"
+    },
+    "heist_arm_und_hl": {
+        "base_text": "Transport: Underpass",
+        "loc_text": "Transport: Underpass",
+        "string_id": "heist_arm_und_hl"
+    },
+    "heist_bex": {
+        "base_text": "San Martín Bank",
+        "loc_text": "San Martín Bank",
+        "string_id": "heist_bex"
+    },
+    "heist_bex_briefing": {
+        "base_text": "OK, friends. We're going to have to help Vlad with this one. I suppose we owe him, even though it will take a lot of focus off our current operations in Washington. He wants us to break into the San Martín bank, in a little rustic town just south of Mexico City. I'm a bit worried that he's being so secretive about what exactly we're stealing, but he says you'll know it when you see it. It's always a riddle with that chop, but I've got a cunning plan to see you through. Now, the Coyopa cartel operates this bank, and from what I've read about this \"Buluc\" character, he's a right old bastard. But operations-wise it should be pretty standard. Famous last words, for sure!",
+        "loc_text": "OK, friends. We're going to have to help Vlad with this one. I suppose we owe him, even though it will take a lot of focus off our current operations in Washington. He wants us to break into the San Martín bank, in a little rustic town just south of Mexico City. I'm a bit worried that he's being so secretive about what exactly we're stealing, but he says you'll know it when you see it. It's always a riddle with that chop, but I've got a cunning plan to see you through. Now, the Coyopa cartel operates this bank, and from what I've read about this \"Buluc\" character, he's a right old bastard. But operations-wise it should be pretty standard. Famous last words, for sure!",
+        "string_id": "heist_bex_briefing"
+    },
+    "heist_bex_crimenet": {
+        "base_text": "Vlad is demanding that you help him recover some important loot to repay him for all his help.$NL;$NL;»Find a way into the secure areas of San Martín bank$NL;»Locate and crack open the vault$NL;»Recover Vlad's \"precious\" loot",
+        "loc_text": "Vlad is demanding that you help him recover some important loot to repay him for all his help.$NL;$NL;»Find a way into the secure areas of San Martín bank$NL;»Locate and crack open the vault$NL;»Recover Vlad's \"precious\" loot",
+        "string_id": "heist_bex_crimenet"
+    },
+    "heist_bex_hl": {
+        "base_text": "San Martín Bank",
+        "loc_text": "San Martín Bank",
+        "string_id": "heist_bex_hl"
+    },
+    "heist_big": {
+        "base_text": "The Big Bank",
+        "loc_text": "The Big Bank",
+        "string_id": "heist_big"
+    },
+    "heist_big_hl": {
+        "base_text": "The Big Bank",
+        "loc_text": "The Big Bank",
+        "string_id": "heist_big_hl"
+    },
+    "heist_born": {
+        "base_text": "The Biker Heist",
+        "loc_text": "The Biker Heist",
+        "string_id": "heist_born"
+    },
+    "heist_born_hl": {
+        "base_text": "Lion's Den",
+        "loc_text": "Lion's Den",
+        "string_id": "heist_born_hl"
+    },
+    "heist_bph": {
+        "base_text": "Hell's Island",
+        "loc_text": "Hell's Island",
+        "string_id": "heist_bph"
+    },
+    "heist_branchbank": {
+        "base_text": "Bank Heist: Random",
+        "loc_text": "Bank Heist: Random",
+        "string_id": "heist_branchbank"
+    },
+    "heist_branchbank_briefing": {
+        "base_text": "The Harvest & Trustee is a medium-size branch bank, vault in the back, a few different entries. Case the place first. My man's gonna leave a thermal drill out back. Get it on the vault door, then bag whatever's inside and move it to the escape car. Good luck.",
+        "loc_text": "The Harvest & Trustee is a medium-size branch bank, vault in the back, a few different entries. Case the place first. My man's gonna leave a thermal drill out back. Get it on the vault door, then bag whatever's inside and move it to the escape car. Good luck.",
+        "string_id": "heist_branchbank_briefing"
+    },
+    "heist_branchbank_cash": {
+        "base_text": "Bank Heist: Cash",
+        "loc_text": "Bank Heist: Cash",
+        "string_id": "heist_branchbank_cash"
+    },
+    "heist_branchbank_cash_crimenet": {
+        "base_text": "Bain wants you to do a classic bank hit. This job is about the cash shipment the bank just received.$NL;$NL;» Locate the bank$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Keep the civilians in check$NL;» Escape with the money in the vault",
+        "loc_text": "Bain wants you to do a classic bank hit. This job is about the cash shipment the bank just received.$NL;$NL;» Locate the bank$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Keep the civilians in check$NL;» Escape with the money in the vault",
+        "string_id": "heist_branchbank_cash_crimenet"
+    },
+    "heist_branchbank_crimenet": {
+        "base_text": "Bain wants you to do a classic bank hit.$NL;$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Keep the civilians in check$NL;» Escape with the contents of the vault",
+        "loc_text": "Bain wants you to do a classic bank hit.$NL;$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Keep the civilians in check$NL;» Escape with the contents of the vault",
+        "string_id": "heist_branchbank_crimenet"
+    },
+    "heist_branchbank_deposit": {
+        "base_text": "Bank Heist: Deposit",
+        "loc_text": "Bank Heist: Deposit",
+        "string_id": "heist_branchbank_deposit"
+    },
+    "heist_branchbank_gold": {
+        "base_text": "Bank Heist: Gold",
+        "loc_text": "Bank Heist: Gold",
+        "string_id": "heist_branchbank_gold"
+    },
+    "heist_branchbank_gold_briefing": {
+        "base_text": "Like I said, this is a bank job for gold. It's a small bank, but they've got a lot of security and a lot of customers. You're going to have to work hard to keep this from turning ugly. Drill the vault and bag up the loot. Gold is heavy, remember. Wait for me to send the escape car. Clear? Oh - my guy left the thermal drill to get into the vault out back. Let's roll.",
+        "loc_text": "Like I said, this is a bank job for gold. It's a small bank, but they've got a lot of security and a lot of customers. You're going to have to work hard to keep this from turning ugly. Drill the vault and bag up the loot. Gold is heavy, remember. Wait for me to send the escape car. Clear? Oh - my guy left the thermal drill to get into the vault out back. Let's roll.",
+        "string_id": "heist_branchbank_gold_briefing"
+    },
+    "heist_branchbank_gold_crimenet": {
+        "base_text": "Bain wants you to do a classic bank hit. The Harvest & Trustee bank is trying to up its liquidity with a large deposit of gold.$NL;$NL;» Locate the bank$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Escape with the gold",
+        "loc_text": "Bain wants you to do a classic bank hit. The Harvest & Trustee bank is trying to up its liquidity with a large deposit of gold.$NL;$NL;» Locate the bank$NL;» Find the thermal drill$NL;» Drill the vault$NL;» Escape with the gold",
+        "string_id": "heist_branchbank_gold_crimenet"
+    },
+    "heist_branchbank_hl": {
+        "base_text": "Bank Heist",
+        "loc_text": "Bank Heist",
+        "string_id": "heist_branchbank_hl"
+    },
+    "heist_brb": {
+        "base_text": "Brooklyn Bank",
+        "loc_text": "Brooklyn Bank",
+        "string_id": "heist_brb"
+    },
+    "heist_brb_crimenet": {
+        "base_text": "Bain was after an object that is buried in the foundation of the old bank in Brooklyn. We need to smash our way in loudly, and retrieve this object.$NL;$NL;»Locke's remote controlled van crashes into the bank$NL;»Get into the bank$NL;»Gain access to the pre-vault room$NL;»Crack the vault$NL;»Plant C4 on the floor$NL;»Retrieve the object hidden under the vault$NL;»Loot more or escape",
+        "loc_text": "Bain was after an object that is buried in the foundation of the old bank in Brooklyn. We need to smash our way in loudly, and retrieve this object.$NL;$NL;»Locke's remote controlled van crashes into the bank$NL;»Get into the bank$NL;»Gain access to the pre-vault room$NL;»Crack the vault$NL;»Plant C4 on the floor$NL;»Retrieve the object hidden under the vault$NL;»Loot more or escape",
+        "string_id": "heist_brb_crimenet"
+    },
+    "heist_cage": {
+        "base_text": "Car Shop",
+        "loc_text": "Car Shop",
+        "string_id": "heist_cage"
+    },
+    "heist_cage_hl": {
+        "base_text": "Car Shop",
+        "loc_text": "Car Shop",
+        "string_id": "heist_cage_hl"
+    },
+    "heist_cane": {
+        "base_text": "Santa's Workshop",
+        "loc_text": "Santa's Workshop",
+        "string_id": "heist_cane"
+    },
+    "heist_chew_hl": {
+        "base_text": "Interception",
+        "loc_text": "Interception",
+        "string_id": "heist_chew_hl"
+    },
+    "heist_chill_combat": {
+        "base_text": "Safe House Raid",
+        "loc_text": "Safe House Raid",
+        "string_id": "heist_chill_combat"
+    },
+    "heist_chill_combat_hl": {
+        "base_text": "Safe House Raid",
+        "loc_text": "Safe House Raid",
+        "string_id": "heist_chill_combat_hl"
+    },
+    "heist_contact_bain": {
+        "base_text": "Bain",
+        "loc_text": "Bain",
+        "string_id": "heist_contact_bain"
+    },
+    "heist_contact_bain_description": {
+        "base_text": "The shadowy figure behind Crime.net. No one, not even the crew, has ever met Bain, and his interaction with the contacts and the crew is carefully managed to ensure minimum risk to all parties.",
+        "loc_text": "The shadowy figure behind Crime.net. No one, not even the crew, has ever met Bain, and his interaction with the contacts and the crew is carefully managed to ensure minimum risk to all parties.",
+        "string_id": "heist_contact_bain_description"
+    },
+    "heist_contact_classic": {
+        "base_text": "Classics",
+        "loc_text": "Classics",
+        "string_id": "heist_contact_classic"
+    },
+    "heist_contact_continental": {
+        "base_text": "The Continental",
+        "loc_text": "The Continental",
+        "string_id": "heist_contact_continental"
+    },
+    "heist_contact_events": {
+        "base_text": "Events",
+        "loc_text": "Events",
+        "string_id": "heist_contact_events"
+    },
+    "heist_contact_gage": {
+        "base_text": "Gage ",
+        "loc_text": "Gage ",
+        "string_id": "heist_contact_gage"
+    },
+    "heist_contact_gage_description": {
+        "base_text": "Gage is an Afghanistan war veteran, known for being in a wheelchair after an assassination attempt. He is the best weapons dealer within the border - and a good assassin at that. Anything you might need, he's your man.",
+        "loc_text": "Gage is an Afghanistan war veteran, known for being in a wheelchair after an assassination attempt. He is the best weapons dealer within the border - and a good assassin at that. Anything you might need, he's your man.",
+        "string_id": "heist_contact_gage_description"
+    },
+    "heist_contact_hector": {
+        "base_text": "Hector",
+        "loc_text": "Hector",
+        "string_id": "heist_contact_hector"
+    },
+    "heist_contact_hector_description": {
+        "base_text": "A detail-oriented former business administrator, Hector is the biggest drug trafficker on the Eastern Seaboard and next in line for leadership of the Sinaloan Cartel in Mexico.",
+        "loc_text": "A detail-oriented former business administrator, Hector is the biggest drug trafficker on the Eastern Seaboard and next in line for leadership of the Sinaloan Cartel in Mexico.",
+        "string_id": "heist_contact_hector_description"
+    },
+    "heist_contact_hoxton": {
+        "base_text": "Hoxton",
+        "loc_text": "Hoxton",
+        "string_id": "heist_contact_hoxton"
+    },
+    "heist_contact_interupt": {
+        "base_text": "Car chase",
+        "loc_text": "Car chase",
+        "string_id": "heist_contact_interupt"
+    },
+    "heist_contact_locke": {
+        "base_text": "Locke",
+        "loc_text": "Locke",
+        "string_id": "heist_contact_locke"
+    },
+    "heist_contact_locke_description": {
+        "base_text": "Born in South Africa, educated at Lincoln Laboratory, trained under MI5, and now employed by Murkywater. Vernon Locke heads their special cyberwarfare division, which has been tasked with infiltrating Crime.net. Locke has managed this. However, he sees this as an opportunity, and has reached out to Bain and the Payday Gang. The deal? Work with him, or he brings Crime.net down forever.",
+        "loc_text": "Born in South Africa, educated at Lincoln Laboratory, trained under MI5, and now employed by Murkywater. Vernon Locke heads their special cyberwarfare division, which has been tasked with infiltrating Crime.net. Locke has managed this. However, he sees this as an opportunity, and has reached out to Bain and the Payday Gang. The deal? Work with him, or he brings Crime.net down forever.",
+        "string_id": "heist_contact_locke_description"
+    },
+    "heist_contact_skirmish": {
+        "base_text": "Holdout",
+        "loc_text": "Holdout",
+        "string_id": "heist_contact_skirmish"
+    },
+    "heist_contact_the_butcher": {
+        "base_text": "The Butcher",
+        "loc_text": "The Butcher",
+        "string_id": "heist_contact_the_butcher"
+    },
+    "heist_contact_the_butcher_description": {
+        "base_text": "The Butcher's business is weapons - their procurement, sale and distribution. With Gage on an \"extended vacation\", she is looking forward to a long and fruitful business relationship with Bain and the Payday Gang.",
+        "loc_text": "The Butcher's business is weapons - their procurement, sale and distribution. With Gage on an \"extended vacation\", she is looking forward to a long and fruitful business relationship with Bain and the Payday Gang.",
+        "string_id": "heist_contact_the_butcher_description"
+    },
+    "heist_contact_the_dentist": {
+        "base_text": "The Dentist",
+        "loc_text": "The Dentist",
+        "string_id": "heist_contact_the_dentist"
+    },
+    "heist_contact_the_dentist_description": {
+        "base_text": "Little is known about the Dentist. He represents a large clientele whom he refers to as his patients. He is a determined, meticulate planner who has taken a great interest in the Payday Gang. He is the only one who knows how to free old Hoxton.",
+        "loc_text": "Little is known about the Dentist. He represents a large clientele whom he refers to as his patients. He is a determined, meticulate planner who has taken a great interest in the Payday Gang. He is the only one who knows how to free old Hoxton.",
+        "string_id": "heist_contact_the_dentist_description"
+    },
+    "heist_contact_the_elephant": {
+        "base_text": "The Elephant",
+        "loc_text": "The Elephant",
+        "string_id": "heist_contact_the_elephant"
+    },
+    "heist_contact_the_elephant_description": {
+        "base_text": "John Henry Simmons, called the Elephant by press.  A dirty Republican Congressman with mysterious connections that go all the way to the top.",
+        "loc_text": "John Henry Simmons, called the Elephant by press.  A dirty Republican Congressman with mysterious connections that go all the way to the top.",
+        "string_id": "heist_contact_the_elephant_description"
+    },
+    "heist_contact_vlad": {
+        "base_text": "Vlad",
+        "loc_text": "Vlad",
+        "string_id": "heist_contact_vlad"
+    },
+    "heist_contact_vlad_description": {
+        "base_text": "A Ukrainian who used to be a feared enforcer in the Russian motherland, Vlad's been running his own extortion and crime racket in DC out of his local bakery for years. ",
+        "loc_text": "A Ukrainian who used to be a feared enforcer in the Russian motherland, Vlad's been running his own extortion and crime racket in DC out of his local bakery for years. ",
+        "string_id": "heist_contact_vlad_description"
+    },
+    "heist_crojob1": {
+        "base_text": "The Bomb: Dockyard",
+        "loc_text": "The Bomb: Dockyard",
+        "string_id": "heist_crojob1"
+    },
+    "heist_crojob2": {
+        "base_text": "The Bomb: Forest",
+        "loc_text": "The Bomb: Forest",
+        "string_id": "heist_crojob2"
+    },
+    "heist_crojob3_hl": {
+        "base_text": "The Bomb: Forest",
+        "loc_text": "The Bomb: Forest",
+        "string_id": "heist_crojob3_hl"
+    },
+    "heist_dah": {
+        "base_text": "Diamond Heist",
+        "loc_text": "Diamond Heist",
+        "string_id": "heist_dah"
+    },
+    "heist_dah_crimenet": {
+        "base_text": "The Garnet Group Building houses a vault containing millions of dollars in diamonds. It's also full of high-tech security systems and trigger-happy guards; luckily for us there's a birthday party going on to keep them distracted.$NL;$NL;» Find and override two router boxes so that Bain can hack the security system$NL;» Find three laptops and acquire all pieces of the security code$NL;» Get the keycard from the CEOs son$NL;» Open the vault and steal the diamonds",
+        "loc_text": "The Garnet Group Building houses a vault containing millions of dollars in diamonds. It's also full of high-tech security systems and trigger-happy guards; luckily for us there's a birthday party going on to keep them distracted.$NL;$NL;» Find and override two router boxes so that Bain can hack the security system$NL;» Find three laptops and acquire all pieces of the security code$NL;» Get the keycard from the CEOs son$NL;» Open the vault and steal the diamonds",
+        "string_id": "heist_dah_crimenet"
+    },
+    "heist_dah_hl": {
+        "base_text": "Diamond Heist",
+        "loc_text": "Diamond Heist",
+        "string_id": "heist_dah_hl"
+    },
+    "heist_dark": {
+        "base_text": "Murky Station",
+        "loc_text": "Murky Station",
+        "string_id": "heist_dark"
+    },
+    "heist_dark_crimenet": {
+        "base_text": "To get our hands on the EMP bomb, we're gonna have to mess with Murkywater. They are transporting a bunch of goods via train, and will be making a scheduled stop at a hidden train yard. I would prefer to do it guns blazing, but that's too risky, yeah? So we need to this the stealthy way, lads.$NL;$NL;» Find the trains$NL;» Locate the EMP bomb parts$NL;» Get them out of there and escape",
+        "loc_text": "To get our hands on the EMP bomb, we're gonna have to mess with Murkywater. They are transporting a bunch of goods via train, and will be making a scheduled stop at a hidden train yard. I would prefer to do it guns blazing, but that's too risky, yeah? So we need to this the stealthy way, lads.$NL;$NL;» Find the trains$NL;» Locate the EMP bomb parts$NL;» Get them out of there and escape",
+        "string_id": "heist_dark_crimenet"
+    },
+    "heist_dark_hl": {
+        "base_text": "Murky Station",
+        "loc_text": "Murky Station",
+        "string_id": "heist_dark_hl"
+    },
+    "heist_des": {
+        "base_text": "Henry's Rock",
+        "loc_text": "Henry's Rock",
+        "string_id": "heist_des"
+    },
+    "heist_dinner": {
+        "base_text": "Slaughterhouse",
+        "loc_text": "Slaughterhouse",
+        "string_id": "heist_dinner"
+    },
+    "heist_dinner_hl": {
+        "base_text": "Slaughterhouse",
+        "loc_text": "Slaughterhouse",
+        "string_id": "heist_dinner_hl"
+    },
+    "heist_election_day": {
+        "base_text": "Election Day",
+        "loc_text": "Election Day",
+        "string_id": "heist_election_day"
+    },
+    "heist_election_day_1_hl": {
+        "base_text": "Right Track",
+        "loc_text": "Right Track",
+        "string_id": "heist_election_day_1_hl"
+    },
+    "heist_election_day_2_hl": {
+        "base_text": "Swing Vote",
+        "loc_text": "Swing Vote",
+        "string_id": "heist_election_day_2_hl"
+    },
+    "heist_election_day_3_hl": {
+        "base_text": "Breaking Ballot",
+        "loc_text": "Breaking Ballot",
+        "string_id": "heist_election_day_3_hl"
+    },
+    "heist_election_day_crimenet": {
+        "base_text": "Crime is an unsavoury line of work, but it's time you dipped your toes in some truly dirty business - politics. The Elephant wants you to help get his man Bob McKendrick into the Mayor's office.$NL;$NL;» Locate the voting machines$NL;» Hack the machines to swing the vote$NL;» Make sure no suspicion falls on The Elephant",
+        "loc_text": "Crime is an unsavoury line of work, but it's time you dipped your toes in some truly dirty business - politics. The Elephant wants you to help get his man Bob McKendrick into the Mayor's office.$NL;$NL;» Locate the voting machines$NL;» Hack the machines to swing the vote$NL;» Make sure no suspicion falls on The Elephant",
+        "string_id": "heist_election_day_crimenet"
+    },
+    "heist_escape_overpass_briefing": {
+        "base_text": "...Jesus they're right on top of you, prepare to get hit!",
+        "loc_text": "...Jesus they're right on top of you, prepare to get hit!",
+        "string_id": "heist_escape_overpass_briefing"
+    },
+    "heist_escape_overpass_hl": {
+        "base_text": "Overpass Escape",
+        "loc_text": "Overpass Escape",
+        "string_id": "heist_escape_overpass_hl"
+    },
+    "heist_family": {
+        "base_text": "Diamond Store",
+        "loc_text": "Diamond Store",
+        "string_id": "heist_family"
+    },
+    "heist_family_briefing": {
+        "base_text": "All the display cases in there are connected to an alarm. Disable the alarm and then steal the diamond jewelry. The escape driver is a bit jumpy so keep this quiet and methodical. Bag up everything. Let's get it all!",
+        "loc_text": "All the display cases in there are connected to an alarm. Disable the alarm and then steal the diamond jewelry. The escape driver is a bit jumpy so keep this quiet and methodical. Bag up everything. Let's get it all!",
+        "string_id": "heist_family_briefing"
+    },
+    "heist_family_crimenet": {
+        "base_text": "This is a high fashion jewelry store. Mostly diamonds in there. Bain wants a lot of bags. There is an alarm connected to the display cases. It will be a tough one.$NL;$NL;» Case the place carefully.$NL;» Check for guards, alarms and cameras$NL;» Fill your bags with diamond jewelry and get to the escape car$NL;",
+        "loc_text": "This is a high fashion jewelry store. Mostly diamonds in there. Bain wants a lot of bags. There is an alarm connected to the display cases. It will be a tough one.$NL;$NL;» Case the place carefully.$NL;» Check for guards, alarms and cameras$NL;» Fill your bags with diamond jewelry and get to the escape car$NL;",
+        "string_id": "heist_family_crimenet"
+    },
+    "heist_family_hl": {
+        "base_text": "Diamond Store",
+        "loc_text": "Diamond Store",
+        "string_id": "heist_family_hl"
+    },
+    "heist_fex": {
+        "base_text": "Buluc's Mansion",
+        "loc_text": "Buluc's Mansion",
+        "string_id": "heist_fex"
+    },
+    "heist_fex_briefing": {
+        "base_text": "OK you chops, we're going to run this heist for Vlad, even though our operations in DC are at a critical point. I'm sending you to take out Buluc where he feels the most safe- his island mansion off the Mexican coast. Now that the Coyopa's ties to the Dentist and the Kataru have gone to kek, Buluc is trying to broaden his contact network by hosting a masquerade party for dwankie American wannabe-gangsters. It's the perfect time to get to him, for sure. Accurate details of the place have been hard to come by, but I have been able to tap into the mansion's elaborate surveillance system, and... well... let's say \"bribed\" a couple of people for some intel. We're going in at sundown, but don't forget- Buluc has the Federales in his dirty pocket, so expect a heavy fight if you make a ruckus, yeah?",
+        "loc_text": "OK you chops, we're going to run this heist for Vlad, even though our operations in DC are at a critical point. I'm sending you to take out Buluc where he feels the most safe- his island mansion off the Mexican coast. Now that the Coyopa's ties to the Dentist and the Kataru have gone to kek, Buluc is trying to broaden his contact network by hosting a masquerade party for dwankie American wannabe-gangsters. It's the perfect time to get to him, for sure. Accurate details of the place have been hard to come by, but I have been able to tap into the mansion's elaborate surveillance system, and... well... let's say \"bribed\" a couple of people for some intel. We're going in at sundown, but don't forget- Buluc has the Federales in his dirty pocket, so expect a heavy fight if you make a ruckus, yeah?",
+        "string_id": "heist_fex_briefing"
+    },
+    "heist_fex_crimenet": {
+        "base_text": "Hey guys, Vlad needs your help again. My wife is pissed because that fucker Buluc, head of the Coyopa cartel, put my brother-in-law in prison. I need you to send a message to the underworld that no one bullshits Vlad and gets away with it. So, I want you to kill Buluc. Make him suffer, make it bloody. Make me real happy and I will owe you a favor, yes?$NL;$NL;»Infiltrate the Mansion$NL;»Break into Buluc's Office$NL;»Assassinate Buluc$NL;»Escape",
+        "loc_text": "Hey guys, Vlad needs your help again. My wife is pissed because that fucker Buluc, head of the Coyopa cartel, put my brother-in-law in prison. I need you to send a message to the underworld that no one bullshits Vlad and gets away with it. So, I want you to kill Buluc. Make him suffer, make it bloody. Make me real happy and I will owe you a favor, yes?$NL;$NL;»Infiltrate the Mansion$NL;»Break into Buluc's Office$NL;»Assassinate Buluc$NL;»Escape",
+        "string_id": "heist_fex_crimenet"
+    },
+    "heist_fex_hl": {
+        "base_text": "Buluc's Mansion",
+        "loc_text": "Buluc's Mansion",
+        "string_id": "heist_fex_hl"
+    },
+    "heist_firestarter": {
+        "base_text": "Firestarter",
+        "loc_text": "Firestarter",
+        "string_id": "heist_firestarter"
+    },
+    "heist_firestarter_1_hl": {
+        "base_text": "Airport",
+        "loc_text": "Airport",
+        "string_id": "heist_firestarter_1_hl"
+    },
+    "heist_firestarter_2_hl": {
+        "base_text": "FBI Server",
+        "loc_text": "FBI Server",
+        "string_id": "heist_firestarter_2_hl"
+    },
+    "heist_firestarter_3_hl": {
+        "base_text": "Trustee Bank",
+        "loc_text": "Trustee Bank",
+        "string_id": "heist_firestarter_3_hl"
+    },
+    "heist_firestarter_crimenet": {
+        "base_text": "Hector needs you in the war against the Mendoza cartel.$NL;$NL;» Intercept the Mendoza weapon shipment at the airport$NL;» Retrieve cartel data from the FBI offices$NL;» Burn down the bank holding Mendoza money",
+        "loc_text": "Hector needs you in the war against the Mendoza cartel.$NL;$NL;» Intercept the Mendoza weapon shipment at the airport$NL;» Retrieve cartel data from the FBI offices$NL;» Burn down the bank holding Mendoza money",
+        "string_id": "heist_firestarter_crimenet"
+    },
+    "heist_fish": {
+        "base_text": "The Yacht Heist",
+        "loc_text": "The Yacht Heist",
+        "string_id": "heist_fish"
+    },
+    "heist_fish_hl": {
+        "base_text": "The Yacht Heist",
+        "loc_text": "The Yacht Heist",
+        "string_id": "heist_fish_hl"
+    },
+    "heist_four_stores": {
+        "base_text": "Four Stores",
+        "loc_text": "Four Stores",
+        "string_id": "heist_four_stores"
+    },
+    "heist_framing_frame": {
+        "base_text": "Framing Frame",
+        "loc_text": "Framing Frame",
+        "string_id": "heist_framing_frame"
+    },
+    "heist_framing_frame_1_briefing": {
+        "base_text": "The senator loves to collect art - outsider art in particular. Lucky for us, the Capitol Art Gallery is hosting an exhibition this week. You need to take the marked paintings to the senator's apartment. They'll have cameras installed in them. Eyes on the inside will make your job easier, trust me.",
+        "loc_text": "The senator loves to collect art - outsider art in particular. Lucky for us, the Capitol Art Gallery is hosting an exhibition this week. You need to take the marked paintings to the senator's apartment. They'll have cameras installed in them. Eyes on the inside will make your job easier, trust me.",
+        "string_id": "heist_framing_frame_1_briefing"
+    },
+    "heist_framing_frame_1_hl": {
+        "base_text": "Art Gallery",
+        "loc_text": "Art Gallery",
+        "string_id": "heist_framing_frame_1_hl"
+    },
+    "heist_framing_frame_2_briefing": {
+        "base_text": "OK, the cameras are installed in the paintings. We're ready. The senator's men are jumpy but ready to deal with us. So let's deal. Money for art. I've set up the meeting location. You meet in an abandoned trainyard. Good luck.",
+        "loc_text": "OK, the cameras are installed in the paintings. We're ready. The senator's men are jumpy but ready to deal with us. So let's deal. Money for art. I've set up the meeting location. You meet in an abandoned trainyard. Good luck.",
+        "string_id": "heist_framing_frame_2_briefing"
+    },
+    "heist_framing_frame_2_hl": {
+        "base_text": "Train Trade",
+        "loc_text": "Train Trade",
+        "string_id": "heist_framing_frame_2_hl"
+    },
+    "heist_framing_frame_3_briefing": {
+        "base_text": "This is the senator's apartment. Nice neighborhood, high security though. He's already got the paintings hung, so our cameras are online and transmitting. You can tap the feed from the roof of the building, sorry we couldn't do better. Get into his hidden vault, take the gold, and leave a little coke there to finish the frame job. We can only get access to the vault with a password though, so find me some of his gadgets and I'll do the rest. Good luck.",
+        "loc_text": "This is the senator's apartment. Nice neighborhood, high security though. He's already got the paintings hung, so our cameras are online and transmitting. You can tap the feed from the roof of the building, sorry we couldn't do better. Get into his hidden vault, take the gold, and leave a little coke there to finish the frame job. We can only get access to the vault with a password though, so find me some of his gadgets and I'll do the rest. Good luck.",
+        "string_id": "heist_framing_frame_3_briefing"
+    },
+    "heist_framing_frame_3_hl": {
+        "base_text": "Framing",
+        "loc_text": "Framing",
+        "string_id": "heist_framing_frame_3_hl"
+    },
+    "heist_framing_frame_crimenet": {
+        "base_text": "The Elephant wants to frame a rival senator.$NL;$NL;» Steal art that the senator wants from the art gallery$NL;» Install cameras in the stolen art and make a deal$NL;» Infiltrate the senator's apartment and plant coke in his vault",
+        "loc_text": "The Elephant wants to frame a rival senator.$NL;$NL;» Steal art that the senator wants from the art gallery$NL;» Install cameras in the stolen art and make a deal$NL;» Infiltrate the senator's apartment and plant coke in his vault",
+        "string_id": "heist_framing_frame_crimenet"
+    },
+    "heist_friend": {
+        "base_text": "Scarface Mansion",
+        "loc_text": "Scarface Mansion",
+        "string_id": "heist_friend"
+    },
+    "heist_friend_hl": {
+        "base_text": "Scarface Mansion",
+        "loc_text": "Scarface Mansion",
+        "string_id": "heist_friend_hl"
+    },
+    "heist_gallery": {
+        "base_text": "Art Gallery",
+        "loc_text": "Art Gallery",
+        "string_id": "heist_gallery"
+    },
+    "heist_gallery_crimenet": {
+        "base_text": "Bain wants you to head back to the Art Gallery.$NL;$NL;» Case the place carefully.$NL;» Check for guards and cameras$NL;» Bag the marked out paintings and get to the escape van",
+        "loc_text": "Bain wants you to head back to the Art Gallery.$NL;$NL;» Case the place carefully.$NL;» Check for guards and cameras$NL;» Bag the marked out paintings and get to the escape van",
+        "string_id": "heist_gallery_crimenet"
+    },
+    "heist_glace": {
+        "base_text": "Green Bridge",
+        "loc_text": "Green Bridge",
+        "string_id": "heist_glace"
+    },
+    "heist_glace_hl": {
+        "base_text": "Green Bridge",
+        "loc_text": "Green Bridge",
+        "string_id": "heist_glace_hl"
+    },
+    "heist_haunted": {
+        "base_text": "Safe house Nightmare",
+        "loc_text": "Safe house Nightmare",
+        "string_id": "heist_haunted"
+    },
+    "heist_haunted_hl": {
+        "base_text": "Safe house Nightmare",
+        "loc_text": "Safe house Nightmare",
+        "string_id": "heist_haunted_hl"
+    },
+    "heist_hox": {
+        "base_text": "Hoxton Breakout",
+        "loc_text": "Hoxton Breakout",
+        "string_id": "heist_hox"
+    },
+    "heist_hox_1_hl": {
+        "base_text": "The Breakout",
+        "loc_text": "The Breakout",
+        "string_id": "heist_hox_1_hl"
+    },
+    "heist_hox_2_hl": {
+        "base_text": "The Search",
+        "loc_text": "The Search",
+        "string_id": "heist_hox_2_hl"
+    },
+    "heist_hox_3": {
+        "base_text": "Hoxton Revenge",
+        "loc_text": "Hoxton Revenge",
+        "string_id": "heist_hox_3"
+    },
+    "heist_hox_3_hl": {
+        "base_text": "The Revenge",
+        "loc_text": "The Revenge",
+        "string_id": "heist_hox_3_hl"
+    },
+    "heist_hvh": {
+        "base_text": "Cursed Kill Room",
+        "loc_text": "Cursed Kill Room",
+        "string_id": "heist_hvh"
+    },
+    "heist_jewelry_store": {
+        "base_text": "Jewelry Store",
+        "loc_text": "Jewelry Store",
+        "string_id": "heist_jewelry_store"
+    },
+    "heist_jewelry_store_crimenet": {
+        "base_text": "Bain wants you to do a classic jewelry heist. Get in, grab the loot, and get out.$NL;$NL;» Locate the jewelry store$NL;» Check the back office for a safe$NL;» Bag and get the jewelry to the escape car$NL;» Steal any other valuables in the store",
+        "loc_text": "Bain wants you to do a classic jewelry heist. Get in, grab the loot, and get out.$NL;$NL;» Locate the jewelry store$NL;» Check the back office for a safe$NL;» Bag and get the jewelry to the escape car$NL;» Steal any other valuables in the store",
+        "string_id": "heist_jewelry_store_crimenet"
+    },
+    "heist_jewelry_store_hl": {
+        "base_text": "Jewelry Store",
+        "loc_text": "Jewelry Store",
+        "string_id": "heist_jewelry_store_hl"
+    },
+    "heist_jolly": {
+        "base_text": "Aftershock",
+        "loc_text": "Aftershock",
+        "string_id": "heist_jolly"
+    },
+    "heist_kenaz_full": {
+        "base_text": "Golden Grin Casino",
+        "loc_text": "Golden Grin Casino",
+        "string_id": "heist_kenaz_full"
+    },
+    "heist_kenaz_hl": {
+        "base_text": "Golden Grin Casino",
+        "loc_text": "Golden Grin Casino",
+        "string_id": "heist_kenaz_hl"
+    },
+    "heist_kosugi": {
+        "base_text": "Shadow Raid",
+        "loc_text": "Shadow Raid",
+        "string_id": "heist_kosugi"
+    },
+    "heist_kosugi_briefing": {
+        "base_text": "This is all about stealth. Gage wants you to silently enter this depot, grab what you can and get out. The important part? Do NOT set off the alarm. If you do, I'm pulling you out.$NL;$NL;This warehouse is Murkywater. Their business cards say 'private security' but they're really just a private army of mercenaries and looters. This warehouse is bonded, and Gage suspects it's full of stuff shipped back from Iraq, Afghanistan and wherever else those corn-fed crooks flex their muscle. ",
+        "loc_text": "This is all about stealth. Gage wants you to silently enter this depot, grab what you can and get out. The important part? Do NOT set off the alarm. If you do, I'm pulling you out.$NL;$NL;This warehouse is Murkywater. Their business cards say 'private security' but they're really just a private army of mercenaries and looters. This warehouse is bonded, and Gage suspects it's full of stuff shipped back from Iraq, Afghanistan and wherever else those corn-fed crooks flex their muscle. ",
+        "string_id": "heist_kosugi_briefing"
+    },
+    "heist_kosugi_crimenet": {
+        "base_text": "Murkywater has a bonded warehouse down at the old wharf. See what sort of crap they're shipping back.$NL;$NL;» Break into the warehouse undetected$NL;» Steal anything valuable you can find$NL;» Remember, there is no plan B$NL;» Escape with the loot",
+        "loc_text": "Murkywater has a bonded warehouse down at the old wharf. See what sort of crap they're shipping back.$NL;$NL;» Break into the warehouse undetected$NL;» Steal anything valuable you can find$NL;» Remember, there is no plan B$NL;» Escape with the loot",
+        "string_id": "heist_kosugi_crimenet"
+    },
+    "heist_kosugi_hl": {
+        "base_text": "Shadow Raid",
+        "loc_text": "Shadow Raid",
+        "string_id": "heist_kosugi_hl"
+    },
+    "heist_mad": {
+        "base_text": "Boiling Point",
+        "loc_text": "Boiling Point",
+        "string_id": "heist_mad"
+    },
+    "heist_mad_crimenet": {
+        "base_text": "This dirty Russian organization is conducting some very disturbing experiments from a hidden laboratory in Russia. You won't believe what shit they're doing over there. We need to fuckin' stop Akan from getting his hands on the data, yeah? It's do or die, boys and girls.$NL;$NL;» Enter the compound$NL;» Gain access to the lab$NL;» Obtain the data$NL;» Escape",
+        "loc_text": "This dirty Russian organization is conducting some very disturbing experiments from a hidden laboratory in Russia. You won't believe what shit they're doing over there. We need to fuckin' stop Akan from getting his hands on the data, yeah? It's do or die, boys and girls.$NL;$NL;» Enter the compound$NL;» Gain access to the lab$NL;» Obtain the data$NL;» Escape",
+        "string_id": "heist_mad_crimenet"
+    },
+    "heist_mad_hl": {
+        "base_text": "Boiling Point",
+        "loc_text": "Boiling Point",
+        "string_id": "heist_mad_hl"
+    },
+    "heist_mallcrasher": {
+        "base_text": "Mallcrasher",
+        "loc_text": "Mallcrasher",
+        "string_id": "heist_mallcrasher"
+    },
+    "heist_man": {
+        "base_text": "Undercover",
+        "loc_text": "Undercover",
+        "string_id": "heist_man"
+    },
+    "heist_man_briefing": {
+        "base_text": "The Taxman thought he was clever making a deal with a big corporation, but the information leaked, and now bigger sharks want in - all in. We have a complete, run-down building to ourselves, overlooking the deal. We've got a set-up installed. Alex will help with the crane. Scare the Taxman into his limo, shake him up, and he'll be sure to give us the server and the codes. When it's about $25,000,000, anything goes.",
+        "loc_text": "The Taxman thought he was clever making a deal with a big corporation, but the information leaked, and now bigger sharks want in - all in. We have a complete, run-down building to ourselves, overlooking the deal. We've got a set-up installed. Alex will help with the crane. Scare the Taxman into his limo, shake him up, and he'll be sure to give us the server and the codes. When it's about $25,000,000, anything goes.",
+        "string_id": "heist_man_briefing"
+    },
+    "heist_man_crimenet": {
+        "base_text": "The Taxman carries a server weighting far more than just a fortune. Connect me with the computer inside the building and I can transfer the data easily. Let's show him we mean business.$NL;$NL;» Get the Taxman's server$NL;» Extract the codes$NL;» Hack and transfer the data",
+        "loc_text": "The Taxman carries a server weighting far more than just a fortune. Connect me with the computer inside the building and I can transfer the data easily. Let's show him we mean business.$NL;$NL;» Get the Taxman's server$NL;» Extract the codes$NL;» Hack and transfer the data",
+        "string_id": "heist_man_crimenet"
+    },
+    "heist_man_hl": {
+        "base_text": "Undercover",
+        "loc_text": "Undercover",
+        "string_id": "heist_man_hl"
+    },
+    "heist_mex": {
+        "base_text": "Border Crossing",
+        "loc_text": "Border Crossing",
+        "string_id": "heist_mex"
+    },
+    "heist_mex_briefing": {
+        "base_text": "Overkill has a club house right by the border in Miracle Valley, Arizona, with a hidden underground tunnel leading into a compound in Mexico owned by the Coyopas. The Murky's have arranged an airplane that will transport their goods, but I don't know to where. You're going to steal that plane. You gotta get into the Overkill facility and find the tunnel to Mexico, then find the goods before you get out with the plane. If you can do it quietly, it would be a nice humiliation for the Murky's, but go ahead and shoot up the place if you want to.",
+        "loc_text": "Overkill has a club house right by the border in Miracle Valley, Arizona, with a hidden underground tunnel leading into a compound in Mexico owned by the Coyopas. The Murky's have arranged an airplane that will transport their goods, but I don't know to where. You're going to steal that plane. You gotta get into the Overkill facility and find the tunnel to Mexico, then find the goods before you get out with the plane. If you can do it quietly, it would be a nice humiliation for the Murky's, but go ahead and shoot up the place if you want to.",
+        "string_id": "heist_mex_briefing"
+    },
+    "heist_mex_cooking": {
+        "base_text": "Border Crystals",
+        "loc_text": "Border Crystals",
+        "string_id": "heist_mex_cooking"
+    },
+    "heist_mex_crimenet": {
+        "base_text": "Valuable Murkywater assets are being moved off the continent through Mexico using a hidden tunnel by the Overkill MC and Coyopa cartel. If we move quickly, we can take those resources right from under their noses while the Dentist is occupied with Bain, and deal them a crippling blow.$NL;$NL;» Infiltrate Overkill MC's facility in Arizona$NL;» Find the tunnel to the Coyopa compound in Mexico$NL;» Steal the Murkywater loot and escape",
+        "loc_text": "Valuable Murkywater assets are being moved off the continent through Mexico using a hidden tunnel by the Overkill MC and Coyopa cartel. If we move quickly, we can take those resources right from under their noses while the Dentist is occupied with Bain, and deal them a crippling blow.$NL;$NL;» Infiltrate Overkill MC's facility in Arizona$NL;» Find the tunnel to the Coyopa compound in Mexico$NL;» Steal the Murkywater loot and escape",
+        "string_id": "heist_mex_crimenet"
+    },
+    "heist_mex_hl": {
+        "base_text": "Southern Border",
+        "loc_text": "Southern Border",
+        "string_id": "heist_mex_hl"
+    },
+    "heist_mia": {
+        "base_text": "Hotline Miami",
+        "loc_text": "Hotline Miami",
+        "string_id": "heist_mia"
+    },
+    "heist_mia_1_hl": {
+        "base_text": "Hotline Miami",
+        "loc_text": "Hotline Miami",
+        "string_id": "heist_mia_1_hl"
+    },
+    "heist_mia_2_hl": {
+        "base_text": "Four Floors",
+        "loc_text": "Four Floors",
+        "string_id": "heist_mia_2_hl"
+    },
+    "heist_moon": {
+        "base_text": "Stealing Xmas",
+        "loc_text": "Stealing Xmas",
+        "string_id": "heist_moon"
+    },
+    "heist_moon_hl": {
+        "base_text": "Stealing Xmas",
+        "loc_text": "Stealing Xmas",
+        "string_id": "heist_moon_hl"
+    },
+    "heist_mus": {
+        "base_text": "The Diamond",
+        "loc_text": "The Diamond",
+        "string_id": "heist_mus"
+    },
+    "heist_mus_crimenet": {
+        "base_text": "The Diamond is historic. It is also extremely valuable. The Dentist is one of the few people with the connections to move it. You will retrieve it for an anonymous individual who he represents.$NL;$NL;» Get inside the McKendrick museum$NL;» Find where the Diamond is kept$NL;» Steal the Diamond$NL;» Steal any other artifacts you find",
+        "loc_text": "The Diamond is historic. It is also extremely valuable. The Dentist is one of the few people with the connections to move it. You will retrieve it for an anonymous individual who he represents.$NL;$NL;» Get inside the McKendrick museum$NL;» Find where the Diamond is kept$NL;» Steal the Diamond$NL;» Steal any other artifacts you find",
+        "string_id": "heist_mus_crimenet"
+    },
+    "heist_mus_hl": {
+        "base_text": "The Diamond",
+        "loc_text": "The Diamond",
+        "string_id": "heist_mus_hl"
+    },
+    "heist_nail": {
+        "base_text": "Lab Rats",
+        "loc_text": "Lab Rats",
+        "string_id": "heist_nail"
+    },
+    "heist_nightclub": {
+        "base_text": "Nightclub",
+        "loc_text": "Nightclub",
+        "string_id": "heist_nightclub"
+    },
+    "heist_nightclub_hl": {
+        "base_text": "Nightclub",
+        "loc_text": "Nightclub",
+        "string_id": "heist_nightclub_hl"
+    },
+    "heist_nmh": {
+        "base_text": "No Mercy",
+        "loc_text": "No Mercy",
+        "string_id": "heist_nmh"
+    },
+    "heist_nmh_briefing": {
+        "base_text": "Our client needs a blood sample from a patient being kept in the isolation ward of Mercy Hospital. You gotta go in there, take out the surveillance, subdue the civilians and get me into the patient database so I can ID the guy. With the low security in this place, it should be a nice, clean job. I'll get you out via the roof when you're done. This job is a little shady, brokered through a third party- got some serious shadow-company military industrial vibes, but worth the risk. The payday is something we're gonna need in the future, plus a nice cash bonus.",
+        "loc_text": "Our client needs a blood sample from a patient being kept in the isolation ward of Mercy Hospital. You gotta go in there, take out the surveillance, subdue the civilians and get me into the patient database so I can ID the guy. With the low security in this place, it should be a nice, clean job. I'll get you out via the roof when you're done. This job is a little shady, brokered through a third party- got some serious shadow-company military industrial vibes, but worth the risk. The payday is something we're gonna need in the future, plus a nice cash bonus.",
+        "string_id": "heist_nmh_briefing"
+    },
+    "heist_nmh_crimenet": {
+        "base_text": "Bain only has a couple more days. Those Kataru motherfuckers saw fit to shoot him full of virus. Same fucking stuff we stole from Mercy Hospital a few years ago. Whoever we got it for, they sold it to Murkywater and now it's killing him. Knew from the start that was a bad job. Bain did too, but he wanted that Cagliostro manuscript. That fucking book. Should have told him to fuck off, but he said we really needed it for something, and to be honest,  we'd never be where we are without it.$NL;$NL;»Keep the civilians under control$NL;»Find the correct patient$NL;»Escape with two validated blood samples",
+        "loc_text": "Bain only has a couple more days. Those Kataru motherfuckers saw fit to shoot him full of virus. Same fucking stuff we stole from Mercy Hospital a few years ago. Whoever we got it for, they sold it to Murkywater and now it's killing him. Knew from the start that was a bad job. Bain did too, but he wanted that Cagliostro manuscript. That fucking book. Should have told him to fuck off, but he said we really needed it for something, and to be honest,  we'd never be where we are without it.$NL;$NL;»Keep the civilians under control$NL;»Find the correct patient$NL;»Escape with two validated blood samples",
+        "string_id": "heist_nmh_crimenet"
+    },
+    "heist_nmh_hl": {
+        "base_text": "No Mercy (Flashback)",
+        "loc_text": "No Mercy (Flashback)",
+        "string_id": "heist_nmh_hl"
+    },
+    "heist_pal": {
+        "base_text": "Counterfeit",
+        "loc_text": "Counterfeit",
+        "string_id": "heist_pal"
+    },
+    "heist_pal_crimenet": {
+        "base_text": "Pack your bags, gang. This one is south of the Mason-Dixie. We're going after Mitchell and Wilson - couple of counterfeiters down in Pensacola. Running a printing operation out of his basement. It's a discreet operation, and this guy's work is solid, so he's making serious bank. Let's grab a piece!$NL;$NL;» Meet up with Mitchell$NL;» Breach into the basement$NL;» Extract the counterfeit plates and escape",
+        "loc_text": "Pack your bags, gang. This one is south of the Mason-Dixie. We're going after Mitchell and Wilson - couple of counterfeiters down in Pensacola. Running a printing operation out of his basement. It's a discreet operation, and this guy's work is solid, so he's making serious bank. Let's grab a piece!$NL;$NL;» Meet up with Mitchell$NL;» Breach into the basement$NL;» Extract the counterfeit plates and escape",
+        "string_id": "heist_pal_crimenet"
+    },
+    "heist_pal_hl": {
+        "base_text": "Counterfeit",
+        "loc_text": "Counterfeit",
+        "string_id": "heist_pal_hl"
+    },
+    "heist_pbr": {
+        "base_text": "Beneath the Mountain",
+        "loc_text": "Beneath the Mountain",
+        "string_id": "heist_pbr"
+    },
+    "heist_pbr2": {
+        "base_text": "Birth of Sky",
+        "loc_text": "Birth of Sky",
+        "string_id": "heist_pbr2"
+    },
+    "heist_pbr2_crimenet": {
+        "base_text": "The target is a Murkywater transport plane. It is carrying pallets of currency. You will be smuggled aboard. Drop the money from the plane and recover it.$NL;$NL;» Emerge into the cargo compartment$NL;» Open the cargo doors and release the money pallets$NL;» Skydive to the surface$NL;» Recover the money pallets in the town and signal Locke$NL;» Descend into the sewers and escape",
+        "loc_text": "The target is a Murkywater transport plane. It is carrying pallets of currency. You will be smuggled aboard. Drop the money from the plane and recover it.$NL;$NL;» Emerge into the cargo compartment$NL;» Open the cargo doors and release the money pallets$NL;» Skydive to the surface$NL;» Recover the money pallets in the town and signal Locke$NL;» Descend into the sewers and escape",
+        "string_id": "heist_pbr2_crimenet"
+    },
+    "heist_pbr_hl": {
+        "base_text": "Beneath the Mountain",
+        "loc_text": "Beneath the Mountain",
+        "string_id": "heist_pbr_hl"
+    },
+    "heist_peta": {
+        "base_text": "Goat Simulator",
+        "loc_text": "Goat Simulator",
+        "string_id": "heist_peta"
+    },
+    "heist_peta_hl": {
+        "base_text": "This was not the deal",
+        "loc_text": "This was not the deal",
+        "string_id": "heist_peta_hl"
+    },
+    "heist_pex": {
+        "base_text": "Breakfast in Tijuana",
+        "loc_text": "Breakfast in Tijuana",
+        "string_id": "heist_pex"
+    },
+    "heist_pex_briefing": {
+        "base_text": "Hajrudin is being held in the outskirts of the city. But Tijuana's murder rate is infamous, and the police station security level reflects that. It's a blerrie fortress! This won't be easy, but if anyone can do it, it's you guys. Good luck!",
+        "loc_text": "Hajrudin is being held in the outskirts of the city. But Tijuana's murder rate is infamous, and the police station security level reflects that. It's a blerrie fortress! This won't be easy, but if anyone can do it, it's you guys. Good luck!",
+        "string_id": "heist_pex_briefing"
+    },
+    "heist_pex_crimenet": {
+        "base_text": "Vlad's brother-in-law, Hajrudin, has been captured by the Mexican kerels. Apparently it happened right after that bank job we did. They moved him to a police station in Tijuana, and it seems they're also holding evidence that can put him away in prison for a long time. We need to get him out.$NL;$NL;» Find a way inside the police station$NL;» Destroy the evidence$NL;» Locate and free the prisoner$NL;» Escape",
+        "loc_text": "Vlad's brother-in-law, Hajrudin, has been captured by the Mexican kerels. Apparently it happened right after that bank job we did. They moved him to a police station in Tijuana, and it seems they're also holding evidence that can put him away in prison for a long time. We need to get him out.$NL;$NL;» Find a way inside the police station$NL;» Destroy the evidence$NL;» Locate and free the prisoner$NL;» Escape",
+        "string_id": "heist_pex_crimenet"
+    },
+    "heist_pex_hl": {
+        "base_text": "Breakfast in Tijuana",
+        "loc_text": "Breakfast in Tijuana",
+        "string_id": "heist_pex_hl"
+    },
+    "heist_pines": {
+        "base_text": "White Xmas",
+        "loc_text": "White Xmas",
+        "string_id": "heist_pines"
+    },
+    "heist_rat": {
+        "base_text": "Cook Off",
+        "loc_text": "Cook Off",
+        "string_id": "heist_rat"
+    },
+    "heist_rat_briefing": {
+        "base_text": "This is a simple job, but that doesn't mean it will be easy. We're going to head out to the forest. You remember the place. We did some work for Hector out there. Anyway, I scoped the place out and it is still intact. So, we're headed there to cook up as much meth as we can. You can stay as long as you want. If you run out of supplies, I'll get more flown in. Should be easy money.",
+        "loc_text": "This is a simple job, but that doesn't mean it will be easy. We're going to head out to the forest. You remember the place. We did some work for Hector out there. Anyway, I scoped the place out and it is still intact. So, we're headed there to cook up as much meth as we can. You can stay as long as you want. If you run out of supplies, I'll get more flown in. Should be easy money.",
+        "string_id": "heist_rat_briefing"
+    },
+    "heist_rat_crimenet": {
+        "base_text": "We're headed back to cook in the meth lab in the forest. None of Hector's shit this time. This is just for profit. $NL;$NL;» Locate the meth lab $NL;» Cook meth $NL;» Secure the loot and escape.",
+        "loc_text": "We're headed back to cook in the meth lab in the forest. None of Hector's shit this time. This is just for profit. $NL;$NL;» Locate the meth lab $NL;» Cook meth $NL;» Secure the loot and escape.",
+        "string_id": "heist_rat_crimenet"
+    },
+    "heist_rat_hl": {
+        "base_text": "Cook Off",
+        "loc_text": "Cook Off",
+        "string_id": "heist_rat_hl"
+    },
+    "heist_red2": {
+        "base_text": "First World Bank",
+        "loc_text": "First World Bank",
+        "string_id": "heist_red2"
+    },
+    "heist_red2_hl": {
+        "base_text": "First World Bank",
+        "loc_text": "First World Bank",
+        "string_id": "heist_red2_hl"
+    },
+    "heist_roberts": {
+        "base_text": "GO Bank",
+        "loc_text": "GO Bank",
+        "string_id": "heist_roberts"
+    },
+    "heist_roberts_briefing": {
+        "base_text": "We got a bank here. Not a big branch but I've learned the vault is temporarily holding stacks of cash in transit. Foreign exchange notes.$NL;$NL;Anyway, you know how to do it - your way. Sneak in silent, or unleash hell. Either way, I got a little idea for how to lift the money out of there. You'll see what I mean. I think you'll like it.",
+        "loc_text": "We got a bank here. Not a big branch but I've learned the vault is temporarily holding stacks of cash in transit. Foreign exchange notes.$NL;$NL;Anyway, you know how to do it - your way. Sneak in silent, or unleash hell. Either way, I got a little idea for how to lift the money out of there. You'll see what I mean. I think you'll like it.",
+        "string_id": "heist_roberts_briefing"
+    },
+    "heist_roberts_crimenet": {
+        "base_text": "This is a classic bank job. Break the vault, empty the deposit boxes and get the loot out. Simple. Bain's intel says this branch has the lowest hit-rate in the country. It's time to change that.$NL;$NL;» Search the environment for keycards. Two are needed for the vault$NL;» Failing that, use a drill on the vault$NL;» Crack open the deposit boxes$NL;» Assemble the skyhook$NL;» Get the money out",
+        "loc_text": "This is a classic bank job. Break the vault, empty the deposit boxes and get the loot out. Simple. Bain's intel says this branch has the lowest hit-rate in the country. It's time to change that.$NL;$NL;» Search the environment for keycards. Two are needed for the vault$NL;» Failing that, use a drill on the vault$NL;» Crack open the deposit boxes$NL;» Assemble the skyhook$NL;» Get the money out",
+        "string_id": "heist_roberts_crimenet"
+    },
+    "heist_roberts_hl": {
+        "base_text": "GO Bank",
+        "loc_text": "GO Bank",
+        "string_id": "heist_roberts_hl"
+    },
+    "heist_run": {
+        "base_text": "Heat Street",
+        "loc_text": "Heat Street",
+        "string_id": "heist_run"
+    },
+    "heist_run_hl": {
+        "base_text": "Heat Street",
+        "loc_text": "Heat Street",
+        "string_id": "heist_run_hl"
+    },
+    "heist_rvd": {
+        "base_text": "Reservoir Dogs Heist",
+        "loc_text": "Reservoir Dogs Heist",
+        "string_id": "heist_rvd"
+    },
+    "heist_rvd1_hl": {
+        "base_text": "Highland Mortuary",
+        "loc_text": "Highland Mortuary",
+        "string_id": "heist_rvd1_hl"
+    },
+    "heist_rvd_crimenet": {
+        "base_text": "Bain has got a job available out west. The Cabot crime family in L.A. needs help hitting a jewelry store for a haul of diamonds. It's an easy walk-in-crack-vault-get-out sort of deal, with a meetup afterward in an old mortuary warehouse.$NL;$NL;» Meet up with Cabot's people outside the store$NL;» Break into the vault and steal the diamonds$NL;» Rendezvous with Cabot's people at the warehouse by Highland Mortuary$NL;» Gather the diamonds at the back of the warehouse$NL;» Wait for Twitch to arrive with the escape vehicle",
+        "loc_text": "Bain has got a job available out west. The Cabot crime family in L.A. needs help hitting a jewelry store for a haul of diamonds. It's an easy walk-in-crack-vault-get-out sort of deal, with a meetup afterward in an old mortuary warehouse.$NL;$NL;» Meet up with Cabot's people outside the store$NL;» Break into the vault and steal the diamonds$NL;» Rendezvous with Cabot's people at the warehouse by Highland Mortuary$NL;» Gather the diamonds at the back of the warehouse$NL;» Wait for Twitch to arrive with the escape vehicle",
+        "string_id": "heist_rvd_crimenet"
+    },
+    "heist_sah": {
+        "base_text": "Shacklethorne Auction",
+        "loc_text": "Shacklethorne Auction",
+        "string_id": "heist_sah"
+    },
+    "heist_sah_hl": {
+        "base_text": "Shacklethorne Auction",
+        "loc_text": "Shacklethorne Auction",
+        "string_id": "heist_sah_hl"
+    },
+    "heist_short1": {
+        "base_text": "Flash Drive - Stealth",
+        "loc_text": "Flash Drive - Stealth",
+        "string_id": "heist_short1"
+    },
+    "heist_short1_stage1_briefing": {
+        "base_text": "Dallas, old friend, I'm glad to have you back after two years. Now you already know I'm a thorough man, so it should come as no surprise that I want to get rid of any ring rust that might exist. Follow my instructions just like old times and this will be a walk in the park. We're after some access codes that we will be needing later, but we need to make it look like nothing but a simple robbery. You're doing this in the quiet, so dress appropriately.",
+        "loc_text": "Dallas, old friend, I'm glad to have you back after two years. Now you already know I'm a thorough man, so it should come as no surprise that I want to get rid of any ring rust that might exist. Follow my instructions just like old times and this will be a walk in the park. We're after some access codes that we will be needing later, but we need to make it look like nothing but a simple robbery. You're doing this in the quiet, so dress appropriately.",
+        "string_id": "heist_short1_stage1_briefing"
+    },
+    "heist_short1_stage1_hl": {
+        "base_text": "Stealth - Flash Drive",
+        "loc_text": "Stealth - Flash Drive",
+        "string_id": "heist_short1_stage1_hl"
+    },
+    "heist_short1_stage2_briefing": {
+        "base_text": "All right, Dallas. It's time to use those access codes we stole last night. Find a way inside the building - access the Police database and delete all the intel they have on Crime.Net. This won't be a walk in the park, so show me you still got what it takes.",
+        "loc_text": "All right, Dallas. It's time to use those access codes we stole last night. Find a way inside the building - access the Police database and delete all the intel they have on Crime.Net. This won't be a walk in the park, so show me you still got what it takes.",
+        "string_id": "heist_short1_stage2_briefing"
+    },
+    "heist_short1_stage2_hl": {
+        "base_text": "Stealth  - Erasing History",
+        "loc_text": "Stealth  - Erasing History",
+        "string_id": "heist_short1_stage2_hl"
+    },
+    "heist_short2": {
+        "base_text": "Get The Coke - Loud",
+        "loc_text": "Get The Coke - Loud",
+        "string_id": "heist_short2"
+    },
+    "heist_short2_crimenet": {
+        "base_text": "This string is empty",
+        "loc_text": "This string is empty",
+        "string_id": "heist_short2_crimenet"
+    },
+    "heist_short2_stage1_briefing": {
+        "base_text": "Okay, Dallas. It's been two years since we worked together, and I need to see that you still got what it takes. We'll start with something simple, all right? An acquaintance of mine recently got robbed on a cocaine deal by some low-life mobster. I need to you to break into his night club and see if you can find the stolen cocaine and get it back. Easy, right? ",
+        "loc_text": "Okay, Dallas. It's been two years since we worked together, and I need to see that you still got what it takes. We'll start with something simple, all right? An acquaintance of mine recently got robbed on a cocaine deal by some low-life mobster. I need to you to break into his night club and see if you can find the stolen cocaine and get it back. Easy, right? ",
+        "string_id": "heist_short2_stage1_briefing"
+    },
+    "heist_short2_stage1_hl": {
+        "base_text": "Loud - Get The Coke",
+        "loc_text": "Loud - Get The Coke",
+        "string_id": "heist_short2_stage1_hl"
+    },
+    "heist_shoutout_raid": {
+        "base_text": "Meltdown",
+        "loc_text": "Meltdown",
+        "string_id": "heist_shoutout_raid"
+    },
+    "heist_skm_arena": {
+        "base_text": "The Alesso Heist",
+        "loc_text": "The Alesso Heist",
+        "string_id": "heist_skm_arena"
+    },
+    "heist_skm_arena_h1": {
+        "base_text": "The Alesso Heist",
+        "loc_text": "The Alesso Heist",
+        "string_id": "heist_skm_arena_h1"
+    },
+    "heist_skm_bex": {
+        "base_text": "San Martín Bank",
+        "loc_text": "San Martín Bank",
+        "string_id": "heist_skm_bex"
+    },
+    "heist_skm_bex_h1": {
+        "base_text": "San Martín Bank",
+        "loc_text": "San Martín Bank",
+        "string_id": "heist_skm_bex_h1"
+    },
+    "heist_skm_big2": {
+        "base_text": "The Big Bank",
+        "loc_text": "The Big Bank",
+        "string_id": "heist_skm_big2"
+    },
+    "heist_skm_big2_h1": {
+        "base_text": "The Big Bank",
+        "loc_text": "The Big Bank",
+        "string_id": "heist_skm_big2_h1"
+    },
+    "heist_skm_cas": {
+        "base_text": "Golden Grin Casino",
+        "loc_text": "Golden Grin Casino",
+        "string_id": "heist_skm_cas"
+    },
+    "heist_skm_mallcrasher": {
+        "base_text": "Mallcrasher",
+        "loc_text": "Mallcrasher",
+        "string_id": "heist_skm_mallcrasher"
+    },
+    "heist_skm_mallcrasher_h1": {
+        "base_text": "Mallcrasher",
+        "loc_text": "Mallcrasher",
+        "string_id": "heist_skm_mallcrasher_h1"
+    },
+    "heist_skm_mus": {
+        "base_text": "The Diamond",
+        "loc_text": "The Diamond",
+        "string_id": "heist_skm_mus"
+    },
+    "heist_skm_mus_h1": {
+        "base_text": "The Diamond",
+        "loc_text": "The Diamond",
+        "string_id": "heist_skm_mus_h1"
+    },
+    "heist_skm_random_briefing": {
+        "base_text": "OK, friends. It's time for us to branch out a little and secure some more paths of revenue for a rainy day. The kerels in this town are well-known to shell out rather handsome payments during hostage negotiations and we're going to try and exploit that little fact. Now, they're not going to pay out the juicy sums right away, so you gotta hold out and be patient as long as possible while I try to squeeze them for more. And remember, I won't able to negotiate both a nice big score and your release, so don't get caught, yeah?",
+        "loc_text": "OK, friends. It's time for us to branch out a little and secure some more paths of revenue for a rainy day. The kerels in this town are well-known to shell out rather handsome payments during hostage negotiations and we're going to try and exploit that little fact. Now, they're not going to pay out the juicy sums right away, so you gotta hold out and be patient as long as possible while I try to squeeze them for more. And remember, I won't able to negotiate both a nice big score and your release, so don't get caught, yeah?",
+        "string_id": "heist_skm_random_briefing"
+    },
+    "heist_skm_red2": {
+        "base_text": "First World Bank",
+        "loc_text": "First World Bank",
+        "string_id": "heist_skm_red2"
+    },
+    "heist_skm_red2_h1": {
+        "base_text": "First World Bank",
+        "loc_text": "First World Bank",
+        "string_id": "heist_skm_red2_h1"
+    },
+    "heist_skm_run": {
+        "base_text": "Heat Street",
+        "loc_text": "Heat Street",
+        "string_id": "heist_skm_run"
+    },
+    "heist_skm_watchdogs_stage2": {
+        "base_text": "Boat Load",
+        "loc_text": "Boat Load",
+        "string_id": "heist_skm_watchdogs_stage2"
+    },
+    "heist_skm_watchdogs_stage2_h1": {
+        "base_text": "Boat Load",
+        "loc_text": "Boat Load",
+        "string_id": "heist_skm_watchdogs_stage2_h1"
+    },
+    "heist_spa": {
+        "base_text": "Brooklyn 10-10",
+        "loc_text": "Brooklyn 10-10",
+        "string_id": "heist_spa"
+    },
+    "heist_spa_hl": {
+        "base_text": "Brooklyn 10-10",
+        "loc_text": "Brooklyn 10-10",
+        "string_id": "heist_spa_hl"
+    },
+    "heist_tag": {
+        "base_text": "Breakin' Feds",
+        "loc_text": "Breakin' Feds",
+        "string_id": "heist_tag"
+    },
+    "heist_tag_hl": {
+        "base_text": "Breakin' Feds",
+        "loc_text": "Breakin' Feds",
+        "string_id": "heist_tag_hl"
+    },
+    "heist_ukrainian_job": {
+        "base_text": "Ukrainian Job",
+        "loc_text": "Ukrainian Job",
+        "string_id": "heist_ukrainian_job"
+    },
+    "heist_ukrainian_job_hl": {
+        "base_text": "Ukrainian Job",
+        "loc_text": "Ukrainian Job",
+        "string_id": "heist_ukrainian_job_hl"
+    },
+    "heist_vit": {
+        "base_text": "The White House",
+        "loc_text": "The White House",
+        "string_id": "heist_vit"
+    },
+    "heist_vit_hl": {
+        "base_text": "The White House",
+        "loc_text": "The White House",
+        "string_id": "heist_vit_hl"
+    },
+    "heist_watchdogs": {
+        "base_text": "Watchdogs",
+        "loc_text": "Watchdogs",
+        "string_id": "heist_watchdogs"
+    },
+    "heist_watchdogs_1_hl": {
+        "base_text": "Truck Load",
+        "loc_text": "Truck Load",
+        "string_id": "heist_watchdogs_1_hl"
+    },
+    "heist_watchdogs_crimenet": {
+        "base_text": "Hector needs watchdogs for transporting cocaine.$NL;$NL;» Guard the cocaine in the truck$NL;» Adapt to new situations$NL;» Reach the harbor$NL;» Deliver the shipment to boat driver",
+        "loc_text": "Hector needs watchdogs for transporting cocaine.$NL;$NL;» Guard the cocaine in the truck$NL;» Adapt to new situations$NL;» Reach the harbor$NL;» Deliver the shipment to boat driver",
+        "string_id": "heist_watchdogs_crimenet"
+    },
+    "heist_welcome_to_the_jungle": {
+        "base_text": "Big Oil",
+        "loc_text": "Big Oil",
+        "string_id": "heist_welcome_to_the_jungle"
+    },
+    "heist_welcome_to_the_jungle_1_briefing": {
+        "base_text": "The Elephant gave us the location of the biker gang hunting for the scientist's little device. I think they're close to finding him - we need their intel so we can get to him first. I'm betting it's in their safe.",
+        "loc_text": "The Elephant gave us the location of the biker gang hunting for the scientist's little device. I think they're close to finding him - we need their intel so we can get to him first. I'm betting it's in their safe.",
+        "string_id": "heist_welcome_to_the_jungle_1_briefing"
+    },
+    "heist_welcome_to_the_jungle_1_hl": {
+        "base_text": "Club House",
+        "loc_text": "Club House",
+        "string_id": "heist_welcome_to_the_jungle_1_hl"
+    },
+    "heist_welcome_to_the_jungle_2_hl": {
+        "base_text": "Engine Problem",
+        "loc_text": "Engine Problem",
+        "string_id": "heist_welcome_to_the_jungle_2_hl"
+    },
+    "heist_welcome_to_the_jungle_crimenet": {
+        "base_text": "The Elephant needs a politically-disruptive invention dealt with.$NL;$NL;» Find more information about the inventor$NL;» Locate and steal the invention",
+        "loc_text": "The Elephant needs a politically-disruptive invention dealt with.$NL;$NL;» Find more information about the inventor$NL;» Locate and steal the invention",
+        "string_id": "heist_welcome_to_the_jungle_crimenet"
+    },
+    "heist_wwh": {
+        "base_text": "Alaskan Deal",
+        "loc_text": "Alaskan Deal",
+        "string_id": "heist_wwh"
+    },
+    "heist_wwh_hl": {
+        "base_text": "Alaskan Deal",
+        "loc_text": "Alaskan Deal",
+        "string_id": "heist_wwh_hl"
+    },
+    "houston_desc_codex": {
+        "base_text": "Dallas younger brother might be able to keep the Hoxton mask, but he's not keeping the name. The consensus among the Payday gang was that from now on, New Hoxton will go by the nicknamed Houston. It's a relatively cheap price to pay to calm Hoxton down and - if anything - partially forgive the PAYDAY Gang for leaving him in jail.",
+        "loc_text": "Dallas younger brother might be able to keep the Hoxton mask, but he's not keeping the name. The consensus among the Payday gang was that from now on, New Hoxton will go by the nicknamed Houston. It's a relatively cheap price to pay to calm Hoxton down and - if anything - partially forgive the PAYDAY Gang for leaving him in jail.",
+        "string_id": "houston_desc_codex"
+    },
+    "hud_assault_survived": {
+        "base_text": "WAVE SURVIVED",
+        "loc_text": "WAVE SURVIVED",
+        "string_id": "hud_assault_survived"
+    },
+    "jowi_desc_codex": {
+        "base_text": "John was a feared Hitman known among some of the largest crime syndicates. After having gone dark for a long time, John recently resurfaced and helped Chains out of a delicate situation. In return, John told Chains he was in need of a crew. How could Chains say no? He invited him into the Payday Gang in order to help his old friend. ",
+        "loc_text": "John was a feared Hitman known among some of the largest crime syndicates. After having gone dark for a long time, John recently resurfaced and helped Chains out of a delicate situation. In return, John told Chains he was in need of a crew. How could Chains say no? He invited him into the Payday Gang in order to help his old friend. ",
+        "string_id": "jowi_desc_codex"
+    },
+    "rb14_drk_cbf_01_01": {
+        "base_text": "To get our hands on the EMP bomb, we're gonna have to mess with fuckin' Murkywater. They're transporting a bunch of goods via train, and will be making a scheduled stop at a hidden train yard. I, of course, would prefer to do it guns blazing, but that's too risky, yeah? So we need to this the stealthy way, lads.$NL;$NL;» Find the trains$NL;» Locate the EMP bomb parts$NL;» Get them out of there and escape",
+        "loc_text": "To get our hands on the EMP bomb, we're gonna have to mess with fuckin' Murkywater. They're transporting a bunch of goods via train, and will be making a scheduled stop at a hidden train yard. I, of course, would prefer to do it guns blazing, but that's too risky, yeah? So we need to this the stealthy way, lads.$NL;$NL;» Find the trains$NL;» Locate the EMP bomb parts$NL;» Get them out of there and escape",
+        "string_id": "rb14_drk_cbf_01_01"
+    },
+    "rb14_mad_cbf_01_01": {
+        "base_text": "This dirty Russian organization is conducting some very disturbing experiments from a hidden laboratory in Russia. You won't believe what shit they're doing over there. We need to fuckin' stop Akan from getting his hands on the data, yeah? It's do or die, boys and girls.$NL;$NL;» Enter the compound$NL;» Gain access to the lab$NL;» Obtain the data$NL;» Escape",
+        "loc_text": "This dirty Russian organization is conducting some very disturbing experiments from a hidden laboratory in Russia. You won't believe what shit they're doing over there. We need to fuckin' stop Akan from getting his hands on the data, yeah? It's do or die, boys and girls.$NL;$NL;» Enter the compound$NL;» Gain access to the lab$NL;» Obtain the data$NL;» Escape",
+        "string_id": "rb14_mad_cbf_01_01"
+    },
+    "russian_desc_codex": {
+        "base_text": "Dallas is experienced, cunning and methodical. He has no problem working as a part of a team but he isn't the social kind. He will carry out his part in a plan perfectly and expects everyone else to do the same. ",
+        "loc_text": "Dallas is experienced, cunning and methodical. He has no problem working as a part of a team but he isn't the social kind. He will carry out his part in a plan perfectly and expects everyone else to do the same. ",
+        "string_id": "russian_desc_codex"
+    },
+    "spanish_desc_codex": {
+        "base_text": "As a teenager, Chains always got into trouble. After years of jumping between foster homes and juvenile institutions, he ended up in the military. There he became an excellent soldier.",
+        "loc_text": "As a teenager, Chains always got into trouble. After years of jumping between foster homes and juvenile institutions, he ended up in the military. There he became an excellent soldier.",
+        "string_id": "spanish_desc_codex"
+    }
+}

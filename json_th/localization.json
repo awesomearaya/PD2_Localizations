@@ -1,0 +1,807 @@
+{
+    "dialog_abort_mission_text": {
+        "base_text": "Are you sure you would like to terminate the current contract?$NL;$NL;You and your crew will be returned to the planning phase where a new contract can be selected.",
+        "loc_text": "Are you sure you would like to terminate the current contract?$NL;$NL;You and your crew will be returned to the planning phase where a new contract can be selected.",
+        "string_id": "dialog_abort_mission_text"
+    },
+    "dialog_accept_changes_title": {
+        "base_text": "CONFIRM CHANGE?",
+        "loc_text": "CONFIRM CHANGE?",
+        "string_id": "dialog_accept_changes_title"
+    },
+    "dialog_apply": {
+        "base_text": "Apply",
+        "loc_text": "Apply",
+        "string_id": "dialog_apply"
+    },
+    "dialog_are_you_sure_you_want_leave": {
+        "base_text": "Are you sure you want to leave this lobby?",
+        "loc_text": "Are you sure you want to leave this lobby?",
+        "string_id": "dialog_are_you_sure_you_want_leave"
+    },
+    "dialog_are_you_sure_you_want_to_leave_game": {
+        "base_text": "Are you sure you want to leave current game?",
+        "loc_text": "Are you sure you want to leave current game?",
+        "string_id": "dialog_are_you_sure_you_want_to_leave_game"
+    },
+    "dialog_are_you_sure_you_want_to_quit": {
+        "base_text": "Are you sure you want to quit?",
+        "loc_text": "Are you sure you want to quit?",
+        "string_id": "dialog_are_you_sure_you_want_to_quit"
+    },
+    "dialog_assets_buy_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_assets_buy_title"
+    },
+    "dialog_blackmarket_assemble_item": {
+        "base_text": "Do you really want to put together $item; mask and place it into your inventory?$NL;$NL;$num_in_inventory;",
+        "loc_text": "Do you really want to put together $item; mask and place it into your inventory?$NL;$NL;$num_in_inventory;",
+        "string_id": "dialog_blackmarket_assemble_item"
+    },
+    "dialog_blackmarket_buy_item": {
+        "base_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;",
+        "loc_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;",
+        "string_id": "dialog_blackmarket_buy_item"
+    },
+    "dialog_blackmarket_lost_mods_warning": {
+        "base_text": "(Your removed modifications will be placed in the inventory)",
+        "loc_text": "(Your removed modifications will be placed in the inventory)",
+        "string_id": "dialog_blackmarket_lost_mods_warning"
+    },
+    "dialog_blackmarket_mod_add": {
+        "base_text": "You are about to add modification $mod; to your weapon.",
+        "loc_text": "You are about to add modification $mod; to your weapon.",
+        "string_id": "dialog_blackmarket_mod_add"
+    },
+    "dialog_blackmarket_mod_conflict": {
+        "base_text": "These modifications are not compatible and will be removed:$mods;",
+        "loc_text": "These modifications are not compatible and will be removed:$mods;",
+        "string_id": "dialog_blackmarket_mod_conflict"
+    },
+    "dialog_blackmarket_mod_cost": {
+        "base_text": "This will cost you $money;.",
+        "loc_text": "This will cost you $money;.",
+        "string_id": "dialog_blackmarket_mod_cost"
+    },
+    "dialog_blackmarket_mod_remove": {
+        "base_text": "You are about to remove modification $mod; from your weapon.",
+        "loc_text": "You are about to remove modification $mod; from your weapon.",
+        "string_id": "dialog_blackmarket_mod_remove"
+    },
+    "dialog_blackmarket_mod_replace": {
+        "base_text": "This will replace your current modification $mod;.",
+        "loc_text": "This will replace your current modification $mod;.",
+        "string_id": "dialog_blackmarket_mod_replace"
+    },
+    "dialog_blackmarket_num_in_inventory": {
+        "base_text": "You own $amount; $item; already.",
+        "loc_text": "You own $amount; $item; already.",
+        "string_id": "dialog_blackmarket_num_in_inventory"
+    },
+    "dialog_blackmarket_slot_item": {
+        "base_text": "[SLOT $slot;] $item;",
+        "loc_text": "[SLOT $slot;] $item;",
+        "string_id": "dialog_blackmarket_slot_item"
+    },
+    "dialog_blackmarket_slot_item_sell": {
+        "base_text": "If you sell this, you will be paid $money;.",
+        "loc_text": "If you sell this, you will be paid $money;.",
+        "string_id": "dialog_blackmarket_slot_item_sell"
+    },
+    "dialog_bm_crafted_sell_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_bm_crafted_sell_title"
+    },
+    "dialog_bm_mask_assemble_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_bm_mask_assemble_title"
+    },
+    "dialog_bm_weapon_buy_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_bm_weapon_buy_title"
+    },
+    "dialog_bm_weapon_modify_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_bm_weapon_modify_title"
+    },
+    "dialog_creating_lobby_title": {
+        "base_text": "Creating game",
+        "loc_text": "Creating game",
+        "string_id": "dialog_creating_lobby_title"
+    },
+    "dialog_dropin_title": {
+        "base_text": "$USER; is joining the game",
+        "loc_text": "$USER; is joining the game",
+        "string_id": "dialog_dropin_title"
+    },
+    "dialog_gage_assignment_completed_title": {
+        "base_text": "YOU HAVE A NEW MESSAGE",
+        "loc_text": "YOU HAVE A NEW MESSAGE",
+        "string_id": "dialog_gage_assignment_completed_title"
+    },
+    "dialog_information_title": {
+        "base_text": "Information",
+        "loc_text": "Information",
+        "string_id": "dialog_information_title"
+    },
+    "dialog_item_list_macro": {
+        "base_text": "$num;x $item;",
+        "loc_text": "$num;x $item;",
+        "string_id": "dialog_item_list_macro"
+    },
+    "dialog_joining_lobby_title": {
+        "base_text": "Joining game",
+        "loc_text": "Joining game",
+        "string_id": "dialog_joining_lobby_title"
+    },
+    "dialog_mission_asset_buy": {
+        "base_text": "$asset_desc;$NL;$NL;Cost: $cost;.",
+        "loc_text": "$asset_desc;$NL;$NL;Cost: $cost;.",
+        "string_id": "dialog_mission_asset_buy"
+    },
+    "dialog_mp_kick_player_message": {
+        "base_text": "Player $PLAYER; will be kicked from this game. Do you wish to continue?",
+        "loc_text": "Player $PLAYER; will be kicked from this game. Do you wish to continue?",
+        "string_id": "dialog_mp_kick_player_message"
+    },
+    "dialog_mp_kick_player_title": {
+        "base_text": "Kick player",
+        "loc_text": "Kick player",
+        "string_id": "dialog_mp_kick_player_title"
+    },
+    "dialog_mp_restart_level_host_message": {
+        "base_text": "Are you sure you want to restart?",
+        "loc_text": "Are you sure you want to restart?",
+        "string_id": "dialog_mp_restart_level_host_message"
+    },
+    "dialog_mp_restart_level_title": {
+        "base_text": "Restart",
+        "loc_text": "Restart",
+        "string_id": "dialog_mp_restart_level_title"
+    },
+    "dialog_no": {
+        "base_text": "No",
+        "loc_text": "No",
+        "string_id": "dialog_no"
+    },
+    "dialog_ok": {
+        "base_text": "Ok",
+        "loc_text": "Ok",
+        "string_id": "dialog_ok"
+    },
+    "dialog_safehouse_goto_text": {
+        "base_text": "Do you want to go to your safe house?",
+        "loc_text": "Do you want to go to your safe house?",
+        "string_id": "dialog_safehouse_goto_text"
+    },
+    "dialog_safehouse_title": {
+        "base_text": "Safe house",
+        "loc_text": "Safe house",
+        "string_id": "dialog_safehouse_title"
+    },
+    "dialog_show_restart_game_message": {
+        "base_text": "Are you sure you want to restart current game?",
+        "loc_text": "Are you sure you want to restart current game?",
+        "string_id": "dialog_show_restart_game_message"
+    },
+    "dialog_skills_respec_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_skills_respec_title"
+    },
+    "dialog_the_host_has_left_the_game": {
+        "base_text": "The host has left the game",
+        "loc_text": "The host has left the game",
+        "string_id": "dialog_the_host_has_left_the_game"
+    },
+    "dialog_unsuspend": {
+        "base_text": "This skill set is suspended, you can reset all skill points used in this skill set to make it available for use again. Would you like to reset $Name;?",
+        "loc_text": "This skill set is suspended, you can reset all skill points used in this skill set to make it available for use again. Would you like to reset $Name;?",
+        "string_id": "dialog_unsuspend"
+    },
+    "dialog_unsuspend_title": {
+        "base_text": "Unsuspend Skill Set",
+        "loc_text": "Unsuspend Skill Set",
+        "string_id": "dialog_unsuspend_title"
+    },
+    "dialog_wait": {
+        "base_text": "Please wait",
+        "loc_text": "Please wait",
+        "string_id": "dialog_wait"
+    },
+    "dialog_waiting_for_server_response_title": {
+        "base_text": "Waiting for game to respond",
+        "loc_text": "Waiting for game to respond",
+        "string_id": "dialog_waiting_for_server_response_title"
+    },
+    "dialog_warning_title": {
+        "base_text": "Warning",
+        "loc_text": "Warning",
+        "string_id": "dialog_warning_title"
+    },
+    "dialog_yes": {
+        "base_text": "Yes",
+        "loc_text": "Yes",
+        "string_id": "dialog_yes"
+    },
+    "legal_text": {
+        "base_text": "PAYDAY 2 © 2019 Starbreeze AB. All rights reserved.  PAYDAY 2, PAYDAY, Starbreeze, Starbreeze Studios, and the Starbreeze logo are trademarks or registered trademarks of Starbreeze AB in Sweden and/or other countries. Published by 505 Games. 505 Games and the 505 Games logo are registered trademarks of 505 Games S.r.l. All other trademarks are the property of their respective owners.",
+        "loc_text": "PAYDAY 2 © 2019 Starbreeze AB. All rights reserved.  PAYDAY 2, PAYDAY, Starbreeze, Starbreeze Studios, and the Starbreeze logo are trademarks or registered trademarks of Starbreeze AB in Sweden and/or other countries. Published by 505 Games. 505 Games and the 505 Games logo are registered trademarks of 505 Games S.r.l. All other trademarks are the property of their respective owners.",
+        "string_id": "legal_text"
+    },
+    "mission_apply_drill": {
+        "base_text": "Start the drill (Drill Area.)",
+        "loc_text": "Start the drill (Drill Area.)",
+        "string_id": "mission_apply_drill"
+    },
+    "mission_apply_drill_text": {
+        "base_text": "Mount the drill on the gate outside the vault area.",
+        "loc_text": "Mount the drill on the gate outside the vault area.",
+        "string_id": "mission_apply_drill_text"
+    },
+    "mission_blow_wall": {
+        "base_text": "Blow a hole in the wall (Management.)",
+        "loc_text": "Blow a hole in the wall (Management.)",
+        "string_id": "mission_blow_wall"
+    },
+    "mission_blow_wall_text": {
+        "base_text": "Apply C4 to the wall next to the server room and blow a hole into the neighboring building.",
+        "loc_text": "Apply C4 to the wall next to the server room and blow a hole into the neighboring building.",
+        "string_id": "mission_blow_wall_text"
+    },
+    "mission_bridge_escort": {
+        "base_text": "Escort the prisoner to the top of the right tower. When he's at the top, strap him down in the chair and send him skyward with the balloon.",
+        "loc_text": "Escort the prisoner to the top of the right tower. When he's at the top, strap him down in the chair and send him skyward with the balloon.",
+        "string_id": "mission_bridge_escort"
+    },
+    "mission_bridge_escort_hl": {
+        "base_text": "Escort the prisoner (Scaffolding.)",
+        "loc_text": "Escort the prisoner (Scaffolding.)",
+        "string_id": "mission_bridge_escort_hl"
+    },
+    "mission_bridge_get_hostage": {
+        "base_text": "Locate the prisoner! He's in one of the trucks. Saw the doors open.",
+        "loc_text": "Locate the prisoner! He's in one of the trucks. Saw the doors open.",
+        "string_id": "mission_bridge_get_hostage"
+    },
+    "mission_bridge_get_hostage_hl": {
+        "base_text": "Find the Chinese prisoner (Convoy.)",
+        "loc_text": "Find the Chinese prisoner (Convoy.)",
+        "string_id": "mission_bridge_get_hostage_hl"
+    },
+    "mission_bridge_heli_clear": {
+        "base_text": "Hold the tower, wait for the airplane and make sure George snatches up the chair!",
+        "loc_text": "Hold the tower, wait for the airplane and make sure George snatches up the chair!",
+        "string_id": "mission_bridge_heli_clear"
+    },
+    "mission_bridge_heli_clear_hl": {
+        "base_text": "Defend (Scaffolding.)",
+        "loc_text": "Defend (Scaffolding.)",
+        "string_id": "mission_bridge_heli_clear_hl"
+    },
+    "mission_bridge_identify": {
+        "base_text": "Send up the Balloon so George can fly in and pick up the Ejection Seat.",
+        "loc_text": "Send up the Balloon so George can fly in and pick up the Ejection Seat.",
+        "string_id": "mission_bridge_identify"
+    },
+    "mission_bridge_identify_hl": {
+        "base_text": "Send up the Balloon (Scaffolding.)",
+        "loc_text": "Send up the Balloon (Scaffolding.)",
+        "string_id": "mission_bridge_identify_hl"
+    },
+    "mission_bridge_jump": {
+        "base_text": "Make it to the Bridge Pillar and take the stairs to the waiting scuba gear.",
+        "loc_text": "Make it to the Bridge Pillar and take the stairs to the waiting scuba gear.",
+        "string_id": "mission_bridge_jump"
+    },
+    "mission_bridge_jump_hl": {
+        "base_text": "Make the escape (Bridge pillar.)",
+        "loc_text": "Make the escape (Bridge pillar.)",
+        "string_id": "mission_bridge_jump_hl"
+    },
+    "mission_bridge_locate_convoy": {
+        "base_text": "Make your way further along the bridge and locate the prison convoy.",
+        "loc_text": "Make your way further along the bridge and locate the prison convoy.",
+        "string_id": "mission_bridge_locate_convoy"
+    },
+    "mission_bridge_locate_convoy_hl": {
+        "base_text": "Locate the prison convoy (Convoy.)",
+        "loc_text": "Locate the prison convoy (Convoy.)",
+        "string_id": "mission_bridge_locate_convoy_hl"
+    },
+    "mission_diamond_codes": {
+        "base_text": "Get to the vault doors and enter the codes to gain access to the vault.",
+        "loc_text": "Get to the vault doors and enter the codes to gain access to the vault.",
+        "string_id": "mission_diamond_codes"
+    },
+    "mission_diamond_codes_hl": {
+        "base_text": "Enter the codes.",
+        "loc_text": "Enter the codes.",
+        "string_id": "mission_diamond_codes_hl"
+    },
+    "mission_diamond_escape": {
+        "base_text": "Make your way to the helicopter. It can't stay in the same place for too long!",
+        "loc_text": "Make your way to the helicopter. It can't stay in the same place for too long!",
+        "string_id": "mission_diamond_escape"
+    },
+    "mission_diamond_escape_hl": {
+        "base_text": "Escape!",
+        "loc_text": "Escape!",
+        "string_id": "mission_diamond_escape_hl"
+    },
+    "mission_diamond_escort1": {
+        "base_text": "We need to pressure Mr. Garnet into giving us the access codes to the vault. Bain is trying to locate the CFO using security footage, but try to find him sooner than that.",
+        "loc_text": "We need to pressure Mr. Garnet into giving us the access codes to the vault. Bain is trying to locate the CFO using security footage, but try to find him sooner than that.",
+        "string_id": "mission_diamond_escort1"
+    },
+    "mission_diamond_escort1_hl": {
+        "base_text": "Change of plan, get the CFO.",
+        "loc_text": "Change of plan, get the CFO.",
+        "string_id": "mission_diamond_escort1_hl"
+    },
+    "mission_diamond_escort2": {
+        "base_text": "Find Mr. Garnet's son Ralph and take him to our chopper on the roof.",
+        "loc_text": "Find Mr. Garnet's son Ralph and take him to our chopper on the roof.",
+        "string_id": "mission_diamond_escort2"
+    },
+    "mission_diamond_escort2_hl": {
+        "base_text": "Get Mr. Garnet's son Ralph.",
+        "loc_text": "Get Mr. Garnet's son Ralph.",
+        "string_id": "mission_diamond_escort2_hl"
+    },
+    "mission_diamond_loot": {
+        "base_text": "Enter the vault and steal the diamonds.",
+        "loc_text": "Enter the vault and steal the diamonds.",
+        "string_id": "mission_diamond_loot"
+    },
+    "mission_diamond_loot_hl": {
+        "base_text": "Steal the diamonds.",
+        "loc_text": "Steal the diamonds.",
+        "string_id": "mission_diamond_loot_hl"
+    },
+    "mission_diamond_sneak": {
+        "base_text": "Sneak around and gain access to the consoles controlling the vault doors. If the alarm goes off, Bain will have to hack the remaining consoles.",
+        "loc_text": "Sneak around and gain access to the consoles controlling the vault doors. If the alarm goes off, Bain will have to hack the remaining consoles.",
+        "string_id": "mission_diamond_sneak"
+    },
+    "mission_diamond_sneak_hl": {
+        "base_text": "Sneak and access the alarm boxes.",
+        "loc_text": "Sneak and access the alarm boxes.",
+        "string_id": "mission_diamond_sneak_hl"
+    },
+    "mission_diamond_timelock": {
+        "base_text": "Wait for the time lock to expire.",
+        "loc_text": "Wait for the time lock to expire.",
+        "string_id": "mission_diamond_timelock"
+    },
+    "mission_diamond_timelock_hl": {
+        "base_text": "Wait for the time lock.",
+        "loc_text": "Wait for the time lock.",
+        "string_id": "mission_diamond_timelock_hl"
+    },
+    "mission_diamond_wait": {
+        "base_text": "Wait while Bain is negotiating for the codes.",
+        "loc_text": "Wait while Bain is negotiating for the codes.",
+        "string_id": "mission_diamond_wait"
+    },
+    "mission_diamond_wait_hl": {
+        "base_text": "Wait for Bain.",
+        "loc_text": "Wait for Bain.",
+        "string_id": "mission_diamond_wait_hl"
+    },
+    "mission_empty_vault": {
+        "base_text": "Empty the Vault (Vault)",
+        "loc_text": "Empty the Vault (Vault)",
+        "string_id": "mission_empty_vault"
+    },
+    "mission_empty_vault_text": {
+        "base_text": "Empty the Vault! Get the Cash!",
+        "loc_text": "Empty the Vault! Get the Cash!",
+        "string_id": "mission_empty_vault_text"
+    },
+    "mission_enterelevator_pickup": {
+        "base_text": "Take the elevator to get to the exit on the roof.",
+        "loc_text": "Take the elevator to get to the exit on the roof.",
+        "string_id": "mission_enterelevator_pickup"
+    },
+    "mission_escape": {
+        "base_text": "Escape (Basement.)",
+        "loc_text": "Escape (Basement.)",
+        "string_id": "mission_escape"
+    },
+    "mission_escape_text": {
+        "base_text": "Get down to the underground garage and make your escape.",
+        "loc_text": "Get down to the underground garage and make your escape.",
+        "string_id": "mission_escape_text"
+    },
+    "mission_get_drill": {
+        "base_text": "Get the drill & thermite (Server Room.)",
+        "loc_text": "Get the drill & thermite (Server Room.)",
+        "string_id": "mission_get_drill"
+    },
+    "mission_get_drill_text": {
+        "base_text": "Get the drill and the thermite.",
+        "loc_text": "Get the drill and the thermite.",
+        "string_id": "mission_get_drill_text"
+    },
+    "mission_get_into_bank_hl": {
+        "base_text": "Enter the bank (Lobby.)",
+        "loc_text": "Enter the bank (Lobby.)",
+        "string_id": "mission_get_into_bank_hl"
+    },
+    "mission_get_into_bank_text": {
+        "base_text": "Get inside and don't draw attention to yourselves!",
+        "loc_text": "Get inside and don't draw attention to yourselves!",
+        "string_id": "mission_get_into_bank_text"
+    },
+    "mission_get_into_vault": {
+        "base_text": "Drill the gates (Drill Area.)",
+        "loc_text": "Drill the gates (Drill Area.)",
+        "string_id": "mission_get_into_vault"
+    },
+    "mission_get_into_vault_text": {
+        "base_text": "Keep an eye on the drill - it jams.",
+        "loc_text": "Keep an eye on the drill - it jams.",
+        "string_id": "mission_get_into_vault_text"
+    },
+    "mission_get_key": {
+        "base_text": "Find the bank manager.",
+        "loc_text": "Find the bank manager.",
+        "string_id": "mission_get_key"
+    },
+    "mission_get_key_text": {
+        "base_text": "Find the bank manager - Look for a yellow outline once he's identified.",
+        "loc_text": "Find the bank manager - Look for a yellow outline once he's identified.",
+        "string_id": "mission_get_key_text"
+    },
+    "mission_hospital_atrapp": {
+        "base_text": "Set up the fake sentry guns so that the civilians will stay down.",
+        "loc_text": "Set up the fake sentry guns so that the civilians will stay down.",
+        "string_id": "mission_hospital_atrapp"
+    },
+    "mission_hospital_atrapp_hl": {
+        "base_text": "SET UP FAKE SENTRY GUNS.",
+        "loc_text": "SET UP FAKE SENTRY GUNS.",
+        "string_id": "mission_hospital_atrapp_hl"
+    },
+    "mission_hospital_cameras": {
+        "base_text": "Take out all the cameras in and around the reception area.",
+        "loc_text": "Take out all the cameras in and around the reception area.",
+        "string_id": "mission_hospital_cameras"
+    },
+    "mission_hospital_cameras_hl": {
+        "base_text": "TAKE OUT THE CAMERAS.",
+        "loc_text": "TAKE OUT THE CAMERAS.",
+        "string_id": "mission_hospital_cameras_hl"
+    },
+    "mission_hospital_cooler": {
+        "base_text": "Put two validated samples into the cooler.",
+        "loc_text": "Put two validated samples into the cooler.",
+        "string_id": "mission_hospital_cooler"
+    },
+    "mission_hospital_cooler_amount_text": {
+        "base_text": "BLOOD SAMPLES IN COOLER.",
+        "loc_text": "BLOOD SAMPLES IN COOLER.",
+        "string_id": "mission_hospital_cooler_amount_text"
+    },
+    "mission_hospital_cooler_hl": {
+        "base_text": "PUT TWO VALIDATED SAMPLES INTO THE COOLER.",
+        "loc_text": "PUT TWO VALIDATED SAMPLES INTO THE COOLER.",
+        "string_id": "mission_hospital_cooler_hl"
+    },
+    "mission_hospital_cooler_sub1": {
+        "base_text": "First blood sample.",
+        "loc_text": "First blood sample.",
+        "string_id": "mission_hospital_cooler_sub1"
+    },
+    "mission_hospital_cooler_sub2": {
+        "base_text": "Second blood sample.",
+        "loc_text": "Second blood sample.",
+        "string_id": "mission_hospital_cooler_sub2"
+    },
+    "mission_hospital_disguise": {
+        "base_text": "Put on the doctors' outfits.",
+        "loc_text": "Put on the doctors' outfits.",
+        "string_id": "mission_hospital_disguise"
+    },
+    "mission_hospital_disguise_hl": {
+        "base_text": "PLAY DOCTOR.",
+        "loc_text": "PLAY DOCTOR.",
+        "string_id": "mission_hospital_disguise_hl"
+    },
+    "mission_hospital_enterelevator_hl": {
+        "base_text": "TAKE THE ELEVATOR TO THE ROOF.",
+        "loc_text": "TAKE THE ELEVATOR TO THE ROOF.",
+        "string_id": "mission_hospital_enterelevator_hl"
+    },
+    "mission_hospital_escape": {
+        "base_text": "Make the escape.",
+        "loc_text": "Make the escape.",
+        "string_id": "mission_hospital_escape"
+    },
+    "mission_hospital_escape_hl": {
+        "base_text": "ESCAPE!",
+        "loc_text": "ESCAPE!",
+        "string_id": "mission_hospital_escape_hl"
+    },
+    "mission_hospital_getToPatient": {
+        "base_text": "Using the saw, open up the security door that holds the contaminated patient.",
+        "loc_text": "Using the saw, open up the security door that holds the contaminated patient.",
+        "string_id": "mission_hospital_getToPatient"
+    },
+    "mission_hospital_getToPatient_hl": {
+        "base_text": "PICK THE RIGHT DOOR TO OPEN.",
+        "loc_text": "PICK THE RIGHT DOOR TO OPEN.",
+        "string_id": "mission_hospital_getToPatient_hl"
+    },
+    "mission_hospital_hatch": {
+        "base_text": "Open the hatch to get out of the elevator.",
+        "loc_text": "Open the hatch to get out of the elevator.",
+        "string_id": "mission_hospital_hatch"
+    },
+    "mission_hospital_hatch_hl": {
+        "base_text": "OPEN THE HATCH.",
+        "loc_text": "OPEN THE HATCH.",
+        "string_id": "mission_hospital_hatch_hl"
+    },
+    "mission_hospital_hostage": {
+        "base_text": "Keep the civilians from activating the alarm until Bain is finished scanning the database.",
+        "loc_text": "Keep the civilians from activating the alarm until Bain is finished scanning the database.",
+        "string_id": "mission_hospital_hostage"
+    },
+    "mission_hospital_hostage_hl": {
+        "base_text": "KEEP THE HOSTAGES DOWN.",
+        "loc_text": "KEEP THE HOSTAGES DOWN.",
+        "string_id": "mission_hospital_hostage_hl"
+    },
+    "mission_hospital_rapport": {
+        "base_text": "Look through the files and find the correct patient file.",
+        "loc_text": "Look through the files and find the correct patient file.",
+        "string_id": "mission_hospital_rapport"
+    },
+    "mission_hospital_rapport_hl": {
+        "base_text": "FIND THE CORRECT PATIENT FILE.",
+        "loc_text": "FIND THE CORRECT PATIENT FILE.",
+        "string_id": "mission_hospital_rapport_hl"
+    },
+    "mission_hospital_rounds": {
+        "base_text": "Figure out a way to get to the contaminated patient. Prove your Harvard degree paid off.",
+        "loc_text": "Figure out a way to get to the contaminated patient. Prove your Harvard degree paid off.",
+        "string_id": "mission_hospital_rounds"
+    },
+    "mission_hospital_rounds_hl": {
+        "base_text": "FIND OUT WHERE THE CONTAMINATED PATIENT IS.",
+        "loc_text": "FIND OUT WHERE THE CONTAMINATED PATIENT IS.",
+        "string_id": "mission_hospital_rounds_hl"
+    },
+    "mission_hospital_waitElevator": {
+        "base_text": "Wait for the elevator to arrive while making sure to keep the power running.",
+        "loc_text": "Wait for the elevator to arrive while making sure to keep the power running.",
+        "string_id": "mission_hospital_waitElevator"
+    },
+    "mission_hospital_waitElevator_hl": {
+        "base_text": "WAIT FOR THE ELEVATOR.",
+        "loc_text": "WAIT FOR THE ELEVATOR.",
+        "string_id": "mission_hospital_waitElevator_hl"
+    },
+    "mission_sec_doors": {
+        "base_text": "Some consoles are still online. Plant the tablets on and let Bain hack the alarm system.",
+        "loc_text": "Some consoles are still online. Plant the tablets on and let Bain hack the alarm system.",
+        "string_id": "mission_sec_doors"
+    },
+    "mission_sec_doors_hl": {
+        "base_text": "Plant tablets on the remaining alarm boxes.",
+        "loc_text": "Plant tablets on the remaining alarm boxes.",
+        "string_id": "mission_sec_doors_hl"
+    },
+    "mission_security_footage": {
+        "base_text": "Erase the Security Footage (Management.)",
+        "loc_text": "Erase the Security Footage (Management.)",
+        "string_id": "mission_security_footage"
+    },
+    "mission_security_footage_text": {
+        "base_text": "Locate the hacked computer and use it to erase the Security Footage!",
+        "loc_text": "Locate the hacked computer and use it to erase the Security Footage!",
+        "string_id": "mission_security_footage_text"
+    },
+    "mission_thermite": {
+        "base_text": "Pour out the thermite to melt the floor (above the vault).",
+        "loc_text": "Pour out the thermite to melt the floor (above the vault).",
+        "string_id": "mission_thermite"
+    },
+    "mission_thermite_text": {
+        "base_text": "Pour out the thermite in the office above the vault - it will burn a hole through the steel floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process.",
+        "loc_text": "Pour out the thermite in the office above the vault - it will burn a hole through the steel floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process.",
+        "string_id": "mission_thermite_text"
+    },
+    "mission_thermite_wait": {
+        "base_text": "Melt the floor (above the Vault)",
+        "loc_text": "Melt the floor (above the Vault)",
+        "string_id": "mission_thermite_wait"
+    },
+    "mission_thermite_wait_text": {
+        "base_text": "Hold the fort and let the thermite burn through the floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process.",
+        "loc_text": "Hold the fort and let the thermite burn through the floor. There are two cans of thermite hidden in the copy machine, if both are carried to the vault it will speed up the melting process.",
+        "string_id": "mission_thermite_wait_text"
+    },
+    "mission_trough_lobby": {
+        "base_text": "Get through the Lobby.",
+        "loc_text": "Get through the Lobby.",
+        "string_id": "mission_trough_lobby"
+    },
+    "mission_trough_lobby_text": {
+        "base_text": "Get through the Lobby and make your way to the hallway outside the server room.",
+        "loc_text": "Get through the Lobby and make your way to the hallway outside the server room.",
+        "string_id": "mission_trough_lobby_text"
+    },
+    "mission_undercover_check": {
+        "base_text": "Check the Limo and see if you can get the Taxman out of it.",
+        "loc_text": "Check the Limo and see if you can get the Taxman out of it.",
+        "string_id": "mission_undercover_check"
+    },
+    "mission_undercover_check_hl": {
+        "base_text": "CHECK THE LIMO.",
+        "loc_text": "CHECK THE LIMO.",
+        "string_id": "mission_undercover_check_hl"
+    },
+    "mission_undercover_crane": {
+        "base_text": "While Alex is lifting the limo to the roof, make sure to Keep the FBI at bay.",
+        "loc_text": "While Alex is lifting the limo to the roof, make sure to Keep the FBI at bay.",
+        "string_id": "mission_undercover_crane"
+    },
+    "mission_undercover_crane_hl": {
+        "base_text": "LIMO LIFT.",
+        "loc_text": "LIMO LIFT.",
+        "string_id": "mission_undercover_crane_hl"
+    },
+    "mission_undercover_deal": {
+        "base_text": "Wait until the SERVER is exposed before you hit them! That server is the only way to make our transaction!",
+        "loc_text": "Wait until the SERVER is exposed before you hit them! That server is the only way to make our transaction!",
+        "string_id": "mission_undercover_deal"
+    },
+    "mission_undercover_deal_hl": {
+        "base_text": "DEAL GOING DOWN.",
+        "loc_text": "DEAL GOING DOWN.",
+        "string_id": "mission_undercover_deal_hl"
+    },
+    "mission_undercover_escape2": {
+        "base_text": "Make the escape, a helicopter will pick you up on the neighbouring rooftop.",
+        "loc_text": "Make the escape, a helicopter will pick you up on the neighbouring rooftop.",
+        "string_id": "mission_undercover_escape2"
+    },
+    "mission_undercover_escape2_hl": {
+        "base_text": "ESCAPE!",
+        "loc_text": "ESCAPE!",
+        "string_id": "mission_undercover_escape2_hl"
+    },
+    "mission_undercover_escort": {
+        "base_text": "We need to get the Taxman to the transfer room we started out in. Use all necessary force to make him cooperate.",
+        "loc_text": "We need to get the Taxman to the transfer room we started out in. Use all necessary force to make him cooperate.",
+        "string_id": "mission_undercover_escort"
+    },
+    "mission_undercover_escort_hl": {
+        "base_text": "TAKE TAXMAN TO TRANSFER ROOM.",
+        "loc_text": "TAKE TAXMAN TO TRANSFER ROOM.",
+        "string_id": "mission_undercover_escort_hl"
+    },
+    "mission_undercover_fasten": {
+        "base_text": "Get the server from the Limo and make your way to the transfer room to plug it in.",
+        "loc_text": "Get the server from the Limo and make your way to the transfer room to plug it in.",
+        "string_id": "mission_undercover_fasten"
+    },
+    "mission_undercover_fasten_hl": {
+        "base_text": "GET THE SERVER, PLUG IT IN.",
+        "loc_text": "GET THE SERVER, PLUG IT IN.",
+        "string_id": "mission_undercover_fasten_hl"
+    },
+    "mission_undercover_interogation": {
+        "base_text": "Get the codes from Taxman! Screams, threats and a good old beating - anything goes - we are in a hurry!",
+        "loc_text": "Get the codes from Taxman! Screams, threats and a good old beating - anything goes - we are in a hurry!",
+        "string_id": "mission_undercover_interogation"
+    },
+    "mission_undercover_interogation_hl": {
+        "base_text": "CODES NOW!",
+        "loc_text": "CODES NOW!",
+        "string_id": "mission_undercover_interogation_hl"
+    },
+    "mission_undercover_power": {
+        "base_text": "See to it that the cops do not cut the power, if they do you have to turn it back on fast to keep the computers running.",
+        "loc_text": "See to it that the cops do not cut the power, if they do you have to turn it back on fast to keep the computers running.",
+        "string_id": "mission_undercover_power"
+    },
+    "mission_undercover_power_hl": {
+        "base_text": "KEEP THE POWER.",
+        "loc_text": "KEEP THE POWER.",
+        "string_id": "mission_undercover_power_hl"
+    },
+    "mission_undercover_roof": {
+        "base_text": "Wait for Taxman to show the server we are after. Scare him into his limo when you see it - we need both the server and the Taxman. Alex will lift him up to us from the open street. Also, keep an eye out for what you can use to better your chances.",
+        "loc_text": "Wait for Taxman to show the server we are after. Scare him into his limo when you see it - we need both the server and the Taxman. Alex will lift him up to us from the open street. Also, keep an eye out for what you can use to better your chances.",
+        "string_id": "mission_undercover_roof"
+    },
+    "mission_undercover_roof_hl": {
+        "base_text": "PREPARATIONS.",
+        "loc_text": "PREPARATIONS.",
+        "string_id": "mission_undercover_roof_hl"
+    },
+    "mission_undercover_saw_limo": {
+        "base_text": "Get Taxman out of the Limo! Saw open the roof and get him out!",
+        "loc_text": "Get Taxman out of the Limo! Saw open the roof and get him out!",
+        "string_id": "mission_undercover_saw_limo"
+    },
+    "mission_undercover_saw_limo_hl": {
+        "base_text": "SAW OPEN THE LIMO.",
+        "loc_text": "SAW OPEN THE LIMO.",
+        "string_id": "mission_undercover_saw_limo_hl"
+    },
+    "mission_undercover_shoot_limo": {
+        "base_text": "Shoot at the cables snagging the limo to make it fall!",
+        "loc_text": "Shoot at the cables snagging the limo to make it fall!",
+        "string_id": "mission_undercover_shoot_limo"
+    },
+    "mission_undercover_shoot_limo_hl": {
+        "base_text": "FREE THE LIMO.",
+        "loc_text": "FREE THE LIMO.",
+        "string_id": "mission_undercover_shoot_limo_hl"
+    },
+    "mission_undercover_transaction": {
+        "base_text": "Using BAIN's brain, Taxman's insider knowledge and the team's charms - get the IRS data base hacked for a huge tax cut.",
+        "loc_text": "Using BAIN's brain, Taxman's insider knowledge and the team's charms - get the IRS data base hacked for a huge tax cut.",
+        "string_id": "mission_undercover_transaction"
+    },
+    "mission_undercover_transaction_hl": {
+        "base_text": "IRS HACK.",
+        "loc_text": "IRS HACK.",
+        "string_id": "mission_undercover_transaction_hl"
+    },
+    "sm_1_name": {
+        "base_text": "The Basics",
+        "loc_text": "The Basics",
+        "string_id": "sm_1_name"
+    },
+    "sm_2_name": {
+        "base_text": "Getting Ready",
+        "loc_text": "Getting Ready",
+        "string_id": "sm_2_name"
+    },
+    "sm_3_name": {
+        "base_text": "Let's Make Some Money",
+        "loc_text": "Let's Make Some Money",
+        "string_id": "sm_3_name"
+    },
+    "sm_4_name": {
+        "base_text": "Midnight Heist",
+        "loc_text": "Midnight Heist",
+        "string_id": "sm_4_name"
+    },
+    "sm_5_desc": {
+        "base_text": "Great work. Left those Murkywater goons scratching their asses and wondering where their shit went. Gage is happy, and Murkywater isn't. This means you're starting to get notorious. And, at the end of the day, notoriety is your life-blood. Money can be stolen, see. Gold can come and go. But notoriety - that's what you're really worth. So let's get some more.",
+        "loc_text": "Great work. Left those Murkywater goons scratching their asses and wondering where their shit went. Gage is happy, and Murkywater isn't. This means you're starting to get notorious. And, at the end of the day, notoriety is your life-blood. Money can be stolen, see. Gold can come and go. But notoriety - that's what you're really worth. So let's get some more.",
+        "string_id": "sm_5_desc"
+    },
+    "sm_5_name": {
+        "base_text": "Fortune & Glory",
+        "loc_text": "Fortune & Glory",
+        "string_id": "sm_5_name"
+    },
+    "sm_5_obj": {
+        "base_text": "Complete the Go Bank and Diamond Store jobs.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Go Bank and Diamond Store jobs.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_5_obj"
+    },
+    "sm_first_safehouse_name": {
+        "base_text": "A Safe Haven",
+        "loc_text": "A Safe Haven",
+        "string_id": "sm_first_safehouse_name"
+    },
+    "wp_ap_escape": {
+        "base_text": "Escape!",
+        "loc_text": "Escape!",
+        "string_id": "wp_ap_escape"
+    }
+}
