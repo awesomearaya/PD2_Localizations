@@ -371,7 +371,7 @@
     },
     "discord_rp_single_heist": {
         "base_text": "Crime.Net Offline",
-        "loc_text": "Crime.Net Offline",
+        "loc_text": "Crime.Net ออฟไลน์",
         "string_id": "discord_rp_single_heist"
     },
     "discord_rp_single_heist_details": {
@@ -421,7 +421,7 @@
     },
     "hud_offshore_account": {
         "base_text": "offshore account",
-        "loc_text": "offshore account",
+        "loc_text": "บัญชีนอกระบบ",
         "string_id": "hud_offshore_account"
     },
     "jacket_desc": {
@@ -521,7 +521,7 @@
     },
     "menu_achievements": {
         "base_text": "Achievements",
-        "loc_text": "Achievements",
+        "loc_text": "รางวัลความสำเร็จ",
         "string_id": "menu_achievements"
     },
     "menu_achievements_clear_filter_btn": {
@@ -1396,7 +1396,7 @@
     },
     "menu_cash": {
         "base_text": "Cash: $money;",
-        "loc_text": "Cash: $money;",
+        "loc_text": "เงินสด: $money;",
         "string_id": "menu_cash"
     },
     "menu_cash_balance": {
@@ -2081,7 +2081,7 @@
     },
     "menu_cn_quickplay": {
         "base_text": "Quickplay",
-        "loc_text": "Quickplay",
+        "loc_text": "เล่นทันที",
         "string_id": "menu_cn_quickplay"
     },
     "menu_cn_quickplay_desc": {
@@ -2161,7 +2161,7 @@
     },
     "menu_combat_medic_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## damage reduction for ##$multibasic2;## seconds both after and during reviving another player.$NL;$NL;ACE: ##$pro;##$NL;Reviving a crew member gives them ##$multipro;## more health.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## damage reduction for ##$multibasic2;## seconds both after and during reviving another player.$NL;$NL;ACE: ##$pro;##$NL;Reviving a crew member gives them ##$multipro;## more health.",
+        "loc_text": "พื้นฐาน: ##$basic;##$NL;คุณและผู้เล่นที่ได้รับการช่วยเหลือจะได้รับความเสียหายน้อยลง ##$multibasic;## เป็นเวลา ##$multibasic2;## วินาที$NL;$NL;เอซ: ##$pro;##$NL;เพื่อนร่วมทีมที่ได้รับการช่วยเหลือจากคุณ$NL;จะได้รับเลือดเพิ่มขึ้นอีก ##$multipro;##",
         "string_id": "menu_combat_medic_beta_desc"
     },
     "menu_completed_objectives_of": {
@@ -2416,7 +2416,7 @@
     },
     "menu_crimenet_offline": {
         "base_text": "CRIME.NET Offline",
-        "loc_text": "CRIME.NET Offline",
+        "loc_text": "CRIME.NET ออฟไลน์",
         "string_id": "menu_crimenet_offline"
     },
     "menu_crimenet_offline_help": {
@@ -4131,7 +4131,7 @@
     },
     "menu_es_coins_progress": {
         "base_text": "Continental Coins",
-        "loc_text": "Continental Coins",
+        "loc_text": "เหรียญ Continental",
         "string_id": "menu_es_coins_progress"
     },
     "menu_es_current_xp": {
@@ -4446,7 +4446,7 @@
     },
     "menu_filter_achievement_count": {
         "base_text": "ACHIEVEMENTS TO SHOW $COUNT;",
-        "loc_text": "ACHIEVEMENTS TO SHOW $COUNT;",
+        "loc_text": "รางวัลความสำเร็จที่แสดง $COUNT;",
         "string_id": "menu_filter_achievement_count"
     },
     "menu_filter_contractor": {
@@ -6841,7 +6841,7 @@
     },
     "menu_movie_theater": {
         "base_text": "Movie Theater",
-        "loc_text": "Movie Theater",
+        "loc_text": "โรงภาพยนตร์",
         "string_id": "menu_movie_theater"
     },
     "menu_movie_theater_help": {
@@ -7031,7 +7031,7 @@
     },
     "menu_offshore_account": {
         "base_text": "Offshore account",
-        "loc_text": "Offshore account",
+        "loc_text": "บัญชีนอกระบบ",
         "string_id": "menu_offshore_account"
     },
     "menu_old_hoxton": {
@@ -7081,7 +7081,7 @@
     },
     "menu_options": {
         "base_text": "OPTIONS",
-        "loc_text": "OPTIONS",
+        "loc_text": "การตั้งค่า",
         "string_id": "menu_options"
     },
     "menu_options_help": {
@@ -8426,7 +8426,7 @@
     },
     "menu_quit": {
         "base_text": "QUIT",
-        "loc_text": "QUIT",
+        "loc_text": "ออกจากเกม",
         "string_id": "menu_quit"
     },
     "menu_quit_help": {
@@ -8916,7 +8916,7 @@
     },
     "menu_spendable_skill_points": {
         "base_text": "Unspent skill points: $points;",
-        "loc_text": "Unspent skill points: $points;",
+        "loc_text": "พอยท์สกิลที่เหลือ: $points;",
         "string_id": "menu_spendable_skill_points"
     },
     "menu_spotter_teamwork_beta": {
@@ -9361,7 +9361,7 @@
     },
     "menu_steam_inventory": {
         "base_text": "Steam Inventory",
-        "loc_text": "Steam Inventory",
+        "loc_text": "ช่องเก็บของสตีม",
         "string_id": "menu_steam_inventory"
     },
     "menu_steam_inventory_help": {
@@ -9681,7 +9681,7 @@
     },
     "menu_tea_time_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Decreases your First Aid Kit and Doctor Bag deploy time by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Crew members that use your First Aid Kits or Doctor Bags take ##$multipro;## less damage for ##$multipro2;## seconds.",
-        "loc_text": "BASIC: ##$basic;##$NL;Decreases your First Aid Kit and Doctor Bag deploy time by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Crew members that use your First Aid Kits or Doctor Bags take ##$multipro;## less damage for ##$multipro2;## seconds.",
+        "loc_text": "พื้นฐาน: ##$basic;##$NL;ลดระยะเวลาในการวางกระเป๋าพยาบาลและอุปกรณ์ปฐมพยาบาลเบื้องต้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;สมาชิกในทีมที่ใช้กระเป๋าพยาบาลหรืออุปกรณ์ปฐมพยาบาลเบื้องต้นของคุณจะได้รับความเสียหายน้อยลง ##$multipro;## เป็นเวลา ##$multipro2;## วินาที",
         "string_id": "menu_tea_time_beta_desc"
     },
     "menu_team_loadout": {
@@ -10091,7 +10091,7 @@
     },
     "menu_visit_community": {
         "base_text": "Community",
-        "loc_text": "Community",
+        "loc_text": "คอมมูนิตี้",
         "string_id": "menu_visit_community"
     },
     "menu_visit_community_help": {
@@ -10101,7 +10101,7 @@
     },
     "menu_visit_fbi_files": {
         "base_text": "FBI Files",
-        "loc_text": "FBI Files",
+        "loc_text": "ไฟล์เอฟบีไอ",
         "string_id": "menu_visit_fbi_files"
     },
     "menu_visit_fbi_files_help": {
@@ -10536,12 +10536,12 @@
     },
     "st_menu_point": {
         "base_text": "$points; point",
-        "loc_text": "$points; point",
+        "loc_text": "$points; พอยท์",
         "string_id": "st_menu_point"
     },
     "st_menu_point_plural": {
         "base_text": "$points; points",
-        "loc_text": "$points; points",
+        "loc_text": "$points; พอยท์",
         "string_id": "st_menu_point_plural"
     },
     "st_menu_respec_tree": {
@@ -10551,22 +10551,22 @@
     },
     "st_menu_skill_cost": {
         "base_text": "BASIC: $basic; points / ACE: $aced; points",
-        "loc_text": "BASIC: $basic; points / ACE: $aced; points",
+        "loc_text": "พื้นฐาน: $basic; พอยท์ / เอซ: $aced; พอยท์",
         "string_id": "st_menu_skill_cost"
     },
     "st_menu_skill_cost_singular": {
         "base_text": "BASIC: $basic; point / ACE: $aced; points",
-        "loc_text": "BASIC: $basic; point / ACE: $aced; points",
+        "loc_text": "พื้นฐาน: $basic; พอยท์ / เอซ: $aced; พอยท์",
         "string_id": "st_menu_skill_cost_singular"
     },
     "st_menu_skill_maxed": {
         "base_text": "Aced",
-        "loc_text": "Aced",
+        "loc_text": "เอซ",
         "string_id": "st_menu_skill_maxed"
     },
     "st_menu_skill_owned": {
         "base_text": "Owned",
-        "loc_text": "Owned",
+        "loc_text": "เรียนรู้แล้ว",
         "string_id": "st_menu_skill_owned"
     },
     "st_menu_technician": {
