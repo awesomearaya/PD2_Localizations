@@ -96,7 +96,7 @@
     },
     "cn_menu_dlc": {
         "base_text": "DLC",
-        "loc_text": "DLC",
+        "loc_text": "ส่วนเสริม",
         "string_id": "cn_menu_dlc"
     },
     "cn_menu_downtown_title": {
@@ -121,7 +121,7 @@
     },
     "cn_menu_num_players_online": {
         "base_text": "Crime.net/users_online: $amount;",
-        "loc_text": "Crime.net/จำนวนผู้ใช้: $amount;",
+        "loc_text": "Crime.net/จำนวนผู้ใช้ออนไลน์: $amount;",
         "string_id": "cn_menu_num_players_online"
     },
     "cn_menu_shaw_title": {
@@ -211,17 +211,17 @@
     },
     "dialog_become_infamous": {
         "base_text": "WARNING!",
-        "loc_text": "WARNING!",
+        "loc_text": "คำเตือน!",
         "string_id": "dialog_become_infamous"
     },
     "dialog_bm_purchase_coins": {
         "base_text": "It will cost you $money; Continental Coins.",
-        "loc_text": "It will cost you $money; Continental Coins.",
+        "loc_text": "จะมีค่าใช้จ่ายทั้งหมด $money; เหรียญ Continental",
         "string_id": "dialog_bm_purchase_coins"
     },
     "dialog_bm_purchase_mod": {
         "base_text": "Do you really want to buy $item;?",
-        "loc_text": "Do you really want to buy $item;?",
+        "loc_text": "คุณต้องการที่จะซื้อ $item; ใช่หรือไม่?",
         "string_id": "dialog_bm_purchase_mod"
     },
     "dialog_cancel": {
@@ -231,17 +231,17 @@
     },
     "dialog_casino_pay_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_casino_pay_title"
     },
     "dialog_challenge_reward_cash": {
         "base_text": "Congratulations!$NL;$cash; has been added to your spending cash.$NL;",
-        "loc_text": "Congratulations!$NL;$cash; has been added to your spending cash.$NL;",
+        "loc_text": "ขอแสดงความยินดี!$NLเงินสดจำนวน ;$cash; ถูกเพิ่มเข้าไปในจำนวนเงินสดของคุณแล้ว$NL;",
         "string_id": "dialog_challenge_reward_cash"
     },
     "dialog_challenge_reward_title": {
         "base_text": "Reward Collected!",
-        "loc_text": "Reward Collected!",
+        "loc_text": "ได้รับรางวัลนี้แล้ว!",
         "string_id": "dialog_challenge_reward_title"
     },
     "dialog_new_tradable_item": {
@@ -251,27 +251,27 @@
     },
     "dialog_new_tradable_item_accept": {
         "base_text": "Accept",
-        "loc_text": "Accept",
+        "loc_text": "ยอมรับ",
         "string_id": "dialog_new_tradable_item_accept"
     },
     "dialog_new_tradable_item_accept_all": {
         "base_text": "Accept All ($amount;)",
-        "loc_text": "Accept All ($amount;)",
+        "loc_text": "ยอมรับทั้งหมด ($amount;)",
         "string_id": "dialog_new_tradable_item_accept_all"
     },
     "dialog_new_tradable_item_bonus": {
         "base_text": "$bonus; modifier",
-        "loc_text": "$bonus; modifier",
+        "loc_text": "$bonus; การปรับแต่ง",
         "string_id": "dialog_new_tradable_item_bonus"
     },
     "dialog_new_tradable_item_title": {
         "base_text": "You have received a new item!",
-        "loc_text": "You have received a new item!",
+        "loc_text": "คุณได้รับไอเทมใหม่!",
         "string_id": "dialog_new_tradable_item_title"
     },
     "dialog_premium_buy_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจใช่หรือไม่?",
         "string_id": "dialog_premium_buy_title"
     },
     "dialog_preplanning_help": {
@@ -286,52 +286,52 @@
     },
     "dialog_preplanning_rebuy_assets": {
         "base_text": "Do you want to rebuy available assets for $price; + $favor; favors?",
-        "loc_text": "Do you want to rebuy available assets for $price; + $favor; favors?",
+        "loc_text": "คุณต้องการที่จะซื้ออุปกรณ์ช่วยเหลือในราคา $price; + $favor; favors?",
         "string_id": "dialog_preplanning_rebuy_assets"
     },
     "dialog_reset_filters": {
         "base_text": "Reset Filters",
-        "loc_text": "Reset Filters",
+        "loc_text": "รีเซ็ตการกรอง",
         "string_id": "dialog_reset_filters"
     },
     "dialog_respec_skilltree_all": {
         "base_text": "You are about to respec all skill trees.$NL;$NL;Doing a respec resets all skill points.",
-        "loc_text": "You are about to respec all skill trees.$NL;$NL;Doing a respec resets all skill points.",
+        "loc_text": "คุณกำลังจะรีเซ็ตสกิลทั้งหมด$NL;$NL;การรีเซ็ตจะทำการรีเซ็ตสกิลพอยท์ทั้งหมด",
         "string_id": "dialog_respec_skilltree_all"
     },
     "dialog_weapon_cosmetics_add": {
         "base_text": "You are about to apply weapon skin $cosmetic; to your weapon.",
-        "loc_text": "You are about to apply weapon skin $cosmetic; to your weapon.",
+        "loc_text": "คุณกำลังจะใช้งานสกินปืน $cosmetic; กับอาวุธของคุณ",
         "string_id": "dialog_weapon_cosmetics_add"
     },
     "dialog_weapon_cosmetics_remove": {
         "base_text": "You are about to remove weapon skin $cosmetic; from your weapon.",
-        "loc_text": "You are about to remove weapon skin $cosmetic; from your weapon.",
+        "loc_text": "คุณกำลังจะลบสกินปืน $cosmetic; ออกจากอาวุธของคุณ",
         "string_id": "dialog_weapon_cosmetics_remove"
     },
     "dialog_weapon_cosmetics_remove_blueprint": {
         "base_text": "This will return your weapon to its default configuration.",
-        "loc_text": "This will return your weapon to its default configuration.",
+        "loc_text": "การกระทำนี้จะคืนค่าพื้นฐานให้กับอาวุธ",
         "string_id": "dialog_weapon_cosmetics_remove_blueprint"
     },
     "dialog_weapon_cosmetics_replace": {
         "base_text": "This will replace your current weapon skin $cosmetic;.",
-        "loc_text": "This will replace your current weapon skin $cosmetic;.",
+        "loc_text": "การกระทำนี้จะแทนที่ $cosmetic; สกินอาวุธปัจจุบันของคุณ",
         "string_id": "dialog_weapon_cosmetics_replace"
     },
     "dialog_weapon_cosmetics_set_blueprint": {
         "base_text": "This weapon skin contains its own set of weapon modifications and will replace your current configuration.",
-        "loc_text": "This weapon skin contains its own set of weapon modifications and will replace your current configuration.",
+        "loc_text": "สกินนี้มีการปรับแต่งอาวุธด้วยตัวสกินของมันเองและจะแทนที่การปรับแต่งอาวุธของคุณ",
         "string_id": "dialog_weapon_cosmetics_set_blueprint"
     },
     "discord_rp_day_string": {
         "base_text": "day $day;",
-        "loc_text": "day $day;",
+        "loc_text": "วัน $day;",
         "string_id": "discord_rp_day_string"
     },
     "discord_rp_lobby": {
         "base_text": "In Lobby",
-        "loc_text": "In Lobby",
+        "loc_text": "ในล็อบบี้",
         "string_id": "discord_rp_lobby"
     },
     "discord_rp_lobby_details": {
@@ -351,7 +351,7 @@
     },
     "discord_rp_mp_heist": {
         "base_text": "Crime.Net Online",
-        "loc_text": "Crime.Net Online",
+        "loc_text": "Crime.Net ออนไลน์",
         "string_id": "discord_rp_mp_heist"
     },
     "discord_rp_mp_heist_details": {
@@ -361,7 +361,7 @@
     },
     "discord_rp_single_end": {
         "base_text": "Heist Summary",
-        "loc_text": "Heist Summary",
+        "loc_text": "ภาพรวมภารกิจ",
         "string_id": "discord_rp_single_end"
     },
     "discord_rp_single_end_details": {
@@ -406,17 +406,17 @@
     },
     "heist_chill": {
         "base_text": "Safe House",
-        "loc_text": "Safe House",
+        "loc_text": "เซฟเฮาส์",
         "string_id": "heist_chill"
     },
     "hud_heist_chill_mission1": {
         "base_text": "Protect the safe house from the assault wave.",
-        "loc_text": "Protect the safe house from the assault wave.",
+        "loc_text": "ปกป้องเซฟเฮาส์จากรอบการบุกรุก",
         "string_id": "hud_heist_chill_mission1"
     },
     "hud_heist_chill_mission1_hl": {
         "base_text": "Bags Remaining",
-        "loc_text": "Bags Remaining",
+        "loc_text": "กระเป๋าคงเหลือ",
         "string_id": "hud_heist_chill_mission1_hl"
     },
     "hud_offshore_account": {
@@ -461,12 +461,12 @@
     },
     "menu_aa_help": {
         "base_text": "FXAA has higher performance but lower visual quality. SMAA has higher visual quality.",
-        "loc_text": "FXAA has higher performance but lower visual quality. SMAA has higher visual quality.",
+        "loc_text": "FXAA จะมีประสะทธิภาพที่ดีกว่ากว่าแต่คุณภาพของภาพจะถูกลดลง SMAA คุณภาพของภาพจะดีกว่า",
         "string_id": "menu_aa_help"
     },
     "menu_aa_off": {
         "base_text": "Off",
-        "loc_text": "Off",
+        "loc_text": "ปิด",
         "string_id": "menu_aa_off"
     },
     "menu_aa_smaa_x1": {
@@ -481,42 +481,42 @@
     },
     "menu_achievement_any": {
         "base_text": "Any tag",
-        "loc_text": "Any tag",
+        "loc_text": "แท็กใดก็ได้",
         "string_id": "menu_achievement_any"
     },
     "menu_achievement_fetching_data": {
         "base_text": "fetching data...",
-        "loc_text": "fetching data...",
+        "loc_text": "กำลังดึงข้อมูล...",
         "string_id": "menu_achievement_fetching_data"
     },
     "menu_achievement_filter_off": {
         "base_text": "Disabled",
-        "loc_text": "Disabled",
+        "loc_text": "ปิดใช้งาน",
         "string_id": "menu_achievement_filter_off"
     },
     "menu_achievement_friends_unlocked": {
         "base_text": "$COUNT; FRIENDS UNLOCKED",
-        "loc_text": "$COUNT; FRIENDS UNLOCKED",
+        "loc_text": "$COUNT; เพื่อนที่ปลดล็อค",
         "string_id": "menu_achievement_friends_unlocked"
     },
     "menu_achievement_friends_unlocked_percent": {
         "base_text": "$COUNT;% friends unlocked",
-        "loc_text": "$COUNT;% friends unlocked",
+        "loc_text": "$COUNT;% เพื่อนที่ปลดล็อค",
         "string_id": "menu_achievement_friends_unlocked_percent"
     },
     "menu_achievement_global_unlocked_percent": {
         "base_text": "$COUNT;% global unlocked",
-        "loc_text": "$COUNT;% global unlocked",
+        "loc_text": "$COUNT;% ปลดล็อคทั่วโลก",
         "string_id": "menu_achievement_global_unlocked_percent"
     },
     "menu_achievement_none": {
         "base_text": "No tag",
-        "loc_text": "No tag",
+        "loc_text": "แท็กใดก็ได้",
         "string_id": "menu_achievement_none"
     },
     "menu_achievement_unlock_date": {
         "base_text": "Unlocked $DATE;",
-        "loc_text": "Unlocked $DATE;",
+        "loc_text": "ปลดล็อคเมื่อ $DATE;",
         "string_id": "menu_achievement_unlock_date"
     },
     "menu_achievements": {
@@ -531,12 +531,12 @@
     },
     "menu_achievements_contracts": {
         "base_text": "Contracts",
-        "loc_text": "Contracts",
+        "loc_text": "งานจ้าง",
         "string_id": "menu_achievements_contracts"
     },
     "menu_achievements_contracts_all": {
         "base_text": "All",
-        "loc_text": "All",
+        "loc_text": "ทั้งหมด",
         "string_id": "menu_achievements_contracts_all"
     },
     "menu_achievements_contracts_help": {
@@ -546,7 +546,7 @@
     },
     "menu_achievements_difficulty": {
         "base_text": "Difficulty",
-        "loc_text": "Difficulty",
+        "loc_text": "ระดับความยาก",
         "string_id": "menu_achievements_difficulty"
     },
     "menu_achievements_difficulty_help": {
@@ -556,22 +556,22 @@
     },
     "menu_achievements_filter_btn": {
         "base_text": "FILTERS $MY_BTN;",
-        "loc_text": "FILTERS $MY_BTN;",
+        "loc_text": "คัดกรอง $MY_BTN;",
         "string_id": "menu_achievements_filter_btn"
     },
     "menu_achievements_forced": {
         "base_text": "SHOW IN HUD: $CURRENT; / $MAX;",
-        "loc_text": "SHOW IN HUD: $CURRENT; / $MAX;",
+        "loc_text": "แสดงในหน้าแสดงผล: $CURRENT; / $MAX;",
         "string_id": "menu_achievements_forced"
     },
     "menu_achievements_help": {
         "base_text": "Track and view your achievements.",
-        "loc_text": "Track and view your achievements.",
+        "loc_text": "ติดตามและแสดงรางวัลความสำเร็จของคุณ",
         "string_id": "menu_achievements_help"
     },
     "menu_achievements_hide_ladder": {
         "base_text": "Hide ladder",
-        "loc_text": "Hide ladder",
+        "loc_text": "ซ่อนกระดาน",
         "string_id": "menu_achievements_hide_ladder"
     },
     "menu_achievements_hide_ladder_help": {
@@ -581,7 +581,7 @@
     },
     "menu_achievements_hide_unlocked": {
         "base_text": "Hide unlocked",
-        "loc_text": "Hide unlocked",
+        "loc_text": "ซ่อนที่ปลดล็อค",
         "string_id": "menu_achievements_hide_unlocked"
     },
     "menu_achievements_hide_unlocked_help": {
@@ -611,22 +611,22 @@
     },
     "menu_achievements_inventory_mask": {
         "base_text": "Mask",
-        "loc_text": "Mask",
+        "loc_text": "หน้ากาก",
         "string_id": "menu_achievements_inventory_mask"
     },
     "menu_achievements_inventory_skill": {
         "base_text": "Skill",
-        "loc_text": "Skill",
+        "loc_text": "สกิล",
         "string_id": "menu_achievements_inventory_skill"
     },
     "menu_achievements_inventory_weapon": {
         "base_text": "Weapon",
-        "loc_text": "Weapon",
+        "loc_text": "อาวุธ",
         "string_id": "menu_achievements_inventory_weapon"
     },
     "menu_achievements_progress": {
         "base_text": "Progress",
-        "loc_text": "Progress",
+        "loc_text": "ความคืบหน้า",
         "string_id": "menu_achievements_progress"
     },
     "menu_achievements_progress_beginner": {
