@@ -11356,7 +11356,7 @@
     },
     "hud_heist_short2_stage2b_12_hl": {
         "base_text": "Escape",
-        "loc_text": "Escape",
+        "loc_text": "หลบหนี",
         "string_id": "hud_heist_short2_stage2b_12_hl"
     },
     "hud_heist_short2_stage2b_13": {
@@ -13101,7 +13101,7 @@
     },
     "hud_int_take_crowbar": {
         "base_text": "Press $BTN_INTERACT; to take the crowbar",
-        "loc_text": "Press $BTN_INTERACT; to take the crowbar",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบชะแลง",
         "string_id": "hud_int_take_crowbar"
     },
     "hud_int_take_harddrive": {
@@ -13116,12 +13116,12 @@
     },
     "hud_int_take_jewelry": {
         "base_text": "Press $BTN_INTERACT; to take the jewelry",
-        "loc_text": "Press $BTN_INTERACT; to take the jewelry",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบเครื่องเพชร",
         "string_id": "hud_int_take_jewelry"
     },
     "hud_int_take_thermite_paste": {
         "base_text": "Press $BTN_INTERACT; to take the thermite paste",
-        "loc_text": "Press $BTN_INTERACT; to take the thermite paste",
+        "loc_text": "กด $BTN_INTERACT; to take the thermite paste",
         "string_id": "hud_int_take_thermite_paste"
     },
     "hud_int_take_weapons": {

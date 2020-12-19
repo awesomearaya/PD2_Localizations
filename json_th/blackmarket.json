@@ -1846,7 +1846,7 @@
     },
     "bm_menu_armor": {
         "base_text": "Armor",
-        "loc_text": "Armor",
+        "loc_text": "เกราะ",
         "string_id": "bm_menu_armor"
     },
     "bm_menu_armor_skins": {
@@ -1856,7 +1856,7 @@
     },
     "bm_menu_armors": {
         "base_text": "Armor",
-        "loc_text": "Armor",
+        "loc_text": "เกราะ",
         "string_id": "bm_menu_armors"
     },
     "bm_menu_barrel": {
@@ -1886,7 +1886,7 @@
     },
     "bm_menu_blackmarket_title": {
         "base_text": "Blackmarket: $item;",
-        "loc_text": "Blackmarket: $item;",
+        "loc_text": "ตลาดมืด: $item;",
         "string_id": "bm_menu_blackmarket_title"
     },
     "bm_menu_bonus": {
@@ -1896,7 +1896,7 @@
     },
     "bm_menu_bonus_concealment": {
         "base_text": "Concealment",
-        "loc_text": "Concealment",
+        "loc_text": "การปกปิด",
         "string_id": "bm_menu_bonus_concealment"
     },
     "bm_menu_bonus_damage": {
@@ -2386,7 +2386,7 @@
     },
     "bm_menu_inventory_tradable_armor_skins": {
         "base_text": "Armor Skins",
-        "loc_text": "Armor Skins",
+        "loc_text": "สกินเกราะ",
         "string_id": "bm_menu_inventory_tradable_armor_skins"
     },
     "bm_menu_inventory_tradable_weapon_skins": {
@@ -2486,7 +2486,7 @@
     },
     "bm_menu_outfits": {
         "base_text": "Armor & Outfits",
-        "loc_text": "Armor & Outfits",
+        "loc_text": "เกราะและชุด",
         "string_id": "bm_menu_outfits"
     },
     "bm_menu_page": {
