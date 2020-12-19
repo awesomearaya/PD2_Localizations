@@ -56,7 +56,7 @@
     },
     "cn_menu_community": {
         "base_text": "Community",
-        "loc_text": "คอมมูนิตี้",
+        "loc_text": "ศูนย์กลางชุมชน",
         "string_id": "cn_menu_community"
     },
     "cn_menu_contract_header": {
@@ -10091,7 +10091,7 @@
     },
     "menu_visit_community": {
         "base_text": "Community",
-        "loc_text": "คอมมูนิตี้",
+        "loc_text": "ศูนย์กลางชุมชน",
         "string_id": "menu_visit_community"
     },
     "menu_visit_community_help": {

@@ -1891,7 +1891,7 @@
     },
     "bm_menu_bonus": {
         "base_text": "Boost",
-        "loc_text": "Boost",
+        "loc_text": "บูสต์",
         "string_id": "bm_menu_bonus"
     },
     "bm_menu_bonus_concealment": {
@@ -1901,7 +1901,7 @@
     },
     "bm_menu_bonus_damage": {
         "base_text": "Damage",
-        "loc_text": "Damage",
+        "loc_text": "ความเสียหาย",
         "string_id": "bm_menu_bonus_damage"
     },
     "bm_menu_bonus_recoil": {
@@ -1911,37 +1911,37 @@
     },
     "bm_menu_bonus_spread": {
         "base_text": "Accuracy",
-        "loc_text": "Accuracy",
+        "loc_text": "ความแม่นยำ",
         "string_id": "bm_menu_bonus_spread"
     },
     "bm_menu_bonus_total_ammo": {
         "base_text": "Total Ammo",
-        "loc_text": "Total Ammo",
+        "loc_text": "กระสุนทั้งหมด",
         "string_id": "bm_menu_bonus_total_ammo"
     },
     "bm_menu_btn_buy_new_mask": {
         "base_text": "Buy new mask",
-        "loc_text": "Buy new mask",
+        "loc_text": "ซื้อหน้ากากใหม่",
         "string_id": "bm_menu_btn_buy_new_mask"
     },
     "bm_menu_btn_buy_new_weapon": {
         "base_text": "Buy new weapon",
-        "loc_text": "Buy new weapon",
+        "loc_text": "ซื้ออาวุธใหม่",
         "string_id": "bm_menu_btn_buy_new_weapon"
     },
     "bm_menu_btn_buy_selected_mask": {
         "base_text": "Assemble mask",
-        "loc_text": "Assemble mask",
+        "loc_text": "ประกอบหน้ากาก",
         "string_id": "bm_menu_btn_buy_selected_mask"
     },
     "bm_menu_btn_buy_selected_weapon": {
         "base_text": "Buy weapon",
-        "loc_text": "Buy weapon",
+        "loc_text": "ซื้ออาวุธ",
         "string_id": "bm_menu_btn_buy_selected_weapon"
     },
     "bm_menu_btn_buy_tradable": {
         "base_text": "Purchase On Community Market",
-        "loc_text": "Purchase On Community Market",
+        "loc_text": "ซื้อบนตลาดชุมชน",
         "string_id": "bm_menu_btn_buy_tradable"
     },
     "bm_menu_btn_clear_mod_preview": {
