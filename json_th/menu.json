@@ -10161,7 +10161,7 @@
     },
     "menu_waiting_is_ready": {
         "base_text": "READY",
-        "loc_text": "พร้อมจะลุยมานานแล้ว",
+        "loc_text": "พร้อม",
         "string_id": "menu_waiting_is_ready"
     },
     "menu_waiting_peer_info": {
