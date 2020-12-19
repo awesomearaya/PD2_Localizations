@@ -6586,7 +6586,7 @@
     },
     "menu_leave_lobby": {
         "base_text": "LEAVE THIS LOBBY",
-        "loc_text": "LEAVE THIS LOBBY",
+        "loc_text": "ออกจากล็อบบี้นี้",
         "string_id": "menu_leave_lobby"
     },
     "menu_legend_achievements_all_btn": {
@@ -7216,7 +7216,7 @@
     },
     "menu_players_list": {
         "base_text": "Player List",
-        "loc_text": "Player List",
+        "loc_text": "รายชื่อผู้เล่น",
         "string_id": "menu_players_list"
     },
     "menu_players_list_ban": {
@@ -9336,12 +9336,12 @@
     },
     "menu_stageendscreen_speed_up": {
         "base_text": "Hold $BTN_SPEED; to speed up",
-        "loc_text": "Hold $BTN_SPEED; to speed up",
+        "loc_text": "กด $BTN_SPEED; เพื่อเร่งความเร็ว",
         "string_id": "menu_stageendscreen_speed_up"
     },
     "menu_start_the_game": {
         "base_text": "START THE HEIST",
-        "loc_text": "START THE HEIST",
+        "loc_text": "เริ่มงานจ้าง",
         "string_id": "menu_start_the_game"
     },
     "menu_stat_job_completed": {
