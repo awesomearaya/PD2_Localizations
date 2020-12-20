@@ -686,7 +686,7 @@
     },
     "hud_body_bags": {
         "base_text": "Body bags",
-        "loc_text": "Body bags",
+        "loc_text": "กระเป๋าศพ",
         "string_id": "hud_body_bags"
     },
     "hud_cam_access_camera_framing3_painting": {
@@ -12551,7 +12551,7 @@
     },
     "hud_instant_cash": {
         "base_text": "Instant cash",
-        "loc_text": "Instant cash",
+        "loc_text": "เงินสด",
         "string_id": "hud_instant_cash"
     },
     "hud_instruct_finish_arrest": {
@@ -13166,7 +13166,7 @@
     },
     "hud_objective": {
         "base_text": "Objective:",
-        "loc_text": "Objective:",
+        "loc_text": "เป้าหมาย:",
         "string_id": "hud_objective"
     },
     "hud_objective_reminder": {

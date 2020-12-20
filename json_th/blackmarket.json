@@ -1896,7 +1896,7 @@
     },
     "bm_menu_bonus_concealment": {
         "base_text": "Concealment",
-        "loc_text": "การปกปิด",
+        "loc_text": "ค่าปกปิด",
         "string_id": "bm_menu_bonus_concealment"
     },
     "bm_menu_bonus_damage": {
@@ -2271,7 +2271,7 @@
     },
     "bm_menu_damage_shake": {
         "base_text": "Steadiness",
-        "loc_text": "Steadiness",
+        "loc_text": "ความมั่นคง",
         "string_id": "bm_menu_damage_shake"
     },
     "bm_menu_deployables": {
@@ -2296,7 +2296,7 @@
     },
     "bm_menu_dodge": {
         "base_text": "Dodge",
-        "loc_text": "Dodge",
+        "loc_text": "ค่าหลบหลีก",
         "string_id": "bm_menu_dodge"
     },
     "bm_menu_empty_mask_slot": {
@@ -2371,12 +2371,12 @@
     },
     "bm_menu_health": {
         "base_text": "Health",
-        "loc_text": "Health",
+        "loc_text": "เลือด",
         "string_id": "bm_menu_health"
     },
     "bm_menu_holding_item": {
         "base_text": "Moving",
-        "loc_text": "Moving",
+        "loc_text": "ย้าย",
         "string_id": "bm_menu_holding_item"
     },
     "bm_menu_inventory_tradable_all": {
@@ -2471,7 +2471,7 @@
     },
     "bm_menu_movement": {
         "base_text": "Speed",
-        "loc_text": "Speed",
+        "loc_text": "ความเร็ว",
         "string_id": "bm_menu_movement"
     },
     "bm_menu_no_items": {
@@ -2796,12 +2796,12 @@
     },
     "bm_menu_stamina": {
         "base_text": "Stamina",
-        "loc_text": "Stamina",
+        "loc_text": "ค่าความเหนื่อย",
         "string_id": "bm_menu_stamina"
     },
     "bm_menu_stats_base": {
         "base_text": "Base",
-        "loc_text": "Base",
+        "loc_text": "พื้นฐาน",
         "string_id": "bm_menu_stats_base"
     },
     "bm_menu_stats_detection": {
@@ -2821,17 +2821,17 @@
     },
     "bm_menu_stats_mod": {
         "base_text": "Mod",
-        "loc_text": "Mod",
+        "loc_text": "การปรับแต่ง",
         "string_id": "bm_menu_stats_mod"
     },
     "bm_menu_stats_skill": {
         "base_text": "Skill",
-        "loc_text": "Skill",
+        "loc_text": "สกิล",
         "string_id": "bm_menu_stats_skill"
     },
     "bm_menu_stats_total": {
         "base_text": "Total",
-        "loc_text": "Total",
+        "loc_text": "ทั้งหมด",
         "string_id": "bm_menu_stats_total"
     },
     "bm_menu_steam_item_name": {
@@ -2841,12 +2841,12 @@
     },
     "bm_menu_steam_item_quality": {
         "base_text": "Quality: ##$quality;##",
-        "loc_text": "Quality: ##$quality;##",
+        "loc_text": "คุณภาพ: ##$quality;##",
         "string_id": "bm_menu_steam_item_quality"
     },
     "bm_menu_steam_item_rarity": {
         "base_text": "Rarity: ##$rarity;##",
-        "loc_text": "Rarity: ##$rarity;##",
+        "loc_text": "ความหายาก: ##$rarity;##",
         "string_id": "bm_menu_steam_item_rarity"
     },
     "bm_menu_stock": {
@@ -2866,7 +2866,7 @@
     },
     "bm_menu_suppression": {
         "base_text": "Threat",
-        "loc_text": "Threat",
+        "loc_text": "ค่าข่มขู่",
         "string_id": "bm_menu_suppression"
     },
     "bm_menu_textures": {
