@@ -1846,7 +1846,7 @@
     },
     "bm_menu_armor": {
         "base_text": "Armor",
-        "loc_text": "Armor",
+        "loc_text": "เกราะ",
         "string_id": "bm_menu_armor"
     },
     "bm_menu_armor_skins": {
@@ -1856,7 +1856,7 @@
     },
     "bm_menu_armors": {
         "base_text": "Armor",
-        "loc_text": "Armor",
+        "loc_text": "เกราะ",
         "string_id": "bm_menu_armors"
     },
     "bm_menu_barrel": {
@@ -1886,22 +1886,22 @@
     },
     "bm_menu_blackmarket_title": {
         "base_text": "Blackmarket: $item;",
-        "loc_text": "Blackmarket: $item;",
+        "loc_text": "ตลาดมืด: $item;",
         "string_id": "bm_menu_blackmarket_title"
     },
     "bm_menu_bonus": {
         "base_text": "Boost",
-        "loc_text": "Boost",
+        "loc_text": "บูสต์",
         "string_id": "bm_menu_bonus"
     },
     "bm_menu_bonus_concealment": {
         "base_text": "Concealment",
-        "loc_text": "Concealment",
+        "loc_text": "ค่าปกปิด",
         "string_id": "bm_menu_bonus_concealment"
     },
     "bm_menu_bonus_damage": {
         "base_text": "Damage",
-        "loc_text": "Damage",
+        "loc_text": "ความเสียหาย",
         "string_id": "bm_menu_bonus_damage"
     },
     "bm_menu_bonus_recoil": {
@@ -1911,37 +1911,37 @@
     },
     "bm_menu_bonus_spread": {
         "base_text": "Accuracy",
-        "loc_text": "Accuracy",
+        "loc_text": "ความแม่นยำ",
         "string_id": "bm_menu_bonus_spread"
     },
     "bm_menu_bonus_total_ammo": {
         "base_text": "Total Ammo",
-        "loc_text": "Total Ammo",
+        "loc_text": "กระสุนทั้งหมด",
         "string_id": "bm_menu_bonus_total_ammo"
     },
     "bm_menu_btn_buy_new_mask": {
         "base_text": "Buy new mask",
-        "loc_text": "Buy new mask",
+        "loc_text": "ซื้อหน้ากากใหม่",
         "string_id": "bm_menu_btn_buy_new_mask"
     },
     "bm_menu_btn_buy_new_weapon": {
         "base_text": "Buy new weapon",
-        "loc_text": "Buy new weapon",
+        "loc_text": "ซื้ออาวุธใหม่",
         "string_id": "bm_menu_btn_buy_new_weapon"
     },
     "bm_menu_btn_buy_selected_mask": {
         "base_text": "Assemble mask",
-        "loc_text": "Assemble mask",
+        "loc_text": "ประกอบหน้ากาก",
         "string_id": "bm_menu_btn_buy_selected_mask"
     },
     "bm_menu_btn_buy_selected_weapon": {
         "base_text": "Buy weapon",
-        "loc_text": "Buy weapon",
+        "loc_text": "ซื้ออาวุธ",
         "string_id": "bm_menu_btn_buy_selected_weapon"
     },
     "bm_menu_btn_buy_tradable": {
         "base_text": "Purchase On Community Market",
-        "loc_text": "Purchase On Community Market",
+        "loc_text": "ซื้อบนตลาดชุมชน",
         "string_id": "bm_menu_btn_buy_tradable"
     },
     "bm_menu_btn_clear_mod_preview": {
@@ -2271,7 +2271,7 @@
     },
     "bm_menu_damage_shake": {
         "base_text": "Steadiness",
-        "loc_text": "Steadiness",
+        "loc_text": "ความมั่นคง",
         "string_id": "bm_menu_damage_shake"
     },
     "bm_menu_deployables": {
@@ -2296,7 +2296,7 @@
     },
     "bm_menu_dodge": {
         "base_text": "Dodge",
-        "loc_text": "Dodge",
+        "loc_text": "ค่าหลบหลีก",
         "string_id": "bm_menu_dodge"
     },
     "bm_menu_empty_mask_slot": {
@@ -2371,12 +2371,12 @@
     },
     "bm_menu_health": {
         "base_text": "Health",
-        "loc_text": "Health",
+        "loc_text": "เลือด",
         "string_id": "bm_menu_health"
     },
     "bm_menu_holding_item": {
         "base_text": "Moving",
-        "loc_text": "Moving",
+        "loc_text": "ย้าย",
         "string_id": "bm_menu_holding_item"
     },
     "bm_menu_inventory_tradable_all": {
@@ -2386,7 +2386,7 @@
     },
     "bm_menu_inventory_tradable_armor_skins": {
         "base_text": "Armor Skins",
-        "loc_text": "Armor Skins",
+        "loc_text": "สกินเกราะ",
         "string_id": "bm_menu_inventory_tradable_armor_skins"
     },
     "bm_menu_inventory_tradable_weapon_skins": {
@@ -2471,7 +2471,7 @@
     },
     "bm_menu_movement": {
         "base_text": "Speed",
-        "loc_text": "Speed",
+        "loc_text": "ความเร็ว",
         "string_id": "bm_menu_movement"
     },
     "bm_menu_no_items": {
@@ -2486,7 +2486,7 @@
     },
     "bm_menu_outfits": {
         "base_text": "Armor & Outfits",
-        "loc_text": "Armor & Outfits",
+        "loc_text": "เกราะและชุด",
         "string_id": "bm_menu_outfits"
     },
     "bm_menu_page": {
@@ -2796,12 +2796,12 @@
     },
     "bm_menu_stamina": {
         "base_text": "Stamina",
-        "loc_text": "Stamina",
+        "loc_text": "ค่าความเหนื่อย",
         "string_id": "bm_menu_stamina"
     },
     "bm_menu_stats_base": {
         "base_text": "Base",
-        "loc_text": "Base",
+        "loc_text": "พื้นฐาน",
         "string_id": "bm_menu_stats_base"
     },
     "bm_menu_stats_detection": {
@@ -2821,17 +2821,17 @@
     },
     "bm_menu_stats_mod": {
         "base_text": "Mod",
-        "loc_text": "Mod",
+        "loc_text": "การปรับแต่ง",
         "string_id": "bm_menu_stats_mod"
     },
     "bm_menu_stats_skill": {
         "base_text": "Skill",
-        "loc_text": "Skill",
+        "loc_text": "สกิล",
         "string_id": "bm_menu_stats_skill"
     },
     "bm_menu_stats_total": {
         "base_text": "Total",
-        "loc_text": "Total",
+        "loc_text": "ทั้งหมด",
         "string_id": "bm_menu_stats_total"
     },
     "bm_menu_steam_item_name": {
@@ -2841,12 +2841,12 @@
     },
     "bm_menu_steam_item_quality": {
         "base_text": "Quality: ##$quality;##",
-        "loc_text": "Quality: ##$quality;##",
+        "loc_text": "คุณภาพ: ##$quality;##",
         "string_id": "bm_menu_steam_item_quality"
     },
     "bm_menu_steam_item_rarity": {
         "base_text": "Rarity: ##$rarity;##",
-        "loc_text": "Rarity: ##$rarity;##",
+        "loc_text": "ความหายาก: ##$rarity;##",
         "string_id": "bm_menu_steam_item_rarity"
     },
     "bm_menu_stock": {
@@ -2866,7 +2866,7 @@
     },
     "bm_menu_suppression": {
         "base_text": "Threat",
-        "loc_text": "Threat",
+        "loc_text": "ค่าข่มขู่",
         "string_id": "bm_menu_suppression"
     },
     "bm_menu_textures": {

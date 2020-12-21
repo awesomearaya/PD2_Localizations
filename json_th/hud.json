@@ -686,7 +686,7 @@
     },
     "hud_body_bags": {
         "base_text": "Body bags",
-        "loc_text": "Body bags",
+        "loc_text": "กระเป๋าศพ",
         "string_id": "hud_body_bags"
     },
     "hud_cam_access_camera_framing3_painting": {
@@ -11356,7 +11356,7 @@
     },
     "hud_heist_short2_stage2b_12_hl": {
         "base_text": "Escape",
-        "loc_text": "Escape",
+        "loc_text": "หลบหนี",
         "string_id": "hud_heist_short2_stage2b_12_hl"
     },
     "hud_heist_short2_stage2b_13": {
@@ -12551,7 +12551,7 @@
     },
     "hud_instant_cash": {
         "base_text": "Instant cash",
-        "loc_text": "Instant cash",
+        "loc_text": "เงินสด",
         "string_id": "hud_instant_cash"
     },
     "hud_instruct_finish_arrest": {
@@ -13101,7 +13101,7 @@
     },
     "hud_int_take_crowbar": {
         "base_text": "Press $BTN_INTERACT; to take the crowbar",
-        "loc_text": "Press $BTN_INTERACT; to take the crowbar",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบชะแลง",
         "string_id": "hud_int_take_crowbar"
     },
     "hud_int_take_harddrive": {
@@ -13116,12 +13116,12 @@
     },
     "hud_int_take_jewelry": {
         "base_text": "Press $BTN_INTERACT; to take the jewelry",
-        "loc_text": "Press $BTN_INTERACT; to take the jewelry",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบเครื่องเพชร",
         "string_id": "hud_int_take_jewelry"
     },
     "hud_int_take_thermite_paste": {
         "base_text": "Press $BTN_INTERACT; to take the thermite paste",
-        "loc_text": "Press $BTN_INTERACT; to take the thermite paste",
+        "loc_text": "กด $BTN_INTERACT; to take the thermite paste",
         "string_id": "hud_int_take_thermite_paste"
     },
     "hud_int_take_weapons": {
@@ -13166,7 +13166,7 @@
     },
     "hud_objective": {
         "base_text": "Objective:",
-        "loc_text": "Objective:",
+        "loc_text": "เป้าหมาย:",
         "string_id": "hud_objective"
     },
     "hud_objective_reminder": {
@@ -13596,22 +13596,22 @@
     },
     "hud_skm_1_hl": {
         "base_text": "Defend the hostage",
-        "loc_text": "Defend the hostage",
+        "loc_text": "ป้องกันตัวประกัน",
         "string_id": "hud_skm_1_hl"
     },
     "hud_skm_2": {
         "base_text": "Trade the hostage for the current ransom or hold out for more!",
-        "loc_text": "Trade the hostage for the current ransom or hold out for more!",
+        "loc_text": "แลกเปลี่ยนตัวประกันสำหรับค่าไถ่ปัจจุบันหรือยื้อต่อเพื่อค่าไถ่ที่สูงกว่า",
         "string_id": "hud_skm_2"
     },
     "hud_skm_2_hl": {
         "base_text": "Trade or hold out",
-        "loc_text": "Trade or hold out",
+        "loc_text": "แลกเปลี่ยนหรือยื้อต่อ",
         "string_id": "hud_skm_2_hl"
     },
     "hud_starting_heist": {
         "base_text": "Preparing mask",
-        "loc_text": "Preparing mask",
+        "loc_text": "เตรียมหน้ากาก",
         "string_id": "hud_starting_heist"
     },
     "hud_stats_bags_secured": {
@@ -13621,32 +13621,32 @@
     },
     "hud_stats_enemies_converted": {
         "base_text": "JOKERS CONTROLLED",
-        "loc_text": "JOKERS CONTROLLED",
+        "loc_text": "ควบคุมโดย JOKERS",
         "string_id": "hud_stats_enemies_converted"
     },
     "hud_stats_pagers_used": {
         "base_text": "PAGERS USED",
-        "loc_text": "PAGERS USED",
+        "loc_text": "เพจเจอร์ที่ใช้แล้ว",
         "string_id": "hud_stats_pagers_used"
     },
     "hud_suspicion_detected": {
         "base_text": "Detected",
-        "loc_text": "Detected",
+        "loc_text": "ถูกตรวจพบ",
         "string_id": "hud_suspicion_detected"
     },
     "hud_take_usb_key": {
         "base_text": "Press $BTN_INTERACT; to take the USB stick",
-        "loc_text": "Press $BTN_INTERACT; to take the USB stick",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบแฟลชไดร์ฟ",
         "string_id": "hud_take_usb_key"
     },
     "hud_trade_delay": {
         "base_text": "Trade delay: $TIME;",
-        "loc_text": "Trade delay: $TIME;",
+        "loc_text": "ความล่าช้าการแลกเปลี่ยน: $TIME;",
         "string_id": "hud_trade_delay"
     },
     "hud_uncuffed_in": {
         "base_text": "Uncuffed in",
-        "loc_text": "Uncuffed in",
+        "loc_text": "ปลดล็อคภายใน",
         "string_id": "hud_uncuffed_in"
     },
     "hud_v_airport_mission1": {
