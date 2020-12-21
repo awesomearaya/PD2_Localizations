@@ -29,5 +29,6 @@
       "heist": [
          "heist.xml"
       ]
-   }
+   },
+   "CustomString_ID" : {}
 }

@@ -1081,92 +1081,92 @@
     },
     "menu_asset_buy_all_req_skill": {
         "base_text": "##Requires Sixth Sense Aced##",
-        "loc_text": "##Requires Sixth Sense Aced##",
+        "loc_text": "##ต้องการสกิล Sixth Sense เอซ##",
         "string_id": "menu_asset_buy_all_req_skill"
     },
     "menu_asset_election1_keycard": {
         "base_text": "Security Access",
-        "loc_text": "Security Access",
+        "loc_text": "การเข้าถึงระบบรักษาความปลอดภัย",
         "string_id": "menu_asset_election1_keycard"
     },
     "menu_asset_election2_keycard": {
         "base_text": "Extra Keycard",
-        "loc_text": "Extra Keycard",
+        "loc_text": "คีย์การ์ดเพิ่มเติม",
         "string_id": "menu_asset_election2_keycard"
     },
     "menu_asset_election2_ladder": {
         "base_text": "Warehouse Ladder",
-        "loc_text": "Warehouse Ladder",
+        "loc_text": "บันไดโกดัง",
         "string_id": "menu_asset_election2_ladder"
     },
     "menu_asset_gage_assignment": {
         "base_text": "Gage Courier Packages",
-        "loc_text": "Gage Courier Packages",
+        "loc_text": "แพกแกจ Gage Courier",
         "string_id": "menu_asset_gage_assignment"
     },
     "menu_asset_grenade_crate": {
         "base_text": "Grenade Case",
-        "loc_text": "Grenade Case",
+        "loc_text": "กระเป๋าระเบิด",
         "string_id": "menu_asset_grenade_crate"
     },
     "menu_asset_health": {
         "base_text": "Doctor Bag",
-        "loc_text": "Doctor Bag",
+        "loc_text": "กระเป๋าพยาบาล",
         "string_id": "menu_asset_health"
     },
     "menu_asset_lights": {
         "base_text": "Floodlights",
-        "loc_text": "Floodlights",
+        "loc_text": "ไฟสปอร์ตไลท์",
         "string_id": "menu_asset_lights"
     },
     "menu_asset_lock_additional_assets": {
         "base_text": "Requires the Sixth Sense Aced skill to unlock",
-        "loc_text": "Requires the Sixth Sense Aced skill to unlock",
+        "loc_text": "ต้องการสกิล Sixth Sense เอซเพื่อปลดล็อค",
         "string_id": "menu_asset_lock_additional_assets"
     },
     "menu_asset_lock_buy_bodybags_asset": {
         "base_text": "Requires the Sixth Sense Aced skill to unlock",
-        "loc_text": "Requires the Sixth Sense Aced skill to unlock",
+        "loc_text": "ต้องการสกิล Sixth Sense เอซเพื่อปลดล็อค",
         "string_id": "menu_asset_lock_buy_bodybags_asset"
     },
     "menu_asset_lock_buy_spotter_asset": {
         "base_text": "Requires the Sixth Sense Aced skill to unlock",
-        "loc_text": "Requires the Sixth Sense Aced skill to unlock",
+        "loc_text": "ต้องการสกิล Sixth Sense เอซเพื่อปลดล็อค",
         "string_id": "menu_asset_lock_buy_spotter_asset"
     },
     "menu_asset_risklevel_0": {
         "base_text": "Low Risk Level",
-        "loc_text": "Low Risk Level",
+        "loc_text": "ระดับความเสี่ยงต่ำ",
         "string_id": "menu_asset_risklevel_0"
     },
     "menu_asset_risklevel_6": {
         "base_text": "Risk Level VI",
-        "loc_text": "Risk Level VI",
+        "loc_text": "ระดับความเสี่ยงที่ 6",
         "string_id": "menu_asset_risklevel_6"
     },
     "menu_asset_roberts_pilot": {
         "base_text": "Ace Pilot",
-        "loc_text": "Ace Pilot",
+        "loc_text": "นักบินเอซ",
         "string_id": "menu_asset_roberts_pilot"
     },
     "menu_asset_roberts_plan_a": {
         "base_text": "Plan A",
-        "loc_text": "Plan A",
+        "loc_text": "แผน A",
         "string_id": "menu_asset_roberts_plan_a"
     },
     "menu_asset_safe_escape": {
         "base_text": "Expert Driver",
-        "loc_text": "Expert Driver",
+        "loc_text": "คนขับรถฝีมือดี",
         "string_id": "menu_asset_safe_escape"
     },
     "menu_asset_safe_escape_desc": {
         "base_text": "This driver will make sure that you successfully escape from the heist",
-        "loc_text": "This driver will make sure that you successfully escape from the heist",
+        "loc_text": "คนขับรถฝีมือดีนั้นจะทำให้คุณสามารถหนีจากสภานที่ภารกิจได้อย่างแน่นอน",
         "string_id": "menu_asset_safe_escape_desc"
     },
     "menu_asset_sniper": {
         "base_text": "Sniper",
-        "loc_text": "Sniper",
+        "loc_text": "สไนเปอร์",
         "string_id": "menu_asset_sniper"
     },
     "menu_asset_sniper_desc": {
@@ -1176,27 +1176,27 @@
     },
     "menu_asset_sniper_spot": {
         "base_text": "Vantage Point",
-        "loc_text": "Vantage Point",
+        "loc_text": "จุดสอดแนม",
         "string_id": "menu_asset_sniper_spot"
     },
     "menu_asset_spotter": {
         "base_text": "Spotter",
-        "loc_text": "Spotter",
+        "loc_text": "ผู้สอดแนม",
         "string_id": "menu_asset_spotter"
     },
     "menu_asset_spycam": {
         "base_text": "Spycam",
-        "loc_text": "Spycam",
+        "loc_text": "กล้องลับ",
         "string_id": "menu_asset_spycam"
     },
     "menu_asset_spycam_desc": {
         "base_text": "Plant a tiny spycam that tags enemies. Just like the spotter, only more high tech.",
-        "loc_text": "Plant a tiny spycam that tags enemies. Just like the spotter, only more high tech.",
+        "loc_text": "วางกล้องลับเพื่อทำการแท็กศัตรูเหมือนแบบผู้สอดแนมแต่ดูหรูกว่า",
         "string_id": "menu_asset_spycam_desc"
     },
     "menu_assets": {
         "base_text": "Assets",
-        "loc_text": "Assets",
+        "loc_text": "อุปกรณ์",
         "string_id": "menu_assets"
     },
     "menu_awareness_beta": {
