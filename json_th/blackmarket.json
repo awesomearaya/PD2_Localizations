@@ -1836,12 +1836,12 @@
     },
     "bm_menu_ammo": {
         "base_text": "Ammunition",
-        "loc_text": "Ammunition",
+        "loc_text": "กระสุน",
         "string_id": "bm_menu_ammo"
     },
     "bm_menu_ammo_plural": {
         "base_text": "Ammo Types",
-        "loc_text": "Ammo Types",
+        "loc_text": "ชนิดกระสุน",
         "string_id": "bm_menu_ammo_plural"
     },
     "bm_menu_armor": {
@@ -1851,7 +1851,7 @@
     },
     "bm_menu_armor_skins": {
         "base_text": "Armor Skin",
-        "loc_text": "Armor Skin",
+        "loc_text": "สกินเกราะ",
         "string_id": "bm_menu_armor_skins"
     },
     "bm_menu_armors": {
@@ -1861,12 +1861,12 @@
     },
     "bm_menu_barrel": {
         "base_text": "Barrel",
-        "loc_text": "Barrel",
+        "loc_text": "ปากกระบอก",
         "string_id": "bm_menu_barrel"
     },
     "bm_menu_barrel_ext": {
         "base_text": "Barrel Ext",
-        "loc_text": "Barrel Ext",
+        "loc_text": "เสริมปากกระบอก",
         "string_id": "bm_menu_barrel_ext"
     },
     "bm_menu_barrel_ext_plural": {
@@ -1896,7 +1896,7 @@
     },
     "bm_menu_bonus_concealment": {
         "base_text": "Concealment",
-        "loc_text": "ค่าปกปิด",
+        "loc_text": "การปกปิด",
         "string_id": "bm_menu_bonus_concealment"
     },
     "bm_menu_bonus_damage": {
@@ -1906,7 +1906,7 @@
     },
     "bm_menu_bonus_recoil": {
         "base_text": "Stability",
-        "loc_text": "Stability",
+        "loc_text": "ความนิ่ง",
         "string_id": "bm_menu_bonus_recoil"
     },
     "bm_menu_bonus_spread": {
@@ -1956,17 +1956,17 @@
     },
     "bm_menu_btn_craft_mod": {
         "base_text": "Craft modification",
-        "loc_text": "Craft modification",
+        "loc_text": "สร้าง อุปกรณ์ปรับแต่ง",
         "string_id": "bm_menu_btn_craft_mod"
     },
     "bm_menu_btn_customize_armor": {
         "base_text": "Customize Armor",
-        "loc_text": "Customize Armor",
+        "loc_text": "ปรับแต่งเกราะ",
         "string_id": "bm_menu_btn_customize_armor"
     },
     "bm_menu_btn_customize_gadget": {
         "base_text": "Customize Gadget",
-        "loc_text": "Customize Gadget",
+        "loc_text": "ปรับแต่งแกดเจ็ต",
         "string_id": "bm_menu_btn_customize_gadget"
     },
     "bm_menu_btn_customize_player_style": {
@@ -2026,42 +2026,42 @@
     },
     "bm_menu_btn_equip_weapon_cosmetic": {
         "base_text": "Apply skin",
-        "loc_text": "Apply skin",
+        "loc_text": "ใช้งานสกิน",
         "string_id": "bm_menu_btn_equip_weapon_cosmetic"
     },
     "bm_menu_btn_mod": {
         "base_text": "Modify weapon",
-        "loc_text": "Modify weapon",
+        "loc_text": "ปรับแต่งอาวุธ",
         "string_id": "bm_menu_btn_mod"
     },
     "bm_menu_btn_mod_mask": {
         "base_text": "Customize mask",
-        "loc_text": "Customize mask",
+        "loc_text": "ปรับแต่งหน้ากาก",
         "string_id": "bm_menu_btn_mod_mask"
     },
     "bm_menu_btn_move_mask": {
         "base_text": "Move Mask",
-        "loc_text": "Move Mask",
+        "loc_text": "ย้ายหน้ากาก",
         "string_id": "bm_menu_btn_move_mask"
     },
     "bm_menu_btn_move_weapon": {
         "base_text": "Move Weapon",
-        "loc_text": "Move Weapon",
+        "loc_text": "ย้ายอาวุธ",
         "string_id": "bm_menu_btn_move_weapon"
     },
     "bm_menu_btn_place_weapon": {
         "base_text": "Place Weapon",
-        "loc_text": "Place Weapon",
+        "loc_text": "วางอาวุธ",
         "string_id": "bm_menu_btn_place_weapon"
     },
     "bm_menu_btn_preview": {
         "base_text": "Preview weapon",
-        "loc_text": "Preview weapon",
+        "loc_text": "ดูตัวอย่างอาวุธ",
         "string_id": "bm_menu_btn_preview"
     },
     "bm_menu_btn_preview_armor_skin": {
         "base_text": "Preview Skin",
-        "loc_text": "Preview Skin",
+        "loc_text": "ดูตัวอย่างสกิน",
         "string_id": "bm_menu_btn_preview_armor_skin"
     },
     "bm_menu_btn_preview_gloves": {
@@ -2086,7 +2086,7 @@
     },
     "bm_menu_btn_preview_no_mod": {
         "base_text": "Preview weapon without mod",
-        "loc_text": "Preview weapon without mod",
+        "loc_text": "แสดงตัวอย่างอาวุธแบบปรับแต่ง",
         "string_id": "bm_menu_btn_preview_no_mod"
     },
     "bm_menu_btn_preview_player_style": {
@@ -2101,12 +2101,12 @@
     },
     "bm_menu_btn_preview_weapon_cosmetic": {
         "base_text": "Preview Weapon Skin",
-        "loc_text": "Preview Weapon Skin",
+        "loc_text": "แสดงตัวอย่างสกินอาวุธ",
         "string_id": "bm_menu_btn_preview_weapon_cosmetic"
     },
     "bm_menu_btn_preview_with_mod": {
         "base_text": "Preview weapon with mod",
-        "loc_text": "Preview weapon with mod",
+        "loc_text": "แสดงตัวอย่างอาวุธกับการปรับแต่ง",
         "string_id": "bm_menu_btn_preview_with_mod"
     },
     "bm_menu_btn_remove_mask": {
@@ -2116,7 +2116,7 @@
     },
     "bm_menu_btn_remove_mod": {
         "base_text": "Remove modification",
-        "loc_text": "Remove modification",
+        "loc_text": "ลบการปรับแต่ง",
         "string_id": "bm_menu_btn_remove_mod"
     },
     "bm_menu_btn_remove_weapon_cosmetic": {
@@ -2201,17 +2201,17 @@
     },
     "bm_menu_buy_weapon_title": {
         "base_text": "Buy $weapon_category;",
-        "loc_text": "Buy $weapon_category;",
+        "loc_text": "ซื้อ $weapon_category;",
         "string_id": "bm_menu_buy_weapon_title"
     },
     "bm_menu_cash": {
         "base_text": "Cash bonus",
-        "loc_text": "Cash bonus",
+        "loc_text": "โบนัสเงินสด",
         "string_id": "bm_menu_cash"
     },
     "bm_menu_characters": {
         "base_text": "Character",
-        "loc_text": "Character",
+        "loc_text": "ตัวละคร",
         "string_id": "bm_menu_characters"
     },
     "bm_menu_charge_time": {
@@ -2231,12 +2231,12 @@
     },
     "bm_menu_concealment": {
         "base_text": "Concealment",
-        "loc_text": "Concealment",
+        "loc_text": "การปกปิด",
         "string_id": "bm_menu_concealment"
     },
     "bm_menu_conflict": {
         "base_text": "This modification is incompatible with your current $conflict;",
-        "loc_text": "This modification is incompatible with your current $conflict;",
+        "loc_text": "การปรับแต่งนี้ไม่สามารถเข้ากันได้กับการปรับแต่งของ $conflict; ปัจจุบัน",
         "string_id": "bm_menu_conflict"
     },
     "bm_menu_crew_characters": {
@@ -2246,22 +2246,22 @@
     },
     "bm_menu_custom": {
         "base_text": "Custom",
-        "loc_text": "Custom",
+        "loc_text": "ปรับแต่ง",
         "string_id": "bm_menu_custom"
     },
     "bm_menu_customizable_weapon_color": {
         "base_text": "Custom Color",
-        "loc_text": "Custom Color",
+        "loc_text": "ปรับแต่งสี",
         "string_id": "bm_menu_customizable_weapon_color"
     },
     "bm_menu_customizable_weapon_color_desc": {
         "base_text": "Add a custom color to your weapon",
-        "loc_text": "Add a custom color to your weapon",
+        "loc_text": "เพิ่มสีให้กับอาวุธของคุณ",
         "string_id": "bm_menu_customizable_weapon_color_desc"
     },
     "bm_menu_damage": {
         "base_text": "Damage",
-        "loc_text": "Damage",
+        "loc_text": "ความเสียหาย",
         "string_id": "bm_menu_damage"
     },
     "bm_menu_damage_effect": {
@@ -2276,7 +2276,7 @@
     },
     "bm_menu_deployables": {
         "base_text": "Equipment",
-        "loc_text": "Equipment",
+        "loc_text": "อุปกรณ์",
         "string_id": "bm_menu_deployables"
     },
     "bm_menu_disables_cosmetic_bonus": {
@@ -2286,7 +2286,7 @@
     },
     "bm_menu_dlc": {
         "base_text": "dlc",
-        "loc_text": "dlc",
+        "loc_text": "ส่วนเสริม",
         "string_id": "bm_menu_dlc"
     },
     "bm_menu_dlc_locked": {
@@ -2311,12 +2311,12 @@
     },
     "bm_menu_empty_weapon_slot": {
         "base_text": "Empty weapon slot",
-        "loc_text": "Empty weapon slot",
+        "loc_text": "ช่องว่างอาวุธ",
         "string_id": "bm_menu_empty_weapon_slot"
     },
     "bm_menu_empty_weapon_slot_buy_info": {
         "base_text": "Increase your reputation level to unlock new weapons.",
-        "loc_text": "Increase your reputation level to unlock new weapons.",
+        "loc_text": "เพิ่มเลเวลของคุณเพื่อปลดล็อคอาวุธใหม่",
         "string_id": "bm_menu_empty_weapon_slot_buy_info"
     },
     "bm_menu_equipped": {
@@ -2331,7 +2331,7 @@
     },
     "bm_menu_fire_rate": {
         "base_text": "Rate of fire",
-        "loc_text": "Rate of fire",
+        "loc_text": "อัตราการยิง",
         "string_id": "bm_menu_fire_rate"
     },
     "bm_menu_foregrip": {
@@ -2341,7 +2341,7 @@
     },
     "bm_menu_gadget": {
         "base_text": "Gadget",
-        "loc_text": "Gadget",
+        "loc_text": "แกดเจ็ต",
         "string_id": "bm_menu_gadget"
     },
     "bm_menu_gadget_plural": {
@@ -2361,7 +2361,7 @@
     },
     "bm_menu_grenades": {
         "base_text": "Throwable",
-        "loc_text": "Throwable",
+        "loc_text": "อาวุธขว้าง",
         "string_id": "bm_menu_grenades"
     },
     "bm_menu_grip": {
@@ -2391,7 +2391,7 @@
     },
     "bm_menu_inventory_tradable_weapon_skins": {
         "base_text": "Weapon Skins",
-        "loc_text": "Weapon Skins",
+        "loc_text": "สกินอาวุธ",
         "string_id": "bm_menu_inventory_tradable_weapon_skins"
     },
     "bm_menu_item_amount": {
@@ -2441,12 +2441,12 @@
     },
     "bm_menu_magazine": {
         "base_text": "Magazine",
-        "loc_text": "Magazine",
+        "loc_text": "แม๊กกาซีน",
         "string_id": "bm_menu_magazine"
     },
     "bm_menu_masks": {
         "base_text": "Mask",
-        "loc_text": "Mask",
+        "loc_text": "หน้ากาก",
         "string_id": "bm_menu_masks"
     },
     "bm_menu_materials": {
@@ -2456,17 +2456,17 @@
     },
     "bm_menu_melee_weapons": {
         "base_text": "Melee",
-        "loc_text": "Melee",
+        "loc_text": "อาวุธระยะประชิด",
         "string_id": "bm_menu_melee_weapons"
     },
     "bm_menu_mod_preview": {
         "base_text": "Mod Preview",
-        "loc_text": "Mod Preview",
+        "loc_text": "ตัวอย่างการปรับแต่ง",
         "string_id": "bm_menu_mod_preview"
     },
     "bm_menu_mods": {
         "base_text": "Modifications",
-        "loc_text": "Modifications",
+        "loc_text": "การปรับแต่ง",
         "string_id": "bm_menu_mods"
     },
     "bm_menu_movement": {
@@ -2491,7 +2491,7 @@
     },
     "bm_menu_page": {
         "base_text": "Page $page;",
-        "loc_text": "Page $page;",
+        "loc_text": "หน้าที่ $page;",
         "string_id": "bm_menu_page"
     },
     "bm_menu_player_styles": {
@@ -2506,72 +2506,72 @@
     },
     "bm_menu_preview_mods": {
         "base_text": "Preview Mods",
-        "loc_text": "Preview Mods",
+        "loc_text": "แสดงตัวอย่างการปรับแต่ง",
         "string_id": "bm_menu_preview_mods"
     },
     "bm_menu_primaries": {
         "base_text": "Primary",
-        "loc_text": "Primary",
+        "loc_text": "อาวุธหลัก",
         "string_id": "bm_menu_primaries"
     },
     "bm_menu_quality_fair": {
         "base_text": "Well-Used",
-        "loc_text": "Well-Used",
+        "loc_text": "ถูกใช้งานพอสมควร",
         "string_id": "bm_menu_quality_fair"
     },
     "bm_menu_quality_fine": {
         "base_text": "Lightly-Marked",
-        "loc_text": "Lightly-Marked",
+        "loc_text": "มีรอยเล็กน้อย",
         "string_id": "bm_menu_quality_fine"
     },
     "bm_menu_quality_good": {
         "base_text": "Broken-In",
-        "loc_text": "Broken-In",
+        "loc_text": "เริ่มโทรม",
         "string_id": "bm_menu_quality_good"
     },
     "bm_menu_quality_mint": {
         "base_text": "Mint-Condition",
-        "loc_text": "Mint-Condition",
+        "loc_text": "สภาพใหม่เอี่ยม",
         "string_id": "bm_menu_quality_mint"
     },
     "bm_menu_quality_poor": {
         "base_text": "Battle-Worn",
-        "loc_text": "Battle-Worn",
+        "loc_text": "ผ่านการต่อสู้อย่างหนักหนา",
         "string_id": "bm_menu_quality_poor"
     },
     "bm_menu_range": {
         "base_text": "Range",
-        "loc_text": "Range",
+        "loc_text": "ระยะ",
         "string_id": "bm_menu_range"
     },
     "bm_menu_rarity_common": {
         "base_text": "Common",
-        "loc_text": "Common",
+        "loc_text": "ธรรมดา",
         "string_id": "bm_menu_rarity_common"
     },
     "bm_menu_rarity_epic": {
         "base_text": "Epic",
-        "loc_text": "Epic",
+        "loc_text": "มหากาพย์",
         "string_id": "bm_menu_rarity_epic"
     },
     "bm_menu_rarity_rare": {
         "base_text": "Rare",
-        "loc_text": "Rare",
+        "loc_text": "หายาก",
         "string_id": "bm_menu_rarity_rare"
     },
     "bm_menu_rarity_uncommon": {
         "base_text": "Uncommon",
-        "loc_text": "Uncommon",
+        "loc_text": "ไม่ธรรมดา",
         "string_id": "bm_menu_rarity_uncommon"
     },
     "bm_menu_recoil": {
         "base_text": "Stability",
-        "loc_text": "Stability",
+        "loc_text": "ความนิ่ง",
         "string_id": "bm_menu_recoil"
     },
     "bm_menu_reload": {
         "base_text": "Reload Time",
-        "loc_text": "Reload Time",
+        "loc_text": "เวลารีโหลด",
         "string_id": "bm_menu_reload"
     },
     "bm_menu_safe_ait_01": {
@@ -2726,12 +2726,12 @@
     },
     "bm_menu_secondaries": {
         "base_text": "Secondary",
-        "loc_text": "Secondary",
+        "loc_text": "อาวุธรอง",
         "string_id": "bm_menu_secondaries"
     },
     "bm_menu_sight": {
         "base_text": "Sight",
-        "loc_text": "Sight",
+        "loc_text": "ศูนย์เล็ง",
         "string_id": "bm_menu_sight"
     },
     "bm_menu_sight_plural": {
@@ -2791,7 +2791,7 @@
     },
     "bm_menu_spread": {
         "base_text": "Accuracy",
-        "loc_text": "Accuracy",
+        "loc_text": "ความแม่นยำ",
         "string_id": "bm_menu_spread"
     },
     "bm_menu_stamina": {
@@ -2806,17 +2806,17 @@
     },
     "bm_menu_stats_detection": {
         "base_text": "Detection Risk",
-        "loc_text": "Detection Risk",
+        "loc_text": "ความเสี่ยงการมองเห็น",
         "string_id": "bm_menu_stats_detection"
     },
     "bm_menu_stats_max_detection": {
         "base_text": "Maximum Detection Risk!",
-        "loc_text": "Maximum Detection Risk!",
+        "loc_text": "ความเสี่ยงการมองเห็นสูงสุด!",
         "string_id": "bm_menu_stats_max_detection"
     },
     "bm_menu_stats_min_detection": {
         "base_text": "Minimum Detection Risk!",
-        "loc_text": "Minimum Detection Risk!",
+        "loc_text": "ความเสี่ยงการมองเห็นต่ำสุด!",
         "string_id": "bm_menu_stats_min_detection"
     },
     "bm_menu_stats_mod": {
@@ -2911,7 +2911,7 @@
     },
     "bm_menu_totalammo": {
         "base_text": "Total Ammo",
-        "loc_text": "Total Ammo",
+        "loc_text": "กระสุนทั้งหมด",
         "string_id": "bm_menu_totalammo"
     },
     "bm_menu_upper_reciever": {
@@ -2921,7 +2921,7 @@
     },
     "bm_menu_wcc_not_owned": {
         "base_text": "NOT OWNED$NL;To use this weapon skin you must find it in a $safe;, or purchase it from the community marketplace.",
-        "loc_text": "NOT OWNED$NL;To use this weapon skin you must find it in a $safe;, or purchase it from the community marketplace.",
+        "loc_text": "ไม่ได้เป็นเจ้าของ$NL;เพื่อใช้งานสกินนี้คุณต้องหาในตู้เซฟ $safe; หรือซื้อสกินจากตลาดศูนย์กลางชุมชน",
         "string_id": "bm_menu_wcc_not_owned"
     },
     "bm_menu_weapon_color_skins": {
@@ -2931,12 +2931,12 @@
     },
     "bm_menu_weapon_cosmetics": {
         "base_text": "Weapon Skin",
-        "loc_text": "Weapon Skin",
+        "loc_text": "สกินอาวุธ",
         "string_id": "bm_menu_weapon_cosmetics"
     },
     "bm_menu_weapon_skins": {
         "base_text": "Weapon skin",
-        "loc_text": "Weapon skin",
+        "loc_text": "สกินอาวุธ",
         "string_id": "bm_menu_weapon_skins"
     },
     "bm_menu_xp": {
@@ -3631,7 +3631,7 @@
     },
     "bm_msk_character_locked": {
         "base_text": "Character's Mask",
-        "loc_text": "Character's Mask",
+        "loc_text": "หน้ากากตัวละคร",
         "string_id": "bm_msk_character_locked"
     },
     "bm_msk_character_locked_desc": {
@@ -9941,7 +9941,7 @@
     },
     "bm_wp_pis_g_laser_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_pis_g_laser_desc"
     },
     "bm_wp_pis_ppk_g_laser": {
@@ -10581,7 +10581,7 @@
     },
     "bm_wp_upg_fl_ass_laser_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_ass_laser_desc"
     },
     "bm_wp_upg_fl_ass_peq15": {
@@ -10591,7 +10591,7 @@
     },
     "bm_wp_upg_fl_ass_peq15_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_ass_peq15_desc"
     },
     "bm_wp_upg_fl_ass_smg_sho_peqbox": {
@@ -10601,7 +10601,7 @@
     },
     "bm_wp_upg_fl_ass_smg_sho_peqbox_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_ass_smg_sho_peqbox_desc"
     },
     "bm_wp_upg_fl_ass_smg_sho_surefire": {
@@ -10611,7 +10611,7 @@
     },
     "bm_wp_upg_fl_ass_smg_sho_surefire_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_ass_smg_sho_surefire_desc"
     },
     "bm_wp_upg_fl_ass_utg": {
@@ -10621,7 +10621,7 @@
     },
     "bm_wp_upg_fl_ass_utg_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_ass_utg_desc"
     },
     "bm_wp_upg_fl_crimson": {
@@ -10631,7 +10631,7 @@
     },
     "bm_wp_upg_fl_crimson_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_crimson_desc"
     },
     "bm_wp_upg_fl_pis_laser": {
@@ -10641,7 +10641,7 @@
     },
     "bm_wp_upg_fl_pis_laser_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_pis_laser_desc"
     },
     "bm_wp_upg_fl_pis_m3x": {
@@ -10651,7 +10651,7 @@
     },
     "bm_wp_upg_fl_pis_m3x_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_pis_m3x_desc"
     },
     "bm_wp_upg_fl_pis_tlr1": {
@@ -10661,7 +10661,7 @@
     },
     "bm_wp_upg_fl_pis_tlr1_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_pis_tlr1_desc"
     },
     "bm_wp_upg_fl_x400v": {
@@ -10671,7 +10671,7 @@
     },
     "bm_wp_upg_fl_x400v_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wp_upg_fl_x400v_desc"
     },
     "bm_wp_upg_g_m4_surgeon": {
@@ -11061,7 +11061,7 @@
     },
     "bm_wpn_fps_upg_o_45iron_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wpn_fps_upg_o_45iron_desc"
     },
     "bm_wpn_fps_upg_o_45rds": {
@@ -11071,7 +11071,7 @@
     },
     "bm_wpn_fps_upg_o_45rds_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wpn_fps_upg_o_45rds_desc"
     },
     "bm_wpn_fps_upg_o_45rds_v2": {
@@ -11081,7 +11081,7 @@
     },
     "bm_wpn_fps_upg_o_45rds_v2_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wpn_fps_upg_o_45rds_v2_desc"
     },
     "bm_wpn_fps_upg_o_45steel": {
@@ -11091,7 +11091,7 @@
     },
     "bm_wpn_fps_upg_o_45steel_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wpn_fps_upg_o_45steel_desc"
     },
     "bm_wpn_fps_upg_o_sig": {
@@ -11101,7 +11101,7 @@
     },
     "bm_wpn_fps_upg_o_sig_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wpn_fps_upg_o_sig_desc"
     },
     "bm_wpn_fps_upg_o_xpsg33_magnifier": {
@@ -11111,7 +11111,7 @@
     },
     "bm_wpn_fps_upg_o_xpsg33_magnifier_desc": {
         "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
-        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "สามารถ ปิด/เปิด โดยการกดปุ่ม $BTN_GADGET;",
         "string_id": "bm_wpn_fps_upg_o_xpsg33_magnifier_desc"
     },
     "bm_wpn_prj_ace": {

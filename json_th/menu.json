@@ -631,22 +631,22 @@
     },
     "menu_achievements_progress_beginner": {
         "base_text": "Beginner",
-        "loc_text": "Beginner",
+        "loc_text": "มือใหม่",
         "string_id": "menu_achievements_progress_beginner"
     },
     "menu_achievements_progress_completion": {
         "base_text": "Completion",
-        "loc_text": "Completion",
+        "loc_text": "ความคืบหน้า",
         "string_id": "menu_achievements_progress_completion"
     },
     "menu_achievements_progress_generic": {
         "base_text": "Generic",
-        "loc_text": "Generic",
+        "loc_text": "ทั่วไป",
         "string_id": "menu_achievements_progress_generic"
     },
     "menu_achievements_progress_heisting": {
         "base_text": "Heisting",
-        "loc_text": "Heisting",
+        "loc_text": "กำลังทำภารกิจ",
         "string_id": "menu_achievements_progress_heisting"
     },
     "menu_achievements_progress_help": {
@@ -656,12 +656,12 @@
     },
     "menu_achievements_progress_leveling": {
         "base_text": "Leveling",
-        "loc_text": "Leveling",
+        "loc_text": "ระดับ",
         "string_id": "menu_achievements_progress_leveling"
     },
     "menu_achievements_sort_order": {
         "base_text": "Sort order",
-        "loc_text": "Sort order",
+        "loc_text": "เรียงลำดับ",
         "string_id": "menu_achievements_sort_order"
     },
     "menu_achievements_sort_order_help": {
@@ -671,12 +671,12 @@
     },
     "menu_achievements_sort_order_picker": {
         "base_text": "Sort order: $SORT;",
-        "loc_text": "Sort order: $SORT;",
+        "loc_text": "เรียงลำดับ: $SORT;",
         "string_id": "menu_achievements_sort_order_picker"
     },
     "menu_achievements_tactics": {
         "base_text": "Tactics",
-        "loc_text": "Tactics",
+        "loc_text": "กลยุทธ์",
         "string_id": "menu_achievements_tactics"
     },
     "menu_achievements_tactics_help": {
@@ -691,12 +691,12 @@
     },
     "menu_achievements_tactics_loud": {
         "base_text": "Loud",
-        "loc_text": "Loud",
+        "loc_text": "บู้แหลกแหกค่าย",
         "string_id": "menu_achievements_tactics_loud"
     },
     "menu_achievements_tactics_stealth": {
         "base_text": "Stealth",
-        "loc_text": "Stealth",
+        "loc_text": "ย่องเงียบตีนแมว",
         "string_id": "menu_achievements_tactics_stealth"
     },
     "menu_achievements_tactics_timed": {
@@ -706,12 +706,12 @@
     },
     "menu_achievements_tags_intro": {
         "base_text": "Tags:$NL;",
-        "loc_text": "Tags:$NL;",
+        "loc_text": "แท็ก:$NL;",
         "string_id": "menu_achievements_tags_intro"
     },
     "menu_achievements_teamwork": {
         "base_text": "Teamwork",
-        "loc_text": "Teamwork",
+        "loc_text": "การทำงานเป็นทีม",
         "string_id": "menu_achievements_teamwork"
     },
     "menu_achievements_teamwork_help": {
@@ -721,32 +721,32 @@
     },
     "menu_achievements_teamwork_players_1_to_4": {
         "base_text": "1-4 Players",
-        "loc_text": "1-4 Players",
+        "loc_text": "1-4 ผู้เล่น",
         "string_id": "menu_achievements_teamwork_players_1_to_4"
     },
     "menu_achievements_teamwork_players_4": {
         "base_text": "4 Players",
-        "loc_text": "4 Players",
+        "loc_text": "4 ผู้เล่น",
         "string_id": "menu_achievements_teamwork_players_4"
     },
     "menu_achievements_tracking": {
         "base_text": "TRACKING: $COUNT;",
-        "loc_text": "TRACKING: $COUNT;",
+        "loc_text": "กำลังติดตาม: $COUNT;",
         "string_id": "menu_achievements_tracking"
     },
     "menu_achievements_unlock": {
         "base_text": "Unlock",
-        "loc_text": "Unlock",
+        "loc_text": "ปลดล็อค",
         "string_id": "menu_achievements_unlock"
     },
     "menu_achievements_unlock_character": {
         "base_text": "Character",
-        "loc_text": "Character",
+        "loc_text": "ตัวละคร",
         "string_id": "menu_achievements_unlock_character"
     },
     "menu_achievements_unlock_gloves": {
         "base_text": "Gloves",
-        "loc_text": "Gloves",
+        "loc_text": "ถุงมือ",
         "string_id": "menu_achievements_unlock_gloves"
     },
     "menu_achievements_unlock_help": {
@@ -756,62 +756,62 @@
     },
     "menu_achievements_unlock_mask": {
         "base_text": "Mask",
-        "loc_text": "Mask",
+        "loc_text": "หน้ากาก",
         "string_id": "menu_achievements_unlock_mask"
     },
     "menu_achievements_unlock_outfit": {
         "base_text": "Outfit",
-        "loc_text": "Outfit",
+        "loc_text": "ชุด",
         "string_id": "menu_achievements_unlock_outfit"
     },
     "menu_achievements_unlock_skill_slot": {
         "base_text": "Skill slot",
-        "loc_text": "Skill slot",
+        "loc_text": "ช่องสกิล",
         "string_id": "menu_achievements_unlock_skill_slot"
     },
     "menu_achievements_unlock_weapon": {
         "base_text": "Weapon mod",
-        "loc_text": "Weapon mod",
+        "loc_text": "การปรับแต่งอาวุธ",
         "string_id": "menu_achievements_unlock_weapon"
     },
     "menu_achievements_unlock_weapon_color": {
         "base_text": "Weapon Color",
-        "loc_text": "Weapon Color",
+        "loc_text": "สีอาวุธ",
         "string_id": "menu_achievements_unlock_weapon_color"
     },
     "menu_advanced_options": {
         "base_text": "ADVANCED",
-        "loc_text": "ADVANCED",
+        "loc_text": "ขั้นสูง",
         "string_id": "menu_advanced_options"
     },
     "menu_advanced_options_help": {
         "base_text": "Change your advanced options.",
-        "loc_text": "Change your advanced options.",
+        "loc_text": "เปลี่ยนการตั้งค่าขึ้นสูง",
         "string_id": "menu_advanced_options_help"
     },
     "menu_advanced_video": {
         "base_text": "ADVANCED",
-        "loc_text": "ADVANCED",
+        "loc_text": "ขั้นสูง",
         "string_id": "menu_advanced_video"
     },
     "menu_advanced_video_help": {
         "base_text": "Change your advanced video preferences.",
-        "loc_text": "Change your advanced video preferences.",
+        "loc_text": "เปลี่ยนการตั้งค่าวิดีโอขึ้นสูง",
         "string_id": "menu_advanced_video_help"
     },
     "menu_akimbo_pistol": {
         "base_text": "Akimbo Pistol",
-        "loc_text": "Akimbo Pistol",
+        "loc_text": "ปืนพกคู่",
         "string_id": "menu_akimbo_pistol"
     },
     "menu_akimbo_shotgun": {
         "base_text": "Akimbo Shotgun",
-        "loc_text": "Akimbo Shotgun",
+        "loc_text": "ลูกซองคู่",
         "string_id": "menu_akimbo_shotgun"
     },
     "menu_akimbo_skill_beta": {
         "base_text": "Akimbo",
-        "loc_text": "Akimbo",
+        "loc_text": "ปืนคู่",
         "string_id": "menu_akimbo_skill_beta"
     },
     "menu_akimbo_skill_beta_desc": {
@@ -821,7 +821,7 @@
     },
     "menu_akimbo_smg": {
         "base_text": "Akimbo SMG",
-        "loc_text": "Akimbo SMG",
+        "loc_text": "ปืนกลมือคู่",
         "string_id": "menu_akimbo_smg"
     },
     "menu_american": {
@@ -841,12 +841,12 @@
     },
     "menu_ammo_contour": {
         "base_text": "Ammo Outline",
-        "loc_text": "Ammo Outline",
+        "loc_text": "เส้นรอบกระสุน",
         "string_id": "menu_ammo_contour"
     },
     "menu_ammo_contour_help": {
         "base_text": "Adds a contour around ammo pickups",
-        "loc_text": "Adds a contour around ammo pickups",
+        "loc_text": "แสดงเส้นรอบๆ กระสุน",
         "string_id": "menu_ammo_contour_help"
     },
     "menu_ammo_reservoir_beta": {
@@ -861,17 +861,17 @@
     },
     "menu_anim_lod": {
         "base_text": "ANIMATION QUALITY",
-        "loc_text": "ANIMATION QUALITY",
+        "loc_text": "คุณภาพอนิเมชั่น",
         "string_id": "menu_anim_lod"
     },
     "menu_anim_lod_1": {
         "base_text": "Low",
-        "loc_text": "Low",
+        "loc_text": "ต่ำ",
         "string_id": "menu_anim_lod_1"
     },
     "menu_anim_lod_3": {
         "base_text": "High",
-        "loc_text": "High",
+        "loc_text": "สูง",
         "string_id": "menu_anim_lod_3"
     },
     "menu_anim_lod_help": {
@@ -886,7 +886,7 @@
     },
     "menu_anisotropic_1": {
         "base_text": "Off",
-        "loc_text": "Off",
+        "loc_text": "ปิด",
         "string_id": "menu_anisotropic_1"
     },
     "menu_anisotropic_8": {
@@ -901,7 +901,7 @@
     },
     "menu_any": {
         "base_text": "Any",
-        "loc_text": "Any",
+        "loc_text": "ใดก็ได้",
         "string_id": "menu_any"
     },
     "menu_ao": {
@@ -921,22 +921,22 @@
     },
     "menu_ao_off": {
         "base_text": "Off",
-        "loc_text": "Off",
+        "loc_text": "ปิด",
         "string_id": "menu_ao_off"
     },
     "menu_ao_ssao_high": {
         "base_text": "SSAO High",
-        "loc_text": "SSAO High",
+        "loc_text": "SSAO สูง",
         "string_id": "menu_ao_ssao_high"
     },
     "menu_ao_ssao_low": {
         "base_text": "SSAO Low",
-        "loc_text": "SSAO Low",
+        "loc_text": "SSAO ต่ำ",
         "string_id": "menu_ao_ssao_low"
     },
     "menu_apply_settings": {
         "base_text": "Apply these settings",
-        "loc_text": "Apply these settings",
+        "loc_text": "นำการตั้งค่าไปใช้",
         "string_id": "menu_apply_settings"
     },
     "menu_aru_job_1": {
@@ -1021,42 +1021,42 @@
     },
     "menu_assault_rifle": {
         "base_text": "Assault Rifle",
-        "loc_text": "Assault Rifle",
+        "loc_text": "ไรเฟิลจู่โจม",
         "string_id": "menu_assault_rifle"
     },
     "menu_asset_ammo": {
         "base_text": "Ammo Bag",
-        "loc_text": "Ammo Bag",
+        "loc_text": "กระเป๋ากระสุน",
         "string_id": "menu_asset_ammo"
     },
     "menu_asset_ammo_desc": {
         "base_text": "Buy an ammo bag dead drop",
-        "loc_text": "Buy an ammo bag dead drop",
+        "loc_text": "ซื้อกระเป๋ากระสุน",
         "string_id": "menu_asset_ammo_desc"
     },
     "menu_asset_arm_info": {
         "base_text": "Train Shipment",
-        "loc_text": "Train Shipment",
+        "loc_text": "การขนส่งทางรถไฟ",
         "string_id": "menu_asset_arm_info"
     },
     "menu_asset_arm_location": {
         "base_text": "Location",
-        "loc_text": "Location",
+        "loc_text": "สถานที่",
         "string_id": "menu_asset_arm_location"
     },
     "menu_asset_big_oil_1_bikers": {
         "base_text": "Insider info",
-        "loc_text": "Insider info",
+        "loc_text": "ข้อมูลคนใน",
         "string_id": "menu_asset_big_oil_1_bikers"
     },
     "menu_asset_bodybags_bag": {
         "base_text": "Body Bags",
-        "loc_text": "Body Bags",
+        "loc_text": "กระเป๋าศพ",
         "string_id": "menu_asset_bodybags_bag"
     },
     "menu_asset_bodybags_bag_desc": {
         "base_text": "Buy body bags to share with your crew",
-        "loc_text": "Buy body bags to share with your crew",
+        "loc_text": "ซื้อกระเป๋าศพแบ่งปันกับ",
         "string_id": "menu_asset_bodybags_bag_desc"
     },
     "menu_asset_buy_all": {
@@ -1326,12 +1326,12 @@
     },
     "menu_button_hide": {
         "base_text": "Hide",
-        "loc_text": "Hide",
+        "loc_text": "ซ่อน",
         "string_id": "menu_button_hide"
     },
     "menu_button_show": {
         "base_text": "Show",
-        "loc_text": "Show",
+        "loc_text": "แสดง",
         "string_id": "menu_button_show"
     },
     "menu_cable_guy_beta": {
@@ -1991,12 +1991,12 @@
     },
     "menu_cn_game_settings": {
         "base_text": "Game settings",
-        "loc_text": "Game settings",
+        "loc_text": "การตั้งค่าเกม",
         "string_id": "menu_cn_game_settings"
     },
     "menu_cn_kick_disabled": {
         "base_text": "Kick disabled",
-        "loc_text": "Kick disabled",
+        "loc_text": "ปิดระบบขับไล่",
         "string_id": "menu_cn_kick_disabled"
     },
     "menu_cn_legend_friends": {
@@ -2041,12 +2041,12 @@
     },
     "menu_cn_message_playing": {
         "base_text": "Playing voice message...",
-        "loc_text": "Playing voice message...",
+        "loc_text": "กำลังเล่นข้อความเสียง...",
         "string_id": "menu_cn_message_playing"
     },
     "menu_cn_message_stopped": {
         "base_text": "Voice message stopped.",
-        "loc_text": "Voice message stopped.",
+        "loc_text": "ข้อความเสียงหยุด",
         "string_id": "menu_cn_message_stopped"
     },
     "menu_cn_modifiers": {
@@ -2061,12 +2061,12 @@
     },
     "menu_cn_premium_buy_accept": {
         "base_text": "Buy contract",
-        "loc_text": "Buy contract",
+        "loc_text": "ซื้องานจ้าง",
         "string_id": "menu_cn_premium_buy_accept"
     },
     "menu_cn_premium_buy_desc": {
         "base_text": "Buy contract",
-        "loc_text": "Buy contract",
+        "loc_text": "ซื้องานจ้าง",
         "string_id": "menu_cn_premium_buy_desc"
     },
     "menu_cn_premium_buy_fee": {
@@ -2076,7 +2076,7 @@
     },
     "menu_cn_premium_buy_fee_short": {
         "base_text": "Offshore cost: $contract_fee;",
-        "loc_text": "Offshore cost: $contract_fee;",
+        "loc_text": "ค่าใช้จ่ายบัญชีนอกระบบ: $contract_fee;",
         "string_id": "menu_cn_premium_buy_fee_short"
     },
     "menu_cn_quickplay": {
@@ -2336,7 +2336,7 @@
     },
     "menu_crew_management": {
         "base_text": "Crew management",
-        "loc_text": "Crew management",
+        "loc_text": "การจัดการทีม",
         "string_id": "menu_crew_management"
     },
     "menu_crew_management_help": {
@@ -4221,12 +4221,12 @@
     },
     "menu_es_mission_xp_bonus": {
         "base_text": "Contract experience:",
-        "loc_text": "Contract experience:",
+        "loc_text": "ค่าประสบการณ์งานจ้าง:",
         "string_id": "menu_es_mission_xp_bonus"
     },
     "menu_es_next_level": {
         "base_text": "Next level in:",
-        "loc_text": "Next level in:",
+        "loc_text": "เลเวลถัดไปใน:",
         "string_id": "menu_es_next_level"
     },
     "menu_es_package_armor": {
@@ -4331,7 +4331,7 @@
     },
     "menu_es_skill_points_gained": {
         "base_text": "Skill points gained:",
-        "loc_text": "Skill points gained:",
+        "loc_text": "พอย์ที่ได้รับ:",
         "string_id": "menu_es_skill_points_gained"
     },
     "menu_es_skill_points_info": {
@@ -4381,7 +4381,7 @@
     },
     "menu_experience": {
         "base_text": "Experience:",
-        "loc_text": "Experience:",
+        "loc_text": "ค่าประสบการณ์:",
         "string_id": "menu_experience"
     },
     "menu_expert_handling": {
@@ -4671,12 +4671,12 @@
     },
     "menu_ghost_bonus": {
         "base_text": "Stealth bonus from last contract: XP +$exp_bonus;%",
-        "loc_text": "Stealth bonus from last contract: XP +$exp_bonus;%",
+        "loc_text": "โบนัสย่องเงียบจากงานจ้างล่าสุด: ค่าประสบการณ์ +$exp_bonus;%",
         "string_id": "menu_ghost_bonus"
     },
     "menu_ghostable_job": {
         "base_text": "$BTN_GHOST;Potential stealth bonus: +$bonus;% EXP.",
-        "loc_text": "$BTN_GHOST;Potential stealth bonus: +$bonus;% EXP.",
+        "loc_text": "$BTN_GHOST;โบนัสย่องเงียบที่เป็นไปได้: ค่าประสบการณ์ +$bonus;%",
         "string_id": "menu_ghostable_job"
     },
     "menu_ghostable_stage": {
@@ -4796,27 +4796,27 @@
     },
     "menu_infamy_banner_unlock": {
         "base_text": "Unlocked at infamy $rank;.",
-        "loc_text": "Unlocked at infamy $rank;.",
+        "loc_text": "จะถูกปลดล็อคในระดับที่ $rank;.",
         "string_id": "menu_infamy_banner_unlock"
     },
     "menu_infamy_box_description": {
         "base_text": "Reach this level of Infamy to unlock something special!",
-        "loc_text": "Reach this level of Infamy to unlock something special!",
+        "loc_text": "ถึงลำดับ infamy นี้เพื่อปลดล็อคบางอย่างที่พิเศษ!",
         "string_id": "menu_infamy_box_description"
     },
     "menu_infamy_box_title": {
         "base_text": "Infamy Reward",
-        "loc_text": "Infamy Reward",
+        "loc_text": "รางวัล Infamy",
         "string_id": "menu_infamy_box_title"
     },
     "menu_infamy_button_go_infamous": {
         "base_text": "[Go Infamous]",
-        "loc_text": "[Go Infamous]",
+        "loc_text": "[โกอินเฟมัส]",
         "string_id": "menu_infamy_button_go_infamous"
     },
     "menu_infamy_coming_soon": {
         "base_text": "More rewards coming soon",
-        "loc_text": "More rewards coming soon",
+        "loc_text": "รางวัลอื่นๆ เร็วๆ นี้",
         "string_id": "menu_infamy_coming_soon"
     },
     "menu_infamy_coming_soon_desc": {
@@ -4831,22 +4831,22 @@
     },
     "menu_infamy_desc_balaclava": {
         "base_text": "When after an anonymous look. A classic for a reason.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
-        "loc_text": "When after an anonymous look. A classic for a reason.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
+        "loc_text": "When after an anonymous look. A classic for a reason.$NL;$NL;โบนัส:$NL;ค่าประสบการณ์ที่ได้รับจะถูกเพิ่มขึ้นอีก ##$xpboost;##.$NL;$NL;ไอเทม:$NL;$NL;",
         "string_id": "menu_infamy_desc_balaclava"
     },
     "menu_infamy_desc_enforcer_new": {
         "base_text": "Used in crimes that requires the Enforcer to get his hands dirty.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
-        "loc_text": "Used in crimes that requires the Enforcer to get his hands dirty.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
+        "loc_text": "Used in crimes that requires the Enforcer to get his hands dirty.$NL;$NL;โบนัส:$NL;ค่าประสบการณ์ที่ได้รับจะถูกเพิ่มขึ้นอีก ##$xpboost;##.$NL;$NL;ไอเทม:$NL;$NL;",
         "string_id": "menu_infamy_desc_enforcer_new"
     },
     "menu_infamy_desc_ghost_new": {
         "base_text": "Modern assassin that carries out death sentences - for the right price.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
-        "loc_text": "Modern assassin that carries out death sentences - for the right price.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
+        "loc_text": "Modern assassin that carries out death sentences - for the right price.$NL;$NL;โบนัส:$NL;ค่าประสบการณ์ที่ได้รับจะถูกเพิ่มขึ้นอีก ##$xpboost;##.$NL;$NL;ไอเทม:$NL;$NL;",
         "string_id": "menu_infamy_desc_ghost_new"
     },
     "menu_infamy_desc_mastermind_new": {
         "base_text": "Known to cause moral chaos and sway even the most devoted lawman.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
-        "loc_text": "Known to cause moral chaos and sway even the most devoted lawman.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
+        "loc_text": "Known to cause moral chaos and sway even the most devoted lawman.$NL;$NL;โบนัส:$NL;ค่าประสบการณ์ที่ได้รับจะถูกเพิ่มขึ้นอีก ##$xpboost;##.$NL;$NL;ไอเทม:$NL;$NL;",
         "string_id": "menu_infamy_desc_mastermind_new"
     },
     "menu_infamy_desc_root_new": {
@@ -4856,17 +4856,17 @@
     },
     "menu_infamy_desc_technician_new": {
         "base_text": "Cold, calculating and a master of forced disappearances, dead or alive.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
-        "loc_text": "Cold, calculating and a master of forced disappearances, dead or alive.$NL;$NL;BONUSES:$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;ITEMS:$NL;$NL;",
+        "loc_text": "Cold, calculating and a master of forced disappearances, dead or alive.$NL;$NL;โบนัส:$NL;ค่าประสบการณ์ที่ได้รับจะถูกเพิ่มขึ้นอีก ##$xpboost;##.$NL;$NL;ไอเทม:$NL;$NL;",
         "string_id": "menu_infamy_desc_technician_new"
     },
     "menu_infamy_desc_xp": {
         "base_text": "Experience gained is increased by ##$xpboost;##.",
-        "loc_text": "Experience gained is increased by ##$xpboost;##.",
+        "loc_text": "ค่าประสบการณ์ที่ได้รับจะถูกเพิ่มขึ้นอีก ##$xpboost;##",
         "string_id": "menu_infamy_desc_xp"
     },
     "menu_infamy_go_infamous_error_level": {
         "base_text": "You need to be level 100 to go infamous",
-        "loc_text": "You need to be level 100 to go infamous",
+        "loc_text": "คุณต้องมีเลเวล 100 เพื่อที่จะไต่ลำดับ",
         "string_id": "menu_infamy_go_infamous_error_level"
     },
     "menu_infamy_help": {
@@ -4876,17 +4876,17 @@
     },
     "menu_infamy_infamy_panel_infamy_level": {
         "base_text": "Current infamy: $infamy;",
-        "loc_text": "Current infamy: $infamy;",
+        "loc_text": "ลำดับ Infamy ปัจจุบัน: $infamy;",
         "string_id": "menu_infamy_infamy_panel_infamy_level"
     },
     "menu_infamy_infamy_panel_reputation_level": {
         "base_text": "Current reputation: $reputation;",
-        "loc_text": "Current reputation: $reputation;",
+        "loc_text": "เลเวลปัจจุบัน: $reputation;",
         "string_id": "menu_infamy_infamy_panel_reputation_level"
     },
     "menu_infamy_lock_info": {
         "base_text": "This is an Infamy Reward",
-        "loc_text": "This is an Infamy Reward",
+        "loc_text": "นี้เป็นรางวัลของ Infamy",
         "string_id": "menu_infamy_lock_info"
     },
     "menu_infamy_name_balaclava": {
@@ -4921,7 +4921,7 @@
     },
     "menu_infamy_name_xp": {
         "base_text": "More XP",
-        "loc_text": "More XP",
+        "loc_text": "ประสบการณ์เพิ่มขึ้น",
         "string_id": "menu_infamy_name_xp"
     },
     "menu_infamy_rank": {
@@ -5176,7 +5176,7 @@
     },
     "menu_join_stinger_title": {
         "base_text": "$button; Select Join Stinger",
-        "loc_text": "$button; Select Join Stinger",
+        "loc_text": "$button; เลือกเสียงเข้าร่วม",
         "string_id": "menu_join_stinger_title"
     },
     "menu_joker_beta": {
@@ -6111,7 +6111,7 @@
     },
     "menu_kicking_allowed_option": {
         "base_text": "In-game kicking",
-        "loc_text": "In-game kicking",
+        "loc_text": "ระบบขับไล่ในเกม",
         "string_id": "menu_kicking_allowed_option"
     },
     "menu_l_choose_card_chosen": {
@@ -6616,12 +6616,12 @@
     },
     "menu_legend_track_achievement": {
         "base_text": "$MY_BTN; TRACK",
-        "loc_text": "$MY_BTN; TRACK",
+        "loc_text": "$MY_BTN; ติดตาม",
         "string_id": "menu_legend_track_achievement"
     },
     "menu_levelup": {
         "base_text": "($levels; level up)",
-        "loc_text": "($levels; level up)",
+        "loc_text": "($levels; เลเวล)",
         "string_id": "menu_levelup"
     },
     "menu_lightfx": {
@@ -6641,12 +6641,12 @@
     },
     "menu_limit_unlimited": {
         "base_text": "Unlimited",
-        "loc_text": "Unlimited",
+        "loc_text": "ไม่จำกัด",
         "string_id": "menu_limit_unlimited"
     },
     "menu_lmg": {
         "base_text": "LMG",
-        "loc_text": "LMG",
+        "loc_text": "ปืนกลเบา",
         "string_id": "menu_lmg"
     },
     "menu_loading_hints": {
@@ -6816,27 +6816,27 @@
     },
     "menu_mouse_invest": {
         "base_text": "Add Skill",
-        "loc_text": "Add Skill",
+        "loc_text": "เพิ่มสกิล",
         "string_id": "menu_mouse_invest"
     },
     "menu_mouse_preview": {
         "base_text": "to preview",
-        "loc_text": "to preview",
+        "loc_text": "เพื่อแสดงตัวอย่าง",
         "string_id": "menu_mouse_preview"
     },
     "menu_mouse_refund": {
         "base_text": "Remove Skill",
-        "loc_text": "Remove Skill",
+        "loc_text": "ลบสกิล",
         "string_id": "menu_mouse_refund"
     },
     "menu_mouse_select": {
         "base_text": "to select",
-        "loc_text": "to select",
+        "loc_text": "เพื่อเลือก",
         "string_id": "menu_mouse_select"
     },
     "menu_mouse_switch": {
         "base_text": "to switch",
-        "loc_text": "to switch",
+        "loc_text": "เพื่อสลับ",
         "string_id": "menu_mouse_switch"
     },
     "menu_movie_theater": {
@@ -7131,7 +7131,7 @@
     },
     "menu_payday": {
         "base_text": "Payday: $MONEY;",
-        "loc_text": "Payday: $MONEY;",
+        "loc_text": "ค่าจ้าง: $MONEY;",
         "string_id": "menu_payday"
     },
     "menu_permission": {
@@ -7181,7 +7181,7 @@
     },
     "menu_play_sound": {
         "base_text": "$BTN_X; Play",
-        "loc_text": "$BTN_X; Play",
+        "loc_text": "กด $BTN_X; เพื่อเล่นเสียง",
         "string_id": "menu_play_sound"
     },
     "menu_playable_characters": {
@@ -7191,17 +7191,17 @@
     },
     "menu_player_column_one_title": {
         "base_text": "Character",
-        "loc_text": "Character",
+        "loc_text": "ตัวละคร",
         "string_id": "menu_player_column_one_title"
     },
     "menu_player_column_three_title": {
         "base_text": "Abilities",
-        "loc_text": "Abilities",
+        "loc_text": "ความสามารถ",
         "string_id": "menu_player_column_three_title"
     },
     "menu_player_column_two_title": {
         "base_text": "Weapons",
-        "loc_text": "Weapons",
+        "loc_text": "อาวุธ",
         "string_id": "menu_player_column_two_title"
     },
     "menu_player_inventory": {
@@ -7261,12 +7261,12 @@
     },
     "menu_potential_rewards": {
         "base_text": "Potential rewards:",
-        "loc_text": "Potential rewards:",
+        "loc_text": "ผลตอบแทนที่เป็นไปได้:",
         "string_id": "menu_potential_rewards"
     },
     "menu_potential_rewards_min": {
         "base_text": "$BTN_Y; Potential minimum rewards:",
-        "loc_text": "$BTN_Y; Potential minimum rewards:",
+        "loc_text": "$BTN_Y; ผลตอบแทนอย่างต่ำ:",
         "string_id": "menu_potential_rewards_min"
     },
     "menu_pp_asset_ammo": {
@@ -7776,7 +7776,7 @@
     },
     "menu_pp_draw_hide": {
         "base_text": "Hide $name;",
-        "loc_text": "Hide $name;",
+        "loc_text": "ซ่อน $name;",
         "string_id": "menu_pp_draw_hide"
     },
     "menu_pp_draw_undo": {
@@ -8281,7 +8281,7 @@
     },
     "menu_preferred_character": {
         "base_text": "Character",
-        "loc_text": "Character",
+        "loc_text": "ตัวละคร",
         "string_id": "menu_preferred_character"
     },
     "menu_preferred_character_lobby_error": {
@@ -8296,12 +8296,12 @@
     },
     "menu_preferred_plan": {
         "base_text": "Tactic",
-        "loc_text": "Tactic",
+        "loc_text": "กลยุทธ์",
         "string_id": "menu_preferred_plan"
     },
     "menu_preferred_plan_help": {
         "base_text": "Preferred tactic",
-        "loc_text": "Preferred tactic",
+        "loc_text": "กลยุทธ์ที่ชื่นชอบ",
         "string_id": "menu_preferred_plan_help"
     },
     "menu_preplanning": {
@@ -8451,7 +8451,7 @@
     },
     "menu_reputation_permission": {
         "base_text": "REPUTATION LIMIT",
-        "loc_text": "REPUTATION LIMIT",
+        "loc_text": "การจำกัดเลเวล",
         "string_id": "menu_reputation_permission"
     },
     "menu_reputation_permission_help": {
@@ -8531,7 +8531,7 @@
     },
     "menu_risk": {
         "base_text": "Risk:",
-        "loc_text": "Risk:",
+        "loc_text": "ความเสี่ยง:",
         "string_id": "menu_risk"
     },
     "menu_risk_easy_wish": {
@@ -8671,7 +8671,7 @@
     },
     "menu_shotgun": {
         "base_text": "Shotgun",
-        "loc_text": "Shotgun",
+        "loc_text": "ลูกซอง",
         "string_id": "menu_shotgun"
     },
     "menu_shotgun_cqb_beta": {
@@ -8736,7 +8736,7 @@
     },
     "menu_skillpoints": {
         "base_text": "Remaining Skill points",
-        "loc_text": "Remaining Skill points",
+        "loc_text": "สกิลพอย์คงเหลือ",
         "string_id": "menu_skillpoints"
     },
     "menu_skilltree": {
@@ -8831,7 +8831,7 @@
     },
     "menu_snp": {
         "base_text": "Sniper",
-        "loc_text": "Sniper",
+        "loc_text": "สไนเปอร์",
         "string_id": "menu_snp"
     },
     "menu_sokol": {
@@ -8886,7 +8886,7 @@
     },
     "menu_specialization": {
         "base_text": "Perk Deck",
-        "loc_text": "Perk Deck",
+        "loc_text": "ความสามารถเพิร์ค",
         "string_id": "menu_specialization"
     },
     "menu_spectator_being_traded": {
@@ -8951,7 +8951,7 @@
     },
     "menu_st_active_skill_switch": {
         "base_text": "Active",
-        "loc_text": "Active",
+        "loc_text": "ใช้งานอยู่",
         "string_id": "menu_st_active_skill_switch"
     },
     "menu_st_active_spec": {
@@ -8961,27 +8961,27 @@
     },
     "menu_st_available_spec_points": {
         "base_text": "$points; Perk points available",
-        "loc_text": "$points; Perk points available",
+        "loc_text": "$points; พอย์เพิร์คคงเหลือ",
         "string_id": "menu_st_available_spec_points"
     },
     "menu_st_make_active_skill_switch": {
         "base_text": "Make active",
-        "loc_text": "Make active",
+        "loc_text": "ไม่ได้ใช้งาน",
         "string_id": "menu_st_make_active_skill_switch"
     },
     "menu_st_points_all_spent_skill_switch": {
         "base_text": "All points spent",
-        "loc_text": "All points spent",
+        "loc_text": "ใช้พอย์ทั้งหมดแล้ว",
         "string_id": "menu_st_points_all_spent_skill_switch"
     },
     "menu_st_points_total": {
         "base_text": "Total points",
-        "loc_text": "Total points",
+        "loc_text": "พอย์ทั้งหมด",
         "string_id": "menu_st_points_total"
     },
     "menu_st_points_unlock": {
         "base_text": "Points to unlock",
-        "loc_text": "Points to unlock",
+        "loc_text": "พอย์เพื่อปลดล็อค",
         "string_id": "menu_st_points_unlock"
     },
     "menu_st_points_unlock_tier": {
@@ -8991,82 +8991,82 @@
     },
     "menu_st_points_unspent_skill_switch": {
         "base_text": "$points; points available",
-        "loc_text": "$points; points available",
+        "loc_text": "$points; สกิลพอย์คงเหลือ",
         "string_id": "menu_st_points_unspent_skill_switch"
     },
     "menu_st_skill_switch_1": {
         "base_text": "Set #1",
-        "loc_text": "Set #1",
+        "loc_text": "เซต #1",
         "string_id": "menu_st_skill_switch_1"
     },
     "menu_st_skill_switch_10": {
         "base_text": "Set #10",
-        "loc_text": "Set #10",
+        "loc_text": "เซต #10",
         "string_id": "menu_st_skill_switch_10"
     },
     "menu_st_skill_switch_11": {
         "base_text": "Set #11",
-        "loc_text": "Set #11",
+        "loc_text": "เซต #11",
         "string_id": "menu_st_skill_switch_11"
     },
     "menu_st_skill_switch_12": {
         "base_text": "Set #12",
-        "loc_text": "Set #12",
+        "loc_text": "เซต #12",
         "string_id": "menu_st_skill_switch_12"
     },
     "menu_st_skill_switch_13": {
         "base_text": "Set #13",
-        "loc_text": "Set #13",
+        "loc_text": "เซต #13",
         "string_id": "menu_st_skill_switch_13"
     },
     "menu_st_skill_switch_14": {
         "base_text": "Set #14",
-        "loc_text": "Set #14",
+        "loc_text": "เซต #14",
         "string_id": "menu_st_skill_switch_14"
     },
     "menu_st_skill_switch_15": {
         "base_text": "Set #15",
-        "loc_text": "Set #15",
+        "loc_text": "เซต #15",
         "string_id": "menu_st_skill_switch_15"
     },
     "menu_st_skill_switch_2": {
         "base_text": "Set #2",
-        "loc_text": "Set #2",
+        "loc_text": "เซต #2",
         "string_id": "menu_st_skill_switch_2"
     },
     "menu_st_skill_switch_3": {
         "base_text": "Set #3",
-        "loc_text": "Set #3",
+        "loc_text": "เซต #3",
         "string_id": "menu_st_skill_switch_3"
     },
     "menu_st_skill_switch_4": {
         "base_text": "Set #4",
-        "loc_text": "Set #4",
+        "loc_text": "เซต #4",
         "string_id": "menu_st_skill_switch_4"
     },
     "menu_st_skill_switch_5": {
         "base_text": "Set #5",
-        "loc_text": "Set #5",
+        "loc_text": "เซต #5",
         "string_id": "menu_st_skill_switch_5"
     },
     "menu_st_skill_switch_6": {
         "base_text": "Set #6",
-        "loc_text": "Set #6",
+        "loc_text": "เซต #6",
         "string_id": "menu_st_skill_switch_6"
     },
     "menu_st_skill_switch_7": {
         "base_text": "Set #7",
-        "loc_text": "Set #7",
+        "loc_text": "เซต #7",
         "string_id": "menu_st_skill_switch_7"
     },
     "menu_st_skill_switch_8": {
         "base_text": "Set #8",
-        "loc_text": "Set #8",
+        "loc_text": "เซต #8",
         "string_id": "menu_st_skill_switch_8"
     },
     "menu_st_skill_switch_9": {
         "base_text": "Set #9",
-        "loc_text": "Set #9",
+        "loc_text": "เซต #9",
         "string_id": "menu_st_skill_switch_9"
     },
     "menu_st_skill_switch_set": {
@@ -9076,12 +9076,12 @@
     },
     "menu_st_skill_switch_title": {
         "base_text": "Switch skill / perk set",
-        "loc_text": "Switch skill / perk set",
+        "loc_text": "เปลี่ยนเซต สกิล / เพิร์ค",
         "string_id": "menu_st_skill_switch_title"
     },
     "menu_st_skill_switch_title_name": {
         "base_text": "Slot:",
-        "loc_text": "Slot:",
+        "loc_text": "ช่อง:",
         "string_id": "menu_st_skill_switch_title_name"
     },
     "menu_st_skill_switch_title_skills": {
@@ -9091,12 +9091,12 @@
     },
     "menu_st_skill_switch_title_status": {
         "base_text": "Status:",
-        "loc_text": "Status:",
+        "loc_text": "สถานะ:",
         "string_id": "menu_st_skill_switch_title_status"
     },
     "menu_st_skilltree": {
         "base_text": "Skills",
-        "loc_text": "Skills",
+        "loc_text": "สกิล",
         "string_id": "menu_st_skilltree"
     },
     "menu_st_spec_1": {
@@ -9311,17 +9311,17 @@
     },
     "menu_st_suspended_points_skill_switch": {
         "base_text": "Suspended: Requires $Points; Skill Points",
-        "loc_text": "Suspended: Requires $Points; Skill Points",
+        "loc_text": "ถูกระงับ: ต้องการสกิลพอย์ $Points;",
         "string_id": "menu_st_suspended_points_skill_switch"
     },
     "menu_st_switch_skillset": {
         "base_text": "$BTN_SKILLSET; to switch skillset",
-        "loc_text": "$BTN_SKILLSET; to switch skillset",
+        "loc_text": "$BTN_SKILLSET; เพื่อรีเซ็ตสกิลเซต",
         "string_id": "menu_st_switch_skillset"
     },
     "menu_st_unsuspend_skill_switch": {
         "base_text": "Unsuspend",
-        "loc_text": "Unsuspend",
+        "loc_text": "ยกเลิกการระงับ",
         "string_id": "menu_st_unsuspend_skill_switch"
     },
     "menu_stable_shot_beta": {
@@ -9501,17 +9501,17 @@
     },
     "menu_stop_sound": {
         "base_text": "$BTN_X; Stop",
-        "loc_text": "$BTN_X; Stop",
+        "loc_text": "$BTN_X; หยุด",
         "string_id": "menu_stop_sound"
     },
     "menu_story_missions": {
         "base_text": "Story Line",
-        "loc_text": "Story Line",
+        "loc_text": "เนื้อเรื่อง",
         "string_id": "menu_story_missions"
     },
     "menu_subtitle": {
         "base_text": "SUBTITLE",
-        "loc_text": "SUBTITLE",
+        "loc_text": "คำอธิบาย",
         "string_id": "menu_subtitle"
     },
     "menu_subtitle_help": {
@@ -9521,7 +9521,7 @@
     },
     "menu_success": {
         "base_text": "Success",
-        "loc_text": "Success",
+        "loc_text": "สำเร็จ",
         "string_id": "menu_success"
     },
     "menu_sydney": {
@@ -9536,7 +9536,7 @@
     },
     "menu_system_message": {
         "base_text": "SYSTEM",
-        "loc_text": "SYSTEM",
+        "loc_text": "ระบบ",
         "string_id": "menu_system_message"
     },
     "menu_tango": {
@@ -9786,7 +9786,7 @@
     },
     "menu_toggle_ai": {
         "base_text": "TEAM AI",
-        "loc_text": "TEAM AI",
+        "loc_text": "ทีมบอท",
         "string_id": "menu_toggle_ai"
     },
     "menu_toggle_allow_safehouses": {
@@ -9796,7 +9796,7 @@
     },
     "menu_toggle_auto_kick": {
         "base_text": "Auto-Kick Cheaters",
-        "loc_text": "Auto-Kick Cheaters",
+        "loc_text": "เตะขยะสังคมอัติโนมัติ",
         "string_id": "menu_toggle_auto_kick"
     },
     "menu_toggle_camera_sensitivity_separate": {
@@ -9831,7 +9831,7 @@
     },
     "menu_toggle_drop_in": {
         "base_text": "ALLOW DROP-IN",
-        "loc_text": "ALLOW DROP-IN",
+        "loc_text": "อนุญาตการออกเข้าใหม่",
         "string_id": "menu_toggle_drop_in"
     },
     "menu_toggle_drop_in_help": {
@@ -10421,12 +10421,12 @@
     },
     "skill_tree_reset_all_skills_button": {
         "base_text": "$BTN_RESET_ALL_SKILLS; Reset all trees",
-        "loc_text": "$BTN_RESET_ALL_SKILLS; Reset all trees",
+        "loc_text": "$BTN_RESET_ALL_SKILLS; เพื่อรีเซ็ตสกิลทุกสาย",
         "string_id": "skill_tree_reset_all_skills_button"
     },
     "skill_tree_reset_skills_button": {
         "base_text": "$BTN_RESET_SKILLS; Reset this tree",
-        "loc_text": "$BTN_RESET_SKILLS; Reset this tree",
+        "loc_text": "$BTN_RESET_SKILLS; รีเซ็ตสกิลสายนี้",
         "string_id": "skill_tree_reset_skills_button"
     },
     "sokol_desc": {
@@ -10436,12 +10436,12 @@
     },
     "st_menu_available_skill_points": {
         "base_text": "$points; Skill points available",
-        "loc_text": "$points; Skill points available",
+        "loc_text": "$points; พอทย์ตงเหลือ",
         "string_id": "st_menu_available_skill_points"
     },
     "st_menu_buy_skill_basic": {
         "base_text": "Buy basic $cost;$NL;$points; point",
-        "loc_text": "Buy basic $cost;$NL;$points; point",
+        "loc_text": "ซื้อพื้นฐาน $cost;$NL;$points; พอยท์",
         "string_id": "st_menu_buy_skill_basic"
     },
     "st_menu_buy_skill_pro_plural": {

@@ -13611,12 +13611,12 @@
     },
     "hud_starting_heist": {
         "base_text": "Preparing mask",
-        "loc_text": "เตรียมหน้ากาก",
+        "loc_text": "กำลังใส่หน้ากาก",
         "string_id": "hud_starting_heist"
     },
     "hud_stats_bags_secured": {
         "base_text": "BAGS SECURED",
-        "loc_text": "BAGS SECURED",
+        "loc_text": "กระเป๋าที่ได้รับ",
         "string_id": "hud_stats_bags_secured"
     },
     "hud_stats_enemies_converted": {
@@ -15086,77 +15086,77 @@
     },
     "present_obtained_mission_equipment_title": {
         "base_text": "OBTAINED MISSION EQUIPMENT: ",
-        "loc_text": "OBTAINED MISSION EQUIPMENT: ",
+        "loc_text": "อุปกรณ์ภารกิจที่ได้รับ: ",
         "string_id": "present_obtained_mission_equipment_title"
     },
     "prop_security_lock_gui_start": {
         "base_text": "INITIATE",
-        "loc_text": "INITIATE",
+        "loc_text": "เริ่มต้น",
         "string_id": "prop_security_lock_gui_start"
     },
     "prop_security_lock_title": {
         "base_text": "HACK LEVEL $NR;",
-        "loc_text": "HACK LEVEL $NR;",
+        "loc_text": "เลเวลการแฮค $NR;",
         "string_id": "prop_security_lock_title"
     },
     "prop_timer_gui_done": {
         "base_text": "DRILLING COMPLETED",
-        "loc_text": "DRILLING COMPLETED",
+        "loc_text": "การเจาะเสร็จสิ้น",
         "string_id": "prop_timer_gui_done"
     },
     "prop_timer_gui_estimated_time": {
         "base_text": "ESTIMATED TIME REMAINING",
-        "loc_text": "ESTIMATED TIME REMAINING",
+        "loc_text": "เวลาคงเหลือ",
         "string_id": "prop_timer_gui_estimated_time"
     },
     "prop_timer_gui_malfunction": {
         "base_text": "// DRILL JAMMED //",
-        "loc_text": "// DRILL JAMMED //",
+        "loc_text": "// ระบบเครื่องเจาะเสียหาย //",
         "string_id": "prop_timer_gui_malfunction"
     },
     "prop_timer_gui_seconds": {
         "base_text": "SECONDS",
-        "loc_text": "SECONDS",
+        "loc_text": "วินาที",
         "string_id": "prop_timer_gui_seconds"
     },
     "prop_timer_gui_start": {
         "base_text": "START DRILLING",
-        "loc_text": "START DRILLING",
+        "loc_text": "เริ่มการเจาะ",
         "string_id": "prop_timer_gui_start"
     },
     "prop_timer_gui_working": {
         "base_text": "DRILLING IN PROGRESS",
-        "loc_text": "DRILLING IN PROGRESS",
+        "loc_text": "เครื่องเจาะกำลังทำงาน",
         "string_id": "prop_timer_gui_working"
     },
     "prop_timer_hack_ipad_gui_done": {
         "base_text": "COMPLETED",
-        "loc_text": "COMPLETED",
+        "loc_text": "เสร็จสิน",
         "string_id": "prop_timer_hack_ipad_gui_done"
     },
     "prop_timer_hack_ipad_gui_start": {
         "base_text": "START",
-        "loc_text": "START",
+        "loc_text": "เริ่ม",
         "string_id": "prop_timer_hack_ipad_gui_start"
     },
     "prop_timer_hack_ipad_gui_working": {
         "base_text": "ACCESSING...",
-        "loc_text": "ACCESSING...",
+        "loc_text": "กำลังเข้าถึง...",
         "string_id": "prop_timer_hack_ipad_gui_working"
     },
     "prop_timer_saw_gui_start": {
         "base_text": "START THE SAW",
-        "loc_text": "START THE SAW",
+        "loc_text": "เริ่มการเลื่อย",
         "string_id": "prop_timer_saw_gui_start"
     },
     "prop_timer_saw_gui_working": {
         "base_text": "SAWING IN PROGRESS",
-        "loc_text": "SAWING IN PROGRESS",
+        "loc_text": "เครื่องเลี่อยกำลังทำงาน",
         "string_id": "prop_timer_saw_gui_working"
     },
     "victory_best_accuracy": {
         "base_text": "BEST ACCURACY:",
-        "loc_text": "BEST ACCURACY:",
+        "loc_text": "แม่นยำที่สุด:",
         "string_id": "victory_best_accuracy"
     },
     "victory_best_accuracy_name": {
