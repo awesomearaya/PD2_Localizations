@@ -6,7 +6,7 @@
     },
     "bm_menu_btn_buy_mod": {
         "base_text": "Purchase with Continental Coins",
-        "loc_text": "ซื้อด้วยเหรียญ Continental",
+        "loc_text": "ซื้อด้วยเหรียญคอนติเนนทอล",
         "string_id": "bm_menu_btn_buy_mod"
     },
     "bm_menu_crit": {
@@ -216,7 +216,7 @@
     },
     "dialog_bm_purchase_coins": {
         "base_text": "It will cost you $money; Continental Coins.",
-        "loc_text": "จะมีค่าใช้จ่ายทั้งหมด $money; เหรียญ Continental",
+        "loc_text": "จะใช้เหรียญคอนติเนนทอลทั้งหมด $money;",
         "string_id": "dialog_bm_purchase_coins"
     },
     "dialog_bm_purchase_mod": {
@@ -10461,7 +10461,7 @@
     },
     "st_menu_enforcer": {
         "base_text": "Enforcer",
-        "loc_text": "Enforcer",
+        "loc_text": "เอ็นฟอร์ซเซอร์",
         "string_id": "st_menu_enforcer"
     },
     "st_menu_enforcer_ammo": {
@@ -10491,7 +10491,7 @@
     },
     "st_menu_ghost": {
         "base_text": "Ghost",
-        "loc_text": "Ghost",
+        "loc_text": "โกสต์",
         "string_id": "st_menu_ghost"
     },
     "st_menu_ghost_concealed": {
@@ -10506,17 +10506,17 @@
     },
     "st_menu_ghost_stealth": {
         "base_text": "Shinobi",
-        "loc_text": "Shinobi",
+        "loc_text": "ซิโนบิ",
         "string_id": "st_menu_ghost_stealth"
     },
     "st_menu_hoxton_pack": {
         "base_text": "Fugitive",
-        "loc_text": "Fugitive",
+        "loc_text": "ฟูจิทีฟ",
         "string_id": "st_menu_hoxton_pack"
     },
     "st_menu_mastermind": {
         "base_text": "Mastermind",
-        "loc_text": "Mastermind",
+        "loc_text": "มาสเตอร์มายด์",
         "string_id": "st_menu_mastermind"
     },
     "st_menu_mastermind_dominate": {
@@ -10571,7 +10571,7 @@
     },
     "st_menu_technician": {
         "base_text": "Technician",
-        "loc_text": "Technician",
+        "loc_text": "เทคนิชเชิน",
         "string_id": "st_menu_technician"
     },
     "st_menu_technician_auto": {
