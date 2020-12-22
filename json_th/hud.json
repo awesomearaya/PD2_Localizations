@@ -16,7 +16,7 @@
     },
     "debug_equipment_pex_cutter": {
         "base_text": "Bolt Cutter",
-        "loc_text": "Bolt Cutter",
+        "loc_text": "คีมตัดเหล็ก",
         "string_id": "debug_equipment_pex_cutter"
     },
     "failed_disconnected_continue": {
@@ -14886,7 +14886,7 @@
     },
     "loading_trivia_title": {
         "base_text": "PAYDAY Trivia",
-        "loc_text": "PAYDAY Trivia",
+        "loc_text": "เกร็ด PAYDAY",
         "string_id": "loading_trivia_title"
     },
     "menu_jukebox_track_47_gen": {
@@ -14901,7 +14901,7 @@
     },
     "message_obtained_equipment": {
         "base_text": "OBTAINED MISSION EQUIPMENT: ",
-        "loc_text": "OBTAINED MISSION EQUIPMENT: ",
+        "loc_text": "ได้รับอุปกรณ์สำหรับภารกิจ: ",
         "string_id": "message_obtained_equipment"
     },
     "mission_glace_1": {
@@ -14921,7 +14921,7 @@
     },
     "mission_glace_2_hl": {
         "base_text": "Find The Prisoner",
-        "loc_text": "Find The Prisoner",
+        "loc_text": "หาตัวนักโทษ",
         "string_id": "mission_glace_2_hl"
     },
     "mission_glace_3": {
@@ -14971,7 +14971,7 @@
     },
     "mission_objective_updated": {
         "base_text": "OBJECTIVE UPDATED: ",
-        "loc_text": "OBJECTIVE UPDATED: ",
+        "loc_text": "สิ่งที่ต้องทำใหม่: ",
         "string_id": "mission_objective_updated"
     },
     "mission_str_catch": {
@@ -15081,7 +15081,7 @@
     },
     "mission_str_wait_hl": {
         "base_text": "Wait for the Helicopter",
-        "loc_text": "Wait for the Helicopter",
+        "loc_text": "รอเฮลิคอปเตอร์",
         "string_id": "mission_str_wait_hl"
     },
     "present_obtained_mission_equipment_title": {
@@ -15166,7 +15166,7 @@
     },
     "victory_best_killer": {
         "base_text": "HIGHEST BODY COUNT:",
-        "loc_text": "HIGHEST BODY COUNT:",
+        "loc_text": "ฆ่าศัตรูเยอะที่สุด:",
         "string_id": "victory_best_killer"
     },
     "victory_best_killer_name": {
@@ -15176,7 +15176,7 @@
     },
     "victory_best_special": {
         "base_text": "HIGHEST SPECIALS BODY COUNT:",
-        "loc_text": "HIGHEST SPECIALS BODY COUNT:",
+        "loc_text": "ฆ่าศัตรูพิเศษเยอะที่สุด:",
         "string_id": "victory_best_special"
     },
     "victory_best_special_name": {
@@ -15186,72 +15186,72 @@
     },
     "victory_civilians_killed_penalty": {
         "base_text": "CIVILIANS KILLED:",
-        "loc_text": "CIVILIANS KILLED:",
+        "loc_text": "ตัวประกันที่ฆ่า:",
         "string_id": "victory_civilians_killed_penalty"
     },
     "victory_client_waiting_for_server": {
         "base_text": "WAITING FOR SERVER",
-        "loc_text": "WAITING FOR SERVER",
+        "loc_text": "กำลังรอเซิฟเวอร์",
         "string_id": "victory_client_waiting_for_server"
     },
     "victory_criminals_finished": {
         "base_text": "SURVIVING CREW:",
-        "loc_text": "SURVIVING CREW:",
+        "loc_text": "เพื่อนร่วมทีมที่อยู่รอด:",
         "string_id": "victory_criminals_finished"
     },
     "victory_favourite_weapon": {
         "base_text": "FAVORITE WEAPON:",
-        "loc_text": "FAVORITE WEAPON:",
+        "loc_text": "อาวุธที่ชื่นชอบ:",
         "string_id": "victory_favourite_weapon"
     },
     "victory_group_hit_accuracy": {
         "base_text": "CREW HIT ACCURACY:",
-        "loc_text": "CREW HIT ACCURACY:",
+        "loc_text": "ความแม่นยำของทีม:",
         "string_id": "victory_group_hit_accuracy"
     },
     "victory_group_total_downed": {
         "base_text": "CREW DOWNED:",
-        "loc_text": "CREW DOWNED:",
+        "loc_text": "จำนวนล้มของทีม:",
         "string_id": "victory_group_total_downed"
     },
     "victory_hit_accuracy": {
         "base_text": "HIT ACCURACY:",
-        "loc_text": "HIT ACCURACY:",
+        "loc_text": "แม่นยำที่สุด:",
         "string_id": "victory_hit_accuracy"
     },
     "victory_most_downs": {
         "base_text": "MOST DOWNED:",
-        "loc_text": "MOST DOWNED:",
+        "loc_text": "ล้มเยอะที่สุด:",
         "string_id": "victory_most_downs"
     },
     "victory_most_downs_name": {
         "base_text": "$PLAYER_NAME; ($SCORE;)",
-        "loc_text": "$PLAYER_NAME; ($SCORE;)",
+        "loc_text": "$PLAYER_NAME; ($SCORE;) [ล้มไรเยอะแยะโถ่]",
         "string_id": "victory_most_downs_name"
     },
     "victory_time_played": {
         "base_text": "TIME PLAYED:",
-        "loc_text": "TIME PLAYED:",
+        "loc_text": "เวลาเล่น:",
         "string_id": "victory_time_played"
     },
     "victory_total_downed": {
         "base_text": "DOWNED:",
-        "loc_text": "DOWNED:",
+        "loc_text": "จำนวนล้ม:",
         "string_id": "victory_total_downed"
     },
     "victory_total_head_shots": {
         "base_text": "HEAD SHOTS:",
-        "loc_text": "HEAD SHOTS:",
+        "loc_text": "ยิงหัว:",
         "string_id": "victory_total_head_shots"
     },
     "victory_total_kills": {
         "base_text": "BODY COUNT:",
-        "loc_text": "BODY COUNT:",
+        "loc_text": "ศัตรูที่ฆ่า:",
         "string_id": "victory_total_kills"
     },
     "victory_total_specials_kills": {
         "base_text": "SPECIALS BODY COUNT:",
-        "loc_text": "SPECIALS BODY COUNT:",
+        "loc_text": "ศัตรูพิเศษที่ฆ่า:",
         "string_id": "victory_total_specials_kills"
     }
 }

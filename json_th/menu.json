@@ -8741,7 +8741,7 @@
     },
     "menu_skilltree": {
         "base_text": "SKILLS AND PERKS",
-        "loc_text": "SKILLS AND PERKS",
+        "loc_text": "สกิลและเพิร์ค",
         "string_id": "menu_skilltree"
     },
     "menu_skirmish": {
@@ -8751,12 +8751,12 @@
     },
     "menu_skirmish_fail_end_screen": {
         "base_text": "You failed on ##wave $wave;##.",
-        "loc_text": "You failed on ##wave $wave;##.",
+        "loc_text": "คุณพลาดใน##รอบที่ $wave;##.",
         "string_id": "menu_skirmish_fail_end_screen"
     },
     "menu_skirmish_map_selection": {
         "base_text": "Map Selection",
-        "loc_text": "Map Selection",
+        "loc_text": "เลือกแผนที่",
         "string_id": "menu_skirmish_map_selection"
     },
     "menu_skirmish_pick_heist": {
@@ -8791,17 +8791,17 @@
     },
     "menu_skirmish_wave_filter": {
         "base_text": "Maximum wave",
-        "loc_text": "Maximum wave",
+        "loc_text": "ค่าไถ่สูงสุด wave",
         "string_id": "menu_skirmish_wave_filter"
     },
     "menu_skirmish_wave_number": {
         "base_text": "Wave $wave;",
-        "loc_text": "Wave $wave;",
+        "loc_text": "รอบที่ $wave;",
         "string_id": "menu_skirmish_wave_number"
     },
     "menu_skirmish_wave_range": {
         "base_text": "Wave span: $min; - $max;",
-        "loc_text": "Wave span: $min; - $max;",
+        "loc_text": "รอบที่มี: $min; - $max;",
         "string_id": "menu_skirmish_wave_range"
     },
     "menu_sm_diamond_store": {
@@ -8816,7 +8816,7 @@
     },
     "menu_smg": {
         "base_text": "Submachine Gun",
-        "loc_text": "Submachine Gun",
+        "loc_text": "ปืนกลมือ",
         "string_id": "menu_smg"
     },
     "menu_sniper_graze_damage": {
@@ -8846,32 +8846,32 @@
     },
     "menu_sort_alphabetic": {
         "base_text": "Alphabetic",
-        "loc_text": "Alphabetic",
+        "loc_text": "ตามตัวอักษร",
         "string_id": "menu_sort_alphabetic"
     },
     "menu_sort_chronologic": {
         "base_text": "Chronologic",
-        "loc_text": "Chronologic",
+        "loc_text": "ลำดับเหตุการณ์",
         "string_id": "menu_sort_chronologic"
     },
     "menu_sort_progress": {
         "base_text": "Progress",
-        "loc_text": "Progress",
+        "loc_text": "ความคืบหน้า",
         "string_id": "menu_sort_progress"
     },
     "menu_sound": {
         "base_text": "SOUND",
-        "loc_text": "SOUND",
+        "loc_text": "เสียง",
         "string_id": "menu_sound"
     },
     "menu_sound_help": {
         "base_text": "Change your sound preferences.",
-        "loc_text": "Change your sound preferences.",
+        "loc_text": "เปลี่ยนการตั้งค่าเสียงของคุณ",
         "string_id": "menu_sound_help"
     },
     "menu_sound_option_default": {
         "base_text": "DEFAULT SOUND OPTIONS",
-        "loc_text": "DEFAULT SOUND OPTIONS",
+        "loc_text": "การตั้งค่าเสียงเริ่มต้น",
         "string_id": "menu_sound_option_default"
     },
     "menu_sound_option_default_help": {
@@ -8896,12 +8896,12 @@
     },
     "menu_spectator_being_traded_hesitant_bain": {
         "base_text": "Bain is negotiating!",
-        "loc_text": "Bain is negotiating!",
+        "loc_text": "Bain กำลังทำการเจรจา!",
         "string_id": "menu_spectator_being_traded_hesitant_bain"
     },
     "menu_spectator_being_traded_hesitant_locke": {
         "base_text": "Locke is negotiating!",
-        "loc_text": "Locke is negotiating!",
+        "loc_text": "Locke กำลังทำการเจรจา!",
         "string_id": "menu_spectator_being_traded_hesitant_locke"
     },
     "menu_speedy_reload_beta": {
