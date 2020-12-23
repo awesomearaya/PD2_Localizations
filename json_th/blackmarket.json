@@ -606,7 +606,7 @@
     },
     "bm_equipment_doctor_bag": {
         "base_text": "Doctor Bag",
-        "loc_text": "Doctor Bag",
+        "loc_text": "ด็อกเตอร์แบค",
         "string_id": "bm_equipment_doctor_bag"
     },
     "bm_equipment_doctor_bag_desc": {
@@ -626,12 +626,12 @@
     },
     "bm_equipment_first_aid_kit": {
         "base_text": "First Aid Kit",
-        "loc_text": "First Aid Kit",
+        "loc_text": "เฟิร์สอีสคิท",
         "string_id": "bm_equipment_first_aid_kit"
     },
     "bm_equipment_first_aid_kit_desc": {
         "base_text": "The first aid kit is a collection of supplies and equipment for use in giving first aid.$NL;$NL;To use the first aid kit, you need to place it by holding $BTN_USE_ITEM;. Once placed it cannot be moved, but it can be used by you and your crew by holding $BTN_INTERACT; to regain health.$NL;$NL;A deployed first aid kit can be used once and when it is consumed, it disappears.",
-        "loc_text": "The first aid kit is a collection of supplies and equipment for use in giving first aid.$NL;$NL;To use the first aid kit, you need to place it by holding $BTN_USE_ITEM;. Once placed it cannot be moved, but it can be used by you and your crew by holding $BTN_INTERACT; to regain health.$NL;$NL;A deployed first aid kit can be used once and when it is consumed, it disappears.",
+        "loc_text": "The เฟิร์สอีสคิท is a collection of supplies and equipment for use in giving first aid.$NL;$NL;To use the เฟิร์สอีสคิท, you need to place it by holding $BTN_USE_ITEM;. Once placed it cannot be moved, but it can be used by you and your crew by holding $BTN_INTERACT; to regain health.$NL;$NL;A deployed เฟิร์สอีสคิท can be used once and when it is consumed, it disappears.",
         "string_id": "bm_equipment_first_aid_kit_desc"
     },
     "bm_equipment_sentry_gun": {
@@ -2011,12 +2011,12 @@
     },
     "bm_menu_btn_equip_primary_deployable": {
         "base_text": "Equip Primary",
-        "loc_text": "Equip Primary",
+        "loc_text": "ใช้เป็นอุปกรณ์หลัก",
         "string_id": "bm_menu_btn_equip_primary_deployable"
     },
     "bm_menu_btn_equip_secondary_deployable": {
         "base_text": "Equip Secondary",
-        "loc_text": "Equip Secondary",
+        "loc_text": "ใช้เป็นอุปกรณ์สำรอง",
         "string_id": "bm_menu_btn_equip_secondary_deployable"
     },
     "bm_menu_btn_equip_weapon": {
@@ -2181,7 +2181,7 @@
     },
     "bm_menu_btn_unequip_deployable": {
         "base_text": "Unequip deployable",
-        "loc_text": "Unequip deployable",
+        "loc_text": "ปลดอุปกรณ์",
         "string_id": "bm_menu_btn_unequip_deployable"
     },
     "bm_menu_btn_unequip_weapon": {
@@ -2321,7 +2321,7 @@
     },
     "bm_menu_equipped": {
         "base_text": "Equipped",
-        "loc_text": "Equipped",
+        "loc_text": "ใช้งานอยู่",
         "string_id": "bm_menu_equipped"
     },
     "bm_menu_extra": {
@@ -2511,7 +2511,7 @@
     },
     "bm_menu_primaries": {
         "base_text": "Primary",
-        "loc_text": "อาวุธหลัก",
+        "loc_text": "หลัก",
         "string_id": "bm_menu_primaries"
     },
     "bm_menu_quality_fair": {
@@ -2726,7 +2726,7 @@
     },
     "bm_menu_secondaries": {
         "base_text": "Secondary",
-        "loc_text": "อาวุธรอง",
+        "loc_text": "รอง",
         "string_id": "bm_menu_secondaries"
     },
     "bm_menu_sight": {

@@ -861,7 +861,7 @@
     },
     "hud_days_title": {
         "base_text": "Day $DAY; of $DAYS;",
-        "loc_text": "Day $DAY; of $DAYS;",
+        "loc_text": "วันที่ $DAY; จาก $DAYS;",
         "string_id": "hud_days_title"
     },
     "hud_deploy_valid_help": {
@@ -13561,7 +13561,7 @@
     },
     "hud_skip_blackscreen": {
         "base_text": "Hold $BTN_ACCEPT; to skip",
-        "loc_text": "Hold $BTN_ACCEPT; to skip",
+        "loc_text": "กด $BTN_ACCEPT; ค้างเพื่อข้าม",
         "string_id": "hud_skip_blackscreen"
     },
     "hud_skirmish": {

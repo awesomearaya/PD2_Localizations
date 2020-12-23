@@ -116,12 +116,12 @@
     },
     "cn_menu_num_players_offline": {
         "base_text": "Crime.net",
-        "loc_text": "Crime.net",
+        "loc_text": "คราม.เน็ต",
         "string_id": "cn_menu_num_players_offline"
     },
     "cn_menu_num_players_online": {
         "base_text": "Crime.net/users_online: $amount;",
-        "loc_text": "Crime.net/จำนวนผู้ใช้ออนไลน์: $amount;",
+        "loc_text": "คราม.เน็ต/จำนวนผู้ใช้ออนไลน์: $amount;",
         "string_id": "cn_menu_num_players_online"
     },
     "cn_menu_shaw_title": {
@@ -371,7 +371,7 @@
     },
     "discord_rp_single_heist": {
         "base_text": "Crime.Net Offline",
-        "loc_text": "Crime.Net ออฟไลน์",
+        "loc_text": "คราม.เน็ต ออฟไลน์",
         "string_id": "discord_rp_single_heist"
     },
     "discord_rp_single_heist_details": {
@@ -476,7 +476,7 @@
     },
     "menu_abort_mission": {
         "base_text": "Terminate contract",
-        "loc_text": "Terminate contract",
+        "loc_text": "ยกเลิกงานจ้าง",
         "string_id": "menu_abort_mission"
     },
     "menu_achievement_any": {
@@ -816,7 +816,7 @@
     },
     "menu_akimbo_skill_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your Akimbo weapons' stability penalty is reduced by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Your Akimbo weapons' stability penalty is reduced by an additional ##$multipro3;## and they also have a ##$multipro4;## increased ammo capacity.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your Akimbo weapons' stability penalty is reduced by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Your Akimbo weapons' stability penalty is reduced by an additional ##$multipro3;## and they also have a ##$multipro4;## increased ammo capacity.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your Akimbo weapons' stability penalty is reduced by ##$multibasic2;##.$NL;$NL;เอซ: ##$pro;##$NL;Your Akimbo weapons' stability penalty is reduced by an additional ##$multipro3;## and they also have a ##$multipro4;## increased ammo capacity.",
         "string_id": "menu_akimbo_skill_beta_desc"
     },
     "menu_akimbo_smg": {
@@ -836,7 +836,7 @@
     },
     "menu_ammo_2x_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now place ##$multibasic;## ammo bags instead of just one. $NL;$NL;ACE: ##$pro;##$NL;Each ammo bag now contains ##$multipro;## more ammunition.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can now place ##$multibasic;## ammo bags instead of just one. $NL;$NL;ACE: ##$pro;##$NL;Each ammo bag now contains ##$multipro;## more ammunition.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can now place ##$multibasic;## ammo bags instead of just one. $NL;$NL;เอซ: ##$pro;##$NL;Each ammo bag now contains ##$multipro;## more ammunition.",
         "string_id": "menu_ammo_2x_beta_desc"
     },
     "menu_ammo_contour": {
@@ -856,7 +856,7 @@
     },
     "menu_ammo_reservoir_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Ammo bags placed by you grant players the ability to shoot without depleting their ammunition for up to ##$multibasic;## seconds after interacting with it. The more ammo players replenish, the longer the duration of the effect.$NL;$NL;ACE: ##$pro;##$NL;Increases the base duration of the effect by up to ##$multipro2;## seconds.",
-        "loc_text": "BASIC: ##$basic;##$NL;Ammo bags placed by you grant players the ability to shoot without depleting their ammunition for up to ##$multibasic;## seconds after interacting with it. The more ammo players replenish, the longer the duration of the effect.$NL;$NL;ACE: ##$pro;##$NL;Increases the base duration of the effect by up to ##$multipro2;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Ammo bags placed by you grant players the ability to shoot without depleting their ammunition for up to ##$multibasic;## seconds after interacting with it. The more ammo players replenish, the longer the duration of the effect.$NL;$NL;เอซ: ##$pro;##$NL;Increases the base duration of the effect by up to ##$multipro2;## seconds.",
         "string_id": "menu_ammo_reservoir_beta_desc"
     },
     "menu_anim_lod": {
@@ -1111,7 +1111,7 @@
     },
     "menu_asset_health": {
         "base_text": "Doctor Bag",
-        "loc_text": "กระเป๋าพยาบาล",
+        "loc_text": "ด็อกเตอร์แบค",
         "string_id": "menu_asset_health"
     },
     "menu_asset_lights": {
@@ -1206,7 +1206,7 @@
     },
     "menu_awareness_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## additional movement speed and ##$multibasic2;## increased speed while climbing ladders.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to sprint in any direction. $NL;$NL;Run and reload - you can reload your weapons while sprinting.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## additional movement speed and ##$multibasic2;## increased speed while climbing ladders.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to sprint in any direction. $NL;$NL;Run and reload - you can reload your weapons while sprinting.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## additional movement speed and ##$multibasic2;## increased speed while climbing ladders.$NL;$NL;เอซ: ##$pro;##$NL;You gain the ability to sprint in any direction. $NL;$NL;Run and reload - you can reload your weapons while sprinting.",
         "string_id": "menu_awareness_beta_desc"
     },
     "menu_back": {
@@ -1221,7 +1221,7 @@
     },
     "menu_backstab_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## critical hit chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## critical hit chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.$NL;$NL;Note: Does not apply to grenade launchers.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## critical hit chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## critical hit chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.$NL;$NL;Note: Does not apply to grenade launchers.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain a ##$multibasic;## critical hit chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## critical hit chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.$NL;$NL;Note: Does not apply to grenade launchers.",
         "string_id": "menu_backstab_beta_desc"
     },
     "menu_bandoliers_beta": {
@@ -1231,17 +1231,17 @@
     },
     "menu_bandoliers_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your total ammo capacity is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Increases the amount of ammo you gain from ammo boxes by ##$multipro2;##. You also gain a ##$multipro3;## base chance to get a throwable from an ammo box. The base chance is increased by ##$multipro4;## for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value.$NL;$NL;Note: Does not stack with the perk deck skill \"Walk-in Closet\".",
-        "loc_text": "BASIC: ##$basic;##$NL;Your total ammo capacity is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Increases the amount of ammo you gain from ammo boxes by ##$multipro2;##. You also gain a ##$multipro3;## base chance to get a throwable from an ammo box. The base chance is increased by ##$multipro4;## for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value.$NL;$NL;Note: Does not stack with the perk deck skill \"Walk-in Closet\".",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your total ammo capacity is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Increases the amount of ammo you gain from ammo boxes by ##$multipro2;##. You also gain a ##$multipro3;## base chance to get a throwable from an ammo box. The base chance is increased by ##$multipro4;## for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value.$NL;$NL;Note: Does not stack with the perk deck skill \"Walk-in Closet\".",
         "string_id": "menu_bandoliers_beta_desc"
     },
     "menu_black_marketeer_beta": {
         "base_text": "Hostage Taker",
-        "loc_text": "Hostage Taker",
+        "loc_text": "ฮอลเต็จแทคเกอร์",
         "string_id": "menu_black_marketeer_beta"
     },
     "menu_black_marketeer_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multibasic;## health every ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multipro;## health every ##$multipro2;## seconds.",
-        "loc_text": "BASIC: ##$basic;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multibasic;## health every ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multipro;## health every ##$multipro2;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multibasic;## health every ##$multibasic2;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multipro;## health every ##$multipro2;## seconds.",
         "string_id": "menu_black_marketeer_beta_desc"
     },
     "menu_blackmarket": {
@@ -1256,7 +1256,7 @@
     },
     "menu_bloodthirst_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Every kill you get will increase your next melee attack damage by ##$multibasic;##, up to a maximum of ##$multibasic2;##. This effect gets reset when you kill an enemy with a melee attack.$NL;$NL;ACE: ##$pro;##$NL;Whenever you kill an enemy with a melee attack, you will gain a ##$multipro;## increase in reload speed for ##$multipro2;## seconds.",
-        "loc_text": "BASIC: ##$basic;##$NL;Every kill you get will increase your next melee attack damage by ##$multibasic;##, up to a maximum of ##$multibasic2;##. This effect gets reset when you kill an enemy with a melee attack.$NL;$NL;ACE: ##$pro;##$NL;Whenever you kill an enemy with a melee attack, you will gain a ##$multipro;## increase in reload speed for ##$multipro2;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Every kill you get will increase your next melee attack damage by ##$multibasic;##, up to a maximum of ##$multibasic2;##. This effect gets reset when you kill an enemy with a melee attack.$NL;$NL;เอซ: ##$pro;##$NL;Whenever you kill an enemy with a melee attack, you will gain a ##$multipro;## increase in reload speed for ##$multipro2;## seconds.",
         "string_id": "menu_bloodthirst_desc"
     },
     "menu_bm_inventory_bonus": {
@@ -1281,7 +1281,7 @@
     },
     "menu_body_expertise_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;##$multibasic;## from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.$NL;$NL;ACE: ##$pro;##$NL;##$multipro;## from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.",
-        "loc_text": "BASIC: ##$basic;##$NL;##$multibasic;## from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.$NL;$NL;ACE: ##$pro;##$NL;##$multipro;## from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.",
+        "loc_text": "เบสิค: ##$basic;##$NL;##$multibasic;## from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.$NL;$NL;เอซ: ##$pro;##$NL;##$multipro;## from the bonus headshot damage is permanently applied to hitting enemies on the body. This skill is only activated by SMGs, LMGs, Assault Rifles or Special Weapons fired in automatic fire mode.",
         "string_id": "menu_body_expertise_beta_desc"
     },
     "menu_bonnie": {
@@ -1296,7 +1296,7 @@
     },
     "menu_briefing": {
         "base_text": "Crime.net Info:",
-        "loc_text": "Crime.net Info:",
+        "loc_text": "ข้อมูลจากครามเน็ต:",
         "string_id": "menu_briefing"
     },
     "menu_brightness": {
@@ -1336,12 +1336,12 @@
     },
     "menu_cable_guy_beta": {
         "base_text": "Confident",
-        "loc_text": "Confident",
+        "loc_text": "คอนฟิเด็น",
         "string_id": "menu_cable_guy_beta"
     },
     "menu_cable_guy_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The power and range of your intimidation is increased by ##$multibasic2;## $NL;$NL;ACE: ##$pro;##$NL;You can now have ##$multipro2;## converted enemies at the same time.",
-        "loc_text": "BASIC: ##$basic;##$NL;The power and range of your intimidation is increased by ##$multibasic2;## $NL;$NL;ACE: ##$pro;##$NL;You can now have ##$multipro2;## converted enemies at the same time.",
+        "loc_text": "เบสิค: ##$basic;##$NL;The power and range of your intimidation is increased by ##$multibasic2;## $NL;$NL;เอซ: ##$pro;##$NL;You can now have ##$multipro2;## converted enemies at the same time.",
         "string_id": "menu_cable_guy_beta_desc"
     },
     "menu_camera_sensitivity_horizontal": {
@@ -1391,7 +1391,7 @@
     },
     "menu_carbon_blade_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Reducing the wear down of the blades on enemies by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;You can now saw through shield enemies with your OVE9000 portable saw. When killing an enemy with the saw, you have a ##$multipro;## chance to cause nearby enemies in a ##$multipro3;## m radius to panic. Panic will make enemies go into short bursts of uncontrollable fear.",
-        "loc_text": "BASIC: ##$basic;##$NL;Reducing the wear down of the blades on enemies by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;You can now saw through shield enemies with your OVE9000 portable saw. When killing an enemy with the saw, you have a ##$multipro;## chance to cause nearby enemies in a ##$multipro3;## m radius to panic. Panic will make enemies go into short bursts of uncontrollable fear.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Reducing the wear down of the blades on enemies by ##$multibasic2;##.$NL;$NL;เอซ: ##$pro;##$NL;You can now saw through shield enemies with your OVE9000 portable saw. When killing an enemy with the saw, you have a ##$multipro;## chance to cause nearby enemies in a ##$multipro3;## m radius to panic. Panic will make enemies go into short bursts of uncontrollable fear.",
         "string_id": "menu_carbon_blade_beta_desc"
     },
     "menu_cash": {
@@ -1806,7 +1806,7 @@
     },
     "menu_chameleon_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain the ability to automatically mark enemies within a ##$multibasic2;## meter radius around you after standing still for ##$multibasic3;## seconds while in stealth.$NL;$NL;ACE: ##$pro;##$NL;You gain access to all insider assets. Cleaning costs after killing a civilian is reduced by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain the ability to automatically mark enemies within a ##$multibasic2;## meter radius around you after standing still for ##$multibasic3;## seconds while in stealth.$NL;$NL;ACE: ##$pro;##$NL;You gain access to all insider assets. Cleaning costs after killing a civilian is reduced by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain the ability to automatically mark enemies within a ##$multibasic2;## meter radius around you after standing still for ##$multibasic3;## seconds while in stealth.$NL;$NL;เอซ: ##$pro;##$NL;You gain access to all insider assets. Cleaning costs after killing a civilian is reduced by ##$multipro2;##.",
         "string_id": "menu_chameleon_beta_desc"
     },
     "menu_chat_peer_added": {
@@ -1886,17 +1886,17 @@
     },
     "menu_choose_new_contract": {
         "base_text": "Choose new contract from Crime.Net",
-        "loc_text": "Choose new contract from Crime.Net",
+        "loc_text": "เลือกงานจ้างใหม่จากครามเน็ต",
         "string_id": "menu_choose_new_contract"
     },
     "menu_cleaner_beta": {
         "base_text": "Cleaner",
-        "loc_text": "Cleaner",
+        "loc_text": "คลีนเนอร์",
         "string_id": "menu_cleaner_beta"
     },
     "menu_cleaner_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic3;## additional body bag in your inventory. Also increases the body bag inventory space to ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to place ##$multipro2;## body bag cases.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic3;## additional body bag in your inventory. Also increases the body bag inventory space to ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to place ##$multipro2;## body bag cases.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic3;## additional body bag in your inventory. Also increases the body bag inventory space to ##$multibasic2;##.$NL;$NL;เอซ: ##$pro;##$NL;You gain the ability to place ##$multipro2;## body bag cases.",
         "string_id": "menu_cleaner_beta_desc"
     },
     "menu_close_by_beta": {
@@ -1906,7 +1906,7 @@
     },
     "menu_close_by_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now hip-fire with your Shotguns while sprinting.$NL;$NL;ACE: ##$pro;##$NL;Your rate of fire is increased by ##$multipro;## while firing from the hip with single shot Shotguns. Shotguns with magazines have their magazine sizes increased by ##$multipro2;## shells.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can now hip-fire with your Shotguns while sprinting.$NL;$NL;ACE: ##$pro;##$NL;Your rate of fire is increased by ##$multipro;## while firing from the hip with single shot Shotguns. Shotguns with magazines have their magazine sizes increased by ##$multipro2;## shells.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can now hip-fire with your Shotguns while sprinting.$NL;$NL;เอซ: ##$pro;##$NL;Your rate of fire is increased by ##$multipro;## while firing from the hip with single shot Shotguns. Shotguns with magazines have their magazine sizes increased by ##$multipro2;## shells.",
         "string_id": "menu_close_by_beta_desc"
     },
     "menu_clover": {
@@ -2151,17 +2151,17 @@
     },
     "menu_combat_engineering_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The radius of your trip mine explosion is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your trip mine damage is increased by ##$multipro;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;The radius of your trip mine explosion is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your trip mine damage is increased by ##$multipro;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;The radius of your trip mine explosion is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Your trip mine damage is increased by ##$multipro;##.",
         "string_id": "menu_combat_engineering_desc"
     },
     "menu_combat_medic_beta": {
         "base_text": "Combat Medic",
-        "loc_text": "Combat Medic",
+        "loc_text": "คอมแบทเมดิก",
         "string_id": "menu_combat_medic_beta"
     },
     "menu_combat_medic_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## damage reduction for ##$multibasic2;## seconds both after and during reviving another player.$NL;$NL;ACE: ##$pro;##$NL;Reviving a crew member gives them ##$multipro;## more health.",
-        "loc_text": "พื้นฐาน: ##$basic;##$NL;คุณและผู้เล่นที่ได้รับการช่วยเหลือจะได้รับความเสียหายน้อยลง ##$multibasic;## เป็นเวลา ##$multibasic2;## วินาที$NL;$NL;เอซ: ##$pro;##$NL;เพื่อนร่วมทีมที่ได้รับการช่วยเหลือจากคุณ$NL;จะได้รับเลือดเพิ่มขึ้นอีก ##$multipro;##",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณและผู้เล่นที่ได้รับการช่วยเหลือจะได้รับความเสียหายน้อยลง ##$multibasic;## เป็นเวลา ##$multibasic2;## วินาที$NL;$NL;เอซ: ##$pro;##$NL;เพื่อนร่วมทีมที่ได้รับการช่วยเหลือจากคุณ$NL;จะได้รับเลือดเพิ่มขึ้นอีก ##$multipro;##",
         "string_id": "menu_combat_medic_beta_desc"
     },
     "menu_completed_objectives_of": {
@@ -2206,12 +2206,12 @@
     },
     "menu_control_freak_beta": {
         "base_text": "Partners in Crime",
-        "loc_text": "Partners in Crime",
+        "loc_text": "พาร์ทเนอร์อินคราม",
         "string_id": "menu_control_freak_beta"
     },
     "menu_control_freak_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Having a converted enemy increases your movement speed by ##$multibasic;##.$NL;$NL;Your converted enemy takes ##$multibasic3;## less damage.$NL;$NL;ACE: ##$pro;##$NL;Having a converted enemy increases your health by ##$multipro3;##.$NL;$NL;Your converted enemy takes an additional ##$multipro4;## less damage.",
-        "loc_text": "BASIC: ##$basic;##$NL;Having a converted enemy increases your movement speed by ##$multibasic;##.$NL;$NL;Your converted enemy takes ##$multibasic3;## less damage.$NL;$NL;ACE: ##$pro;##$NL;Having a converted enemy increases your health by ##$multipro3;##.$NL;$NL;Your converted enemy takes an additional ##$multipro4;## less damage.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Having a converted enemy increases your movement speed by ##$multibasic;##.$NL;$NL;Your converted enemy takes ##$multibasic3;## less damage.$NL;$NL;เอซ: ##$pro;##$NL;Having a converted enemy increases your health by ##$multipro3;##.$NL;$NL;Your converted enemy takes an additional ##$multipro4;## less damage.",
         "string_id": "menu_control_freak_beta_desc"
     },
     "menu_control_option_default": {
@@ -2401,22 +2401,22 @@
     },
     "menu_crewpage": {
         "base_text": "Planning Phase",
-        "loc_text": "Planning Phase",
+        "loc_text": "ขั้นตอนการวางแผน",
         "string_id": "menu_crewpage"
     },
     "menu_crimenet": {
         "base_text": "CRIME.NET",
-        "loc_text": "CRIME.NET",
+        "loc_text": "คราม.เน็ต",
         "string_id": "menu_crimenet"
     },
     "menu_crimenet_help": {
         "base_text": "Log onto Crime.net.",
-        "loc_text": "Log onto Crime.net.",
+        "loc_text": "เข้าสู่ระบบ คราม.เน็ต",
         "string_id": "menu_crimenet_help"
     },
     "menu_crimenet_offline": {
         "base_text": "CRIME.NET Offline",
-        "loc_text": "CRIME.NET ออฟไลน์",
+        "loc_text": "คราม.เน็ต ออฟไลน์",
         "string_id": "menu_crimenet_offline"
     },
     "menu_crimenet_offline_help": {
@@ -2736,7 +2736,7 @@
     },
     "menu_dance_instructor_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your pistol magazine sizes are increased by ##$multibasic;## bullets.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## increased rate of fire with pistols.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your pistol magazine sizes are increased by ##$multibasic;## bullets.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## increased rate of fire with pistols.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your pistol magazine sizes are increased by ##$multibasic;## bullets.$NL;$NL;เอซ: ##$pro;##$NL;You gain a ##$multipro;## increased rate of fire with pistols.",
         "string_id": "menu_dance_instructor_desc"
     },
     "menu_data_crew_equipped_by": {
@@ -2751,7 +2751,7 @@
     },
     "menu_day_short": {
         "base_text": "Day $day;",
-        "loc_text": "Day $day;",
+        "loc_text": "วันที่ $day;",
         "string_id": "menu_day_short"
     },
     "menu_deck10_1": {
@@ -3851,12 +3851,12 @@
     },
     "menu_defense_up_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain a protective shield.",
-        "loc_text": "BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain a protective shield.",
+        "loc_text": "เบสิค: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Your sentry guns gain a protective shield.",
         "string_id": "menu_defense_up_beta_desc"
     },
     "menu_description_bain": {
         "base_text": "Bain's plan",
-        "loc_text": "Bain's plan",
+        "loc_text": "แผนของเบน",
         "string_id": "menu_description_bain"
     },
     "menu_description_locke": {
@@ -3916,7 +3916,7 @@
     },
     "menu_dire_need_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;When your armor breaks, the first shot on every enemy will cause that enemy to stagger. This effect ends when your armor recovers.$NL;$NL;ACE: ##$pro;##$NL;The effect persists for ##$multipro;## seconds after your armor has recovered.",
-        "loc_text": "BASIC: ##$basic;##$NL;When your armor breaks, the first shot on every enemy will cause that enemy to stagger. This effect ends when your armor recovers.$NL;$NL;ACE: ##$pro;##$NL;The effect persists for ##$multipro;## seconds after your armor has recovered.",
+        "loc_text": "เบสิค: ##$basic;##$NL;When your armor breaks, the first shot on every enemy will cause that enemy to stagger. This effect ends when your armor recovers.$NL;$NL;เอซ: ##$pro;##$NL;The effect persists for ##$multipro;## seconds after your armor has recovered.",
         "string_id": "menu_dire_need_beta_desc"
     },
     "menu_dist_filter": {
@@ -3971,7 +3971,7 @@
     },
     "menu_drill_expert_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your drill and saw timer is decreased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your drill and saw timer is decreased by an additional ##$multipro;##.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your drill and saw timer is decreased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your drill and saw timer is decreased by an additional ##$multipro;##.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your drill and saw timer is decreased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Your drill and saw timer is decreased by an additional ##$multipro;##.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
         "string_id": "menu_drill_expert_beta_desc"
     },
     "menu_drop_in_on": {
@@ -3996,7 +3996,7 @@
     },
     "menu_drop_soap_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knockdown does not deal any damage.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to counter attack cloakers and their kicks.",
-        "loc_text": "BASIC: ##$basic;##$NL;When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knockdown does not deal any damage.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to counter attack cloakers and their kicks.",
+        "loc_text": "เบสิค: ##$basic;##$NL;When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knockdown does not deal any damage.$NL;$NL;เอซ: ##$pro;##$NL;You gain the ability to counter attack cloakers and their kicks.",
         "string_id": "menu_drop_soap_beta_desc"
     },
     "menu_ecm_2x_beta": {
@@ -4006,7 +4006,7 @@
     },
     "menu_ecm_2x_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now place ##$multibasic;## ECM jammers instead of just one.$NL;$NL;ACE: ##$pro;##$NL;The ECM jammer duration is increased by an additional ##$multipro;## and the ECM feedback duration lasts ##$multipro2;## longer. Pagers are delayed by the ECM jammer.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can now place ##$multibasic;## ECM jammers instead of just one.$NL;$NL;ACE: ##$pro;##$NL;The ECM jammer duration is increased by an additional ##$multipro;## and the ECM feedback duration lasts ##$multipro2;## longer. Pagers are delayed by the ECM jammer.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can now place ##$multibasic;## ECM jammers instead of just one.$NL;$NL;เอซ: ##$pro;##$NL;The ECM jammer duration is increased by an additional ##$multipro;## and the ECM feedback duration lasts ##$multipro2;## longer. Pagers are delayed by the ECM jammer.",
         "string_id": "menu_ecm_2x_beta_desc"
     },
     "menu_ecm_booster_beta": {
@@ -4016,7 +4016,7 @@
     },
     "menu_ecm_booster_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your ECM jammer and feedback duration is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your ECM jammer can now also be used to open certain electronic doors.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your ECM jammer and feedback duration is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your ECM jammer can now also be used to open certain electronic doors.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your ECM jammer and feedback duration is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Your ECM jammer can now also be used to open certain electronic doors.",
         "string_id": "menu_ecm_booster_beta_desc"
     },
     "menu_eco_sentry_beta": {
@@ -4026,7 +4026,7 @@
     },
     "menu_eco_sentry_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain ##$multipro;## increased health.",
-        "loc_text": "BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain ##$multipro;## increased health.",
+        "loc_text": "เบสิค: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Your sentry guns gain ##$multipro;## increased health.",
         "string_id": "menu_eco_sentry_beta_desc"
     },
     "menu_ecp": {
@@ -4066,7 +4066,7 @@
     },
     "menu_end_game": {
         "base_text": "QUIT TO MAIN MENU",
-        "loc_text": "QUIT TO MAIN MENU",
+        "loc_text": "ออกไปหน้าเมนูหลัก",
         "string_id": "menu_end_game"
     },
     "menu_engineering_beta": {
@@ -4076,7 +4076,7 @@
     },
     "menu_engineering_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now select a less noisy version of the sentry guns, making them much less likely to be targeted by enemies.$NL;$NL;ACE: ##$pro;##$NL;You can now toggle AP rounds on your sentry guns, lowering the rate of fire by ##$multipro;##, but increasing damage by ##$multipro2;## and allowing it to pierce through enemies and shields.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can now select a less noisy version of the sentry guns, making them much less likely to be targeted by enemies.$NL;$NL;ACE: ##$pro;##$NL;You can now toggle AP rounds on your sentry guns, lowering the rate of fire by ##$multipro;##, but increasing damage by ##$multipro2;## and allowing it to pierce through enemies and shields.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can now select a less noisy version of the sentry guns, making them much less likely to be targeted by enemies.$NL;$NL;เอซ: ##$pro;##$NL;You can now toggle AP rounds on your sentry guns, lowering the rate of fire by ##$multipro;##, but increasing damage by ##$multipro2;## and allowing it to pierce through enemies and shields.",
         "string_id": "menu_engineering_beta_desc"
     },
     "menu_equilibrium_beta": {
@@ -4086,7 +4086,7 @@
     },
     "menu_equilibrium_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Decreases the time it takes to draw and holster pistols by ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro2;## weapon accuracy with all pistols.",
-        "loc_text": "BASIC: ##$basic;##$NL;Decreases the time it takes to draw and holster pistols by ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro2;## weapon accuracy with all pistols.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Decreases the time it takes to draw and holster pistols by ##$multibasic3;##.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro2;## weapon accuracy with all pistols.",
         "string_id": "menu_equilibrium_beta_desc"
     },
     "menu_equipment_bodybags_bag": {
@@ -4141,7 +4141,7 @@
     },
     "menu_es_day_bonus": {
         "base_text": "Day bonus",
-        "loc_text": "Day bonus",
+        "loc_text": "โบนัสวัน",
         "string_id": "menu_es_day_bonus"
     },
     "menu_es_extra_bonus": {
@@ -4186,7 +4186,7 @@
     },
     "menu_es_ghost_bonus_day": {
         "base_text": "Day successfully stealthed!$NL;Complete the contract to earn your ##stealth bonus##.",
-        "loc_text": "Day successfully stealthed!$NL;Complete the contract to earn your ##stealth bonus##.",
+        "loc_text": "ทำการย่องเงียบได้สำเร็จ!$NL;สิ้นสุดงานจ้างเพื่อรับโบนัสย่องเงียบ ##stealth bonus##.",
         "string_id": "menu_es_ghost_bonus_day"
     },
     "menu_es_ghost_bonus_job": {
@@ -4196,17 +4196,17 @@
     },
     "menu_es_heat_bonus": {
         "base_text": "Boost",
-        "loc_text": "Boost",
+        "loc_text": "บูสต์",
         "string_id": "menu_es_heat_bonus"
     },
     "menu_es_heat_reduction": {
         "base_text": "Reduction",
-        "loc_text": "Reduction",
+        "loc_text": "การลด",
         "string_id": "menu_es_heat_reduction"
     },
     "menu_es_in_custody_reduction": {
         "base_text": "In Custody",
-        "loc_text": "In Custody",
+        "loc_text": "ถูกจับกุม",
         "string_id": "menu_es_in_custody_reduction"
     },
     "menu_es_infamy_bonus": {
@@ -4331,7 +4331,7 @@
     },
     "menu_es_skill_points_gained": {
         "base_text": "Skill points gained:",
-        "loc_text": "พอย์ที่ได้รับ:",
+        "loc_text": "พอยท์ที่ได้รับ:",
         "string_id": "menu_es_skill_points_gained"
     },
     "menu_es_skill_points_info": {
@@ -4391,7 +4391,7 @@
     },
     "menu_expert_handling_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Each successful pistol hit gives you a ##$multibasic;## increased accuracy bonus for ##$multibasic2;## seconds and can stack ##$multibasic3;## times.$NL;$NL;ACE: ##$pro;##$NL;You reload all pistols ##$multipro2;## faster.",
-        "loc_text": "BASIC: ##$basic;##$NL;Each successful pistol hit gives you a ##$multibasic;## increased accuracy bonus for ##$multibasic2;## seconds and can stack ##$multibasic3;## times.$NL;$NL;ACE: ##$pro;##$NL;You reload all pistols ##$multipro2;## faster.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Each successful pistol hit gives you a ##$multibasic;## increased accuracy bonus for ##$multibasic2;## seconds and can stack ##$multibasic3;## times.$NL;$NL;เอซ: ##$pro;##$NL;You reload all pistols ##$multipro2;## faster.",
         "string_id": "menu_expert_handling_desc"
     },
     "menu_failed": {
@@ -4406,7 +4406,7 @@
     },
     "menu_far_away_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your accuracy bonus while aiming down sights with Shotguns is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## increased effective range with Shotguns when aiming down sights.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your accuracy bonus while aiming down sights with Shotguns is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## increased effective range with Shotguns when aiming down sights.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your accuracy bonus while aiming down sights with Shotguns is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;You gain a ##$multipro;## increased effective range with Shotguns when aiming down sights.",
         "string_id": "menu_far_away_beta_desc"
     },
     "menu_fast_fire_beta": {
@@ -4416,27 +4416,27 @@
     },
     "menu_fast_fire_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your SMGs, LMGs and Assault Rifles gain ##$multibasic;## more bullets in their magazines. This does not affect the \"Lock n' Load\" Ace skill.$NL;$NL;ACE: ##$pro;##$NL;Your ranged weapons can now pierce through enemy body armor.$NL;$NL;Note: Does not apply to throwable weapons.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your SMGs, LMGs and Assault Rifles gain ##$multibasic;## more bullets in their magazines. This does not affect the \"Lock n' Load\" Ace skill.$NL;$NL;ACE: ##$pro;##$NL;Your ranged weapons can now pierce through enemy body armor.$NL;$NL;Note: Does not apply to throwable weapons.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your SMGs, LMGs and Assault Rifles gain ##$multibasic;## more bullets in their magazines. This does not affect the \"Lock n' Load\" Ace skill.$NL;$NL;เอซ: ##$pro;##$NL;Your ranged weapons can now pierce through enemy body armor.$NL;$NL;Note: Does not apply to throwable weapons.",
         "string_id": "menu_fast_fire_beta_desc"
     },
     "menu_fast_learner_beta": {
         "base_text": "Painkillers",
-        "loc_text": "Painkillers",
+        "loc_text": "เพนคิลเลอร์",
         "string_id": "menu_fast_learner_beta"
     },
     "menu_fast_learner_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Crew members you revive take ##$multibasic3;## less damage for ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;The damage reduction is increased by an additional ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Crew members you revive take ##$multibasic3;## less damage for ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;The damage reduction is increased by an additional ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;เพื่อนร่วมทีมที่ถูกช่วยเหลือโดยคุณจะได้รับความเสียหายน้อยลง ##$multibasic3;## เป็นเวลา ##$multibasic2;## วินาที$NL;$NL;เอซ: ##$pro;##$NL;ได้รับความเสียหายน้อยลงอีก ##$multipro2;##",
         "string_id": "menu_fast_learner_beta_desc"
     },
     "menu_feign_death": {
         "base_text": "Feign death",
-        "loc_text": "Feign death",
+        "loc_text": "เฟนเด็ธ",
         "string_id": "menu_feign_death"
     },
     "menu_feign_death_desc": {
         "base_text": "BASIC: ##$basic;##$NL;When you get downed, you have a ##$multibasic;## chance to instantly get revived.$NL;$NL;ACE: ##$pro;##$NL;The chance to get instantly revived is increased by an additional ##$multipro;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;When you get downed, you have a ##$multibasic;## chance to instantly get revived.$NL;$NL;ACE: ##$pro;##$NL;The chance to get instantly revived is increased by an additional ##$multipro;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;When you get downed, you have a ##$multibasic;## chance to instantly get revived.$NL;$NL;เอซ: ##$pro;##$NL;The chance to get instantly revived is increased by an additional ##$multipro;##.",
         "string_id": "menu_feign_death_desc"
     },
     "menu_female_1": {
@@ -4516,7 +4516,7 @@
     },
     "menu_filter_time": {
         "base_text": "Days",
-        "loc_text": "Days",
+        "loc_text": "วัน",
         "string_id": "menu_filter_time"
     },
     "menu_filtered_achievements": {
@@ -4531,7 +4531,7 @@
     },
     "menu_fire_control_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon accuracy while firing from the hip.$NL;$NL;ACE: ##$pro;##$NL;Your accuracy penalty is decreased by ##$multipro;## when shooting while moving.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon accuracy while firing from the hip.$NL;$NL;ACE: ##$pro;##$NL;Your accuracy penalty is decreased by ##$multipro;## when shooting while moving.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## weapon accuracy while firing from the hip.$NL;$NL;เอซ: ##$pro;##$NL;Your accuracy penalty is decreased by ##$multipro;## when shooting while moving.",
         "string_id": "menu_fire_control_beta_desc"
     },
     "menu_fire_trap_beta": {
@@ -4541,7 +4541,7 @@
     },
     "menu_fire_trap_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your trip mines now spread fire around the area of detonation for ##$multibasic;## seconds in a ##$multibasic2;## meter diameter.$NL;$NL;ACE: ##$pro;##$NL;Increases the fire effect duration by ##$multipro;## seconds and increases the fire effect radius by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your trip mines now spread fire around the area of detonation for ##$multibasic;## seconds in a ##$multibasic2;## meter diameter.$NL;$NL;ACE: ##$pro;##$NL;Increases the fire effect duration by ##$multipro;## seconds and increases the fire effect radius by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your trip mines now spread fire around the area of detonation for ##$multibasic;## seconds in a ##$multibasic2;## meter diameter.$NL;$NL;เอซ: ##$pro;##$NL;Increases the fire effect duration by ##$multipro;## seconds and increases the fire effect radius by ##$multipro2;##.",
         "string_id": "menu_fire_trap_beta_desc"
     },
     "menu_fov_adjustment": {
@@ -4571,7 +4571,7 @@
     },
     "menu_frenzy_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You only get ##$multibasic;## of your maximum health and cannot heal above it but you take ##$multibasic2;## less damage and healing received is reduced by ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;Damage taken is now reduced by ##$multipro;## and healing received is reduced by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;You only get ##$multibasic;## of your maximum health and cannot heal above it but you take ##$multibasic2;## less damage and healing received is reduced by ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;Damage taken is now reduced by ##$multipro;## and healing received is reduced by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You only get ##$multibasic;## of your maximum health and cannot heal above it but you take ##$multibasic2;## less damage and healing received is reduced by ##$multibasic3;##.$NL;$NL;เอซ: ##$pro;##$NL;Damage taken is now reduced by ##$multipro;## and healing received is reduced by ##$multipro2;##.",
         "string_id": "menu_frenzy_desc"
     },
     "menu_friends_only_game": {
@@ -4696,7 +4696,7 @@
     },
     "menu_gun_fighter_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The base damage of all pistols is increased by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;The base damage of all pistols is increased by an additional ##$multipro2;## damage.",
-        "loc_text": "BASIC: ##$basic;##$NL;The base damage of all pistols is increased by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;The base damage of all pistols is increased by an additional ##$multipro2;## damage.",
+        "loc_text": "เบสิค: ##$basic;##$NL;The base damage of all pistols is increased by ##$multibasic2;##.$NL;$NL;เอซ: ##$pro;##$NL;The base damage of all pistols is increased by an additional ##$multipro2;## damage.",
         "string_id": "menu_gun_fighter_beta_desc"
     },
     "menu_hardware_expert_beta": {
@@ -4706,7 +4706,7 @@
     },
     "menu_hardware_expert_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You fix drills and saws ##$multibasic;## faster. Decreases trip mine deploy time by ##$multibasic2;##. Drills and saws are also silent. Civilians and guards must see the drill or saw in order to become alerted.$NL;$NL;ACE: ##$pro;##$NL;Gives your drills and saws a ##$multipro3;## chance to automatically restart after breaking.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
-        "loc_text": "BASIC: ##$basic;##$NL;You fix drills and saws ##$multibasic;## faster. Decreases trip mine deploy time by ##$multibasic2;##. Drills and saws are also silent. Civilians and guards must see the drill or saw in order to become alerted.$NL;$NL;ACE: ##$pro;##$NL;Gives your drills and saws a ##$multipro3;## chance to automatically restart after breaking.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You fix drills and saws ##$multibasic;## faster. Decreases trip mine deploy time by ##$multibasic2;##. Drills and saws are also silent. Civilians and guards must see the drill or saw in order to become alerted.$NL;$NL;เอซ: ##$pro;##$NL;Gives your drills and saws a ##$multipro3;## chance to automatically restart after breaking.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
         "string_id": "menu_hardware_expert_beta_desc"
     },
     "menu_headbob": {
@@ -4736,7 +4736,7 @@
     },
     "menu_heavy_impact_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your shots have a ##$multibasic;## chance to stagger all enemies except Bulldozers and Captain Winters.$NL;$NL;ACE: ##$pro;##$NL;Increases your stagger chance to ##$multipro;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your shots have a ##$multibasic;## chance to stagger all enemies except Bulldozers and Captain Winters.$NL;$NL;ACE: ##$pro;##$NL;Increases your stagger chance to ##$multipro;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your shots have a ##$multibasic;## chance to stagger all enemies except Bulldozers and Captain Winters.$NL;$NL;เอซ: ##$pro;##$NL;Increases your stagger chance to ##$multipro;##.",
         "string_id": "menu_heavy_impact_beta_desc"
     },
     "menu_hide_all": {
@@ -4951,12 +4951,12 @@
     },
     "menu_inspire_beta": {
         "base_text": "Inspire",
-        "loc_text": "Inspire",
+        "loc_text": "อินสไปร์",
         "string_id": "menu_inspire_beta"
     },
     "menu_inspire_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You revive crew members ##$multibasic;## faster. Shouting at your teammates will increase their movement and reload speed by ##$multibasic2;## for ##$multibasic3;## seconds.$NL;$NL;ACE: ##$pro;##$NL;There is a ##$multipro;## chance that you can revive crew members at a distance of up to ##$multipro3;## meters by shouting at them. This cannot occur more than once every ##$multipro2;## seconds.",
-        "loc_text": "BASIC: ##$basic;##$NL;You revive crew members ##$multibasic;## faster. Shouting at your teammates will increase their movement and reload speed by ##$multibasic2;## for ##$multibasic3;## seconds.$NL;$NL;ACE: ##$pro;##$NL;There is a ##$multipro;## chance that you can revive crew members at a distance of up to ##$multipro3;## meters by shouting at them. This cannot occur more than once every ##$multipro2;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You revive crew members ##$multibasic;## faster. Shouting at your teammates will increase their movement and reload speed by ##$multibasic2;## for ##$multibasic3;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;There is a ##$multipro;## chance that you can revive crew members at a distance of up to ##$multipro3;## meters by shouting at them. This cannot occur more than once every ##$multipro2;## seconds.",
         "string_id": "menu_inspire_beta_desc"
     },
     "menu_insulation_beta": {
@@ -4966,7 +4966,7 @@
     },
     "menu_insulation_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;When tased, the shock effect has a ##$multibasic;## chance to backfire on the Taser, knocking them back.$NL;$NL;ACE: ##$pro;##$NL;When tased, you are able to free yourself from the taser by interacting with it within ##$multipro2;## seconds of getting tased.",
-        "loc_text": "BASIC: ##$basic;##$NL;When tased, the shock effect has a ##$multibasic;## chance to backfire on the Taser, knocking them back.$NL;$NL;ACE: ##$pro;##$NL;When tased, you are able to free yourself from the taser by interacting with it within ##$multipro2;## seconds of getting tased.",
+        "loc_text": "เบสิค: ##$basic;##$NL;When tased, the shock effect has a ##$multibasic;## chance to backfire on the Taser, knocking them back.$NL;$NL;เอซ: ##$pro;##$NL;When tased, you are able to free yourself from the taser by interacting with it within ##$multipro2;## seconds of getting tased.",
         "string_id": "menu_insulation_beta_desc"
     },
     "menu_inventory": {
@@ -4996,7 +4996,7 @@
     },
     "menu_iron_man_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Increases the armor recovery rate for you and your crew by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Enables your weapons to have a chance to knock back Shield enemies when attacking them. Ranged weapons' knock back chance is increased the higher the total damage of the weapon is. Melee weapons' knock back chance is ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Increases the armor recovery rate for you and your crew by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Enables your weapons to have a chance to knock back Shield enemies when attacking them. Ranged weapons' knock back chance is increased the higher the total damage of the weapon is. Melee weapons' knock back chance is ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Increases the armor recovery rate for you and your crew by ##$multibasic2;##.$NL;$NL;เอซ: ##$pro;##$NL;Enables your weapons to have a chance to knock back Shield enemies when attacking them. Ranged weapons' knock back chance is increased the higher the total damage of the weapon is. Melee weapons' knock back chance is ##$multipro2;##.",
         "string_id": "menu_iron_man_beta_desc"
     },
     "menu_item_preplanning_help": {
@@ -5026,7 +5026,7 @@
     },
     "menu_jack_of_all_trades_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You deploy and interact with all deployables ##$multibasic;## faster.$NL;$NL;ACE: ##$pro;##$NL;You can now equip a secondary deployable to bring with you. If your deployable is equipped as a secondary deployable, you can only bring half of what you would bring if it was equipped as a primary deployable.$NL;$NL;Press $BTN_CHANGE_EQ; to toggle between deployables.",
-        "loc_text": "BASIC: ##$basic;##$NL;You deploy and interact with all deployables ##$multibasic;## faster.$NL;$NL;ACE: ##$pro;##$NL;You can now equip a secondary deployable to bring with you. If your deployable is equipped as a secondary deployable, you can only bring half of what you would bring if it was equipped as a primary deployable.$NL;$NL;Press $BTN_CHANGE_EQ; to toggle between deployables.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You deploy and interact with all deployables ##$multibasic;## faster.$NL;$NL;เอซ: ##$pro;##$NL;You can now equip a secondary deployable to bring with you. If your deployable is equipped as a secondary deployable, you can only bring half of what you would bring if it was equipped as a primary deployable.$NL;$NL;Press $BTN_CHANGE_EQ; to toggle between deployables.",
         "string_id": "menu_jack_of_all_trades_beta_desc"
     },
     "menu_jacket": {
@@ -5046,7 +5046,7 @@
     },
     "menu_jail_diet_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## dodge chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## dodge chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## dodge chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## dodge chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain a ##$multibasic;## dodge chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;เอซ: ##$pro;##$NL;You gain a ##$multipro;## dodge chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.",
         "string_id": "menu_jail_diet_beta_desc"
     },
     "menu_jail_workout_beta": {
@@ -5156,7 +5156,7 @@
     },
     "menu_job_overview": {
         "base_text": "Job Overview",
-        "loc_text": "Job Overview",
+        "loc_text": "ภาพรวมงานจ้าง",
         "string_id": "menu_job_overview"
     },
     "menu_join_stinger_choice": {
@@ -5181,12 +5181,12 @@
     },
     "menu_joker_beta": {
         "base_text": "Joker",
-        "loc_text": "Joker",
+        "loc_text": "โจ๊กเกอร์",
         "string_id": "menu_joker_beta"
     },
     "menu_joker_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can convert a non-special enemy to fight on your side.$NL;This can not be done during stealth and the enemy must have surrendered in order for you to convert them.$NL;$NL;You can only convert one non-special enemy at a time.$NL;$NL;ACE: ##$pro;##$NL;Your converted enemy deals ##$multipro2;## more damage. The time to convert an enemy is reduced by ##$multipro3;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can convert a non-special enemy to fight on your side.$NL;This can not be done during stealth and the enemy must have surrendered in order for you to convert them.$NL;$NL;You can only convert one non-special enemy at a time.$NL;$NL;ACE: ##$pro;##$NL;Your converted enemy deals ##$multipro2;## more damage. The time to convert an enemy is reduced by ##$multipro3;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can convert a non-special enemy to fight on your side.$NL;This can not be done during stealth and the enemy must have surrendered in order for you to convert them.$NL;$NL;You can only convert one non-special enemy at a time.$NL;$NL;เอซ: ##$pro;##$NL;Your converted enemy deals ##$multipro2;## more damage. The time to convert an enemy is reduced by ##$multipro3;##.",
         "string_id": "menu_joker_beta_desc"
     },
     "menu_jowi": {
@@ -5211,12 +5211,12 @@
     },
     "menu_juggernaut_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your total armor value is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Unlocks the ability to wear the Improved Combined Tactical Vest.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your total armor value is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Unlocks the ability to wear the Improved Combined Tactical Vest.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your total armor value is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Unlocks the ability to wear the Improved Combined Tactical Vest.",
         "string_id": "menu_juggernaut_beta_desc"
     },
     "menu_jukebox": {
         "base_text": "Soundtrack",
-        "loc_text": "Soundtrack",
+        "loc_text": "ซาวแทร็ค",
         "string_id": "menu_jukebox"
     },
     "menu_jukebox_ghost_playlist": {
@@ -6096,7 +6096,7 @@
     },
     "menu_kick_starter_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your drills and saws gain an additional ##$multibasic;## chance to automatically restart after breaking.$NL;$NL;ACE: ##$pro;##$NL;Enables the ability to reset a broken drill or saw with a melee attack. The ability has a ##$multipro2;## chance to fix the drill or saw. The ability can only be used once per time the drill or saw is broken.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your drills and saws gain an additional ##$multibasic;## chance to automatically restart after breaking.$NL;$NL;ACE: ##$pro;##$NL;Enables the ability to reset a broken drill or saw with a melee attack. The ability has a ##$multipro2;## chance to fix the drill or saw. The ability can only be used once per time the drill or saw is broken.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your drills and saws gain an additional ##$multibasic;## chance to automatically restart after breaking.$NL;$NL;เอซ: ##$pro;##$NL;Enables the ability to reset a broken drill or saw with a melee attack. The ability has a ##$multipro2;## chance to fix the drill or saw. The ability can only be used once per time the drill or saw is broken.$NL;$NL;Note: Skill does not affect the OVE9000 saw.",
         "string_id": "menu_kick_starter_beta_desc"
     },
     "menu_kick_vote": {
@@ -6651,42 +6651,42 @@
     },
     "menu_loading_hints": {
         "base_text": "Loading Screen: Hints",
-        "loc_text": "Loading Screen: Hints",
+        "loc_text": "หน้าจอโหลด: คำแนะนำ",
         "string_id": "menu_loading_hints"
     },
     "menu_loading_hints_help": {
         "base_text": "Show hints while loading",
-        "loc_text": "Show hints while loading",
+        "loc_text": "แสดงคำแนะนำตอนโหลด",
         "string_id": "menu_loading_hints_help"
     },
     "menu_loading_progress": {
         "base_text": "loading $prog;%",
-        "loc_text": "loading $prog;%",
+        "loc_text": "กำลังโหลด $prog;%",
         "string_id": "menu_loading_progress"
     },
     "menu_loadout": {
         "base_text": "Loadout",
-        "loc_text": "Loadout",
+        "loc_text": "อุปกรณ์",
         "string_id": "menu_loadout"
     },
     "menu_loadout_blackmarket": {
         "base_text": "Loadout: $category;",
-        "loc_text": "Loadout: $category;",
+        "loc_text": "อุปกรณ์: $category;",
         "string_id": "menu_loadout_blackmarket"
     },
     "menu_loadout_empty": {
         "base_text": "Empty",
-        "loc_text": "Empty",
+        "loc_text": "ว่าง",
         "string_id": "menu_loadout_empty"
     },
     "menu_lobby": {
         "base_text": "LOBBY",
-        "loc_text": "LOBBY",
+        "loc_text": "ล็อบบี้",
         "string_id": "menu_lobby"
     },
     "menu_lobby_difficulty_title": {
         "base_text": "DIFFICULTY: ",
-        "loc_text": "DIFFICULTY: ",
+        "loc_text": "ความยาก: ",
         "string_id": "menu_lobby_difficulty_title"
     },
     "menu_lobby_filters": {
@@ -6706,22 +6706,22 @@
     },
     "menu_lobby_menu_state_lobby": {
         "base_text": "READY",
-        "loc_text": "READY",
+        "loc_text": "พร้อม",
         "string_id": "menu_lobby_menu_state_lobby"
     },
     "menu_lobby_menu_state_options": {
         "base_text": "In Options",
-        "loc_text": "In Options",
+        "loc_text": "อยู่ในการตั้งค่า",
         "string_id": "menu_lobby_menu_state_options"
     },
     "menu_lobby_menu_state_skilltree": {
         "base_text": "In Skills",
-        "loc_text": "In Skills",
+        "loc_text": "อยู่ในหน้าสกิล",
         "string_id": "menu_lobby_menu_state_skilltree"
     },
     "menu_lobby_player_slot_available": {
         "base_text": "PLAYER SLOT AVAILABLE",
-        "loc_text": "PLAYER SLOT AVAILABLE",
+        "loc_text": "ช่องว่างสำหรับผู้เล่น",
         "string_id": "menu_lobby_player_slot_available"
     },
     "menu_lobby_server_state_briefing": {
@@ -6731,22 +6731,22 @@
     },
     "menu_lobby_server_state_in_game": {
         "base_text": "IN GAME",
-        "loc_text": "IN GAME",
+        "loc_text": "อยู่ในเกม",
         "string_id": "menu_lobby_server_state_in_game"
     },
     "menu_lobby_server_state_in_lobby": {
         "base_text": "IN LOBBY",
-        "loc_text": "IN LOBBY",
+        "loc_text": "อยู่ในล็อบบี",
         "string_id": "menu_lobby_server_state_in_lobby"
     },
     "menu_lobby_server_state_loading": {
         "base_text": "LOADING",
-        "loc_text": "LOADING",
+        "loc_text": "กำลังโหลด",
         "string_id": "menu_lobby_server_state_loading"
     },
     "menu_main_menu": {
         "base_text": "MAIN MENU",
-        "loc_text": "MAIN MENU",
+        "loc_text": "เมนูหลัก",
         "string_id": "menu_main_menu"
     },
     "menu_martial_arts_beta": {
@@ -6756,7 +6756,7 @@
     },
     "menu_martial_arts_beta_desc": {
         "base_text": "BASIC:##$basic;##$NL;You take ##$multibasic;## less damage from all melee attacks. Because of training.$NL;$NL;ACE: ##$pro;##$NL;You are ##$multipro;## more likely to knock down enemies with a melee strike.",
-        "loc_text": "BASIC:##$basic;##$NL;You take ##$multibasic;## less damage from all melee attacks. Because of training.$NL;$NL;ACE: ##$pro;##$NL;You are ##$multipro;## more likely to knock down enemies with a melee strike.",
+        "loc_text": "BASIC:##$basic;##$NL;You take ##$multibasic;## less damage from all melee attacks. Because of training.$NL;$NL;เอซ: ##$pro;##$NL;You are ##$multipro;## more likely to knock down enemies with a melee strike.",
         "string_id": "menu_martial_arts_beta_desc"
     },
     "menu_max": {
@@ -6771,7 +6771,7 @@
     },
     "menu_max_lobbies_filter": {
         "base_text": "Maximum servers ",
-        "loc_text": "Maximum servers ",
+        "loc_text": "เซิฟเวอร์สูงสุด ",
         "string_id": "menu_max_lobbies_filter"
     },
     "menu_max_streaming_chunk": {
@@ -6786,12 +6786,12 @@
     },
     "menu_medic_2x_beta": {
         "base_text": "Combat Doctor",
-        "loc_text": "Combat Doctor",
+        "loc_text": "คอมแบทด็อกเตอร์",
         "string_id": "menu_medic_2x_beta"
     },
     "menu_medic_2x_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now deploy ##$multibasic;## Doctor Bags instead of just one.$NL;$NL;ACE: ##$pro;##$NL;Your doctor bags have ##$multipro;## more charges.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can now deploy ##$multibasic;## Doctor Bags instead of just one.$NL;$NL;ACE: ##$pro;##$NL;Your doctor bags have ##$multipro;## more charges.",
+        "loc_text": "เบสิค: ##$basic;##$NL;เพิ่มด็อกเตอร์แบคสำหรับใช้งานอีก ##$multibasic;## อันแล้ว$NL;$NL;เอซ: ##$pro;##$NL;ด็อกเตอร์แบคของคุณสามารถใช้งานได้อีก ##$multipro;## ครั้ง",
         "string_id": "menu_medic_2x_beta_desc"
     },
     "menu_milestone_btn": {
@@ -6811,7 +6811,7 @@
     },
     "menu_more_fire_power_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## more shaped charge and ##$multibasic2;## more trip mines.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## more shaped charges and ##$multipro2;## more trip mines.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## more shaped charge and ##$multibasic2;## more trip mines.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## more shaped charges and ##$multipro2;## more trip mines.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## more shaped charge and ##$multibasic2;## more trip mines.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## more shaped charges and ##$multipro2;## more trip mines.",
         "string_id": "menu_more_fire_power_desc"
     },
     "menu_mouse_invest": {
@@ -7006,7 +7006,7 @@
     },
     "menu_nine_lives_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic2;## increase to your bleedout health.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to get downed ##$multipro2;## more time before going into custody.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic2;## increase to your bleedout health.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to get downed ##$multipro2;## more time before going into custody.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain a ##$multibasic2;## increase to your bleedout health.$NL;$NL;เอซ: ##$pro;##$NL;You gain the ability to get downed ##$multipro2;## more time before going into custody.",
         "string_id": "menu_nine_lives_beta_desc"
     },
     "menu_number_range": {
@@ -7056,7 +7056,7 @@
     },
     "menu_oppressor_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Increases your armor recovery rate by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Reduces the visual effect duration of Flashbangs by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Increases your armor recovery rate by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Reduces the visual effect duration of Flashbangs by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Increases your armor recovery rate by ##$multibasic2;##.$NL;$NL;เอซ: ##$pro;##$NL;Reduces the visual effect duration of Flashbangs by ##$multipro2;##.",
         "string_id": "menu_oppressor_beta_desc"
     },
     "menu_optic_illusions": {
@@ -7066,7 +7066,7 @@
     },
     "menu_optic_illusions_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You are ##$multibasic;## less likely to be targeted by enemies.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## concealment for each silenced weapon you equip and reduces the concealment penalty of silencers by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;You are ##$multibasic;## less likely to be targeted by enemies.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## concealment for each silenced weapon you equip and reduces the concealment penalty of silencers by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You are ##$multibasic;## less likely to be targeted by enemies.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## concealment for each silenced weapon you equip and reduces the concealment penalty of silencers by ##$multipro2;##.",
         "string_id": "menu_optic_illusions_desc"
     },
     "menu_option_default": {
@@ -7096,7 +7096,7 @@
     },
     "menu_overkill_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;When you kill an enemy with a Shotgun or the OVE9000 portable saw, you receive a ##$multibasic;## damage increase for ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;The damage bonus now applies to all weapons. Skill must still be activated using a Shotgun or the OVE9000 portable saw. Your weapon swap speed is increased by ##$multipro;##$NL;$NL;Note: Does not apply to melee damage, throwables, grenade launchers or rocket launchers.",
-        "loc_text": "BASIC: ##$basic;##$NL;When you kill an enemy with a Shotgun or the OVE9000 portable saw, you receive a ##$multibasic;## damage increase for ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;The damage bonus now applies to all weapons. Skill must still be activated using a Shotgun or the OVE9000 portable saw. Your weapon swap speed is increased by ##$multipro;##$NL;$NL;Note: Does not apply to melee damage, throwables, grenade launchers or rocket launchers.",
+        "loc_text": "เบสิค: ##$basic;##$NL;When you kill an enemy with a Shotgun or the OVE9000 portable saw, you receive a ##$multibasic;## damage increase for ##$multibasic2;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;The damage bonus now applies to all weapons. Skill must still be activated using a Shotgun or the OVE9000 portable saw. Your weapon swap speed is increased by ##$multipro;##$NL;$NL;Note: Does not apply to melee damage, throwables, grenade launchers or rocket launchers.",
         "string_id": "menu_overkill_beta_desc"
     },
     "menu_pack_mule_beta": {
@@ -7106,7 +7106,7 @@
     },
     "menu_pack_mule_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can throw bags ##$multibasic;## further.$NL;$NL;ACE: ##$pro;##$NL;For each ##$multipro2;## armor points the bag movement penalty is reduced by ##$multipro3;##",
-        "loc_text": "BASIC: ##$basic;##$NL;You can throw bags ##$multibasic;## further.$NL;$NL;ACE: ##$pro;##$NL;For each ##$multipro2;## armor points the bag movement penalty is reduced by ##$multipro3;##",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can throw bags ##$multibasic;## further.$NL;$NL;เอซ: ##$pro;##$NL;For each ##$multipro2;## armor points the bag movement penalty is reduced by ##$multipro3;##",
         "string_id": "menu_pack_mule_beta_desc"
     },
     "menu_packet_throttling": {
@@ -7151,7 +7151,7 @@
     },
     "menu_perseverance_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Instead of getting downed instantly, you gain the ability to keep on fighting for ##$multibasic2;## seconds with a ##$multibasic3;## movement penalty before going down.$NL;$NL;Note: Does not trigger on fall or fire damage. $NL;$NL;ACE: ##$pro;##$NL;Increases the duration of Swan Song by ##$multipro;## seconds. Ammunition won't be depleted while the effect is active.",
-        "loc_text": "BASIC: ##$basic;##$NL;Instead of getting downed instantly, you gain the ability to keep on fighting for ##$multibasic2;## seconds with a ##$multibasic3;## movement penalty before going down.$NL;$NL;Note: Does not trigger on fall or fire damage. $NL;$NL;ACE: ##$pro;##$NL;Increases the duration of Swan Song by ##$multipro;## seconds. Ammunition won't be depleted while the effect is active.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Instead of getting downed instantly, you gain the ability to keep on fighting for ##$multibasic2;## seconds with a ##$multibasic3;## movement penalty before going down.$NL;$NL;Note: Does not trigger on fall or fire damage. $NL;$NL;เอซ: ##$pro;##$NL;Increases the duration of Swan Song by ##$multipro;## seconds. Ammunition won't be depleted while the effect is active.",
         "string_id": "menu_perseverance_beta_desc"
     },
     "menu_pistol": {
@@ -7166,7 +7166,7 @@
     },
     "menu_pistol_beta_messiah_desc": {
         "base_text": "BASIC: ##$basic;##$NL;While in bleedout, you can revive yourself if you kill an enemy. You only have ##$multibasic;## charge.$NL;$NL;ACE: ##$pro;##$NL;Your messiah charge is replenished whenever you use a doctor bag.",
-        "loc_text": "BASIC: ##$basic;##$NL;While in bleedout, you can revive yourself if you kill an enemy. You only have ##$multibasic;## charge.$NL;$NL;ACE: ##$pro;##$NL;Your messiah charge is replenished whenever you use a doctor bag.",
+        "loc_text": "เบสิค: ##$basic;##$NL;While in bleedout, you can revive yourself if you kill an enemy. You only have ##$multibasic;## charge.$NL;$NL;เอซ: ##$pro;##$NL;Your messiah charge is replenished whenever you use a doctor bag.",
         "string_id": "menu_pistol_beta_messiah_desc"
     },
     "menu_plan_loud": {
@@ -7256,7 +7256,7 @@
     },
     "menu_portable_saw_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Unlocks the OVE9000 portable saw for you to use as a secondary weapon.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## extra saw blade for the OVE9000 portable saw. You replace your saw blades with carbon blades, increasing your saw efficiency by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Unlocks the OVE9000 portable saw for you to use as a secondary weapon.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## extra saw blade for the OVE9000 portable saw. You replace your saw blades with carbon blades, increasing your saw efficiency by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Unlocks the OVE9000 portable saw for you to use as a secondary weapon.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## extra saw blade for the OVE9000 portable saw. You replace your saw blades with carbon blades, increasing your saw efficiency by ##$multipro2;##.",
         "string_id": "menu_portable_saw_beta_desc"
     },
     "menu_potential_rewards": {
@@ -7441,7 +7441,7 @@
     },
     "menu_pp_asset_health": {
         "base_text": "Doctor Bag",
-        "loc_text": "Doctor Bag",
+        "loc_text": "ด็อกเตอร์แบค",
         "string_id": "menu_pp_asset_health"
     },
     "menu_pp_asset_health_desc": {
@@ -8036,7 +8036,7 @@
     },
     "menu_pp_loading": {
         "base_text": "Loading Preplanning...",
-        "loc_text": "Loading Preplanning...",
+        "loc_text": "กำลังโหลดการวางแผน...",
         "string_id": "menu_pp_loading"
     },
     "menu_pp_pex_bpr_loc_a": {
@@ -8326,7 +8326,7 @@
     },
     "menu_prison_wife_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You regenerate ##$multibasic3;## armor for each successful headshot. This can not occur more than once every ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;You regenerate an additional ##$multipro3;## armor for each successful headshot.",
-        "loc_text": "BASIC: ##$basic;##$NL;You regenerate ##$multibasic3;## armor for each successful headshot. This can not occur more than once every ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;You regenerate an additional ##$multipro3;## armor for each successful headshot.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You regenerate ##$multibasic3;## armor for each successful headshot. This can not occur more than once every ##$multibasic2;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;You regenerate an additional ##$multipro3;## armor for each successful headshot.",
         "string_id": "menu_prison_wife_beta_desc"
     },
     "menu_private_game": {
@@ -8481,7 +8481,7 @@
     },
     "menu_resume_game": {
         "base_text": "RESUME GAME",
-        "loc_text": "RESUME GAME",
+        "loc_text": "กลับสู่เกม",
         "string_id": "menu_resume_game"
     },
     "menu_reticle_1_l": {
@@ -8521,12 +8521,12 @@
     },
     "menu_rifleman_beta": {
         "base_text": "Rifleman",
-        "loc_text": "Rifleman",
+        "loc_text": "ไรเฟิลแมน",
         "string_id": "menu_rifleman_beta"
     },
     "menu_rifleman_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your snap to zoom is ##$multibasic;## faster with all weapons.$NL;$NL;Your movement speed is unhindered while using steel sight.$NL;$NL;ACE: ##$pro;##$NL;Your weapon zoom level is increased by ##$multipro;## with all weapons. Your weapon accuracy while moving with SMGs, Assault Rifles and Sniper Rifles is increased by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your snap to zoom is ##$multibasic;## faster with all weapons.$NL;$NL;Your movement speed is unhindered while using steel sight.$NL;$NL;ACE: ##$pro;##$NL;Your weapon zoom level is increased by ##$multipro;## with all weapons. Your weapon accuracy while moving with SMGs, Assault Rifles and Sniper Rifles is increased by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your snap to zoom is ##$multibasic;## faster with all weapons.$NL;$NL;Your movement speed is unhindered while using steel sight.$NL;$NL;เอซ: ##$pro;##$NL;Your weapon zoom level is increased by ##$multipro;## with all weapons. Your weapon accuracy while moving with SMGs, Assault Rifles and Sniper Rifles is increased by ##$multipro2;##.",
         "string_id": "menu_rifleman_beta_desc"
     },
     "menu_risk": {
@@ -8576,7 +8576,7 @@
     },
     "menu_running_from_death_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You reload and swap weapons ##$multibasic;## faster for ##$multibasic2;## seconds after being revived.$NL;$NL;ACE: ##$pro;##$NL;You move ##$multipro;## faster for ##$multipro2;## seconds after being revived.",
-        "loc_text": "BASIC: ##$basic;##$NL;You reload and swap weapons ##$multibasic;## faster for ##$multibasic2;## seconds after being revived.$NL;$NL;ACE: ##$pro;##$NL;You move ##$multipro;## faster for ##$multipro2;## seconds after being revived.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You reload and swap weapons ##$multibasic;## faster for ##$multibasic2;## seconds after being revived.$NL;$NL;เอซ: ##$pro;##$NL;You move ##$multipro;## faster for ##$multipro2;## seconds after being revived.",
         "string_id": "menu_running_from_death_beta_desc"
     },
     "menu_russian": {
@@ -8591,7 +8591,7 @@
     },
     "menu_scavenger_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;When your armor breaks your movement speed is increased by ##$multibasic;## for ##$multibasic2;## seconds.$NL;$NL;ACE:##$pro;##$NL;This effect also applies to your crew when triggered.",
-        "loc_text": "BASIC: ##$basic;##$NL;When your armor breaks your movement speed is increased by ##$multibasic;## for ##$multibasic2;## seconds.$NL;$NL;ACE:##$pro;##$NL;This effect also applies to your crew when triggered.",
+        "loc_text": "เบสิค: ##$basic;##$NL;When your armor breaks your movement speed is increased by ##$multibasic;## for ##$multibasic2;## seconds.$NL;$NL;ACE:##$pro;##$NL;This effect also applies to your crew when triggered.",
         "string_id": "menu_scavenger_beta_desc"
     },
     "menu_scavenging_beta": {
@@ -8601,7 +8601,7 @@
     },
     "menu_scavenging_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your ammo box pick up range is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Every 6th enemy you kill will drop an extra ammo box.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your ammo box pick up range is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Every 6th enemy you kill will drop an extra ammo box.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your ammo box pick up range is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Every 6th enemy you kill will drop an extra ammo box.",
         "string_id": "menu_scavenging_beta_desc"
     },
     "menu_second_chances_beta": {
@@ -8611,7 +8611,7 @@
     },
     "menu_second_chances_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain the ability to disable ##$multibasic;## camera from detecting you and your crew. Effect lasts for ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;You lockpick ##$multipro2;## faster. You also gain the ability to lockpick safes.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain the ability to disable ##$multibasic;## camera from detecting you and your crew. Effect lasts for ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;You lockpick ##$multipro2;## faster. You also gain the ability to lockpick safes.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain the ability to disable ##$multibasic;## camera from detecting you and your crew. Effect lasts for ##$multibasic2;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;You lockpick ##$multipro2;## faster. You also gain the ability to lockpick safes.",
         "string_id": "menu_second_chances_beta_desc"
     },
     "menu_seconds_suffix_short": {
@@ -8626,7 +8626,7 @@
     },
     "menu_sentry_targeting_package_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your sentry guns gain a ##$multibasic;## increase in accuracy.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns rotation speed is increased by ##$multipro;##. Your sentry guns also have  ##$multipro2;## more ammunition.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your sentry guns gain a ##$multibasic;## increase in accuracy.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns rotation speed is increased by ##$multipro;##. Your sentry guns also have  ##$multipro2;## more ammunition.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your sentry guns gain a ##$multibasic;## increase in accuracy.$NL;$NL;เอซ: ##$pro;##$NL;Your sentry guns rotation speed is increased by ##$multipro;##. Your sentry guns also have  ##$multipro2;## more ammunition.",
         "string_id": "menu_sentry_targeting_package_beta_desc"
     },
     "menu_sfx_volume": {
@@ -8651,12 +8651,12 @@
     },
     "menu_sharpshooter_beta": {
         "base_text": "Marksman",
-        "loc_text": "Marksman",
+        "loc_text": "มาร์คแมน",
         "string_id": "menu_sharpshooter_beta"
     },
     "menu_sharpshooter_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic2;## weapon accuracy with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode. $NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro2;## accuracy bonus while aiming down sights with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic2;## weapon accuracy with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode. $NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro2;## accuracy bonus while aiming down sights with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic2;## weapon accuracy with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode. $NL;$NL;เอซ: ##$pro;##$NL;You gain a ##$multipro2;## accuracy bonus while aiming down sights with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
         "string_id": "menu_sharpshooter_beta_desc"
     },
     "menu_shock_and_awe_beta": {
@@ -8666,7 +8666,7 @@
     },
     "menu_shock_and_awe_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now hip-fire with your weapons while sprinting.$NL;$NL;ACE: ##$pro;##$NL;Killing ##$multipro;## enemies with SMGs, LMGs, Assault Rifles or Special Weapons set on automatic fire mode will increase your next reload speed by up to ##$multipro2;##. This bonus is reduced by ##$multipro3;## for each bullet above ##$multipro4;## in the total magazine size, down to a minimum of ##$multipro5;## reload speed increase.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can now hip-fire with your weapons while sprinting.$NL;$NL;ACE: ##$pro;##$NL;Killing ##$multipro;## enemies with SMGs, LMGs, Assault Rifles or Special Weapons set on automatic fire mode will increase your next reload speed by up to ##$multipro2;##. This bonus is reduced by ##$multipro3;## for each bullet above ##$multipro4;## in the total magazine size, down to a minimum of ##$multipro5;## reload speed increase.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can now hip-fire with your weapons while sprinting.$NL;$NL;เอซ: ##$pro;##$NL;Killing ##$multipro;## enemies with SMGs, LMGs, Assault Rifles or Special Weapons set on automatic fire mode will increase your next reload speed by up to ##$multipro2;##. This bonus is reduced by ##$multipro3;## for each bullet above ##$multipro4;## in the total magazine size, down to a minimum of ##$multipro5;## reload speed increase.",
         "string_id": "menu_shock_and_awe_beta_desc"
     },
     "menu_shotgun": {
@@ -8681,7 +8681,7 @@
     },
     "menu_shotgun_cqb_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You reload Shotguns ##$multibasic2;## faster.$NL;$NL;ACE: ##$pro;##$NL;You reload Shotguns ##$multipro;## faster. You gain a ##$multipro2;## increased steel sight zoom speed when using Shotguns.",
-        "loc_text": "BASIC: ##$basic;##$NL;You reload Shotguns ##$multibasic2;## faster.$NL;$NL;ACE: ##$pro;##$NL;You reload Shotguns ##$multipro;## faster. You gain a ##$multipro2;## increased steel sight zoom speed when using Shotguns.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You reload Shotguns ##$multibasic2;## faster.$NL;$NL;เอซ: ##$pro;##$NL;You reload Shotguns ##$multipro;## faster. You gain a ##$multipro2;## increased steel sight zoom speed when using Shotguns.",
         "string_id": "menu_shotgun_cqb_beta_desc"
     },
     "menu_shotgun_impact_beta": {
@@ -8691,7 +8691,7 @@
     },
     "menu_shotgun_impact_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your weapon stability with all shotguns is increased by ##$multibasic;##. You deal ##$multibasic2;## more damage with Shotguns.$NL;$NL;ACE: ##$pro;##$NL;You deal an additional ##$multipro2;## more damage with shotguns.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your weapon stability with all shotguns is increased by ##$multibasic;##. You deal ##$multibasic2;## more damage with Shotguns.$NL;$NL;ACE: ##$pro;##$NL;You deal an additional ##$multipro2;## more damage with shotguns.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your weapon stability with all shotguns is increased by ##$multibasic;##. You deal ##$multibasic2;## more damage with Shotguns.$NL;$NL;เอซ: ##$pro;##$NL;You deal an additional ##$multipro2;## more damage with shotguns.",
         "string_id": "menu_shotgun_impact_beta_desc"
     },
     "menu_show_all": {
@@ -8706,7 +8706,7 @@
     },
     "menu_show_of_force_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You take ##$multibasic;## less damage while interacting with objects.$NL;$NL;ACE: ##$pro;##$NL;Increases the armor of all Ballistic vests by ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;You take ##$multibasic;## less damage while interacting with objects.$NL;$NL;ACE: ##$pro;##$NL;Increases the armor of all Ballistic vests by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You take ##$multibasic;## less damage while interacting with objects.$NL;$NL;เอซ: ##$pro;##$NL;Increases the armor of all Ballistic vests by ##$multipro2;##.",
         "string_id": "menu_show_of_force_beta_desc"
     },
     "menu_side_jobs_title": {
@@ -8721,22 +8721,22 @@
     },
     "menu_silence_expert_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon stability and ##$multibasic2;## snap to zoom speed increase with silenced weapons.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro3;## weapon accuracy with silenced weapons.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon stability and ##$multibasic2;## snap to zoom speed increase with silenced weapons.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro3;## weapon accuracy with silenced weapons.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## weapon stability and ##$multibasic2;## snap to zoom speed increase with silenced weapons.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro3;## weapon accuracy with silenced weapons.",
         "string_id": "menu_silence_expert_beta_desc"
     },
     "menu_single_shot_ammo_return_beta": {
         "base_text": "Ammo Efficiency",
-        "loc_text": "Ammo Efficiency",
+        "loc_text": "แอมโมอิฟิชเชินซี",
         "string_id": "menu_single_shot_ammo_return_beta"
     },
     "menu_single_shot_ammo_return_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Getting ##$multibasic;## headshots in less than ##$multibasic2;## seconds will refund ##$multibasic3;## bullet to your used weapon. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.$NL;$NL;ACE: ##$pro;##$NL;The amount of headshots required is reduced to ##$multipro;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Getting ##$multibasic;## headshots in less than ##$multibasic2;## seconds will refund ##$multibasic3;## bullet to your used weapon. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.$NL;$NL;ACE: ##$pro;##$NL;The amount of headshots required is reduced to ##$multipro;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Getting ##$multibasic;## headshots in less than ##$multibasic2;## seconds will refund ##$multibasic3;## bullet to your used weapon. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.$NL;$NL;เอซ: ##$pro;##$NL;The amount of headshots required is reduced to ##$multipro;##.",
         "string_id": "menu_single_shot_ammo_return_beta_desc"
     },
     "menu_skillpoints": {
         "base_text": "Remaining Skill points",
-        "loc_text": "สกิลพอย์คงเหลือ",
+        "loc_text": "สกิลพอยท์คงเหลือ",
         "string_id": "menu_skillpoints"
     },
     "menu_skilltree": {
@@ -8821,12 +8821,12 @@
     },
     "menu_sniper_graze_damage": {
         "base_text": "Graze",
-        "loc_text": "Graze",
+        "loc_text": "เกรซ",
         "string_id": "menu_sniper_graze_damage"
     },
     "menu_sniper_graze_damage_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Snipers that hit their target deal ##$multibasic;## of the damage dealt in a ##$multibasic2;## radius around the bullet trajectory.$NL;$NL;ACE: ##$pro;##$NL;If a bullet would headshot-kill someone, the graze skill will deal ##$multipro;## of the weapon's damage instead of ##$multipro2;##.",
-        "loc_text": "BASIC: ##$basic;##$NL;Snipers that hit their target deal ##$multibasic;## of the damage dealt in a ##$multibasic2;## radius around the bullet trajectory.$NL;$NL;ACE: ##$pro;##$NL;If a bullet would headshot-kill someone, the graze skill will deal ##$multipro;## of the weapon's damage instead of ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Snipers that hit their target deal ##$multibasic;## of the damage dealt in a ##$multibasic2;## radius around the bullet trajectory.$NL;$NL;เอซ: ##$pro;##$NL;If a bullet would headshot-kill someone, the graze skill will deal ##$multipro;## of the weapon's damage instead of ##$multipro2;##.",
         "string_id": "menu_sniper_graze_damage_desc"
     },
     "menu_snp": {
@@ -8896,7 +8896,7 @@
     },
     "menu_spectator_being_traded_hesitant_bain": {
         "base_text": "Bain is negotiating!",
-        "loc_text": "Bain กำลังทำการเจรจา!",
+        "loc_text": "เบนกำลังทำการเจรจา!",
         "string_id": "menu_spectator_being_traded_hesitant_bain"
     },
     "menu_spectator_being_traded_hesitant_locke": {
@@ -8906,12 +8906,12 @@
     },
     "menu_speedy_reload_beta": {
         "base_text": "Aggressive Reload",
-        "loc_text": "Aggressive Reload",
+        "loc_text": "แอ็กเรซซิฟรีโหลด",
         "string_id": "menu_speedy_reload_beta"
     },
     "menu_speedy_reload_beta_desc": {
         "base_text": "BASIC:##$basic;##$NL;Increases your reload speed with SMGs, Assault Rifles and Sniper Rifles by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Any killing headshot will increase your reload speed by ##$multipro;## for ##$multipro2;## seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
-        "loc_text": "BASIC:##$basic;##$NL;Increases your reload speed with SMGs, Assault Rifles and Sniper Rifles by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Any killing headshot will increase your reload speed by ##$multipro;## for ##$multipro2;## seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
+        "loc_text": "BASIC:##$basic;##$NL;Increases your reload speed with SMGs, Assault Rifles and Sniper Rifles by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Any killing headshot will increase your reload speed by ##$multipro;## for ##$multipro2;## seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
         "string_id": "menu_speedy_reload_beta_desc"
     },
     "menu_spendable_skill_points": {
@@ -8926,7 +8926,7 @@
     },
     "menu_spotter_teamwork_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Enemies you mark take ##$multibasic;## more damage.$NL;$NL;ACE: ##$pro;##$NL;Enemies you mark take an additional ##$multipro;## damage when further away than ##$multipro2;## meters.$NL;Increase the duration of marked enemies by ##$multipro3;## and you can now mark specials by aiming at them with any weapon.",
-        "loc_text": "BASIC: ##$basic;##$NL;Enemies you mark take ##$multibasic;## more damage.$NL;$NL;ACE: ##$pro;##$NL;Enemies you mark take an additional ##$multipro;## damage when further away than ##$multipro2;## meters.$NL;Increase the duration of marked enemies by ##$multipro3;## and you can now mark specials by aiming at them with any weapon.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Enemies you mark take ##$multibasic;## more damage.$NL;$NL;เอซ: ##$pro;##$NL;Enemies you mark take an additional ##$multipro;## damage when further away than ##$multipro2;## meters.$NL;Increase the duration of marked enemies by ##$multipro3;## and you can now mark specials by aiming at them with any weapon.",
         "string_id": "menu_spotter_teamwork_beta_desc"
     },
     "menu_spree_difference_filter": {
@@ -8941,12 +8941,12 @@
     },
     "menu_sprinter_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your stamina starts regenerating ##$multibasic;## earlier and ##$multibasic2;## faster. You also sprint ##$multibasic2;## faster.$NL;$NL;ACE: ##$pro;##$NL;You have a ##$multipro;## increased chance to dodge while sprinting. You gain ##$multipro3;## chance to dodge while ziplining.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your stamina starts regenerating ##$multibasic;## earlier and ##$multibasic2;## faster. You also sprint ##$multibasic2;## faster.$NL;$NL;ACE: ##$pro;##$NL;You have a ##$multipro;## increased chance to dodge while sprinting. You gain ##$multipro3;## chance to dodge while ziplining.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your stamina starts regenerating ##$multibasic;## earlier and ##$multibasic2;## faster. You also sprint ##$multibasic2;## faster.$NL;$NL;เอซ: ##$pro;##$NL;You have a ##$multipro;## increased chance to dodge while sprinting. You gain ##$multipro3;## chance to dodge while ziplining.",
         "string_id": "menu_sprinter_beta_desc"
     },
     "menu_st_activate_spec": {
         "base_text": "Equip Deck",
-        "loc_text": "Equip Deck",
+        "loc_text": "ใช้งานเพิรค์",
         "string_id": "menu_st_activate_spec"
     },
     "menu_st_active_skill_switch": {
@@ -8961,7 +8961,7 @@
     },
     "menu_st_available_spec_points": {
         "base_text": "$points; Perk points available",
-        "loc_text": "$points; พอย์เพิร์คคงเหลือ",
+        "loc_text": "$points; พอยท์เพิร์คคงเหลือ",
         "string_id": "menu_st_available_spec_points"
     },
     "menu_st_make_active_skill_switch": {
@@ -8971,27 +8971,27 @@
     },
     "menu_st_points_all_spent_skill_switch": {
         "base_text": "All points spent",
-        "loc_text": "ใช้พอย์ทั้งหมดแล้ว",
+        "loc_text": "ใช้พอยท์ทั้งหมดแล้ว",
         "string_id": "menu_st_points_all_spent_skill_switch"
     },
     "menu_st_points_total": {
         "base_text": "Total points",
-        "loc_text": "พอย์ทั้งหมด",
+        "loc_text": "พอยท์ที่ใช้",
         "string_id": "menu_st_points_total"
     },
     "menu_st_points_unlock": {
         "base_text": "Points to unlock",
-        "loc_text": "พอย์เพื่อปลดล็อค",
+        "loc_text": "พอยท์เพื่อปลดล็อค",
         "string_id": "menu_st_points_unlock"
     },
     "menu_st_points_unlock_tier": {
         "base_text": "Tier $tier;",
-        "loc_text": "Tier $tier;",
+        "loc_text": "ขั้นที่ $tier;",
         "string_id": "menu_st_points_unlock_tier"
     },
     "menu_st_points_unspent_skill_switch": {
         "base_text": "$points; points available",
-        "loc_text": "$points; สกิลพอย์คงเหลือ",
+        "loc_text": "$points; สกิลพอยท์คงเหลือ",
         "string_id": "menu_st_points_unspent_skill_switch"
     },
     "menu_st_skill_switch_1": {
@@ -9101,12 +9101,12 @@
     },
     "menu_st_spec_1": {
         "base_text": "Crew Chief",
-        "loc_text": "Crew Chief",
+        "loc_text": "ครูซีฟ",
         "string_id": "menu_st_spec_1"
     },
     "menu_st_spec_10": {
         "base_text": "Gambler",
-        "loc_text": "Gambler",
+        "loc_text": "แกมเบลอร์",
         "string_id": "menu_st_spec_10"
     },
     "menu_st_spec_10_desc": {
@@ -9116,7 +9116,7 @@
     },
     "menu_st_spec_11": {
         "base_text": "Grinder",
-        "loc_text": "Grinder",
+        "loc_text": "ไกรเดอร์",
         "string_id": "menu_st_spec_11"
     },
     "menu_st_spec_11_desc": {
@@ -9126,7 +9126,7 @@
     },
     "menu_st_spec_12": {
         "base_text": "Yakuza",
-        "loc_text": "Yakuza",
+        "loc_text": "ยากูซ่า",
         "string_id": "menu_st_spec_12"
     },
     "menu_st_spec_12_desc": {
@@ -9136,7 +9136,7 @@
     },
     "menu_st_spec_13": {
         "base_text": "Ex-President",
-        "loc_text": "Ex-President",
+        "loc_text": "แอคเพรสซิเด้นท์",
         "string_id": "menu_st_spec_13"
     },
     "menu_st_spec_13_desc": {
@@ -9146,7 +9146,7 @@
     },
     "menu_st_spec_14": {
         "base_text": "Maniac",
-        "loc_text": "Maniac",
+        "loc_text": "เมนิแอค",
         "string_id": "menu_st_spec_14"
     },
     "menu_st_spec_14_desc": {
@@ -9156,7 +9156,7 @@
     },
     "menu_st_spec_15": {
         "base_text": "Anarchist ",
-        "loc_text": "Anarchist ",
+        "loc_text": "แอนาคริสต์",
         "string_id": "menu_st_spec_15"
     },
     "menu_st_spec_15_desc": {
@@ -9166,7 +9166,7 @@
     },
     "menu_st_spec_16": {
         "base_text": "Biker",
-        "loc_text": "Biker",
+        "loc_text": "ไบเกอร์",
         "string_id": "menu_st_spec_16"
     },
     "menu_st_spec_16_desc": {
@@ -9176,7 +9176,7 @@
     },
     "menu_st_spec_17": {
         "base_text": "Kingpin",
-        "loc_text": "Kingpin",
+        "loc_text": "คิงพิน",
         "string_id": "menu_st_spec_17"
     },
     "menu_st_spec_17_desc": {
@@ -9186,7 +9186,7 @@
     },
     "menu_st_spec_18": {
         "base_text": "Sicario",
-        "loc_text": "Sicario",
+        "loc_text": "สการิโอ้",
         "string_id": "menu_st_spec_18"
     },
     "menu_st_spec_18_desc": {
@@ -9196,7 +9196,7 @@
     },
     "menu_st_spec_19": {
         "base_text": "Stoic",
-        "loc_text": "Stoic",
+        "loc_text": "สโตอิค",
         "string_id": "menu_st_spec_19"
     },
     "menu_st_spec_19_desc": {
@@ -9211,12 +9211,12 @@
     },
     "menu_st_spec_2": {
         "base_text": "Muscle",
-        "loc_text": "Muscle",
+        "loc_text": "มัสเซิล",
         "string_id": "menu_st_spec_2"
     },
     "menu_st_spec_20": {
         "base_text": "Tag Team",
-        "loc_text": "Tag Team",
+        "loc_text": "แท๊กทีม",
         "string_id": "menu_st_spec_20"
     },
     "menu_st_spec_20_desc": {
@@ -9226,7 +9226,7 @@
     },
     "menu_st_spec_21": {
         "base_text": "Hacker",
-        "loc_text": "Hacker",
+        "loc_text": "แฮ็กเกอร์",
         "string_id": "menu_st_spec_21"
     },
     "menu_st_spec_21_desc": {
@@ -9241,7 +9241,7 @@
     },
     "menu_st_spec_3": {
         "base_text": "Armorer",
-        "loc_text": "Armorer",
+        "loc_text": "อาร์เมอเรอร์",
         "string_id": "menu_st_spec_3"
     },
     "menu_st_spec_3_desc": {
@@ -9251,7 +9251,7 @@
     },
     "menu_st_spec_4": {
         "base_text": "Rogue",
-        "loc_text": "Rogue",
+        "loc_text": "โรก",
         "string_id": "menu_st_spec_4"
     },
     "menu_st_spec_4_desc": {
@@ -9261,7 +9261,7 @@
     },
     "menu_st_spec_5": {
         "base_text": "Hitman",
-        "loc_text": "Hitman",
+        "loc_text": "ฮิตแมน",
         "string_id": "menu_st_spec_5"
     },
     "menu_st_spec_5_desc": {
@@ -9271,7 +9271,7 @@
     },
     "menu_st_spec_6": {
         "base_text": "Crook",
-        "loc_text": "Crook",
+        "loc_text": "ครูก",
         "string_id": "menu_st_spec_6"
     },
     "menu_st_spec_6_desc": {
@@ -9281,7 +9281,7 @@
     },
     "menu_st_spec_7": {
         "base_text": "Burglar",
-        "loc_text": "Burglar",
+        "loc_text": "เบอร์กล้า",
         "string_id": "menu_st_spec_7"
     },
     "menu_st_spec_7_desc": {
@@ -9291,7 +9291,7 @@
     },
     "menu_st_spec_8": {
         "base_text": "Infiltrator",
-        "loc_text": "Infiltrator",
+        "loc_text": "อินฟริเทรเตอร์",
         "string_id": "menu_st_spec_8"
     },
     "menu_st_spec_8_desc": {
@@ -9301,7 +9301,7 @@
     },
     "menu_st_spec_9": {
         "base_text": "Sociopath",
-        "loc_text": "Sociopath",
+        "loc_text": "โซซีโอพาธ",
         "string_id": "menu_st_spec_9"
     },
     "menu_st_spec_9_desc": {
@@ -9311,7 +9311,7 @@
     },
     "menu_st_suspended_points_skill_switch": {
         "base_text": "Suspended: Requires $Points; Skill Points",
-        "loc_text": "ถูกระงับ: ต้องการสกิลพอย์ $Points;",
+        "loc_text": "ถูกระงับ: ต้องการสกิลพอยท์ $Points;",
         "string_id": "menu_st_suspended_points_skill_switch"
     },
     "menu_st_switch_skillset": {
@@ -9326,12 +9326,12 @@
     },
     "menu_stable_shot_beta": {
         "base_text": "Stable Shot",
-        "loc_text": "Stable Shot",
+        "loc_text": "สเตเบอร์ช็อต",
         "string_id": "menu_stable_shot_beta"
     },
     "menu_stable_shot_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon Stability.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## weapon Accuracy while standing still.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon Stability.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## weapon Accuracy while standing still.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## weapon Stability.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## weapon Accuracy while standing still.",
         "string_id": "menu_stable_shot_beta_desc"
     },
     "menu_stageendscreen_speed_up": {
@@ -9356,7 +9356,7 @@
     },
     "menu_steady_grip_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon accuracy.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## weapon stability.",
-        "loc_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon accuracy.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## weapon stability.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## weapon accuracy.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## weapon stability.",
         "string_id": "menu_steady_grip_beta_desc"
     },
     "menu_steam_inventory": {
@@ -9486,17 +9486,17 @@
     },
     "menu_steroids_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your melee attacks against non-special enemies do ##$multibasic;## more damage.$NL;$NL;ACE: ##$pro;##$NL;Your melee attacks against special enemies do ##$multipro;## more damage.",
-        "loc_text": "BASIC: ##$basic;##$NL;Your melee attacks against non-special enemies do ##$multibasic;## more damage.$NL;$NL;ACE: ##$pro;##$NL;Your melee attacks against special enemies do ##$multipro;## more damage.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Your melee attacks against non-special enemies do ##$multibasic;## more damage.$NL;$NL;เอซ: ##$pro;##$NL;Your melee attacks against special enemies do ##$multipro;## more damage.",
         "string_id": "menu_steroids_beta_desc"
     },
     "menu_stockholm_syndrome_beta": {
         "base_text": "Stockholm Syndrome",
-        "loc_text": "Stockholm Syndrome",
+        "loc_text": "สต็อกโฮล์มซินโดรม",
         "string_id": "menu_stockholm_syndrome_beta"
     },
     "menu_stockholm_syndrome_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Civilians are intimidated by the noise you make and remain intimidated ##$multibasic;## longer.$NL;$NL;ACE: ##$pro;##$NL;Your hostages will not flee when they have been rescued by law enforcers. Whenever you get into custody, your hostages will trade themselves for your safe return. This effect can occur during assaults, but only ##$multipro;## time during a heist.",
-        "loc_text": "BASIC: ##$basic;##$NL;Civilians are intimidated by the noise you make and remain intimidated ##$multibasic;## longer.$NL;$NL;ACE: ##$pro;##$NL;Your hostages will not flee when they have been rescued by law enforcers. Whenever you get into custody, your hostages will trade themselves for your safe return. This effect can occur during assaults, but only ##$multipro;## time during a heist.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Civilians are intimidated by the noise you make and remain intimidated ##$multibasic;## longer.$NL;$NL;เอซ: ##$pro;##$NL;Your hostages will not flee when they have been rescued by law enforcers. Whenever you get into custody, your hostages will trade themselves for your safe return. This effect can occur during assaults, but only ##$multipro;## time during a heist.",
         "string_id": "menu_stockholm_syndrome_beta_desc"
     },
     "menu_stop_sound": {
@@ -9666,27 +9666,27 @@
     },
     "menu_tea_cookies_beta": {
         "base_text": "Uppers",
-        "loc_text": "Uppers",
+        "loc_text": "อัปเปอร์",
         "string_id": "menu_tea_cookies_beta"
     },
     "menu_tea_cookies_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Adds ##$multibasic2;## more First Aid Kits to your inventory.$NL;$NL;ACE: ##$pro;##$NL;Adds ##$multipro3;## First Aid Kits to your inventory. Your deployed First Aid Kits will be automatically used if a player is downed within a ##$multipro2;## meter radius of the First Aid Kit. This cannot occur more than once every ##$multipro4;## seconds.",
-        "loc_text": "BASIC: ##$basic;##$NL;Adds ##$multibasic2;## more First Aid Kits to your inventory.$NL;$NL;ACE: ##$pro;##$NL;Adds ##$multipro3;## First Aid Kits to your inventory. Your deployed First Aid Kits will be automatically used if a player is downed within a ##$multipro2;## meter radius of the First Aid Kit. This cannot occur more than once every ##$multipro4;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;เพิ่มเฟิร์สอีสคิทสำหรับใช้งานอีก ##$multibasic2;## อัน$NL;$NL;เอซ: ##$pro;##$NL;เพิ่มเฟิร์สอีสคิทสำหรับใช้งานอีก ##$multipro3;## อัน เฟิร์สอีสคิทจะถูกใช้งานอัตโนมัติถ้ามีผู้เล่นล้มในระยะ ##$multipro2;## เมตรจากเฟิร์สอีสคิท ความสามารถนี้ไม่สามารถใช้ซ้ำได้เป็นเวลา ##$multipro4;##",
         "string_id": "menu_tea_cookies_beta_desc"
     },
     "menu_tea_time_beta": {
         "base_text": "Quick Fix",
-        "loc_text": "Quick Fix",
+        "loc_text": "ควิกฟิก",
         "string_id": "menu_tea_time_beta"
     },
     "menu_tea_time_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Decreases your First Aid Kit and Doctor Bag deploy time by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Crew members that use your First Aid Kits or Doctor Bags take ##$multipro;## less damage for ##$multipro2;## seconds.",
-        "loc_text": "พื้นฐาน: ##$basic;##$NL;ลดระยะเวลาในการวางกระเป๋าพยาบาลและอุปกรณ์ปฐมพยาบาลเบื้องต้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;สมาชิกในทีมที่ใช้กระเป๋าพยาบาลหรืออุปกรณ์ปฐมพยาบาลเบื้องต้นของคุณจะได้รับความเสียหายน้อยลง ##$multipro;## เป็นเวลา ##$multipro2;## วินาที",
+        "loc_text": "เบสิค: ##$basic;##$NL;ลดระยะเวลาในการวางด็อกเตอร์แบคและอุปกรณ์ปฐมพยาบาลเบื้องต้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;สมาชิกในทีมที่ใช้ด็อกเตอร์แบคหรืออุปกรณ์ปฐมพยาบาลเบื้องต้นของคุณจะได้รับความเสียหายน้อยลง ##$multipro;## เป็นเวลา ##$multipro2;## วินาที",
         "string_id": "menu_tea_time_beta_desc"
     },
     "menu_team_loadout": {
         "base_text": "Crew Setup",
-        "loc_text": "Crew Setup",
+        "loc_text": "อุปกรณ์ของทีม",
         "string_id": "menu_team_loadout"
     },
     "menu_terry": {
@@ -9731,7 +9731,7 @@
     },
     "menu_thick_skin_beta_desc": {
         "base_text": "BASIC:##$basic;##$NL;Increases the concealment of melee weapons by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Increases the concealment of all ballistic vests by ##$multipro2;##.",
-        "loc_text": "BASIC:##$basic;##$NL;Increases the concealment of melee weapons by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Increases the concealment of all ballistic vests by ##$multipro2;##.",
+        "loc_text": "BASIC:##$basic;##$NL;Increases the concealment of melee weapons by ##$multibasic2;##.$NL;$NL;เอซ: ##$pro;##$NL;Increases the concealment of all ballistic vests by ##$multipro2;##.",
         "string_id": "menu_thick_skin_beta_desc"
     },
     "menu_throwable_contour": {
@@ -9936,7 +9936,7 @@
     },
     "menu_tower_defense_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now carry ##$multibasic;## extra sentry gun.$NL;$NL;ACE: ##$pro;##$NL;You can now carry an additional ##$multipro;## extra sentry guns.",
-        "loc_text": "BASIC: ##$basic;##$NL;You can now carry ##$multibasic;## extra sentry gun.$NL;$NL;ACE: ##$pro;##$NL;You can now carry an additional ##$multipro;## extra sentry guns.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You can now carry ##$multibasic;## extra sentry gun.$NL;$NL;เอซ: ##$pro;##$NL;You can now carry an additional ##$multipro;## extra sentry guns.",
         "string_id": "menu_tower_defense_beta_desc"
     },
     "menu_tracked_achievements": {
@@ -9946,12 +9946,12 @@
     },
     "menu_triathlete_beta": {
         "base_text": "Forced Friendship",
-        "loc_text": "Forced Friendship",
+        "loc_text": "ฟอร์ซเฟรนชิพ",
         "string_id": "menu_triathlete_beta"
     },
     "menu_triathlete_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Increases your supply of cable ties by ##$multibasic2;##. You can cable tie hostages ##$multibasic3;## faster. $NL;$NL;ACE: ##$pro;##$NL;You and your crew gain ##$multipro;## damage absorption for each hostage you have. This effect stacks with up to a maximum of ##$multipro2;## hostages.$NL;$NL;Note: This skill does not stack with other players Forced Friendship skill.",
-        "loc_text": "BASIC: ##$basic;##$NL;Increases your supply of cable ties by ##$multibasic2;##. You can cable tie hostages ##$multibasic3;## faster. $NL;$NL;ACE: ##$pro;##$NL;You and your crew gain ##$multipro;## damage absorption for each hostage you have. This effect stacks with up to a maximum of ##$multipro2;## hostages.$NL;$NL;Note: This skill does not stack with other players Forced Friendship skill.",
+        "loc_text": "เบสิค: ##$basic;##$NL;Increases your supply of cable ties by ##$multibasic2;##. You can cable tie hostages ##$multibasic3;## faster. $NL;$NL;เอซ: ##$pro;##$NL;You and your crew gain ##$multipro;## damage absorption for each hostage you have. This effect stacks with up to a maximum of ##$multipro2;## hostages.$NL;$NL;Note: This skill does not stack with other players Forced Friendship skill.",
         "string_id": "menu_triathlete_beta_desc"
     },
     "menu_trigger_happy_beta": {
@@ -9961,7 +9961,7 @@
     },
     "menu_trigger_happy_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;For every hit with a pistol you gain a ##$multibasic4;## damage boost that lasts for ##$multibasic2;## seconds. Stacks up to ##$multibasic3;## times.$NL;$NL;ACE: ##$pro;##$NL;Increases the damage boost duration to ##$multipro2;## seconds.",
-        "loc_text": "BASIC: ##$basic;##$NL;For every hit with a pistol you gain a ##$multibasic4;## damage boost that lasts for ##$multibasic2;## seconds. Stacks up to ##$multibasic3;## times.$NL;$NL;ACE: ##$pro;##$NL;Increases the damage boost duration to ##$multipro2;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;For every hit with a pistol you gain a ##$multibasic4;## damage boost that lasts for ##$multibasic2;## seconds. Stacks up to ##$multibasic3;## times.$NL;$NL;เอซ: ##$pro;##$NL;Increases the damage boost duration to ##$multipro2;## seconds.",
         "string_id": "menu_trigger_happy_beta_desc"
     },
     "menu_trophy_display_all": {
@@ -9986,7 +9986,7 @@
     },
     "menu_underdog_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;When three or more enemies within ##$multibasic;## meters are targeting you, you receive a ##$multibasic2;## damage bonus that lasts for ##$multibasic3;## seconds.$NL;$NL;ACE: ##$pro;##$NL;When three or more enemies within ##$multipro;## meters are targeting you, you also receive a ##$multipro2;## damage reduction that lasts for ##$multipro3;## seconds.$NL;$NL;Note: Does not apply to melee damage, throwables, grenade launchers or rocket launchers.",
-        "loc_text": "BASIC: ##$basic;##$NL;When three or more enemies within ##$multibasic;## meters are targeting you, you receive a ##$multibasic2;## damage bonus that lasts for ##$multibasic3;## seconds.$NL;$NL;ACE: ##$pro;##$NL;When three or more enemies within ##$multipro;## meters are targeting you, you also receive a ##$multipro2;## damage reduction that lasts for ##$multipro3;## seconds.$NL;$NL;Note: Does not apply to melee damage, throwables, grenade launchers or rocket launchers.",
+        "loc_text": "เบสิค: ##$basic;##$NL;When three or more enemies within ##$multibasic;## meters are targeting you, you receive a ##$multibasic2;## damage bonus that lasts for ##$multibasic3;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;When three or more enemies within ##$multipro;## meters are targeting you, you also receive a ##$multipro2;## damage reduction that lasts for ##$multipro3;## seconds.$NL;$NL;Note: Does not apply to melee damage, throwables, grenade launchers or rocket launchers.",
         "string_id": "menu_underdog_beta_desc"
     },
     "menu_unlock_condition": {
@@ -10006,7 +10006,7 @@
     },
     "menu_unseen_strike_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;If you do not lose any armor or health for ##$multibasic;## seconds, you gain ##$multibasic2;## critical hit chance for ##$multibasic3;## seconds.$NL;$NL;ACE: ##$pro;##$NL;The critical hit chance duration is increased to ##$multipro;## seconds.$NL;$NL;Taking any damage will cancel the effect.",
-        "loc_text": "BASIC: ##$basic;##$NL;If you do not lose any armor or health for ##$multibasic;## seconds, you gain ##$multibasic2;## critical hit chance for ##$multibasic3;## seconds.$NL;$NL;ACE: ##$pro;##$NL;The critical hit chance duration is increased to ##$multipro;## seconds.$NL;$NL;Taking any damage will cancel the effect.",
+        "loc_text": "เบสิค: ##$basic;##$NL;If you do not lose any armor or health for ##$multibasic;## seconds, you gain ##$multibasic2;## critical hit chance for ##$multibasic3;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;The critical hit chance duration is increased to ##$multipro;## seconds.$NL;$NL;Taking any damage will cancel the effect.",
         "string_id": "menu_unseen_strike_beta_desc"
     },
     "menu_up_you_go_beta": {
@@ -10016,7 +10016,7 @@
     },
     "menu_up_you_go_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You take ##$multibasic;## less damage for ##$multibasic2;## seconds after being revived.$NL;$NL;ACE: ##$pro;##$NL;You receive ##$multipro;## more health when revived.",
-        "loc_text": "BASIC: ##$basic;##$NL;You take ##$multibasic;## less damage for ##$multibasic2;## seconds after being revived.$NL;$NL;ACE: ##$pro;##$NL;You receive ##$multipro;## more health when revived.",
+        "loc_text": "เบสิค: ##$basic;##$NL;You take ##$multibasic;## less damage for ##$multibasic2;## seconds after being revived.$NL;$NL;เอซ: ##$pro;##$NL;You receive ##$multipro;## more health when revived.",
         "string_id": "menu_up_you_go_beta_desc"
     },
     "menu_use_thq_weapon_parts": {
@@ -10191,7 +10191,7 @@
     },
     "menu_wolverine_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The lower your health, the more damage you do. When your health is below ##$multibasic3;##, you will do up to ##$multibasic2;## more melee and saw damage.$NL;$NL;ACE: ##$pro;##$NL;The lower your health, the more damage you do. When your health is below ##$multipro3;##, you will do up to ##$multipro2;## more damage with ranged weapons as well.$NL;$NL;Note: Does not apply to throwables, grenade launchers or rocket launchers.$NL;$NL;Entering berserker state negates third party regeneration effects",
-        "loc_text": "BASIC: ##$basic;##$NL;The lower your health, the more damage you do. When your health is below ##$multibasic3;##, you will do up to ##$multibasic2;## more melee and saw damage.$NL;$NL;ACE: ##$pro;##$NL;The lower your health, the more damage you do. When your health is below ##$multipro3;##, you will do up to ##$multipro2;## more damage with ranged weapons as well.$NL;$NL;Note: Does not apply to throwables, grenade launchers or rocket launchers.$NL;$NL;Entering berserker state negates third party regeneration effects",
+        "loc_text": "เบสิค: ##$basic;##$NL;The lower your health, the more damage you do. When your health is below ##$multibasic3;##, you will do up to ##$multibasic2;## more melee and saw damage.$NL;$NL;เอซ: ##$pro;##$NL;The lower your health, the more damage you do. When your health is below ##$multipro3;##, you will do up to ##$multipro2;## more damage with ranged weapons as well.$NL;$NL;Note: Does not apply to throwables, grenade launchers or rocket launchers.$NL;$NL;Entering berserker state negates third party regeneration effects",
         "string_id": "menu_wolverine_beta_desc"
     },
     "menu_wpn_special": {
@@ -10521,17 +10521,17 @@
     },
     "st_menu_mastermind_dominate": {
         "base_text": "Controller",
-        "loc_text": "Controller",
+        "loc_text": "คอนโทรลเลอร์",
         "string_id": "st_menu_mastermind_dominate"
     },
     "st_menu_mastermind_inspire": {
         "base_text": "Medic",
-        "loc_text": "Medic",
+        "loc_text": "เมดิก",
         "string_id": "st_menu_mastermind_inspire"
     },
     "st_menu_mastermind_single_shot": {
         "base_text": "Sharpshooter",
-        "loc_text": "Sharpshooter",
+        "loc_text": "ชาร์ปชูตเตอร์",
         "string_id": "st_menu_mastermind_single_shot"
     },
     "st_menu_point": {
@@ -10551,12 +10551,12 @@
     },
     "st_menu_skill_cost": {
         "base_text": "BASIC: $basic; points / ACE: $aced; points",
-        "loc_text": "พื้นฐาน: $basic; พอยท์ / เอซ: $aced; พอยท์",
+        "loc_text": "เบสิค: $basic; พอยท์ / เอซ: $aced; พอยท์",
         "string_id": "st_menu_skill_cost"
     },
     "st_menu_skill_cost_singular": {
         "base_text": "BASIC: $basic; point / ACE: $aced; points",
-        "loc_text": "พื้นฐาน: $basic; พอยท์ / เอซ: $aced; พอยท์",
+        "loc_text": "เบสิค: $basic; พอยท์ / เอซ: $aced; พอยท์",
         "string_id": "st_menu_skill_cost_singular"
     },
     "st_menu_skill_maxed": {
