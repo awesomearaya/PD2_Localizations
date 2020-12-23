@@ -2356,7 +2356,7 @@
     },
     "bm_menu_btn_equip_deployable": {
         "base_text": "Equip deployable",
-        "loc_text": "Equip deployable",
+        "loc_text": "ใช้งานอุปกรณ์",
         "string_id": "bm_menu_btn_equip_deployable"
     },
     "bm_menu_btn_equip_gloves": {

@@ -1111,7 +1111,7 @@
     },
     "savefile_loading": {
         "base_text": "Loading...",
-        "loc_text": "Loading...",
+        "loc_text": "กำลังโหลด...",
         "string_id": "savefile_loading"
     },
     "savefile_progress": {
@@ -1126,12 +1126,12 @@
     },
     "savefile_removing": {
         "base_text": "Removing...",
-        "loc_text": "Removing...",
+        "loc_text": "กำลังลบ...",
         "string_id": "savefile_removing"
     },
     "savefile_saving": {
         "base_text": "Saving...",
-        "loc_text": "Saving...",
+        "loc_text": "กำลังบันทึก...",
         "string_id": "savefile_saving"
     },
     "savefile_setting": {

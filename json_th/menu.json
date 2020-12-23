@@ -7771,12 +7771,12 @@
     },
     "menu_deck21_9": {
         "base_text": "Botnet",
-        "loc_text": "Botnet",
+        "loc_text": "บอทเน็ต",
         "string_id": "menu_deck21_9"
     },
     "menu_deck21_9_desc": {
         "base_text": "Crew members killing enemies while the feedback effect is active will regenerate ##$multiperk;## health.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a Payday is increased by ##$multiperk2;##.",
-        "loc_text": "Crew members killing enemies while the feedback effect is active will regenerate ##$multiperk;## health.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a Payday is increased by ##$multiperk2;##.",
+        "loc_text": "เมื่อเพื่อนร่วมทีมฆ่าศัตรูขณะที่ระบบฟีดแบคกำลัง$NL;ทำงานอยู่จะทำการรีเจนเลือด ##$multiperk;##$NL;$NL;โบนัสเพิร์คเด็คเต็ม: คุณจะได้รับไอเทมที่มีคุณภาพมากยิ่งขึ้นอีก ##$multiperk2;## เมื่อภารกิจสำเร็จ",
         "string_id": "menu_deck21_9_desc"
     },
     "menu_deck2_1": {
@@ -17366,7 +17366,7 @@
     },
     "menu_st_active_spec": {
         "base_text": "Equipped: $specialization;",
-        "loc_text": "Equipped: $specialization;",
+        "loc_text": "กำลังใช้งาน: $specialization;",
         "string_id": "menu_st_active_spec"
     },
     "menu_st_available_spec_points": {
