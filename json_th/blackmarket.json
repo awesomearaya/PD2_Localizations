@@ -49,25 +49,50 @@
         "loc_text": "Lightweight Ballistic Vest",
         "string_id": "bm_armor_level_2"
     },
+    "bm_armor_level_2_desc": {
+        "base_text": "Little movement penalty, low visibility.$NL;$NL;The lightweight ballistic vest is easy to wear, concealable bullet proof vest. It offers a specially developed trauma liner which provides effective blunt trauma protection, making it a good choice to protect yourself.$NL;$NL;Lightweight ballistic vests are used by dignitaries and VIP's, sky marshals as well as executive and diplomatic security professionals.",
+        "loc_text": "Little movement penalty, low visibility.$NL;$NL;The lightweight ballistic vest is easy to wear, concealable bullet proof vest. It offers a specially developed trauma liner which provides effective blunt trauma protection, making it a good choice to protect yourself.$NL;$NL;Lightweight ballistic vests are used by dignitaries and VIP's, sky marshals as well as executive and diplomatic security professionals.",
+        "string_id": "bm_armor_level_2_desc"
+    },
     "bm_armor_level_3": {
         "base_text": "Ballistic Vest",
         "loc_text": "Ballistic Vest",
         "string_id": "bm_armor_level_3"
+    },
+    "bm_armor_level_3_desc": {
+        "base_text": "Little movement penalty, low visibility.$NL;$NL;The ballistic vest is a standard issue bullet-resistant soft vest that is worn on the torso. It offers good protection from small-caliber handgun and shotgun projectiles, making it essential for anyone in the line of fire.$NL;$NL;Ballistic vests are used by police forces, security guards and bodyguards.",
+        "loc_text": "Little movement penalty, low visibility.$NL;$NL;The ballistic vest is a standard issue bullet-resistant soft vest that is worn on the torso. It offers good protection from small-caliber handgun and shotgun projectiles, making it essential for anyone in the line of fire.$NL;$NL;Ballistic vests are used by police forces, security guards and bodyguards.",
+        "string_id": "bm_armor_level_3_desc"
     },
     "bm_armor_level_4": {
         "base_text": "Heavy Ballistic Vest",
         "loc_text": "Heavy Ballistic Vest",
         "string_id": "bm_armor_level_4"
     },
+    "bm_armor_level_4_desc": {
+        "base_text": "Small movement penalty, medium visibility.$NL;$NL;The heavy ballistic vest is a hard-plate reinforced vest that is worn on the torso. It is a modern body armor combining a ballistic vest with shoulder and side protection armor components, making it a great protection of choice.$NL;$NL;Heavy ballistic vests are worn by soldiers, police tactical units, and hostage rescue teams.",
+        "loc_text": "Small movement penalty, medium visibility.$NL;$NL;The heavy ballistic vest is a hard-plate reinforced vest that is worn on the torso. It is a modern body armor combining a ballistic vest with shoulder and side protection armor components, making it a great protection of choice.$NL;$NL;Heavy ballistic vests are worn by soldiers, police tactical units, and hostage rescue teams.",
+        "string_id": "bm_armor_level_4_desc"
+    },
     "bm_armor_level_5": {
         "base_text": "Flak Jacket",
         "loc_text": "Flak Jacket",
         "string_id": "bm_armor_level_5"
     },
+    "bm_armor_level_5_desc": {
+        "base_text": "Medium movement penalty, medium visibility.$NL;$NL;The flak jacket by Gensec Security Industries is a modern take on the classic version. It absorbs the impact from firearm projectiles and shrapnel from explosions.$NL;$NL;It combines a heavy ballistic vest with shoulder and side protection armor components, offering spine protection as well.$NL;$NL;Flak jackets are worn by Marines, combat soldiers and Gensec FTSU task forces.",
+        "loc_text": "Medium movement penalty, medium visibility.$NL;$NL;The flak jacket by Gensec Security Industries is a modern take on the classic version. It absorbs the impact from firearm projectiles and shrapnel from explosions.$NL;$NL;It combines a heavy ballistic vest with shoulder and side protection armor components, offering spine protection as well.$NL;$NL;Flak jackets are worn by Marines, combat soldiers and Gensec FTSU task forces.",
+        "string_id": "bm_armor_level_5_desc"
+    },
     "bm_armor_level_6": {
         "base_text": "Combined Tactical Vest",
         "loc_text": "Combined Tactical Vest",
         "string_id": "bm_armor_level_6"
+    },
+    "bm_armor_level_6_desc": {
+        "base_text": "Medium movement penalty, high visibility.$NL;$NL;The combined tactical vest was developed due to the challenges of modern warfare. It is made of high performance ballistic materials and is designed to carry heavy loads, such as ammo pouches, radios and other accessories. $NL;$NL;Combined tactical vests are worn by soldiers, special forces and other organized military units across the world.",
+        "loc_text": "Medium movement penalty, high visibility.$NL;$NL;The combined tactical vest was developed due to the challenges of modern warfare. It is made of high performance ballistic materials and is designed to carry heavy loads, such as ammo pouches, radios and other accessories. $NL;$NL;Combined tactical vests are worn by soldiers, special forces and other organized military units across the world.",
+        "string_id": "bm_armor_level_6_desc"
     },
     "bm_armor_level_7": {
         "base_text": "Improved Combined Tactical Vest",
@@ -249,6 +274,16 @@
         "loc_text": "Woodland Tech",
         "string_id": "bm_askn_drm_woodland_tech"
     },
+    "bm_askn_editor_select_armor": {
+        "base_text": "Select Armor",
+        "loc_text": "Select Armor",
+        "string_id": "bm_askn_editor_select_armor"
+    },
+    "bm_askn_editor_select_pose": {
+        "base_text": "Select Pose",
+        "loc_text": "Select Pose",
+        "string_id": "bm_askn_editor_select_pose"
+    },
     "bm_askn_find_in_crime_spree": {
         "base_text": "This armor can be earned in the ##Crime Spree## gamemode. The skin cannot be traded or sold.",
         "loc_text": "This armor can be earned in the ##Crime Spree## gamemode. The skin cannot be traded or sold.",
@@ -268,6 +303,11 @@
         "base_text": "Immortal Python Armor",
         "loc_text": "Immortal Python Armor",
         "string_id": "bm_askn_tam"
+    },
+    "bm_askn_tam_unlock": {
+        "base_text": "This armor is earned as the reward for the ##1000 Achievements Milestone##. The skin cannot be traded or sold.",
+        "loc_text": "This armor is earned as the reward for the ##1000 Achievements Milestone##. The skin cannot be traded or sold.",
+        "string_id": "bm_askn_tam_unlock"
     },
     "bm_bandana": {
         "base_text": "Bloody Bandana",
@@ -519,10 +559,20 @@
         "loc_text": "This stunning little beauty will take everyone's breath away, giving you those couple of extra seconds you need to kill them.",
         "string_id": "bm_concussion_desc"
     },
+    "bm_cop_mega_skull_desc": {
+        "base_text": "We've never understood why hardcore heisters don't call themselves Death Wishers. Maybe it's just too damn cool.$NL;$NL;Thank you for your support.$NL;$NL;OVERKILL salutes you!",
+        "loc_text": "We've never understood why hardcore heisters don't call themselves Death Wishers. Maybe it's just too damn cool.$NL;$NL;Thank you for your support.$NL;$NL;OVERKILL salutes you!",
+        "string_id": "bm_cop_mega_skull_desc"
+    },
     "bm_cs_continental_coin_cost": {
         "base_text": "$cost; Continental Coins",
         "loc_text": "$cost; Continental Coins",
         "string_id": "bm_cs_continental_coin_cost"
+    },
+    "bm_cs_not_enough_coins": {
+        "base_text": "Not Enough Continental Coins",
+        "loc_text": "Not Enough Continental Coins",
+        "string_id": "bm_cs_not_enough_coins"
     },
     "bm_dallas_rising": {
         "base_text": "Risen Dallas Mask",
@@ -664,10 +714,55 @@
         "loc_text": "To use the Trip Mine, you need to place it by holding $BTN_USE_ITEM;. The trigger laser can be toggled between explosive mode and sensor by pressing $BTN_INTERACT;.$NL;$NL;To use Shaped Charges, you need to place it by holding $BTN_USE_ITEM;. Once placed it will detonate within a few seconds. Trip Mines are basically traps that will hurt or kill enemies crossing the beam. Shaped Charges are commonly used to open safes and doors. Both are a good addition to all combat situations.",
         "string_id": "bm_equipment_trip_mine_desc"
     },
+    "bm_global_value_akm4_pack_unlock": {
+        "base_text": "Buy the Butcher AK/CAR Mod Pack DLC to unlock",
+        "loc_text": "Buy the Butcher AK/CAR Mod Pack DLC to unlock",
+        "string_id": "bm_global_value_akm4_pack_unlock"
+    },
+    "bm_global_value_ant_unlock": {
+        "base_text": "Buy Antisphere on Steam to unlock!",
+        "loc_text": "Buy Antisphere on Steam to unlock!",
+        "string_id": "bm_global_value_ant_unlock"
+    },
+    "bm_global_value_arena_unlock": {
+        "base_text": "Buy the Alesso Heist DLC to unlock!",
+        "loc_text": "Buy the Alesso Heist DLC to unlock!",
+        "string_id": "bm_global_value_arena_unlock"
+    },
     "bm_global_value_armored_transport": {
         "base_text": "Armored Transport",
         "loc_text": "Armored Transport",
         "string_id": "bm_global_value_armored_transport"
+    },
+    "bm_global_value_armored_transport_unlock": {
+        "base_text": "Buy the Armored Transport DLC to unlock!",
+        "loc_text": "Buy the Armored Transport DLC to unlock!",
+        "string_id": "bm_global_value_armored_transport_unlock"
+    },
+    "bm_global_value_bbq_unlock": {
+        "base_text": "Buy the BBQ Weapon Pack DLC to unlock!",
+        "loc_text": "Buy the BBQ Weapon Pack DLC to unlock!",
+        "string_id": "bm_global_value_bbq_unlock"
+    },
+    "bm_global_value_berry_unlock": {
+        "base_text": "Buy the Point Break DLC to unlock",
+        "loc_text": "Buy the Point Break DLC to unlock",
+        "string_id": "bm_global_value_berry_unlock"
+    },
+    "bm_global_value_big_bank_snp_unlock": {
+        "base_text": "Buy the Big Bank Heist DLC to unlock!",
+        "loc_text": "Buy the Big Bank Heist DLC to unlock!",
+        "string_id": "bm_global_value_big_bank_snp_unlock"
+    },
+    "bm_global_value_bobblehead_unlock": {
+        "base_text": "Buy the Dozer Bobblehead to unlock!",
+        "loc_text": "Buy the Dozer Bobblehead to unlock!",
+        "string_id": "bm_global_value_bobblehead_unlock"
+    },
+    "bm_global_value_born_unlock": {
+        "base_text": "Buy the Biker Heist DLC to unlock",
+        "loc_text": "Buy the Biker Heist DLC to unlock",
+        "string_id": "bm_global_value_born_unlock"
     },
     "bm_global_value_butch_pack_free": {
         "base_text": "Butcher Mod Pack",
@@ -679,10 +774,35 @@
         "loc_text": "Clover Character Pack",
         "string_id": "bm_global_value_character_pack_clover"
     },
+    "bm_global_value_character_pack_clover_unlock": {
+        "base_text": "Buy the Clover Character Pack DLC to unlock!",
+        "loc_text": "Buy the Clover Character Pack DLC to unlock!",
+        "string_id": "bm_global_value_character_pack_clover_unlock"
+    },
+    "bm_global_value_character_pack_dragan_unlock": {
+        "base_text": "Buy the Dragan Character Pack DLC to unlock!",
+        "loc_text": "Buy the Dragan Character Pack DLC to unlock!",
+        "string_id": "bm_global_value_character_pack_dragan_unlock"
+    },
+    "bm_global_value_character_pack_sokol_unlock": {
+        "base_text": "Buy the Sokol Character Pack DLC to unlock!",
+        "loc_text": "Buy the Sokol Character Pack DLC to unlock!",
+        "string_id": "bm_global_value_character_pack_sokol_unlock"
+    },
+    "bm_global_value_coco_unlock": {
+        "base_text": "Get the The Jimmy Character Pack DLC to unlock",
+        "loc_text": "Get the The Jimmy Character Pack DLC to unlock",
+        "string_id": "bm_global_value_coco_unlock"
+    },
     "bm_global_value_collaboration": {
         "base_text": "Collaboration",
         "loc_text": "Collaboration",
         "string_id": "bm_global_value_collaboration"
+    },
+    "bm_global_value_complete_overkill_pack_unlock": {
+        "base_text": "Buy the Completely OVERKILL Pack DLC to unlock",
+        "loc_text": "Buy the Completely OVERKILL Pack DLC to unlock",
+        "string_id": "bm_global_value_complete_overkill_pack_unlock"
     },
     "bm_global_value_dbd_clan_unlock": {
         "base_text": "Join the Dead by Daylight Official Community Group on Steam to unlock!",
@@ -694,15 +814,130 @@
         "loc_text": "Buy the Dead by Daylight Deluxe Game to unlock",
         "string_id": "bm_global_value_dbd_deluxe_unlock"
     },
+    "bm_global_value_dragon_unlock": {
+        "base_text": "Buy the Yakuza Character Pack DLC to unlock!",
+        "loc_text": "Buy the Yakuza Character Pack DLC to unlock!",
+        "string_id": "bm_global_value_dragon_unlock"
+    },
+    "bm_global_value_e3_s15a_unlock": {
+        "base_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #01 to unlock!",
+        "loc_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #01 to unlock!",
+        "string_id": "bm_global_value_e3_s15a_unlock"
+    },
+    "bm_global_value_e3_s15b_unlock": {
+        "base_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #02 to unlock!",
+        "loc_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #02 to unlock!",
+        "string_id": "bm_global_value_e3_s15b_unlock"
+    },
+    "bm_global_value_e3_s15c_unlock": {
+        "base_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #03 to unlock!",
+        "loc_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #03 to unlock!",
+        "string_id": "bm_global_value_e3_s15c_unlock"
+    },
+    "bm_global_value_e3_s15d_unlock": {
+        "base_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #04 to unlock!",
+        "loc_text": "Requires the PAYDAY 2: E3 2015 Secret Mask #04 to unlock!",
+        "string_id": "bm_global_value_e3_s15d_unlock"
+    },
+    "bm_global_value_ecp_unlock": {
+        "base_text": "Buy the h3h3 Character Pack to unlock",
+        "loc_text": "Buy the h3h3 Character Pack to unlock",
+        "string_id": "bm_global_value_ecp_unlock"
+    },
     "bm_global_value_gage_pack": {
         "base_text": "Gage Weapon Pack #01",
         "loc_text": "Gage Weapon Pack #01",
         "string_id": "bm_global_value_gage_pack"
     },
+    "bm_global_value_gage_pack_assault_unlock": {
+        "base_text": "Buy the Gage Assault Pack DLC to unlock!",
+        "loc_text": "Buy the Gage Assault Pack DLC to unlock!",
+        "string_id": "bm_global_value_gage_pack_assault_unlock"
+    },
+    "bm_global_value_gage_pack_historical_unlock": {
+        "base_text": "Buy the Gage Historical Pack DLC to unlock!",
+        "loc_text": "Buy the Gage Historical Pack DLC to unlock!",
+        "string_id": "bm_global_value_gage_pack_historical_unlock"
+    },
+    "bm_global_value_gage_pack_lmg_unlock": {
+        "base_text": "Buy the Gage Weapon Pack #02 DLC to unlock!",
+        "loc_text": "Buy the Gage Weapon Pack #02 DLC to unlock!",
+        "string_id": "bm_global_value_gage_pack_lmg_unlock"
+    },
+    "bm_global_value_gage_pack_shotgun_unlock": {
+        "base_text": "Buy the Gage Shotgun Pack DLC to unlock",
+        "loc_text": "Buy the Gage Shotgun Pack DLC to unlock",
+        "string_id": "bm_global_value_gage_pack_shotgun_unlock"
+    },
+    "bm_global_value_gage_pack_snp_unlock": {
+        "base_text": "Buy the Gage Sniper Pack DLC to unlock!",
+        "loc_text": "Buy the Gage Sniper Pack DLC to unlock!",
+        "string_id": "bm_global_value_gage_pack_snp_unlock"
+    },
+    "bm_global_value_gage_pack_unlock": {
+        "base_text": "Buy the Gage Weapon Pack #01 DLC to unlock!",
+        "loc_text": "Buy the Gage Weapon Pack #01 DLC to unlock!",
+        "string_id": "bm_global_value_gage_pack_unlock"
+    },
+    "bm_global_value_grv_unlock": {
+        "base_text": "Buy the Gage Russian Weapon Pack DLC to unlock",
+        "loc_text": "Buy the Gage Russian Weapon Pack DLC to unlock",
+        "string_id": "bm_global_value_grv_unlock"
+    },
+    "bm_global_value_hl_miami_unlock": {
+        "base_text": "Buy the Hotline Miami DLC to unlock!",
+        "loc_text": "Buy the Hotline Miami DLC to unlock!",
+        "string_id": "bm_global_value_hl_miami_unlock"
+    },
+    "bm_global_value_hlm2_deluxe_unlock": {
+        "base_text": "Own the Hotline Miami 2: Wrong Number - Digital Special Edition on Steam to unlock",
+        "loc_text": "Own the Hotline Miami 2: Wrong Number - Digital Special Edition on Steam to unlock",
+        "string_id": "bm_global_value_hlm2_deluxe_unlock"
+    },
+    "bm_global_value_hlm2_unlock": {
+        "base_text": "Own the Hotline Miami 2: Wrong Number game on Steam to unlock",
+        "loc_text": "Own the Hotline Miami 2: Wrong Number game on Steam to unlock",
+        "string_id": "bm_global_value_hlm2_unlock"
+    },
+    "bm_global_value_hope_diamond_unlock": {
+        "base_text": "Buy the Diamond Heist DLC to unlock!",
+        "loc_text": "Buy the Diamond Heist DLC to unlock!",
+        "string_id": "bm_global_value_hope_diamond_unlock"
+    },
+    "bm_global_value_humble_pack2_unlock": {
+        "base_text": "Requires the PAYDAY 2: Humble Mask Pack 2 to unlock!",
+        "loc_text": "Requires the PAYDAY 2: Humble Mask Pack 2 to unlock!",
+        "string_id": "bm_global_value_humble_pack2_unlock"
+    },
+    "bm_global_value_humble_pack3_unlock": {
+        "base_text": "Requires the PAYDAY 2: Humble Mask Pack 3 to unlock!",
+        "loc_text": "Requires the PAYDAY 2: Humble Mask Pack 3 to unlock!",
+        "string_id": "bm_global_value_humble_pack3_unlock"
+    },
+    "bm_global_value_humble_pack4_unlock": {
+        "base_text": "Requires the PAYDAY 2: Humble Mask Pack 4 to unlock!",
+        "loc_text": "Requires the PAYDAY 2: Humble Mask Pack 4 to unlock!",
+        "string_id": "bm_global_value_humble_pack4_unlock"
+    },
     "bm_global_value_infamous": {
         "base_text": "Infamous",
         "loc_text": "Infamous",
         "string_id": "bm_global_value_infamous"
+    },
+    "bm_global_value_kenaz_unlock": {
+        "base_text": "Buy the Golden Grin Casino DLC to unlock!",
+        "loc_text": "Buy the Golden Grin Casino DLC to unlock!",
+        "string_id": "bm_global_value_kenaz_unlock"
+    },
+    "bm_global_value_mad_unlock": {
+        "base_text": "Get the HARDCORE HENRY HEISTS DLC to unlock",
+        "loc_text": "Get the HARDCORE HENRY HEISTS DLC to unlock",
+        "string_id": "bm_global_value_mad_unlock"
+    },
+    "bm_global_value_max_unlock": {
+        "base_text": "Buy the Sangres DLC to unlock",
+        "loc_text": "Buy the Sangres DLC to unlock",
+        "string_id": "bm_global_value_max_unlock"
     },
     "bm_global_value_mwm": {
         "base_text": "Cartel Optics Mod Pack",
@@ -714,15 +949,50 @@
         "loc_text": "Normal",
         "string_id": "bm_global_value_normal"
     },
+    "bm_global_value_opera_unlock": {
+        "base_text": "Buy the The Sydney Character Pack DLC to unlock",
+        "loc_text": "Buy the The Sydney Character Pack DLC to unlock",
+        "string_id": "bm_global_value_opera_unlock"
+    },
+    "bm_global_value_overkill_pack_unlock": {
+        "base_text": "Buy the OVERKILL Pack DLC to unlock",
+        "loc_text": "Buy the OVERKILL Pack DLC to unlock",
+        "string_id": "bm_global_value_overkill_pack_unlock"
+    },
+    "bm_global_value_pal_unlock": {
+        "base_text": "Buy The Wolf Pack DLC to unlock",
+        "loc_text": "Buy The Wolf Pack DLC to unlock",
+        "string_id": "bm_global_value_pal_unlock"
+    },
     "bm_global_value_pd2_clan": {
         "base_text": "Community",
         "loc_text": "คอมมูนิตี้",
         "string_id": "bm_global_value_pd2_clan"
     },
+    "bm_global_value_pdcon_2015_unlock": {
+        "base_text": "Requires the PAYDAY 2: PAYDAYCON 2015 Secret Mask to unlock!",
+        "loc_text": "Requires the PAYDAY 2: PAYDAYCON 2015 Secret Mask to unlock!",
+        "string_id": "bm_global_value_pdcon_2015_unlock"
+    },
+    "bm_global_value_peta_unlock": {
+        "base_text": "Buy the Goat Simulator DLC to unlock",
+        "loc_text": "Buy the Goat Simulator DLC to unlock",
+        "string_id": "bm_global_value_peta_unlock"
+    },
     "bm_global_value_pgo_unlock": {
         "base_text": "Buy the Tailor Pack 3 DLC to unlock",
         "loc_text": "Buy the Tailor Pack 3 DLC to unlock",
         "string_id": "bm_global_value_pgo_unlock"
+    },
+    "bm_global_value_raidww2_clan_unlock": {
+        "base_text": "Join the RAID: World War II Steam Community to unlock",
+        "loc_text": "Join the RAID: World War II Steam Community to unlock",
+        "string_id": "bm_global_value_raidww2_clan_unlock"
+    },
+    "bm_global_value_sha_unlock": {
+        "base_text": "Buy the Shadow Warrior 2 DLC to unlock",
+        "loc_text": "Buy the Shadow Warrior 2 DLC to unlock",
+        "string_id": "bm_global_value_sha_unlock"
     },
     "bm_global_value_solus_clan_unlock": {
         "base_text": "Join the The Solus Project Official Community Group on Steam to unlock",
@@ -734,10 +1004,70 @@
         "loc_text": "John Wick Heists",
         "string_id": "bm_global_value_spa"
     },
+    "bm_global_value_spa_unlock": {
+        "base_text": "Buy the John Wick Heists DLC to unlock",
+        "loc_text": "Buy the John Wick Heists DLC to unlock",
+        "string_id": "bm_global_value_spa_unlock"
+    },
     "bm_global_value_speedrunners_unlock": {
         "base_text": "Own the Speedrunners Game on Steam to unlock!",
         "loc_text": "Own the Speedrunners Game on Steam to unlock!",
         "string_id": "bm_global_value_speedrunners_unlock"
+    },
+    "bm_global_value_sweettooth_unlock": {
+        "base_text": "Download the free Sweet Tooth DLC to unlock",
+        "loc_text": "Download the free Sweet Tooth DLC to unlock",
+        "string_id": "bm_global_value_sweettooth_unlock"
+    },
+    "bm_global_value_swm_unlock": {
+        "base_text": "Buy the Sydney Swim DLC to unlock",
+        "loc_text": "Buy the Sydney Swim DLC to unlock",
+        "string_id": "bm_global_value_swm_unlock"
+    },
+    "bm_global_value_tango_unlock": {
+        "base_text": "Buy the Gage Spec Ops Pack DLC to unlock",
+        "loc_text": "Buy the Gage Spec Ops Pack DLC to unlock",
+        "string_id": "bm_global_value_tango_unlock"
+    },
+    "bm_global_value_the_bomb_unlock": {
+        "base_text": "Buy The Bomb Heists DLC to unlock",
+        "loc_text": "Buy The Bomb Heists DLC to unlock",
+        "string_id": "bm_global_value_the_bomb_unlock"
+    },
+    "bm_global_value_turtles_unlock": {
+        "base_text": "Buy the Gage Ninja Pack DLC to unlock!",
+        "loc_text": "Buy the Gage Ninja Pack DLC to unlock!",
+        "string_id": "bm_global_value_turtles_unlock"
+    },
+    "bm_global_value_twitch_pack_unlock": {
+        "base_text": "Requires the PAYDAY 2: Humble Mask Pack to unlock!",
+        "loc_text": "Requires the PAYDAY 2: Humble Mask Pack to unlock!",
+        "string_id": "bm_global_value_twitch_pack_unlock"
+    },
+    "bm_global_value_wcc_unlock": {
+        "base_text": "Buy the Weapon Color Pack 2 DLC to unlock.",
+        "loc_text": "Buy the Weapon Color Pack 2 DLC to unlock.",
+        "string_id": "bm_global_value_wcc_unlock"
+    },
+    "bm_global_value_wcs_unlock": {
+        "base_text": "Buy the Weapon Color Pack #1 DLC to unlock.",
+        "loc_text": "Buy the Weapon Color Pack #1 DLC to unlock.",
+        "string_id": "bm_global_value_wcs_unlock"
+    },
+    "bm_global_value_west_unlock": {
+        "base_text": "Buy the Western Weapon Pack DLC to unlock!",
+        "loc_text": "Buy the Western Weapon Pack DLC to unlock!",
+        "string_id": "bm_global_value_west_unlock"
+    },
+    "bm_global_value_wild_unlock": {
+        "base_text": "Buy the Biker Character Pack DLC to unlock",
+        "loc_text": "Buy the Biker Character Pack DLC to unlock",
+        "string_id": "bm_global_value_wild_unlock"
+    },
+    "bm_global_value_xmas_soundtrack_unlock": {
+        "base_text": "Buy the Xmas Soundtrack DLC to unlock!",
+        "loc_text": "Buy the Xmas Soundtrack DLC to unlock!",
+        "string_id": "bm_global_value_xmas_soundtrack_unlock"
     },
     "bm_gloves_bananabike": {
         "base_text": "Banana Black",
@@ -1884,6 +2214,11 @@
         "loc_text": "Bayonet",
         "string_id": "bm_menu_bayonet"
     },
+    "bm_menu_bipod": {
+        "base_text": "Bipod",
+        "loc_text": "Bipod",
+        "string_id": "bm_menu_bipod"
+    },
     "bm_menu_blackmarket_title": {
         "base_text": "Blackmarket: $item;",
         "loc_text": "ตลาดมืด: $item;",
@@ -1919,6 +2254,11 @@
         "loc_text": "กระสุนทั้งหมด",
         "string_id": "bm_menu_bonus_total_ammo"
     },
+    "bm_menu_btn_buy_mask_slot": {
+        "base_text": "Unlock mask Slot",
+        "loc_text": "Unlock mask Slot",
+        "string_id": "bm_menu_btn_buy_mask_slot"
+    },
     "bm_menu_btn_buy_new_mask": {
         "base_text": "Buy new mask",
         "loc_text": "ซื้อหน้ากากใหม่",
@@ -1943,6 +2283,26 @@
         "base_text": "Purchase On Community Market",
         "loc_text": "ซื้อบนตลาดชุมชน",
         "string_id": "bm_menu_btn_buy_tradable"
+    },
+    "bm_menu_btn_buy_weapon_slot": {
+        "base_text": "Unlock weapon slot",
+        "loc_text": "Unlock weapon slot",
+        "string_id": "bm_menu_btn_buy_weapon_slot"
+    },
+    "bm_menu_btn_choose_color_a": {
+        "base_text": "Choose First Color",
+        "loc_text": "Choose First Color",
+        "string_id": "bm_menu_btn_choose_color_a"
+    },
+    "bm_menu_btn_choose_color_b": {
+        "base_text": "Choose Second Color",
+        "loc_text": "Choose Second Color",
+        "string_id": "bm_menu_btn_choose_color_b"
+    },
+    "bm_menu_btn_choose_mask_mod": {
+        "base_text": "Choose $type;",
+        "loc_text": "Choose $type;",
+        "string_id": "bm_menu_btn_choose_mask_mod"
     },
     "bm_menu_btn_clear_mod_preview": {
         "base_text": "Clear Preview",
@@ -1969,15 +2329,30 @@
         "loc_text": "ปรับแต่งแกดเจ็ต",
         "string_id": "bm_menu_btn_customize_gadget"
     },
+    "bm_menu_btn_customize_mask": {
+        "base_text": "Finalize mask",
+        "loc_text": "Finalize mask",
+        "string_id": "bm_menu_btn_customize_mask"
+    },
     "bm_menu_btn_customize_player_style": {
         "base_text": "Customize Outfit",
         "loc_text": "Customize Outfit",
         "string_id": "bm_menu_btn_customize_player_style"
     },
+    "bm_menu_btn_customize_weapon_color": {
+        "base_text": "Customize Color",
+        "loc_text": "Customize Color",
+        "string_id": "bm_menu_btn_customize_weapon_color"
+    },
     "bm_menu_btn_equip_armor": {
         "base_text": "Equip armor",
         "loc_text": "Equip armor",
         "string_id": "bm_menu_btn_equip_armor"
+    },
+    "bm_menu_btn_equip_armor_skin": {
+        "base_text": "Equip Skin",
+        "loc_text": "Equip Skin",
+        "string_id": "bm_menu_btn_equip_armor_skin"
     },
     "bm_menu_btn_equip_deployable": {
         "base_text": "Equip deployable",
@@ -2019,6 +2394,11 @@
         "loc_text": "ใช้เป็นอุปกรณ์สำรอง",
         "string_id": "bm_menu_btn_equip_secondary_deployable"
     },
+    "bm_menu_btn_equip_suit_variation": {
+        "base_text": "Equip Variation",
+        "loc_text": "Equip Variation",
+        "string_id": "bm_menu_btn_equip_suit_variation"
+    },
     "bm_menu_btn_equip_weapon": {
         "base_text": "Equip weapon",
         "loc_text": "Equip weapon",
@@ -2028,6 +2408,11 @@
         "base_text": "Apply skin",
         "loc_text": "ใช้งานสกิน",
         "string_id": "bm_menu_btn_equip_weapon_cosmetic"
+    },
+    "bm_menu_btn_hide_weapons": {
+        "base_text": "Hide Weapons",
+        "loc_text": "Hide Weapons",
+        "string_id": "bm_menu_btn_hide_weapons"
     },
     "bm_menu_btn_mod": {
         "base_text": "Modify weapon",
@@ -2144,10 +2529,25 @@
         "loc_text": "Sell On Community Market",
         "string_id": "bm_menu_btn_sell_tradable"
     },
+    "bm_menu_btn_sentry_ap_rounds": {
+        "base_text": "Set AP rounds",
+        "loc_text": "Set AP rounds",
+        "string_id": "bm_menu_btn_sentry_ap_rounds"
+    },
+    "bm_menu_btn_sentry_default_rounds": {
+        "base_text": "Set default rounds",
+        "loc_text": "Set default rounds",
+        "string_id": "bm_menu_btn_sentry_default_rounds"
+    },
     "bm_menu_btn_set_preferred_to_slot": {
         "base_text": "Set Preferred",
         "loc_text": "Set Preferred",
         "string_id": "bm_menu_btn_set_preferred_to_slot"
+    },
+    "bm_menu_btn_show_weapons": {
+        "base_text": "Show Weapons",
+        "loc_text": "Show Weapons",
+        "string_id": "bm_menu_btn_show_weapons"
     },
     "bm_menu_btn_skin": {
         "base_text": "Edit skin",
@@ -2204,6 +2604,16 @@
         "loc_text": "ซื้อ $weapon_category;",
         "string_id": "bm_menu_buy_weapon_title"
     },
+    "bm_menu_cannot_buy_mask_slot": {
+        "base_text": "Insufficient funds",
+        "loc_text": "Insufficient funds",
+        "string_id": "bm_menu_cannot_buy_mask_slot"
+    },
+    "bm_menu_cannot_buy_weapon_slot": {
+        "base_text": "Insufficient funds",
+        "loc_text": "Insufficient funds",
+        "string_id": "bm_menu_cannot_buy_weapon_slot"
+    },
     "bm_menu_cash": {
         "base_text": "Cash bonus",
         "loc_text": "โบนัสเงินสด",
@@ -2224,6 +2634,16 @@
         "loc_text": "Selected",
         "string_id": "bm_menu_chosen"
     },
+    "bm_menu_color_a": {
+        "base_text": "First Color",
+        "loc_text": "First Color",
+        "string_id": "bm_menu_color_a"
+    },
+    "bm_menu_color_b": {
+        "base_text": "Second Color",
+        "loc_text": "Second Color",
+        "string_id": "bm_menu_color_b"
+    },
     "bm_menu_colors": {
         "base_text": "Color",
         "loc_text": "Color",
@@ -2243,6 +2663,11 @@
         "base_text": "CREW CHARACTERS",
         "loc_text": "CREW CHARACTERS",
         "string_id": "bm_menu_crew_characters"
+    },
+    "bm_menu_crimespree_content_reward": {
+        "base_text": "Can be unlocked by playing the Crimespree gamemode",
+        "loc_text": "Can be unlocked by playing the Crimespree gamemode",
+        "string_id": "bm_menu_crimespree_content_reward"
     },
     "bm_menu_custom": {
         "base_text": "Custom",
@@ -2334,6 +2759,21 @@
         "loc_text": "อัตราการยิง",
         "string_id": "bm_menu_fire_rate"
     },
+    "bm_menu_flashlight_hue": {
+        "base_text": "Flashlight Hue",
+        "loc_text": "Flashlight Hue",
+        "string_id": "bm_menu_flashlight_hue"
+    },
+    "bm_menu_flashlight_sat": {
+        "base_text": "Flashlight Saturation",
+        "loc_text": "Flashlight Saturation",
+        "string_id": "bm_menu_flashlight_sat"
+    },
+    "bm_menu_flashlight_val": {
+        "base_text": "Flashlight Value",
+        "loc_text": "Flashlight Value",
+        "string_id": "bm_menu_flashlight_val"
+    },
     "bm_menu_foregrip": {
         "base_text": "Foregrip",
         "loc_text": "Foregrip",
@@ -2409,6 +2849,21 @@
         "loc_text": "Available",
         "string_id": "bm_menu_item_unlocked"
     },
+    "bm_menu_laser_hue": {
+        "base_text": "Laser Hue",
+        "loc_text": "Laser Hue",
+        "string_id": "bm_menu_laser_hue"
+    },
+    "bm_menu_laser_sat": {
+        "base_text": "Laser Saturation",
+        "loc_text": "Laser Saturation",
+        "string_id": "bm_menu_laser_sat"
+    },
+    "bm_menu_laser_val": {
+        "base_text": "Laser Value",
+        "loc_text": "Laser Value",
+        "string_id": "bm_menu_laser_val"
+    },
     "bm_menu_level_req": {
         "base_text": "Locked to reputation level $level;",
         "loc_text": "Locked to reputation level $level;",
@@ -2429,10 +2884,30 @@
         "loc_text": "Complete the \"Prepare for War\" Aldstone's Heritage Job to unlock.",
         "string_id": "bm_menu_locked_erma"
     },
+    "bm_menu_locked_mask_slot": {
+        "base_text": "Locked mask slot",
+        "loc_text": "Locked mask slot",
+        "string_id": "bm_menu_locked_mask_slot"
+    },
+    "bm_menu_locked_mask_slot_desc": {
+        "base_text": "This mask slot needs to be unlocked before you can place any masks here!",
+        "loc_text": "This mask slot needs to be unlocked before you can place any masks here!",
+        "string_id": "bm_menu_locked_mask_slot_desc"
+    },
     "bm_menu_locked_shock": {
         "base_text": "Complete the Heavy Metal Achievement!",
         "loc_text": "Complete the Heavy Metal Achievement!",
         "string_id": "bm_menu_locked_shock"
+    },
+    "bm_menu_locked_weapon_slot": {
+        "base_text": "Locked weapon slot",
+        "loc_text": "Locked weapon slot",
+        "string_id": "bm_menu_locked_weapon_slot"
+    },
+    "bm_menu_locked_weapon_slot_desc": {
+        "base_text": "This weapon slot needs to be unlocked before you can place any weapons here!",
+        "loc_text": "This weapon slot needs to be unlocked before you can place any weapons here!",
+        "string_id": "bm_menu_locked_weapon_slot_desc"
     },
     "bm_menu_lower_reciever": {
         "base_text": "Lower Receiver",
@@ -2443,6 +2918,11 @@
         "base_text": "Magazine",
         "loc_text": "แม๊กกาซีน",
         "string_id": "bm_menu_magazine"
+    },
+    "bm_menu_mask_colors": {
+        "base_text": "Colors",
+        "loc_text": "Colors",
+        "string_id": "bm_menu_mask_colors"
     },
     "bm_menu_masks": {
         "base_text": "Mask",
@@ -2458,6 +2938,11 @@
         "base_text": "Melee",
         "loc_text": "อาวุธระยะประชิด",
         "string_id": "bm_menu_melee_weapons"
+    },
+    "bm_menu_milestone_reward_unlock": {
+        "base_text": "Complete $NUM; achievements to unlock.",
+        "loc_text": "Complete $NUM; achievements to unlock.",
+        "string_id": "bm_menu_milestone_reward_unlock"
     },
     "bm_menu_mod_preview": {
         "base_text": "Mod Preview",
@@ -2483,6 +2968,11 @@
         "base_text": "No Modification",
         "loc_text": "No Modification",
         "string_id": "bm_menu_no_mod"
+    },
+    "bm_menu_not_enough_cash": {
+        "base_text": "Not enough cash",
+        "loc_text": "Not enough cash",
+        "string_id": "bm_menu_not_enough_cash"
     },
     "bm_menu_outfits": {
         "base_text": "Armor & Outfits",
@@ -2513,6 +3003,11 @@
         "base_text": "Primary",
         "loc_text": "หลัก",
         "string_id": "bm_menu_primaries"
+    },
+    "bm_menu_purchase_steam": {
+        "base_text": "This armor can be found in a ##$safe;##, or it can be purchased on the Steam Community Market.",
+        "loc_text": "This armor can be found in a ##$safe;##, or it can be purchased on the Steam Community Market.",
+        "string_id": "bm_menu_purchase_steam"
     },
     "bm_menu_quality_fair": {
         "base_text": "Well-Used",
@@ -2729,6 +3224,11 @@
         "loc_text": "รอง",
         "string_id": "bm_menu_secondaries"
     },
+    "bm_menu_selected": {
+        "base_text": "Selected",
+        "loc_text": "Selected",
+        "string_id": "bm_menu_selected"
+    },
     "bm_menu_sight": {
         "base_text": "Sight",
         "loc_text": "ศูนย์เล็ง",
@@ -2754,6 +3254,11 @@
         "loc_text": "Requires The Stoic perk deck equipped",
         "string_id": "bm_menu_skill_locked_damage_control"
     },
+    "bm_menu_skill_locked_level_7": {
+        "base_text": "Requires the Iron Man skill",
+        "loc_text": "Requires the Iron Man skill",
+        "string_id": "bm_menu_skill_locked_level_7"
+    },
     "bm_menu_skill_locked_pocket_ecm_jammer": {
         "base_text": "Requires the Hacker perk deck equipped",
         "loc_text": "Requires the Hacker perk deck equipped",
@@ -2778,6 +3283,11 @@
         "base_text": "Requires the Tag Team Perk Deck Equipped",
         "loc_text": "Requires the Tag Team Perk Deck Equipped",
         "string_id": "bm_menu_skill_locked_tag_team"
+    },
+    "bm_menu_skill_locked_usp": {
+        "base_text": "Join the PAYDAY 2 Official Community Group on Steam to unlock!",
+        "loc_text": "Join the PAYDAY 2 Official Community Group on Steam to unlock!",
+        "string_id": "bm_menu_skill_locked_usp"
     },
     "bm_menu_skirmish_content_reward": {
         "base_text": "Can be unlocked by playing the Holdout gamemode",
@@ -2919,10 +3429,25 @@
         "loc_text": "Upper Receiver",
         "string_id": "bm_menu_upper_reciever"
     },
+    "bm_menu_vertical_grip": {
+        "base_text": "Vertical Grip",
+        "loc_text": "Vertical Grip",
+        "string_id": "bm_menu_vertical_grip"
+    },
     "bm_menu_wcc_not_owned": {
         "base_text": "NOT OWNED$NL;To use this weapon skin you must find it in a $safe;, or purchase it from the community marketplace.",
         "loc_text": "ไม่ได้เป็นเจ้าของ$NL;เพื่อใช้งานสกินนี้คุณต้องหาในตู้เซฟ $safe; หรือซื้อสกินจากตลาดศูนย์กลางชุมชน",
         "string_id": "bm_menu_wcc_not_owned"
+    },
+    "bm_menu_weapon_color_index": {
+        "base_text": "Paint Scheme: ##$variation;##",
+        "loc_text": "Paint Scheme: ##$variation;##",
+        "string_id": "bm_menu_weapon_color_index"
+    },
+    "bm_menu_weapon_color_quality": {
+        "base_text": "Wear: ##$quality;##",
+        "loc_text": "Wear: ##$quality;##",
+        "string_id": "bm_menu_weapon_color_quality"
     },
     "bm_menu_weapon_color_skins": {
         "base_text": "Weapon Color",
@@ -3023,6 +3548,11 @@
         "base_text": "Almir's Beard",
         "loc_text": "Almir's Beard",
         "string_id": "bm_msk_almirs_beard"
+    },
+    "bm_msk_almirs_beard_achievement": {
+        "base_text": "Complete the RIDERS ON THE SNOWSTORM achievement to unlock",
+        "loc_text": "Complete the RIDERS ON THE SNOWSTORM achievement to unlock",
+        "string_id": "bm_msk_almirs_beard_achievement"
     },
     "bm_msk_almirs_beard_desc": {
         "base_text": "Some say that real men don't shave, but the truth is that real men can't shave. Ordinary razors simply bounce off the dense, magnificent foliage that is a truly full Almir beard.",
@@ -3578,6 +4108,11 @@
         "base_text": "Whether you're on the bus or in the boardroom, when Alesso is filling your ears with heavenly tunes, it's important to show the world a suitable face. Presenting Cantus - the Angel of Music and Song. Let your spirit soar!",
         "loc_text": "Whether you're on the bus or in the boardroom, when Alesso is filling your ears with heavenly tunes, it's important to show the world a suitable face. Presenting Cantus - the Angel of Music and Song. Let your spirit soar!",
         "string_id": "bm_msk_cantus_desc"
+    },
+    "bm_msk_card_joker_desc": {
+        "base_text": "A classic made into a mask. The standard 52-card deck is the most played deck of playing cards used today, and regardless if you are a rookie or professional player, you will most likely recognize this face. A proper poker face-mask.",
+        "loc_text": "A classic made into a mask. The standard 52-card deck is the most played deck of playing cards used today, and regardless if you are a rookie or professional player, you will most likely recognize this face. A proper poker face-mask.",
+        "string_id": "bm_msk_card_joker_desc"
     },
     "bm_msk_card_king": {
         "base_text": "King of Cards",
@@ -4749,6 +5284,11 @@
         "loc_text": "The mask of Hoxton.",
         "string_id": "bm_msk_hoxton_desc"
     },
+    "bm_msk_hoxton_glow_desc": {
+        "base_text": "The Mega Hoxton mask is an evolved version of the original mask. It symbolises transcendence and catharsis.$NL;$NL;Thank you for your support.$NL;$NL;OVERKILL salutes you!",
+        "loc_text": "The Mega Hoxton mask is an evolved version of the original mask. It symbolises transcendence and catharsis.$NL;$NL;Thank you for your support.$NL;$NL;OVERKILL salutes you!",
+        "string_id": "bm_msk_hoxton_glow_desc"
+    },
     "bm_msk_infamy_hood": {
         "base_text": "Kamul",
         "loc_text": "Kamul",
@@ -4959,6 +5499,11 @@
         "loc_text": "Krampus",
         "string_id": "bm_msk_krampus"
     },
+    "bm_msk_krampus_achievement": {
+        "base_text": "the CANCELLING SANTA'S CHRISTMAS achievement to unlock",
+        "loc_text": "the CANCELLING SANTA'S CHRISTMAS achievement to unlock",
+        "string_id": "bm_msk_krampus_achievement"
+    },
     "bm_msk_krampus_desc": {
         "base_text": "Been a bad boy or girl this year? Then you can expect a visit from Krampus. Or a phone-call from Bain.",
         "loc_text": "Been a bad boy or girl this year? Then you can expect a visit from Krampus. Or a phone-call from Bain.",
@@ -5013,6 +5558,11 @@
         "base_text": "Whether you're a murderous desperado or a lone, brooding ranger, sometimes you need to hide your identity. What does that better than a slender black eye-mask, covering a third of your face?",
         "loc_text": "Whether you're a murderous desperado or a lone, brooding ranger, sometimes you need to hide your identity. What does that better than a slender black eye-mask, covering a third of your face?",
         "string_id": "bm_msk_lone_desc"
+    },
+    "bm_msk_lycanwulf_desc": {
+        "base_text": "\"Lycanwulf, Lycanwulf!\" they yelled, the frightened villagers, as they laid eyes upon this abomination known as the Lycanwulf. The petty humans were now prisoners of the beast, in a prison without walls, ceilings or a key, where the only escape was death.",
+        "loc_text": "\"Lycanwulf, Lycanwulf!\" they yelled, the frightened villagers, as they laid eyes upon this abomination known as the Lycanwulf. The petty humans were now prisoners of the beast, in a prison without walls, ceilings or a key, where the only escape was death.",
+        "string_id": "bm_msk_lycanwulf_desc"
     },
     "bm_msk_mad_mask": {
         "base_text": "Zero 68",
@@ -5123,6 +5673,11 @@
         "base_text": "A hideous visage, snakes for hair, a petrifying gaze and a hate for men. Her gazing eyes still sends chills down spines... But this is just a mask, right?",
         "loc_text": "A hideous visage, snakes for hair, a petrifying gaze and a hate for men. Her gazing eyes still sends chills down spines... But this is just a mask, right?",
         "string_id": "bm_msk_medusa_desc"
+    },
+    "bm_msk_mega_mark_desc": {
+        "base_text": "The mask is modeled after a legendary bear that was known to terrorize humans and other animals in an Eastern land far, far away. The story is wildly popular in the criminal underworld, and getting compared to the fierce beast is considered a great honor, reserved only to the greatest and most ruthless criminals.$NL;$NL;Thank you for your support.$NL;$NL;OVERKILL salutes you!",
+        "loc_text": "The mask is modeled after a legendary bear that was known to terrorize humans and other animals in an Eastern land far, far away. The story is wildly popular in the criminal underworld, and getting compared to the fierce beast is considered a great honor, reserved only to the greatest and most ruthless criminals.$NL;$NL;Thank you for your support.$NL;$NL;OVERKILL salutes you!",
+        "string_id": "bm_msk_mega_mark_desc"
     },
     "bm_msk_mega_sydney": {
         "base_text": "Mega Sydney",
@@ -5238,6 +5793,11 @@
         "base_text": "Mrs. Claus",
         "loc_text": "Mrs. Claus",
         "string_id": "bm_msk_mrs_claus"
+    },
+    "bm_msk_mrs_claus_achievement": {
+        "base_text": "Complete the VLAD'S LITTLE HELPERS achievement to unlock",
+        "loc_text": "Complete the VLAD'S LITTLE HELPERS achievement to unlock",
+        "string_id": "bm_msk_mrs_claus_achievement"
     },
     "bm_msk_mrs_claus_desc": {
         "base_text": "When Santa is flying through December skies, someone has to stay home and keep the elves in line. No-one does that better than the whip-cracking, cigar-smoking kommandant of the Claus household.",
@@ -5743,6 +6303,11 @@
         "base_text": "Mechanical Santa",
         "loc_text": "Mechanical Santa",
         "string_id": "bm_msk_robo_santa"
+    },
+    "bm_msk_robo_santa_achievement": {
+        "base_text": "Complete the CLAUSTROPHOBIA achievement to unlock",
+        "loc_text": "Complete the CLAUSTROPHOBIA achievement to unlock",
+        "string_id": "bm_msk_robo_santa_achievement"
     },
     "bm_msk_robo_santa_desc": {
         "base_text": "This jolly, festive automaton has the heart of Santa. He keeps it in a box, under a pile of elf corpses, and surrounded by severed reindeer heads.",
@@ -6498,6 +7063,11 @@
         "base_text": "The pout is a facial expression that humans can make.$NL;$NL;It is a protrusion of the lips, especially as an expression of sullen discontent.$NL;$NL;Who would not be discontent, having had their horns sawed off like that.",
         "loc_text": "The pout is a facial expression that humans can make.$NL;$NL;It is a protrusion of the lips, especially as an expression of sullen discontent.$NL;$NL;Who would not be discontent, having had their horns sawed off like that.",
         "string_id": "bm_msk_stonekisses_desc"
+    },
+    "bm_msk_strinch_achievement": {
+        "base_text": "Complete the STEALING CHRISTMAS achievement to unlock",
+        "loc_text": "Complete the STEALING CHRISTMAS achievement to unlock",
+        "string_id": "bm_msk_strinch_achievement"
     },
     "bm_msk_surprise": {
         "base_text": "War Face",
@@ -7649,6 +8219,56 @@
         "loc_text": "A traditional dinner suit for formal occasions. It has a distinctive black and white design, including the signature black tie.",
         "string_id": "bm_suit_tux_desc"
     },
+    "bm_suit_var_clown_black_and_white_desc": {
+        "base_text": "Left and right, death and life, pleasure and the endless mental mutilation that comes with walking around with a split personality. Hey, at least you always have someone to argue with...",
+        "loc_text": "Left and right, death and life, pleasure and the endless mental mutilation that comes with walking around with a split personality. Hey, at least you always have someone to argue with...",
+        "string_id": "bm_suit_var_clown_black_and_white_desc"
+    },
+    "bm_suit_var_clown_black_desc": {
+        "base_text": "Once upon a time, there was a Little Old Wolf, who was part of a merry band of thieves. The Wolf was a rather angry, unstable fellow, given to bouts of violence, posing as little old ladies and had a craving for gold. One day, an idea popped into the Wolf's head; he stole a black velvet suit and used it to try and infiltrate a local university lecture, thinking there would be lots of rich folks he could separate from their wealth. But alas, on the way in, he ran afoul of the gardener, who raised the alarm, forcing the Wolf to flee back to his cave.",
+        "loc_text": "Once upon a time, there was a Little Old Wolf, who was part of a merry band of thieves. The Wolf was a rather angry, unstable fellow, given to bouts of violence, posing as little old ladies and had a craving for gold. One day, an idea popped into the Wolf's head; he stole a black velvet suit and used it to try and infiltrate a local university lecture, thinking there would be lots of rich folks he could separate from their wealth. But alas, on the way in, he ran afoul of the gardener, who raised the alarm, forcing the Wolf to flee back to his cave.",
+        "string_id": "bm_suit_var_clown_black_desc"
+    },
+    "bm_suit_var_clown_default_desc": {
+        "base_text": "He wandered into town from nowhere. An unknown psychopath. No one knows his name or origin. Rumors say he was the first person ever to kill a gangster with a pencil. If ever you get the chance to speak to him, you'll believe that rumor. And his clothes... his clothes... those of a madman, or a theatrical genius? You be the judge.",
+        "loc_text": "He wandered into town from nowhere. An unknown psychopath. No one knows his name or origin. Rumors say he was the first person ever to kill a gangster with a pencil. If ever you get the chance to speak to him, you'll believe that rumor. And his clothes... his clothes... those of a madman, or a theatrical genius? You be the judge.",
+        "string_id": "bm_suit_var_clown_default_desc"
+    },
+    "bm_suit_var_clown_red_desc": {
+        "base_text": "The heister put on the suit that so many famous crooks before him had worn. Pretty big shoes to fill, even for a clown, with a mask that is as personal as it gets. But life had pummeled him into submission so many times, he was ready for it. So who was this heister? Who was crazy enough to don a suit so colorful it would be an instant bullseye for any cops taking aim?  ",
+        "loc_text": "The heister put on the suit that so many famous crooks before him had worn. Pretty big shoes to fill, even for a clown, with a mask that is as personal as it gets. But life had pummeled him into submission so many times, he was ready for it. So who was this heister? Who was crazy enough to don a suit so colorful it would be an instant bullseye for any cops taking aim?  ",
+        "string_id": "bm_suit_var_clown_red_desc"
+    },
+    "bm_suit_var_clown_white_desc": {
+        "base_text": "Duke once had a university professor who always wore white suits with colorful vests and shirts. He ended up being a mentor of sorts, as it was revealed that the professor was involved in a large-scale smuggling ring that bought rare artwork and gave it to the university museum. When the story broke, the scandal was huge, and the university almost went under. The professor, his well-intended but highly-illegal plans ruined, disappeared and was never heard from again. Duke sometimes wears this suit, similar to his, to honor his memory. ",
+        "loc_text": "Duke once had a university professor who always wore white suits with colorful vests and shirts. He ended up being a mentor of sorts, as it was revealed that the professor was involved in a large-scale smuggling ring that bought rare artwork and gave it to the university museum. When the story broke, the scandal was huge, and the university almost went under. The professor, his well-intended but highly-illegal plans ruined, disappeared and was never heard from again. Duke sometimes wears this suit, similar to his, to honor his memory. ",
+        "string_id": "bm_suit_var_clown_white_desc"
+    },
+    "bm_suit_var_desperado_blue_desc": {
+        "base_text": "Dallas walked up to the stage and grabbed a guitar from the hands of its owner. The guitarist began to protest, but the I'll-fucking-kill-you stare coming from the heister was enough to shut him up. With a firm grip on the fretboard, Dallas went for the bar, where a leather-vested thug was harassing a young girl. Before anyone could react, Dallas smashed the guitar over the thug's head, wood splinters creating deep gashes into his face as he fell down screaming. Dallas turned to leave, grabbing an errant bottle of liquor as he did, leaving the bleeding thug unconscious on the floor. Who said chivalry was dead?",
+        "loc_text": "Dallas walked up to the stage and grabbed a guitar from the hands of its owner. The guitarist began to protest, but the I'll-fucking-kill-you stare coming from the heister was enough to shut him up. With a firm grip on the fretboard, Dallas went for the bar, where a leather-vested thug was harassing a young girl. Before anyone could react, Dallas smashed the guitar over the thug's head, wood splinters creating deep gashes into his face as he fell down screaming. Dallas turned to leave, grabbing an errant bottle of liquor as he did, leaving the bleeding thug unconscious on the floor. Who said chivalry was dead?",
+        "string_id": "bm_suit_var_desperado_blue_desc"
+    },
+    "bm_suit_var_desperado_default_desc": {
+        "base_text": "Rust stood face-to-face with his aggressor. Both men stared down the barrel of their opponent's gun. Time stood still as the sun beat down on their brows. Rust began to carefully shift his trigger-finger, feeling sweat in the palm of his gun hand. Suddenly, a crow landed between the gunmen. It looked them both over, as if passing judgment on who would live through the next few minutes. It cawed at Rust, tilting its head. He pulled the trigger, ending his opponent.",
+        "loc_text": "Rust stood face-to-face with his aggressor. Both men stared down the barrel of their opponent's gun. Time stood still as the sun beat down on their brows. Rust began to carefully shift his trigger-finger, feeling sweat in the palm of his gun hand. Suddenly, a crow landed between the gunmen. It looked them both over, as if passing judgment on who would live through the next few minutes. It cawed at Rust, tilting its head. He pulled the trigger, ending his opponent.",
+        "string_id": "bm_suit_var_desperado_default_desc"
+    },
+    "bm_suit_var_desperado_green_desc": {
+        "base_text": "When Sangres was a child, a traveling band of mariachi came to his town. Fascinated by the trumpet player, he summoned courage enough to approach and talk to him, asking how he one day could become a musician. The mariachi said: \"You need to practice, little man. Every day, all day. It must become your life, your soul, your lover.\" Well, Sangres never became a mariachi, but he did take the musician's advice to heart, through his various... careers.",
+        "loc_text": "When Sangres was a child, a traveling band of mariachi came to his town. Fascinated by the trumpet player, he summoned courage enough to approach and talk to him, asking how he one day could become a musician. The mariachi said: \"You need to practice, little man. Every day, all day. It must become your life, your soul, your lover.\" Well, Sangres never became a mariachi, but he did take the musician's advice to heart, through his various... careers.",
+        "string_id": "bm_suit_var_desperado_green_desc"
+    },
+    "bm_suit_var_desperado_red_desc": {
+        "base_text": "The gunslinger dropped to the ground, his last breath blowing up sand from the cracked, dry ground. Nearby, a scorpion watched him expire with indifference. As the buzzards began to circle above, a shadow fell over the body, an unknown figure bending down over it. A weathered, leathery hand reached down and picked up the gunslinger' pistol. Cold, blue eyes inspected the worn gunmetal steel. Satisfied, the figure which the eyes belonged to got up, and walked away, disappearing over the horizon.",
+        "loc_text": "The gunslinger dropped to the ground, his last breath blowing up sand from the cracked, dry ground. Nearby, a scorpion watched him expire with indifference. As the buzzards began to circle above, a shadow fell over the body, an unknown figure bending down over it. A weathered, leathery hand reached down and picked up the gunslinger' pistol. Cold, blue eyes inspected the worn gunmetal steel. Satisfied, the figure which the eyes belonged to got up, and walked away, disappearing over the horizon.",
+        "string_id": "bm_suit_var_desperado_red_desc"
+    },
+    "bm_suit_var_desperado_white_desc": {
+        "base_text": "A lone figure on his horse rode into town, a holster at his side, and a guitar slung over his shoulder. The frayed hemlines of his white suit betrayed a long journey through over dusty roads. Next to his horse, in-step, walked a coyote, its long legs languidly pawing at the earth as it moved. The figure stopped outside a run-down bar and pulled out his gun, aiming into the building through the open front door. He fired. A scream was heard, prompting the coyote to rush inside. A few seconds later, the coyote came back, dragging the corpse of a thuggish-looking fellow. The figure climbed down, threw the lifeless body over the back of the horse and made off towards the sheriff's office...",
+        "loc_text": "A lone figure on his horse rode into town, a holster at his side, and a guitar slung over his shoulder. The frayed hemlines of his white suit betrayed a long journey through over dusty roads. Next to his horse, in-step, walked a coyote, its long legs languidly pawing at the earth as it moved. The figure stopped outside a run-down bar and pulled out his gun, aiming into the building through the open front door. He fired. A scream was heard, prompting the coyote to rush inside. A few seconds later, the coyote came back, dragging the corpse of a thuggish-looking fellow. The figure climbed down, threw the lifeless body over the back of the horse and made off towards the sheriff's office...",
+        "string_id": "bm_suit_var_desperado_white_desc"
+    },
     "bm_suit_var_gentleman_default": {
         "base_text": "Moody Longcoat",
         "loc_text": "Moody Longcoat",
@@ -7664,15 +8284,30 @@
         "loc_text": "Pious Black",
         "string_id": "bm_suit_var_gentleman_father"
     },
+    "bm_suit_var_gentleman_father_desc": {
+        "base_text": "You don't need to be religious, or even spiritual, to appreciate the muted tones in this ensemble.",
+        "loc_text": "You don't need to be religious, or even spiritual, to appreciate the muted tones in this ensemble.",
+        "string_id": "bm_suit_var_gentleman_father_desc"
+    },
     "bm_suit_var_gentleman_marine": {
         "base_text": "The Blue Swagger",
         "loc_text": "The Blue Swagger",
         "string_id": "bm_suit_var_gentleman_marine"
     },
+    "bm_suit_var_gentleman_marine_desc": {
+        "base_text": "An elegantly moody getup for when a statesmanlike manner is needed during a heist.",
+        "loc_text": "An elegantly moody getup for when a statesmanlike manner is needed during a heist.",
+        "string_id": "bm_suit_var_gentleman_marine_desc"
+    },
     "bm_suit_var_gentleman_veteran": {
         "base_text": "Hunter's Elegance",
         "loc_text": "Hunter's Elegance",
         "string_id": "bm_suit_var_gentleman_veteran"
+    },
+    "bm_suit_var_gentleman_veteran_desc": {
+        "base_text": "At home in the countryside, in the trenches, or just sitting in the back of the getaway van.",
+        "loc_text": "At home in the countryside, in the trenches, or just sitting in the back of the getaway van.",
+        "string_id": "bm_suit_var_gentleman_veteran_desc"
     },
     "bm_suit_var_gunslinger_casual": {
         "base_text": "Sandstorm",
@@ -7699,20 +8334,115 @@
         "loc_text": "The Ostentatious",
         "string_id": "bm_suit_var_gunslinger_piro"
     },
+    "bm_suit_var_gunslinger_piro_desc": {
+        "base_text": "For the gunman who wants to make a proper fashion statement when he's standing 20 feet away from his adversary at high noon. (Or just hanging around waiting for the drill to finish.) ",
+        "loc_text": "For the gunman who wants to make a proper fashion statement when he's standing 20 feet away from his adversary at high noon. (Or just hanging around waiting for the drill to finish.) ",
+        "string_id": "bm_suit_var_gunslinger_piro_desc"
+    },
     "bm_suit_var_gunslinger_red": {
         "base_text": "The Red Gunman",
         "loc_text": "The Red Gunman",
         "string_id": "bm_suit_var_gunslinger_red"
+    },
+    "bm_suit_var_gunslinger_red_desc": {
+        "base_text": "No matter how many bullets you put in the guy who looked at you sideways, his crimson lifeblood will not be able to match the grandiose color of this ensemble.",
+        "loc_text": "No matter how many bullets you put in the guy who looked at you sideways, his crimson lifeblood will not be able to match the grandiose color of this ensemble.",
+        "string_id": "bm_suit_var_gunslinger_red_desc"
+    },
+    "bm_suit_var_hiphop_beige_desc": {
+        "base_text": "Sirens blared as the Urban Kung Fu Master made his way across the rooftops. Time was running out. His heartbeat pulsed in his ears with a steady groove, every footfall of his white sneakers adding to the rhythm. Up ahead, a large gap between the buildings. On the other side, hanging from a chimney, was the prize he had been sent to retrieve. He braced for the jump. Time to go airborne, crane-style...",
+        "loc_text": "Sirens blared as the Urban Kung Fu Master made his way across the rooftops. Time was running out. His heartbeat pulsed in his ears with a steady groove, every footfall of his white sneakers adding to the rhythm. Up ahead, a large gap between the buildings. On the other side, hanging from a chimney, was the prize he had been sent to retrieve. He braced for the jump. Time to go airborne, crane-style...",
+        "string_id": "bm_suit_var_hiphop_beige_desc"
+    },
+    "bm_suit_var_hiphop_default_desc": {
+        "base_text": "Three gangsta types surrounded Jiro in the alley, spouting racial slurs at him as they demanded his wallet. If they only knew, the amount of hurt they were bringing on themselves, and their entire gang. Jiro showed patience. He was needed elsewhere and didn't have time to delay by kicking the asses of three overconfident morons. Alas, there was no reasoning with them. A few minutes later, Jiro emerged from the alley alone. From the alley could be heard the dying whimpers of the wannabe gangstas, their blood mingling with the asphalt as it trickled down into the storm drains...",
+        "loc_text": "Three gangsta types surrounded Jiro in the alley, spouting racial slurs at him as they demanded his wallet. If they only knew, the amount of hurt they were bringing on themselves, and their entire gang. Jiro showed patience. He was needed elsewhere and didn't have time to delay by kicking the asses of three overconfident morons. Alas, there was no reasoning with them. A few minutes later, Jiro emerged from the alley alone. From the alley could be heard the dying whimpers of the wannabe gangstas, their blood mingling with the asphalt as it trickled down into the storm drains...",
+        "string_id": "bm_suit_var_hiphop_default_desc"
+    },
+    "bm_suit_var_hiphop_green_desc": {
+        "base_text": "Never had the world seen such a war. Two sides, poised to destroy the other with aural weapons of mass destruction. Metal vs Hip hop. The ultimate showdown. Who would prevail? The group wearing zebra tights or the one with their pants on backwards?",
+        "loc_text": "Never had the world seen such a war. Two sides, poised to destroy the other with aural weapons of mass destruction. Metal vs Hip hop. The ultimate showdown. Who would prevail? The group wearing zebra tights or the one with their pants on backwards?",
+        "string_id": "bm_suit_var_hiphop_green_desc"
+    },
+    "bm_suit_var_hiphop_red_desc": {
+        "base_text": "Marvin hadn't eaten for days. Fucking Snoopfather gang had raided his house, taken the last of his cash (which had been cleverly hidden in a fake head of lettuce, of course). He thought about the grumbling void in his stomach as he made his way into Snoopfather territory, bent on revenge...",
+        "loc_text": "Marvin hadn't eaten for days. Fucking Snoopfather gang had raided his house, taken the last of his cash (which had been cleverly hidden in a fake head of lettuce, of course). He thought about the grumbling void in his stomach as he made his way into Snoopfather territory, bent on revenge...",
+        "string_id": "bm_suit_var_hiphop_red_desc"
+    },
+    "bm_suit_var_hiphop_white_desc": {
+        "base_text": "Garth had the good sense to avoid wearing pants like these while riding his skateboard. How bad would it look if, while running an errand for the Payday gang, his pants got caught in the wheels of his board, making him fall and crash into oncoming traffic or something!",
+        "loc_text": "Garth had the good sense to avoid wearing pants like these while riding his skateboard. How bad would it look if, while running an errand for the Payday gang, his pants got caught in the wheels of his board, making him fall and crash into oncoming traffic or something!",
+        "string_id": "bm_suit_var_hiphop_white_desc"
+    },
+    "bm_suit_var_hippie_abstraction_desc": {
+        "base_text": "In the late 1960s, a man was born. This man would have a life full of chaos, betrayal and trouble until he met the one who would become his mentor. The mentor taught him things, told him how the world really worked. He spoke of a book, known only to a few, that would reveal secrets untold. The man took this information and reformed his life. Eventually becoming one of the greatest criminal masterminds of all time, he would get back at all those who had wronged him, and undertake the greatest heist the public would never know of...",
+        "loc_text": "In the late 1960s, a man was born. This man would have a life full of chaos, betrayal and trouble until he met the one who would become his mentor. The mentor taught him things, told him how the world really worked. He spoke of a book, known only to a few, that would reveal secrets untold. The man took this information and reformed his life. Eventually becoming one of the greatest criminal masterminds of all time, he would get back at all those who had wronged him, and undertake the greatest heist the public would never know of...",
+        "string_id": "bm_suit_var_hippie_abstraction_desc"
+    },
+    "bm_suit_var_hippie_default_desc": {
+        "base_text": "Chains floored the accelerator on the 1968 cabriolet, taking his pride and joy up to 88mph as it kicked up dust, barreling down the highway through Death Valley. He hoped there was enough gas in the tank. In the back, Hoxton snored loudly, an empty bottle of single malt rolling around on the floor by his feet. In the rearview, blue flashing lights in the distance, getting closer. Nowhere to run. Chains slowed the car, keeping it just under 55. The lights came closer. A siren could be heard above the roar of the engine too, as the State Patrol Cruiser came up behind them. To Chains' surprise, the cop car simply passed by, apparently looking for other quarry.",
+        "loc_text": "Chains floored the accelerator on the 1968 cabriolet, taking his pride and joy up to 88mph as it kicked up dust, barreling down the highway through Death Valley. He hoped there was enough gas in the tank. In the back, Hoxton snored loudly, an empty bottle of single malt rolling around on the floor by his feet. In the rearview, blue flashing lights in the distance, getting closer. Nowhere to run. Chains slowed the car, keeping it just under 55. The lights came closer. A siren could be heard above the roar of the engine too, as the State Patrol Cruiser came up behind them. To Chains' surprise, the cop car simply passed by, apparently looking for other quarry.",
+        "string_id": "bm_suit_var_hippie_default_desc"
+    },
+    "bm_suit_var_hippie_flowerpower_desc": {
+        "base_text": "Duke errantly flipped through a pile of old family photos. Man, the 60s and 70s were not a flattering time for his family, fashion-wise! His dad had a getup just like this. Maybe it would look better on a heister than it did on him?",
+        "loc_text": "Duke errantly flipped through a pile of old family photos. Man, the 60s and 70s were not a flattering time for his family, fashion-wise! His dad had a getup just like this. Maybe it would look better on a heister than it did on him?",
+        "string_id": "bm_suit_var_hippie_flowerpower_desc"
+    },
+    "bm_suit_var_hippie_native_desc": {
+        "base_text": "The crowd screamed at the devils on stage. Four howling demons of grinding noise and feedback loops. An ecstasy of light and sound. So entranced were they, that no one noticed the roadie loading up his car with the band's backup equipment, and driving off into the night to find the nearest fence...",
+        "loc_text": "The crowd screamed at the devils on stage. Four howling demons of grinding noise and feedback loops. An ecstasy of light and sound. So entranced were they, that no one noticed the roadie loading up his car with the band's backup equipment, and driving off into the night to find the nearest fence...",
+        "string_id": "bm_suit_var_hippie_native_desc"
+    },
+    "bm_suit_var_hippie_tribe_desc": {
+        "base_text": "The den was full of smoke. Pale sunlight cut through the dirty windows, throwing shadows that seemed to dance for the gathering. All were waiting for the Lizard King to arrive. The door opened and there he stood, silhouetted against the light. A reflection caught the corner of his eye, bouncing back to his retina, creating a reptilian glow. What had he seen in the desert?",
+        "loc_text": "The den was full of smoke. Pale sunlight cut through the dirty windows, throwing shadows that seemed to dance for the gathering. All were waiting for the Lizard King to arrive. The door opened and there he stood, silhouetted against the light. A reflection caught the corner of his eye, bouncing back to his retina, creating a reptilian glow. What had he seen in the desert?",
+        "string_id": "bm_suit_var_hippie_tribe_desc"
+    },
+    "bm_suit_var_jumpsuit_blue_desc": {
+        "base_text": "There once was a crook named Steve, who had a plan up his sleeve. With his gang of friends, they started a trend, that didn't last very long. They robbed a bank, as more than just a prank, wearing blue jumpsuits that were greater, than your everyday ordinary painter. Keeping hostages at bay, they forced them to play, until someone demolished the floor, hoping the cops wouldn't come through the door.",
+        "loc_text": "There once was a crook named Steve, who had a plan up his sleeve. With his gang of friends, they started a trend, that didn't last very long. They robbed a bank, as more than just a prank, wearing blue jumpsuits that were greater, than your everyday ordinary painter. Keeping hostages at bay, they forced them to play, until someone demolished the floor, hoping the cops wouldn't come through the door.",
+        "string_id": "bm_suit_var_jumpsuit_blue_desc"
+    },
+    "bm_suit_var_jumpsuit_brown_desc": {
+        "base_text": "The Payday gang has, to date, not taken on many jobs in the South- never mind south of the border! But in case that should change in the future, Locke has stockpiled a good number of these suits, which will offer good protection from dusty plains.",
+        "loc_text": "The Payday gang has, to date, not taken on many jobs in the South- never mind south of the border! But in case that should change in the future, Locke has stockpiled a good number of these suits, which will offer good protection from dusty plains.",
+        "string_id": "bm_suit_var_jumpsuit_brown_desc"
+    },
+    "bm_suit_var_jumpsuit_default_desc": {
+        "base_text": "Very few people could drop everything in their lives if they spotted the heat around the corner. Dallas, in his younger days, once thought he could, and it almost cost him both his sanity and his freedom. He was wearing a jumpsuit just like this at the time, and it proved to be the one thing that saved him that day. ",
+        "loc_text": "Very few people could drop everything in their lives if they spotted the heat around the corner. Dallas, in his younger days, once thought he could, and it almost cost him both his sanity and his freedom. He was wearing a jumpsuit just like this at the time, and it proved to be the one thing that saved him that day. ",
+        "string_id": "bm_suit_var_jumpsuit_default_desc"
+    },
+    "bm_suit_var_jumpsuit_green_desc": {
+        "base_text": "Somewhere in the safehouse (don't bother looking) is a coffer owned by Chains that contains items of sentimental value to him. Among those items, is a jumpsuit just like this. He takes it out on special occasions, and is very protective of it, for some reason; heisters that have been caught \"borrowing\" it have been rewarded by a properly delivered knuckle sandwich.",
+        "loc_text": "Somewhere in the safehouse (don't bother looking) is a coffer owned by Chains that contains items of sentimental value to him. Among those items, is a jumpsuit just like this. He takes it out on special occasions, and is very protective of it, for some reason; heisters that have been caught \"borrowing\" it have been rewarded by a properly delivered knuckle sandwich.",
+        "string_id": "bm_suit_var_jumpsuit_green_desc"
+    },
+    "bm_suit_var_jumpsuit_red_desc": {
+        "base_text": "So, what's the deal with heisters taking their nicknames from cities around the world? Coincidence? Are they lazy? Do they lack imagination? Or is there something larger afoot, all part of some unknown grand plan, hatched by Bain back in the day. And what's next, a heister named after Lubbock, Texas? Or maybe Tokyo? Feels like overkill, doesn't it? How far can the trend go? And will it continue in Chapter 3? Those who live to tell may learn the answer.",
+        "loc_text": "So, what's the deal with heisters taking their nicknames from cities around the world? Coincidence? Are they lazy? Do they lack imagination? Or is there something larger afoot, all part of some unknown grand plan, hatched by Bain back in the day. And what's next, a heister named after Lubbock, Texas? Or maybe Tokyo? Feels like overkill, doesn't it? How far can the trend go? And will it continue in Chapter 3? Those who live to tell may learn the answer.",
+        "string_id": "bm_suit_var_jumpsuit_red_desc"
     },
     "bm_suit_var_mariachi_black": {
         "base_text": "Calavera",
         "loc_text": "Calavera",
         "string_id": "bm_suit_var_mariachi_black"
     },
+    "bm_suit_var_mariachi_black_desc": {
+        "base_text": "The desperado took a rose from the bouquet that adorned the embalmed body of his dead lover. He swore vengeance on the cartel member who took her life. In her memory, he had the rose embroidered onto the suit he would wear while claiming justice for his loss.",
+        "loc_text": "The desperado took a rose from the bouquet that adorned the embalmed body of his dead lover. He swore vengeance on the cartel member who took her life. In her memory, he had the rose embroidered onto the suit he would wear while claiming justice for his loss.",
+        "string_id": "bm_suit_var_mariachi_black_desc"
+    },
     "bm_suit_var_mariachi_brown": {
         "base_text": "Dust Devil",
         "loc_text": "Dust Devil",
         "string_id": "bm_suit_var_mariachi_brown"
+    },
+    "bm_suit_var_mariachi_brown_desc": {
+        "base_text": "After coming home from military service, Chains needed a place to disappear, a city where he could lose himself for a bit. Someone told him that San Franscisco was great for that, but they didn't think about all the grunge bands there. And we all know how much Chains just looooooves grunge bands, right? Especially shitty ones. Yeah, Chains didn't last long in SF. So, he went south for a bit, and got a small taste of working as a stunt man in Mexico City during a mariachi festival, before fate revealed other plans for him. To date, no one has ever asked him if he liked corridos...",
+        "loc_text": "After coming home from military service, Chains needed a place to disappear, a city where he could lose himself for a bit. Someone told him that San Franscisco was great for that, but they didn't think about all the grunge bands there. And we all know how much Chains just looooooves grunge bands, right? Especially shitty ones. Yeah, Chains didn't last long in SF. So, he went south for a bit, and got a small taste of working as a stunt man in Mexico City during a mariachi festival, before fate revealed other plans for him. To date, no one has ever asked him if he liked corridos...",
+        "string_id": "bm_suit_var_mariachi_brown_desc"
     },
     "bm_suit_var_mariachi_default": {
         "base_text": "Midnight Serenade",
@@ -7729,15 +8459,105 @@
         "loc_text": "Teotihuacan",
         "string_id": "bm_suit_var_mariachi_red"
     },
+    "bm_suit_var_mariachi_red_desc": {
+        "base_text": "Tales tell of a deadly desert spider, whose intricate web creates an eerie howling sound when hit by the wind. Some say the web captures the lamentations of all the lost souls killed in gunfights, others say they simply conjure the angry voices of the ancient Mayan gods, decrying the current state of the world.",
+        "loc_text": "Tales tell of a deadly desert spider, whose intricate web creates an eerie howling sound when hit by the wind. Some say the web captures the lamentations of all the lost souls killed in gunfights, others say they simply conjure the angry voices of the ancient Mayan gods, decrying the current state of the world.",
+        "string_id": "bm_suit_var_mariachi_red_desc"
+    },
     "bm_suit_var_mariachi_white": {
         "base_text": "Skin of the Saint",
         "loc_text": "Skin of the Saint",
         "string_id": "bm_suit_var_mariachi_white"
     },
+    "bm_suit_var_mariachi_white_desc": {
+        "base_text": "There's a story behind the soft cotton fabric that makes up this suit. The weaver who made it traveled with by mule for five days in order to reach a waiting seamstress in time to have her to finish it before the Day of the Dead, in honor of his deceased daughter. Sharing what little food and water he had with his beast of burden, he battled harsh roads, storms and bandits, until finally reaching his destination. In the festivities that followed, the weaver swore that he heard his daughter's laugh in the air.",
+        "loc_text": "There's a story behind the soft cotton fabric that makes up this suit. The weaver who made it traveled with by mule for five days in order to reach a waiting seamstress in time to have her to finish it before the Day of the Dead, in honor of his deceased daughter. Sharing what little food and water he had with his beast of burden, he battled harsh roads, storms and bandits, until finally reaching his destination. In the festivities that followed, the weaver swore that he heard his daughter's laugh in the air.",
+        "string_id": "bm_suit_var_mariachi_white_desc"
+    },
+    "bm_suit_var_miami_black_desc": {
+        "base_text": "Heisters don't cry, and very few of them wear mascara, but it stands to reason that just about anyone has, at one time or another, reveled in their secret inner Goth. Or maybe not. Maybe they just don't want to have to color-coordinate.",
+        "loc_text": "Heisters don't cry, and very few of them wear mascara, but it stands to reason that just about anyone has, at one time or another, reveled in their secret inner Goth. Or maybe not. Maybe they just don't want to have to color-coordinate.",
+        "string_id": "bm_suit_var_miami_black_desc"
+    },
+    "bm_suit_var_miami_default_desc": {
+        "base_text": "One time, Sangres was escorting a shipment of stolen weapons by plane between Brazil and Mexico when his partner, who was wearing this suit, turned on him mid-flight. After a brief struggle, Sangres kicked him out of the cargo bay door. As his (now ex-) partner fell screaming, arms flailing wildly, Sangres couldn't help but notice how the blue of the suit was great camouflage against the bright blue sky. Then he went \"splat\" on the ground, and the look was ruined.",
+        "loc_text": "One time, Sangres was escorting a shipment of stolen weapons by plane between Brazil and Mexico when his partner, who was wearing this suit, turned on him mid-flight. After a brief struggle, Sangres kicked him out of the cargo bay door. As his (now ex-) partner fell screaming, arms flailing wildly, Sangres couldn't help but notice how the blue of the suit was great camouflage against the bright blue sky. Then he went \"splat\" on the ground, and the look was ruined.",
+        "string_id": "bm_suit_var_miami_default_desc"
+    },
+    "bm_suit_var_miami_grey_desc": {
+        "base_text": "Jimmy remains convinced that this suit would be great camouflage for avoiding alligators in the Florida Everglades. Hoxton has dared him to put it to the test, offering up $20000 if he proves himself right. He hasn't done it yet, but every time someone brings it up in the safe house he just waves it off and says \"Soon mate, maybe tomorrow.\"",
+        "loc_text": "Jimmy remains convinced that this suit would be great camouflage for avoiding alligators in the Florida Everglades. Hoxton has dared him to put it to the test, offering up $20000 if he proves himself right. He hasn't done it yet, but every time someone brings it up in the safe house he just waves it off and says \"Soon mate, maybe tomorrow.\"",
+        "string_id": "bm_suit_var_miami_grey_desc"
+    },
+    "bm_suit_var_miami_pink_desc": {
+        "base_text": "Rust once wore this suit on a dare, while on a job in Ding Dong, Texas, doing recon on the local Overkill MC chapter. He got a lot of odd looks when he entered a local watering hole, but not a soul dared say anything or give him trouble. When a man walks around Texas wearing a suit like this, the world knows he ain't afraid of anything!",
+        "loc_text": "Rust once wore this suit on a dare, while on a job in Ding Dong, Texas, doing recon on the local Overkill MC chapter. He got a lot of odd looks when he entered a local watering hole, but not a soul dared say anything or give him trouble. When a man walks around Texas wearing a suit like this, the world knows he ain't afraid of anything!",
+        "string_id": "bm_suit_var_miami_pink_desc"
+    },
+    "bm_suit_var_miami_white_desc": {
+        "base_text": "There's a rumor that buried somewhere in the archives of the Miami PD,  there exists a photograph of Dallas wearing a suit just like this and driving around in an open-top Falcogini Model F. Of course, it's just a rumor. Dallas will deny everything if you mention it near him. And every time it happens, an unknown perpetrator tries to flood, burn, blow up or otherwise destroy the basement of the precinct house where those archives are kept...",
+        "loc_text": "There's a rumor that buried somewhere in the archives of the Miami PD,  there exists a photograph of Dallas wearing a suit just like this and driving around in an open-top Falcogini Model F. Of course, it's just a rumor. Dallas will deny everything if you mention it near him. And every time it happens, an unknown perpetrator tries to flood, burn, blow up or otherwise destroy the basement of the precinct house where those archives are kept...",
+        "string_id": "bm_suit_var_miami_white_desc"
+    },
+    "bm_suit_var_peacoat_black_desc": {
+        "base_text": "A famous bounty hunter once wore a jacket like this every single day for ten years. For many years this person hounded Bain, long before Crimenet was created. Ultimately, when said bounty hunter's luck ran out and he was taken down by Bain, he kept the jacket as a trophy.",
+        "loc_text": "A famous bounty hunter once wore a jacket like this every single day for ten years. For many years this person hounded Bain, long before Crimenet was created. Ultimately, when said bounty hunter's luck ran out and he was taken down by Bain, he kept the jacket as a trophy.",
+        "string_id": "bm_suit_var_peacoat_black_desc"
+    },
+    "bm_suit_var_peacoat_blue_desc": {
+        "base_text": "Sokol once knew a construction worker named Dmitri. They used to watch hockey together in the same bar, week after week. This coat reminds Sokol of those days because Dmitri had one just like it. His was worn and frayed around the edges, with spots of dirt and dust from heavy toil. Yet he wore it with dignity, every little spot having a story to tell about a life of proud work. ",
+        "loc_text": "Sokol once knew a construction worker named Dmitri. They used to watch hockey together in the same bar, week after week. This coat reminds Sokol of those days because Dmitri had one just like it. His was worn and frayed around the edges, with spots of dirt and dust from heavy toil. Yet he wore it with dignity, every little spot having a story to tell about a life of proud work. ",
+        "string_id": "bm_suit_var_peacoat_blue_desc"
+    },
+    "bm_suit_var_peacoat_brown_desc": {
+        "base_text": "Sunlight glinted off the deep green paint of the V8-powered roadster as it roared down the highway, pursued by no less than ten police cruisers. Back and forth they weaved, between the crowded city streets of San Francisco. A single bead of sweat trickled down the neck of the driver, distracting her just enough to crash the car into a curb on the (in)famous Lombard Street. With the cops still in pursuit, she got out of the car and ran. No one knows exactly what happened after that, but rumors say they lost her somewhere in Chinatown and the last thing they saw was the shine of her brown coat as she disappeared into the crowd.",
+        "loc_text": "Sunlight glinted off the deep green paint of the V8-powered roadster as it roared down the highway, pursued by no less than ten police cruisers. Back and forth they weaved, between the crowded city streets of San Francisco. A single bead of sweat trickled down the neck of the driver, distracting her just enough to crash the car into a curb on the (in)famous Lombard Street. With the cops still in pursuit, she got out of the car and ran. No one knows exactly what happened after that, but rumors say they lost her somewhere in Chinatown and the last thing they saw was the shine of her brown coat as she disappeared into the crowd.",
+        "string_id": "bm_suit_var_peacoat_brown_desc"
+    },
+    "bm_suit_var_peacoat_default_desc": {
+        "base_text": "Long ago, a dark shadow crept through the criminal underworld, killing the vilest mobsters in serial acts of untold violence. Fear engulfed the crime lords of America- no one knew when vengeance would come for them. A very small number of individuals managed to catch a glimpse of this roaming terror, yet could not say if it was one demon or many. The only description to come was of the suit that death wore- it was just like this one.",
+        "loc_text": "Long ago, a dark shadow crept through the criminal underworld, killing the vilest mobsters in serial acts of untold violence. Fear engulfed the crime lords of America- no one knew when vengeance would come for them. A very small number of individuals managed to catch a glimpse of this roaming terror, yet could not say if it was one demon or many. The only description to come was of the suit that death wore- it was just like this one.",
+        "string_id": "bm_suit_var_peacoat_default_desc"
+    },
+    "bm_suit_var_peacoat_white_desc": {
+        "base_text": "The mob boss walked into the restaurant with his family, ready to sit down for a nice meal following a week of ordering the bloody end to a rival gang. Little did he know that the sole survivor of that gang was waiting for him in the bathroom. Before the mob boss could take his coat off, the survivor put a bullet in his back, ending the feud forever.",
+        "loc_text": "The mob boss walked into the restaurant with his family, ready to sit down for a nice meal following a week of ordering the bloody end to a rival gang. Little did he know that the sole survivor of that gang was waiting for him in the bathroom. Before the mob boss could take his coat off, the survivor put a bullet in his back, ending the feud forever.",
+        "string_id": "bm_suit_var_peacoat_white_desc"
+    },
+    "bm_suit_var_punk_billieboy_desc": {
+        "base_text": "Conformity. Conformity of the chicken-shit kind surrounds us all the time. Like a pile of bricks, it weighs on the mind of each individual, forcing complacency. Unless you're the type of person who can't help but give a Rebel Yell and shake your fist in the air. And a heister who walks into a bank wearing this, shows the world they ain't afraid of anything!",
+        "loc_text": "Conformity. Conformity of the chicken-shit kind surrounds us all the time. Like a pile of bricks, it weighs on the mind of each individual, forcing complacency. Unless you're the type of person who can't help but give a Rebel Yell and shake your fist in the air. And a heister who walks into a bank wearing this, shows the world they ain't afraid of anything!",
+        "string_id": "bm_suit_var_punk_billieboy_desc"
+    },
+    "bm_suit_var_punk_blue_desc": {
+        "base_text": "Every musician in New York knows about the infamous \"music store break-in spree\" of 1983. As the story goes, Jacket, before starting his career as a maniacal heister, was traveling with group of friends in a punk band, doing some roadie work in exchange for beer and drugs. One night, right before the show, the g-string broke on the singer's favorite guitar. Not satisfied with any old string, demanding his special brand of imported flatwounds with all the stores closed, Jacket had to get... creative... in locating a new string. He got one, with five minutes to spare before showtime.",
+        "loc_text": "Every musician in New York knows about the infamous \"music store break-in spree\" of 1983. As the story goes, Jacket, before starting his career as a maniacal heister, was traveling with group of friends in a punk band, doing some roadie work in exchange for beer and drugs. One night, right before the show, the g-string broke on the singer's favorite guitar. Not satisfied with any old string, demanding his special brand of imported flatwounds with all the stores closed, Jacket had to get... creative... in locating a new string. He got one, with five minutes to spare before showtime.",
+        "string_id": "bm_suit_var_punk_blue_desc"
+    },
+    "bm_suit_var_punk_default_desc": {
+        "base_text": "Sydney once dyed her hair bright orange on a dare, the same night as a safehouse party celebrating the latest heist. On that night, Vlad was in attendance, acting in his usual flamboyantly chauvinistic way. When he spotted Sydney's hair, he couldn't help but comment, mentioning something about an \"overly ripe carrot\" in Russian. Unlucky for him, she actually understood what he said. A little while later, as he nursed a bleeding nose in the bathroom, he chuckled to himself, and decided never to comment on Sydney's choice of hair color again. \"Still\", he thought, \"it was fucking worth it!\"",
+        "loc_text": "Sydney once dyed her hair bright orange on a dare, the same night as a safehouse party celebrating the latest heist. On that night, Vlad was in attendance, acting in his usual flamboyantly chauvinistic way. When he spotted Sydney's hair, he couldn't help but comment, mentioning something about an \"overly ripe carrot\" in Russian. Unlucky for him, she actually understood what he said. A little while later, as he nursed a bleeding nose in the bathroom, he chuckled to himself, and decided never to comment on Sydney's choice of hair color again. \"Still\", he thought, \"it was fucking worth it!\"",
+        "string_id": "bm_suit_var_punk_default_desc"
+    },
+    "bm_suit_var_punk_red_desc": {
+        "base_text": "Coming back from a Clash concert in Liverpool one night, Hoxton strode into an alley while humming his favorite song of the evening. Out from behind a large dumpster came a pair of skinheads, brandishing knives. Hox, running on a natural high of distorted guitar riffs, simply ignored the outstretched blades and kicked the hooligan's asses, before throwing them into the very dumpster they were hiding behind, all the while still humming the tune of his favorite song...",
+        "loc_text": "Coming back from a Clash concert in Liverpool one night, Hoxton strode into an alley while humming his favorite song of the evening. Out from behind a large dumpster came a pair of skinheads, brandishing knives. Hox, running on a natural high of distorted guitar riffs, simply ignored the outstretched blades and kicked the hooligan's asses, before throwing them into the very dumpster they were hiding behind, all the while still humming the tune of his favorite song...",
+        "string_id": "bm_suit_var_punk_red_desc"
+    },
+    "bm_suit_var_punk_scottish_desc": {
+        "base_text": "Punk was once the bane of morally panicking parents and the savior of many a derelict warehouse as a makeshift concert venue. On one particular evening in the 1980s, Dragan was in the London Docklands to meet a contact about a job, at the infamous \"Deadweek\" 7-day mohawk party. The contact never showed, and Dragan never heard from him again. To this day, he still doesn't know what happened.",
+        "loc_text": "Punk was once the bane of morally panicking parents and the savior of many a derelict warehouse as a makeshift concert venue. On one particular evening in the 1980s, Dragan was in the London Docklands to meet a contact about a job, at the infamous \"Deadweek\" 7-day mohawk party. The contact never showed, and Dragan never heard from him again. To this day, he still doesn't know what happened.",
+        "string_id": "bm_suit_var_punk_scottish_desc"
+    },
     "bm_suit_var_t800_cowboy": {
         "base_text": "Infamy Dust",
         "loc_text": "Infamy Dust",
         "string_id": "bm_suit_var_t800_cowboy"
+    },
+    "bm_suit_var_t800_cowboy_desc": {
+        "base_text": "On horseback she came, the heister who had her eye on the local saloon after a hard days robbing.",
+        "loc_text": "On horseback she came, the heister who had her eye on the local saloon after a hard days robbing.",
+        "string_id": "bm_suit_var_t800_cowboy_desc"
     },
     "bm_suit_var_t800_default": {
         "base_text": "Infamy Dark",
@@ -7754,10 +8574,40 @@
         "loc_text": "Infamy Red",
         "string_id": "bm_suit_var_t800_red"
     },
+    "bm_suit_var_t800_red_desc": {
+        "base_text": "Show your infamy in a bold statement of red leather.",
+        "loc_text": "Show your infamy in a bold statement of red leather.",
+        "string_id": "bm_suit_var_t800_red_desc"
+    },
     "bm_suit_var_t800_toughboy": {
         "base_text": "Infamy White",
         "loc_text": "Infamy White",
         "string_id": "bm_suit_var_t800_toughboy"
+    },
+    "bm_suit_var_t800_toughboy_desc": {
+        "base_text": "This black and white combo is probably best suited for those heisters who don't like rolling around in the muck.",
+        "loc_text": "This black and white combo is probably best suited for those heisters who don't like rolling around in the muck.",
+        "string_id": "bm_suit_var_t800_toughboy_desc"
+    },
+    "bm_suit_var_xmas_tuxedo_black_desc": {
+        "base_text": "His bike was broken. What a time to get stuck in the middle of nowhere. He was gonna miss the safe house Christmas party for sure. None of Jiro's Sake-Eggnog for Rust this year. Fuck. He grabbed his bag and started walking. The sun began to set over the snowy landscape. As he passed a run-down farmhouse, a wrenching scream came from inside. Rust hesitated. Not his business. But something changed his mind. Through a window, he could see someone on the floor, so he rushed inside to find an elderly lady who had fallen while decorating her tree. After helping her up, and tending to her injuries, he stayed for tea. Turns out there was an old classic bike, still working, in her barn, he was welcome to borrow. Maybe he wasn't going to miss that party after all...",
+        "loc_text": "His bike was broken. What a time to get stuck in the middle of nowhere. He was gonna miss the safe house Christmas party for sure. None of Jiro's Sake-Eggnog for Rust this year. Fuck. He grabbed his bag and started walking. The sun began to set over the snowy landscape. As he passed a run-down farmhouse, a wrenching scream came from inside. Rust hesitated. Not his business. But something changed his mind. Through a window, he could see someone on the floor, so he rushed inside to find an elderly lady who had fallen while decorating her tree. After helping her up, and tending to her injuries, he stayed for tea. Turns out there was an old classic bike, still working, in her barn, he was welcome to borrow. Maybe he wasn't going to miss that party after all...",
+        "string_id": "bm_suit_var_xmas_tuxedo_black_desc"
+    },
+    "bm_suit_var_xmas_tuxedo_blue_desc": {
+        "base_text": "Sydney leaned out of the alley and watched as the police car passed, blue and red lights flashing, siren blaring. She adjusted the bag full of loot she was carrying, then picked up her phone and dialed.  \"Yeah?\", came a voice on the other end. \"It's me. Corner of 34th. Coast is clear, so get over here\", she replied, then hung up and waited. The wind howled, snow swirling through the alley as she looked into the darkness and grumbled anxiously. A few minutes later, a van pulled up. The driver got out and greeted her. \"Where's the package?\" They walked into the alley and she pointed to a pile of boxes, on which lay a dog, nursing a litter of puppies. Sydney pulled out a huge wad of cash, handing it to the driver, saying \"You know what to do, mate\". The driver took the money and replied \"You got it, no worries. I'll make sure they're kept safe.\"",
+        "loc_text": "Sydney leaned out of the alley and watched as the police car passed, blue and red lights flashing, siren blaring. She adjusted the bag full of loot she was carrying, then picked up her phone and dialed.  \"Yeah?\", came a voice on the other end. \"It's me. Corner of 34th. Coast is clear, so get over here\", she replied, then hung up and waited. The wind howled, snow swirling through the alley as she looked into the darkness and grumbled anxiously. A few minutes later, a van pulled up. The driver got out and greeted her. \"Where's the package?\" They walked into the alley and she pointed to a pile of boxes, on which lay a dog, nursing a litter of puppies. Sydney pulled out a huge wad of cash, handing it to the driver, saying \"You know what to do, mate\". The driver took the money and replied \"You got it, no worries. I'll make sure they're kept safe.\"",
+        "string_id": "bm_suit_var_xmas_tuxedo_blue_desc"
+    },
+    "bm_suit_var_xmas_tuxedo_default_desc": {
+        "base_text": "Smoke billows from the stone chimney of the small cabin sitting alone in the snowy forest. It's quiet, and all we can hear are the dry branches of hibernating trees rustling in the frosty wind. Somewhere in the distance, a family of deer huddles in a cave for warmth and protection from predators. But on this night, the Wolf is not out for food. He sits alone by the fire in his cabin, a cup of cold mead in his hand, contemplating all he has been through in his time as a heister.",
+        "loc_text": "Smoke billows from the stone chimney of the small cabin sitting alone in the snowy forest. It's quiet, and all we can hear are the dry branches of hibernating trees rustling in the frosty wind. Somewhere in the distance, a family of deer huddles in a cave for warmth and protection from predators. But on this night, the Wolf is not out for food. He sits alone by the fire in his cabin, a cup of cold mead in his hand, contemplating all he has been through in his time as a heister.",
+        "string_id": "bm_suit_var_xmas_tuxedo_default_desc"
+    },
+    "bm_suit_var_xmas_tuxedo_green_desc": {
+        "base_text": "Duke had downed one too many a brandy this holiday eve. His head swooned as he tried to reassemble the antique British revolver Hoxton had gifted him, as one of his cats sitting on a stool next to the table, watching intently. With a loud 'FOING', the trigger spring flew across the room,  with the cat dashing after it. Both disappeared into the branches of the safe house Christmas tree, making it topple. It fell over the top floor railing, landing with a loud crash down below, followed by an \"Aaargh!\" and a shout of \"The fuck is goin' on up there?\". A couple of minutes later, Chains came stomping up the stairs, Santa hat on his head, and hand over his face. He wasn't too happy. He removed his hand, revealing a big, swollen nose, as crimson as on a certain reindeer, as if it had been smashed by the trunk of the falling tree...",
+        "loc_text": "Duke had downed one too many a brandy this holiday eve. His head swooned as he tried to reassemble the antique British revolver Hoxton had gifted him, as one of his cats sitting on a stool next to the table, watching intently. With a loud 'FOING', the trigger spring flew across the room,  with the cat dashing after it. Both disappeared into the branches of the safe house Christmas tree, making it topple. It fell over the top floor railing, landing with a loud crash down below, followed by an \"Aaargh!\" and a shout of \"The fuck is goin' on up there?\". A couple of minutes later, Chains came stomping up the stairs, Santa hat on his head, and hand over his face. He wasn't too happy. He removed his hand, revealing a big, swollen nose, as crimson as on a certain reindeer, as if it had been smashed by the trunk of the falling tree...",
+        "string_id": "bm_suit_var_xmas_tuxedo_green_desc"
     },
     "bm_suit_winter_suit": {
         "base_text": "Winter Camo Parka",
@@ -7793,6 +8643,11 @@
         "base_text": "Candy",
         "loc_text": "Candy",
         "string_id": "bm_txt_barf"
+    },
+    "bm_txt_basketball": {
+        "base_text": "Naismith",
+        "loc_text": "Naismith",
+        "string_id": "bm_txt_basketball"
     },
     "bm_txt_bloodhand": {
         "base_text": "Smeared",
@@ -7989,6 +8844,11 @@
         "loc_text": "The Molecule",
         "string_id": "bm_txt_molecule"
     },
+    "bm_txt_no_color_full_material": {
+        "base_text": "Material only",
+        "loc_text": "Material only",
+        "string_id": "bm_txt_no_color_full_material"
+    },
     "bm_txt_nuclear": {
         "base_text": "Radioactive",
         "loc_text": "Radioactive",
@@ -7998,6 +8858,11 @@
         "base_text": "The Ouroboros",
         "loc_text": "The Ouroboros",
         "string_id": "bm_txt_ouroboros"
+    },
+    "bm_txt_pain": {
+        "base_text": "Pain",
+        "loc_text": "Pain",
+        "string_id": "bm_txt_pain"
     },
     "bm_txt_paint2": {
         "base_text": "Jagged Stripes",
@@ -9139,6 +10004,41 @@
         "loc_text": "Moscow Special Rail",
         "string_id": "bm_wp_akmsu_fg_rail"
     },
+    "bm_wp_ameno_1_achievment": {
+        "base_text": "Complete the OVE SAW 72000 achievement to unlock",
+        "loc_text": "Complete the OVE SAW 72000 achievement to unlock",
+        "string_id": "bm_wp_ameno_1_achievment"
+    },
+    "bm_wp_ameno_2_achievment": {
+        "base_text": "Complete the HEY MR. DJ achievement to unlock",
+        "loc_text": "Complete the HEY MR. DJ achievement to unlock",
+        "string_id": "bm_wp_ameno_2_achievment"
+    },
+    "bm_wp_ameno_3_achievment": {
+        "base_text": "Complete the $1.8M SPEEDRUN achievement to unlock",
+        "loc_text": "Complete the $1.8M SPEEDRUN achievement to unlock",
+        "string_id": "bm_wp_ameno_3_achievment"
+    },
+    "bm_wp_ameno_4_achievment": {
+        "base_text": "Complete the HERE COMES THE PAIN TRAIN achievement to unlock",
+        "loc_text": "Complete the HERE COMES THE PAIN TRAIN achievement to unlock",
+        "string_id": "bm_wp_ameno_4_achievment"
+    },
+    "bm_wp_ameno_5_achievment": {
+        "base_text": "Complete THE WOLF LURES YOU TO YOUR GRAVE! achievement to unlock",
+        "loc_text": "Complete THE WOLF LURES YOU TO YOUR GRAVE! achievement to unlock",
+        "string_id": "bm_wp_ameno_5_achievment"
+    },
+    "bm_wp_ameno_6_achievment": {
+        "base_text": "Complete THE TURTLE ALWAYS WINS achievement to unlock",
+        "loc_text": "Complete THE TURTLE ALWAYS WINS achievement to unlock",
+        "string_id": "bm_wp_ameno_6_achievment"
+    },
+    "bm_wp_ameno_7_achievment": {
+        "base_text": "Complete the PRIVATE PARTY achievement to unlock",
+        "loc_text": "Complete the PRIVATE PARTY achievement to unlock",
+        "string_id": "bm_wp_ameno_7_achievment"
+    },
     "bm_wp_arbiter_b_comp": {
         "base_text": "Bombardier Barrel",
         "loc_text": "Bombardier Barrel",
@@ -9259,10 +10159,20 @@
         "loc_text": "Long Barrel",
         "string_id": "bm_wp_ben_b_long"
     },
+    "bm_wp_ben_b_long_achievment": {
+        "base_text": "Complete the SHOTGUN 101 achievement to unlock",
+        "loc_text": "Complete the SHOTGUN 101 achievement to unlock",
+        "string_id": "bm_wp_ben_b_long_achievment"
+    },
     "bm_wp_ben_b_short": {
         "base_text": "Short Barrel",
         "loc_text": "Short Barrel",
         "string_id": "bm_wp_ben_b_short"
+    },
+    "bm_wp_ben_b_short_achievment": {
+        "base_text": "Complete the SEVEN ELEVEN achievement to unlock",
+        "loc_text": "Complete the SEVEN ELEVEN achievement to unlock",
+        "string_id": "bm_wp_ben_b_short_achievment"
     },
     "bm_wp_ben_fg_standard": {
         "base_text": "Tactical Stock",
@@ -9273,6 +10183,11 @@
         "base_text": "Collapsed Stock",
         "loc_text": "Collapsed Stock",
         "string_id": "bm_wp_ben_s_collapsed"
+    },
+    "bm_wp_ben_s_solid_achievment": {
+        "base_text": "Complete the SHOCK AND AWE achievement to unlock",
+        "loc_text": "Complete the SHOCK AND AWE achievement to unlock",
+        "string_id": "bm_wp_ben_s_solid_achievment"
     },
     "bm_wp_beretta_co_co2": {
         "base_text": "The Competitor Compensator",
@@ -9303,6 +10218,21 @@
         "base_text": "Long Stock",
         "loc_text": "Long Stock",
         "string_id": "bm_wp_boot_s_long"
+    },
+    "bm_wp_bow_long_explosion_desc": {
+        "base_text": "Arrow with an explosive tip that detonates on impact.",
+        "loc_text": "Arrow with an explosive tip that detonates on impact.",
+        "string_id": "bm_wp_bow_long_explosion_desc"
+    },
+    "bm_wp_bow_long_poison": {
+        "base_text": "Poison Arrow",
+        "loc_text": "Poison Arrow",
+        "string_id": "bm_wp_bow_long_poison"
+    },
+    "bm_wp_bow_long_poison_desc": {
+        "base_text": "Arrow with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "loc_text": "Arrow with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "string_id": "bm_wp_bow_long_poison_desc"
     },
     "bm_wp_breech_b_reinforced": {
         "base_text": "Reinforced Barrel",
@@ -9404,6 +10334,41 @@
         "loc_text": "Silenced Barrel",
         "string_id": "bm_wp_desertfox_b_silenced"
     },
+    "bm_wp_eagle_3_achievment": {
+        "base_text": "Complete the WIND OF CHANGE achievement to unlock",
+        "loc_text": "Complete the WIND OF CHANGE achievement to unlock",
+        "string_id": "bm_wp_eagle_3_achievment"
+    },
+    "bm_wp_eagle_4_achievment": {
+        "base_text": "Complete the SO UNCIVILIZED achievement to unlock",
+        "loc_text": "Complete the SO UNCIVILIZED achievement to unlock",
+        "string_id": "bm_wp_eagle_4_achievment"
+    },
+    "bm_wp_eagle_5_achievment": {
+        "base_text": "Complete the BULLET HELL achievement to unlock",
+        "loc_text": "Complete the BULLET HELL achievement to unlock",
+        "string_id": "bm_wp_eagle_5_achievment"
+    },
+    "bm_wp_ecp_m_arrows_explosive": {
+        "base_text": "Explosive Arrows",
+        "loc_text": "Explosive Arrows",
+        "string_id": "bm_wp_ecp_m_arrows_explosive"
+    },
+    "bm_wp_ecp_m_arrows_explosive_desc": {
+        "base_text": "Arrow with an explosive tip that detonates on impact.",
+        "loc_text": "Arrow with an explosive tip that detonates on impact.",
+        "string_id": "bm_wp_ecp_m_arrows_explosive_desc"
+    },
+    "bm_wp_ecp_m_arrows_poison": {
+        "base_text": "Poison Arrow",
+        "loc_text": "Poison Arrow",
+        "string_id": "bm_wp_ecp_m_arrows_poison"
+    },
+    "bm_wp_ecp_m_arrows_poison_desc": {
+        "base_text": "Arrow with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "loc_text": "Arrow with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "string_id": "bm_wp_ecp_m_arrows_poison_desc"
+    },
     "bm_wp_elastic_body_tactic": {
         "base_text": "Tactical Frame",
         "loc_text": "Tactical Frame",
@@ -9443,6 +10408,51 @@
         "base_text": "Folded Stock",
         "loc_text": "Folded Stock",
         "string_id": "bm_wp_erma_s_folded"
+    },
+    "bm_wp_fal_fg_01_achievment": {
+        "base_text": "Complete the ENTRAPMENT achievement to unlock",
+        "loc_text": "Complete the ENTRAPMENT achievement to unlock",
+        "string_id": "bm_wp_fal_fg_01_achievment"
+    },
+    "bm_wp_fal_fg_03_achievment": {
+        "base_text": "Complete the YOU OWE ME ONE achievement to unlock",
+        "loc_text": "Complete the YOU OWE ME ONE achievement to unlock",
+        "string_id": "bm_wp_fal_fg_03_achievment"
+    },
+    "bm_wp_fal_fg_04_achievment": {
+        "base_text": "Complete the SWEET SIXTEEN achievement to unlock",
+        "loc_text": "Complete the SWEET SIXTEEN achievement to unlock",
+        "string_id": "bm_wp_fal_fg_04_achievment"
+    },
+    "bm_wp_fal_fg_wood_achievment": {
+        "base_text": "Complete the 12 ANGRY MINUTES achievement to unlock",
+        "loc_text": "Complete the 12 ANGRY MINUTES achievement to unlock",
+        "string_id": "bm_wp_fal_fg_wood_achievment"
+    },
+    "bm_wp_fal_g_01_achievment": {
+        "base_text": "Complete the IT TAKES TWO TO TANGO achievement to unlock",
+        "loc_text": "Complete the IT TAKES TWO TO TANGO achievement to unlock",
+        "string_id": "bm_wp_fal_g_01_achievment"
+    },
+    "bm_wp_fal_m_01_achievment": {
+        "base_text": "Complete the IT TAKES A PIG TO KILL A PIG achievement to unlock",
+        "loc_text": "Complete the IT TAKES A PIG TO KILL A PIG achievement to unlock",
+        "string_id": "bm_wp_fal_m_01_achievment"
+    },
+    "bm_wp_fal_s_01_achievment": {
+        "base_text": "Complete the DON'T BRING THE HEAT achievement to unlock",
+        "loc_text": "Complete the DON'T BRING THE HEAT achievement to unlock",
+        "string_id": "bm_wp_fal_s_01_achievment"
+    },
+    "bm_wp_fal_s_03_achievment": {
+        "base_text": "Complete the FUNDING FATHER achievement to unlock",
+        "loc_text": "Complete the FUNDING FATHER achievement to unlock",
+        "string_id": "bm_wp_fal_s_03_achievment"
+    },
+    "bm_wp_fal_s_wood_achievment": {
+        "base_text": "Complete the BACKING BOBBLEHEAD BOB achievement to unlock",
+        "loc_text": "Complete the BACKING BOBBLEHEAD BOB achievement to unlock",
+        "string_id": "bm_wp_fal_s_wood_achievment"
     },
     "bm_wp_famas_b_long": {
         "base_text": "Long Barrel",
@@ -9549,6 +10559,31 @@
         "loc_text": "Sniper Stock",
         "string_id": "bm_wp_g36_s_sl8"
     },
+    "bm_wp_gage5_2_achievment": {
+        "base_text": "Complete the BIG BADA BOOM achievement to unlock",
+        "loc_text": "Complete the BIG BADA BOOM achievement to unlock",
+        "string_id": "bm_wp_gage5_2_achievment"
+    },
+    "bm_wp_gage5_3_achievment": {
+        "base_text": "Complete the ARMY OF ONE achievement to unlock",
+        "loc_text": "Complete the ARMY OF ONE achievement to unlock",
+        "string_id": "bm_wp_gage5_3_achievment"
+    },
+    "bm_wp_gage5_4_achievment": {
+        "base_text": "Complete the SO MANY CHOICES achievement to unlock",
+        "loc_text": "Complete the SO MANY CHOICES achievement to unlock",
+        "string_id": "bm_wp_gage5_4_achievment"
+    },
+    "bm_wp_gage5_6_achievment": {
+        "base_text": "Complete the UNUSUAL SUSPECTS achievement to unlock",
+        "loc_text": "Complete the UNUSUAL SUSPECTS achievement to unlock",
+        "string_id": "bm_wp_gage5_6_achievment"
+    },
+    "bm_wp_gage5_7_achievment": {
+        "base_text": "Complete the NOT TODAY achievement to unlock",
+        "loc_text": "Complete the NOT TODAY achievement to unlock",
+        "string_id": "bm_wp_gage5_7_achievment"
+    },
     "bm_wp_gre_m79_s_leather": {
         "base_text": "Sawed-off Stock",
         "loc_text": "Sawed-off Stock",
@@ -9623,6 +10658,11 @@
         "base_text": "B-Team Stock",
         "loc_text": "B-Team Stock",
         "string_id": "bm_wp_m14_body_ruger"
+    },
+    "bm_wp_m1897_b_long": {
+        "base_text": "Huntsman Barrel",
+        "loc_text": "Huntsman Barrel",
+        "string_id": "bm_wp_m1897_b_long"
     },
     "bm_wp_m1897_b_short": {
         "base_text": "Ventilated Barrel",
@@ -9829,6 +10869,11 @@
         "loc_text": "Enlighted Foregrip",
         "string_id": "bm_wp_mp5_fg_flash"
     },
+    "bm_wp_mp5_fg_flash_desc": {
+        "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "string_id": "bm_wp_mp5_fg_flash_desc"
+    },
     "bm_wp_mp5_fg_m5k": {
         "base_text": "Sehr Kurze Barrel",
         "loc_text": "Sehr Kurze Barrel",
@@ -9924,6 +10969,26 @@
         "loc_text": "Tritium Sights",
         "string_id": "bm_wp_packrat_o_expert"
     },
+    "bm_wp_pig_1_achievment": {
+        "base_text": "Complete the PHEW! achievement to unlock",
+        "loc_text": "Complete the PHEW! achievement to unlock",
+        "string_id": "bm_wp_pig_1_achievment"
+    },
+    "bm_wp_pig_2_achievment": {
+        "base_text": "Complete the WALK FASTER achievement to unlock",
+        "loc_text": "Complete the WALK FASTER achievement to unlock",
+        "string_id": "bm_wp_pig_2_achievment"
+    },
+    "bm_wp_pig_4_achievment": {
+        "base_text": "Complete the Overdose achievement to unlock",
+        "loc_text": "Complete the Overdose achievement to unlock",
+        "string_id": "bm_wp_pig_4_achievment"
+    },
+    "bm_wp_pig_5_achievment": {
+        "base_text": "Complete the SOUNDS OF ANIMALS FIGHTING achievement to unlock",
+        "loc_text": "Complete the SOUNDS OF ANIMALS FIGHTING achievement to unlock",
+        "string_id": "bm_wp_pig_5_achievment"
+    },
     "bm_wp_pis_g26": {
         "base_text": "Chimano Compact Pistol",
         "loc_text": "Chimano Compact Pistol",
@@ -9948,6 +11013,11 @@
         "base_text": "Laser Grip",
         "loc_text": "Laser Grip",
         "string_id": "bm_wp_pis_ppk_g_laser"
+    },
+    "bm_wp_pis_ppk_g_laser_desc": {
+        "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "string_id": "bm_wp_pis_ppk_g_laser_desc"
     },
     "bm_wp_pis_usp_b_expert": {
         "base_text": "Expert Slide",
@@ -10044,6 +11114,11 @@
         "loc_text": "Compensated Suppressor",
         "string_id": "bm_wp_r93_b_suppressed"
     },
+    "bm_wp_r93_b_suppressed_achievment": {
+        "base_text": "Complete the LAST ACTION VILLAIN achievement to unlock",
+        "loc_text": "Complete the LAST ACTION VILLAIN achievement to unlock",
+        "string_id": "bm_wp_r93_b_suppressed_achievment"
+    },
     "bm_wp_r93_body_wood": {
         "base_text": "Wooden Body",
         "loc_text": "Wooden Body",
@@ -10113,6 +11188,46 @@
         "base_text": "Club Stock",
         "loc_text": "Club Stock",
         "string_id": "bm_wp_sbl_s_saddle"
+    },
+    "bm_wp_schakal_b_civil": {
+        "base_text": "Civilian Barrel",
+        "loc_text": "Civilian Barrel",
+        "string_id": "bm_wp_schakal_b_civil"
+    },
+    "bm_wp_schakal_m_long": {
+        "base_text": "Extended Magazine",
+        "loc_text": "Extended Magazine",
+        "string_id": "bm_wp_schakal_m_long"
+    },
+    "bm_wp_schakal_m_short": {
+        "base_text": "Short Magazine",
+        "loc_text": "Short Magazine",
+        "string_id": "bm_wp_schakal_m_short"
+    },
+    "bm_wp_schakal_ns_silencer": {
+        "base_text": "Silentgear Silencer",
+        "loc_text": "Silentgear Silencer",
+        "string_id": "bm_wp_schakal_ns_silencer"
+    },
+    "bm_wp_schakal_s_civil": {
+        "base_text": "Civilian Stock",
+        "loc_text": "Civilian Stock",
+        "string_id": "bm_wp_schakal_s_civil"
+    },
+    "bm_wp_schakal_s_folded": {
+        "base_text": "Folded Stock",
+        "loc_text": "Folded Stock",
+        "string_id": "bm_wp_schakal_s_folded"
+    },
+    "bm_wp_schakal_vg_surefire": {
+        "base_text": "Twinkle Grip",
+        "loc_text": "Twinkle Grip",
+        "string_id": "bm_wp_schakal_vg_surefire"
+    },
+    "bm_wp_schakal_vg_surefire_desc": {
+        "base_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "loc_text": "Turn it on/off by pressing $BTN_GADGET;.",
+        "string_id": "bm_wp_schakal_vg_surefire_desc"
     },
     "bm_wp_scorpion_b_suppressed": {
         "base_text": "Suppressor",
@@ -10219,15 +11334,40 @@
         "loc_text": "Lightweight Stock",
         "string_id": "bm_wp_siltstone_s_polymer"
     },
+    "bm_wp_smg_m45_b_green": {
+        "base_text": "Swedish Barrel",
+        "loc_text": "Swedish Barrel",
+        "string_id": "bm_wp_smg_m45_b_green"
+    },
+    "bm_wp_smg_m45_b_small": {
+        "base_text": "Grease Barrel",
+        "loc_text": "Grease Barrel",
+        "string_id": "bm_wp_smg_m45_b_small"
+    },
     "bm_wp_smg_m45_body_green": {
         "base_text": "Swedish Body",
         "loc_text": "Swedish Body",
         "string_id": "bm_wp_smg_m45_body_green"
     },
+    "bm_wp_smg_m45_g_bling": {
+        "base_text": "Bling Grip",
+        "loc_text": "Bling Grip",
+        "string_id": "bm_wp_smg_m45_g_bling"
+    },
+    "bm_wp_smg_m45_g_ergo": {
+        "base_text": "Ergo Grip",
+        "loc_text": "Ergo Grip",
+        "string_id": "bm_wp_smg_m45_g_ergo"
+    },
     "bm_wp_smg_m45_m_extended": {
         "base_text": "Extended Magazine",
         "loc_text": "Extended Magazine",
         "string_id": "bm_wp_smg_m45_m_extended"
+    },
+    "bm_wp_smg_m45_s_folded": {
+        "base_text": "Folded Stock",
+        "loc_text": "Folded Stock",
+        "string_id": "bm_wp_smg_m45_s_folded"
     },
     "bm_wp_sr2_m_quick": {
         "base_text": "Speed Pull Magazine",
@@ -10329,6 +11469,11 @@
         "loc_text": "Suppressed Barrel",
         "string_id": "bm_wp_striker_b_suppressed"
     },
+    "bm_wp_striker_b_suppressed_achievment": {
+        "base_text": "Complete the NO HEIST FOR OLD MEN achievement to unlock",
+        "loc_text": "Complete the NO HEIST FOR OLD MEN achievement to unlock",
+        "string_id": "bm_wp_striker_b_suppressed_achievment"
+    },
     "bm_wp_system_b_wtf": {
         "base_text": "Merlin Nozzle",
         "loc_text": "Merlin Nozzle",
@@ -10384,6 +11529,11 @@
         "loc_text": "Poison Bolt",
         "string_id": "bm_wp_upg_a_arblast_poison"
     },
+    "bm_wp_upg_a_arblast_poison_desc": {
+        "base_text": "Bolt with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "loc_text": "Bolt with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "string_id": "bm_wp_upg_a_arblast_poison_desc"
+    },
     "bm_wp_upg_a_bow_poison": {
         "base_text": "Poisoned Arrows",
         "loc_text": "Poisoned Arrows",
@@ -10393,6 +11543,26 @@
         "base_text": "Arrow with a poison tip that does damage over time and has a chance to interrupt enemies.",
         "loc_text": "Arrow with a poison tip that does damage over time and has a chance to interrupt enemies.",
         "string_id": "bm_wp_upg_a_bow_poison_desc"
+    },
+    "bm_wp_upg_a_crossbow_explosion": {
+        "base_text": "Explosive Bolts",
+        "loc_text": "Explosive Bolts",
+        "string_id": "bm_wp_upg_a_crossbow_explosion"
+    },
+    "bm_wp_upg_a_crossbow_explosion_desc": {
+        "base_text": "Bolt with an explosive tip that detonates on impact.",
+        "loc_text": "Bolt with an explosive tip that detonates on impact.",
+        "string_id": "bm_wp_upg_a_crossbow_explosion_desc"
+    },
+    "bm_wp_upg_a_crossbow_poison": {
+        "base_text": "Poisoned Bolts",
+        "loc_text": "Poisoned Bolts",
+        "string_id": "bm_wp_upg_a_crossbow_poison"
+    },
+    "bm_wp_upg_a_crossbow_poison_desc": {
+        "base_text": "Bolt with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "loc_text": "Bolt with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "string_id": "bm_wp_upg_a_crossbow_poison_desc"
     },
     "bm_wp_upg_a_custom": {
         "base_text": "000 Buckshot",
@@ -10429,10 +11599,25 @@
         "loc_text": "Fires one explosive charge that kills or stuns targets. This ammo type is harder to find.",
         "string_id": "bm_wp_upg_a_explosive_desc"
     },
+    "bm_wp_upg_a_frankish_explosion": {
+        "base_text": "Explosive Bolt",
+        "loc_text": "Explosive Bolt",
+        "string_id": "bm_wp_upg_a_frankish_explosion"
+    },
+    "bm_wp_upg_a_frankish_explosion_desc": {
+        "base_text": "Bolt with an explosive tip that detonates on impact.",
+        "loc_text": "Bolt with an explosive tip that detonates on impact.",
+        "string_id": "bm_wp_upg_a_frankish_explosion_desc"
+    },
     "bm_wp_upg_a_frankish_poison": {
         "base_text": "Poison Bolt",
         "loc_text": "Poison Bolt",
         "string_id": "bm_wp_upg_a_frankish_poison"
+    },
+    "bm_wp_upg_a_frankish_poison_desc": {
+        "base_text": "Bolt with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "loc_text": "Bolt with a poison tip that does damage over time and has a chance to interrupt enemies.",
+        "string_id": "bm_wp_upg_a_frankish_poison_desc"
     },
     "bm_wp_upg_a_grenade_launcher_incendiary": {
         "base_text": "Incendiary Round",
@@ -10689,6 +11874,11 @@
         "loc_text": "Single Fire",
         "string_id": "bm_wp_upg_i_singlefire"
     },
+    "bm_wp_upg_lmg_lionbipod_desc_pc": {
+        "base_text": "Deploy/Undeploy by pressing $BTN_BIPOD;.",
+        "loc_text": "Deploy/Undeploy by pressing $BTN_BIPOD;.",
+        "string_id": "bm_wp_upg_lmg_lionbipod_desc_pc"
+    },
     "bm_wp_upg_m4_g_hgrip": {
         "base_text": "Rubber Grip",
         "loc_text": "Rubber Grip",
@@ -10834,6 +12024,11 @@
         "loc_text": "Hurricane Compensator",
         "string_id": "bm_wp_upg_ns_typhoon"
     },
+    "bm_wp_upg_o_45iron_achievment": {
+        "base_text": "Complete the TRIPLE KILL achievement to unlock",
+        "loc_text": "Complete the TRIPLE KILL achievement to unlock",
+        "string_id": "bm_wp_upg_o_45iron_achievment"
+    },
     "bm_wp_upg_o_acog": {
         "base_text": "Acough Optic Scope",
         "loc_text": "Acough Optic Scope",
@@ -10903,6 +12098,11 @@
         "base_text": "Flip-up Sight",
         "loc_text": "Flip-up Sight",
         "string_id": "bm_wp_upg_o_mbus_rear"
+    },
+    "bm_wp_upg_o_mbus_rear_achievment": {
+        "base_text": "Complete the LOCK, STOCK & EIGHT SMOKING BARRELS achievement to unlock",
+        "loc_text": "Complete the LOCK, STOCK & EIGHT SMOKING BARRELS achievement to unlock",
+        "string_id": "bm_wp_upg_o_mbus_rear_achievment"
     },
     "bm_wp_upg_o_reflex": {
         "base_text": "Speculator Sight",
@@ -11053,6 +12253,11 @@
         "base_text": "Explosive Arrows",
         "loc_text": "Explosive Arrows",
         "string_id": "bm_wpn_fps_upg_a_bow_explosion"
+    },
+    "bm_wpn_fps_upg_a_bow_explosion_desc": {
+        "base_text": "Arrow with an explosive tip that detonates on impact.",
+        "loc_text": "Arrow with an explosive tip that detonates on impact.",
+        "string_id": "bm_wpn_fps_upg_a_bow_explosion_desc"
     },
     "bm_wpn_fps_upg_o_45iron": {
         "base_text": "Angled Sight",
@@ -11744,6 +12949,11 @@
         "loc_text": "Born to Steal",
         "string_id": "bm_wskn_m16_cs4"
     },
+    "bm_wskn_m16_sfs": {
+        "base_text": "High Life ",
+        "loc_text": "High Life ",
+        "string_id": "bm_wskn_m16_sfs"
+    },
     "bm_wskn_m16_waves": {
         "base_text": "Charlie Don't Surf",
         "loc_text": "Charlie Don't Surf",
@@ -11793,6 +13003,21 @@
         "base_text": "Heat Wave",
         "loc_text": "Heat Wave",
         "string_id": "bm_wskn_m37_css"
+    },
+    "bm_wskn_m45_buck": {
+        "base_text": "Asphalt Eater",
+        "loc_text": "Asphalt Eater",
+        "string_id": "bm_wskn_m45_buck"
+    },
+    "bm_wskn_m45_dss": {
+        "base_text": "Copper Green",
+        "loc_text": "Copper Green",
+        "string_id": "bm_wskn_m45_dss"
+    },
+    "bm_wskn_m45_grunt": {
+        "base_text": "Rattler",
+        "loc_text": "Rattler",
+        "string_id": "bm_wskn_m45_grunt"
     },
     "bm_wskn_m95_bombmatta": {
         "base_text": "Hype Train",

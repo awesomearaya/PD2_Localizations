@@ -1,0 +1,22 @@
+{
+    "menu_arm_animation": {
+        "base_text": "Procedural arm animation",
+        "loc_text": "Procedural arm animation",
+        "string_id": "menu_arm_animation"
+    },
+    "menu_arm_animation_help": {
+        "base_text": "Enable procedural arm animations for VR players when available.",
+        "loc_text": "Enable procedural arm animations for VR players when available.",
+        "string_id": "menu_arm_animation_help"
+    },
+    "menu_vr_descs": {
+        "base_text": "Show VR descriptions",
+        "loc_text": "Show VR descriptions",
+        "string_id": "menu_vr_descs"
+    },
+    "menu_vr_descs_help": {
+        "base_text": "Displays VR-specific information in desktop mode",
+        "loc_text": "Displays VR-specific information in desktop mode",
+        "string_id": "menu_vr_descs_help"
+    }
+}

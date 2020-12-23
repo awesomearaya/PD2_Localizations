@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	 <string id="menu_vr_descs">Show VR descriptions</string>
+	 <string id="menu_arm_animation">Procedural arm animation</string>
+	 <string id="menu_vr_descs_help">Displays VR-specific information in desktop mode</string>
+	 <string id="menu_arm_animation_help">Enable procedural arm animations for VR players when available.</string>
+</resources>

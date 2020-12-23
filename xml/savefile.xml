@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string id="savefile_progress_description">Player statistics and game progression.</string>
+	 <string id="savefile_removing">Removing...</string>
+	 <string id="savefile_loading">Loading...</string>
+	 <string id="savefile_setting_description">User specific game settings.</string>
+	 <string id="savefile_progress">Player progression: Version $VERSION; or higher is required.</string>
+	 <string id="savefile_setting">Game settings: Version $VERSION; or higher is required.</string>
+	 <string id="savefile_saving">Saving...</string>
 </resources>

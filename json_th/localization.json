@@ -4,6 +4,21 @@
         "loc_text": "Are you sure you would like to terminate the current contract?$NL;$NL;You and your crew will be returned to the planning phase where a new contract can be selected.",
         "string_id": "dialog_abort_mission_text"
     },
+    "dialog_abort_weapon_color_customize": {
+        "base_text": "Are you sure you want to go back without applying your configuration?",
+        "loc_text": "Are you sure you want to go back without applying your configuration?",
+        "string_id": "dialog_abort_weapon_color_customize"
+    },
+    "dialog_accept": {
+        "base_text": "Accept",
+        "loc_text": "Accept",
+        "string_id": "dialog_accept"
+    },
+    "dialog_accept_changes": {
+        "base_text": "Do you wish to keep these display settings? They will be reverted in $TIME;.",
+        "loc_text": "Do you wish to keep these display settings? They will be reverted in $TIME;.",
+        "string_id": "dialog_accept_changes"
+    },
     "dialog_accept_changes_title": {
         "base_text": "CONFIRM CHANGE?",
         "loc_text": "CONFIRM CHANGE?",
@@ -19,20 +34,75 @@
         "loc_text": "Are you sure you want to leave this lobby?",
         "string_id": "dialog_are_you_sure_you_want_leave"
     },
+    "dialog_are_you_sure_you_want_leave_cs": {
+        "base_text": "Are you sure you want to leave this lobby?$NL;$NL;Your Crime Spree will be suspended until you continue it.",
+        "loc_text": "Are you sure you want to leave this lobby?$NL;$NL;Your Crime Spree will be suspended until you continue it.",
+        "string_id": "dialog_are_you_sure_you_want_leave_cs"
+    },
+    "dialog_are_you_sure_you_want_stop_cs": {
+        "base_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current Crime Spree, and no rewards will be given to you.",
+        "loc_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current Crime Spree, and no rewards will be given to you.",
+        "string_id": "dialog_are_you_sure_you_want_stop_cs"
+    },
+    "dialog_are_you_sure_you_want_stop_cs_refund": {
+        "base_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current spree, and no rewards will be given to you. Your initial investment of $coins; Continental Coins will be returned to you.",
+        "loc_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current spree, and no rewards will be given to you. Your initial investment of $coins; Continental Coins will be returned to you.",
+        "string_id": "dialog_are_you_sure_you_want_stop_cs_refund"
+    },
+    "dialog_are_you_sure_you_want_to_clear_progress": {
+        "base_text": "Are you sure you want to clear your progress? This will reset your cash, reputation level and your inventory.",
+        "loc_text": "Are you sure you want to clear your progress? This will reset your cash, reputation level and your inventory.",
+        "string_id": "dialog_are_you_sure_you_want_to_clear_progress"
+    },
     "dialog_are_you_sure_you_want_to_leave_game": {
         "base_text": "Are you sure you want to leave current game?",
         "loc_text": "Are you sure you want to leave current game?",
         "string_id": "dialog_are_you_sure_you_want_to_leave_game"
+    },
+    "dialog_are_you_sure_you_want_to_leave_game_crime_spree": {
+        "base_text": "Are you sure you want to leave current game?$NL;$NL;This will cause your current Crime Spree to fail, and you must pay to continue, or claim your rewards from a Crime Spree lobby.",
+        "loc_text": "Are you sure you want to leave current game?$NL;$NL;This will cause your current Crime Spree to fail, and you must pay to continue, or claim your rewards from a Crime Spree lobby.",
+        "string_id": "dialog_are_you_sure_you_want_to_leave_game_crime_spree"
     },
     "dialog_are_you_sure_you_want_to_quit": {
         "base_text": "Are you sure you want to quit?",
         "loc_text": "Are you sure you want to quit?",
         "string_id": "dialog_are_you_sure_you_want_to_quit"
     },
+    "dialog_ask_load_progress_backup_corrupt": {
+        "base_text": "Progress profile corrupt. Load from Backup? Chosing NO will delete your progress.",
+        "loc_text": "Progress profile corrupt. Load from Backup? Chosing NO will delete your progress.",
+        "string_id": "dialog_ask_load_progress_backup_corrupt"
+    },
+    "dialog_ask_load_progress_backup_low_lvl": {
+        "base_text": "Your local backup save is more recent than the last Steam save.$NL;$NL;Press YES if you want to load your local backup save.",
+        "loc_text": "Your local backup save is more recent than the last Steam save.$NL;$NL;Press YES if you want to load your local backup save.",
+        "string_id": "dialog_ask_load_progress_backup_low_lvl"
+    },
+    "dialog_ask_load_progress_backup_wrong_version": {
+        "base_text": "Progress profile wrong version. Load from Backup? Chosing NO will delete your progress.",
+        "loc_text": "Progress profile wrong version. Load from Backup? Chosing NO will delete your progress.",
+        "string_id": "dialog_ask_load_progress_backup_wrong_version"
+    },
     "dialog_assets_buy_title": {
         "base_text": "Are you sure?",
         "loc_text": "Are you sure?",
         "string_id": "dialog_assets_buy_title"
+    },
+    "dialog_authentication_fail": {
+        "base_text": "Steam could not authenticate your Steam ID.",
+        "loc_text": "Steam could not authenticate your Steam ID.",
+        "string_id": "dialog_authentication_fail"
+    },
+    "dialog_authentication_host_fail": {
+        "base_text": "Steam could not authenticate Steam ID for the host.",
+        "loc_text": "Steam could not authenticate Steam ID for the host.",
+        "string_id": "dialog_authentication_host_fail"
+    },
+    "dialog_blackmarket_abort_mask_warning": {
+        "base_text": "Your mask has not been finalized. Aborting will leave the mask unchanged.",
+        "loc_text": "Your mask has not been finalized. Aborting will leave the mask unchanged.",
+        "string_id": "dialog_blackmarket_abort_mask_warning"
     },
     "dialog_blackmarket_assemble_item": {
         "base_text": "Do you really want to put together $item; mask and place it into your inventory?$NL;$NL;$num_in_inventory;",
@@ -44,10 +114,25 @@
         "loc_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;",
         "string_id": "dialog_blackmarket_buy_item"
     },
+    "dialog_blackmarket_buy_weapon_slot": {
+        "base_text": "Buying this will unlock one more weapon slot.$NL;$NL;This will cost you $money;.",
+        "loc_text": "Buying this will unlock one more weapon slot.$NL;$NL;This will cost you $money;.",
+        "string_id": "dialog_blackmarket_buy_weapon_slot"
+    },
+    "dialog_blackmarket_finalize_item": {
+        "base_text": "$ITEM;$NL; You are about to finalize your customizations, this process is irreversible and will cost you $money;.",
+        "loc_text": "$ITEM;$NL; You are about to finalize your customizations, this process is irreversible and will cost you $money;.",
+        "string_id": "dialog_blackmarket_finalize_item"
+    },
     "dialog_blackmarket_lost_mods_warning": {
         "base_text": "(Your removed modifications will be placed in the inventory)",
         "loc_text": "(Your removed modifications will be placed in the inventory)",
         "string_id": "dialog_blackmarket_lost_mods_warning"
+    },
+    "dialog_blackmarket_mask_sell_mod_readded": {
+        "base_text": "$mod; will return to your inventory.",
+        "loc_text": "$mod; will return to your inventory.",
+        "string_id": "dialog_blackmarket_mask_sell_mod_readded"
     },
     "dialog_blackmarket_mod_add": {
         "base_text": "You are about to add modification $mod; to your weapon.",
@@ -89,6 +174,16 @@
         "loc_text": "If you sell this, you will be paid $money;.",
         "string_id": "dialog_blackmarket_slot_item_sell"
     },
+    "dialog_blackmarket_slot_mask_remove": {
+        "base_text": "Return this mask back to your stash? $suffix;",
+        "loc_text": "Return this mask back to your stash? $suffix;",
+        "string_id": "dialog_blackmarket_slot_mask_remove"
+    },
+    "dialog_blackmarket_slot_mask_remove_suffix": {
+        "base_text": "Customizations will be sold for $money;.",
+        "loc_text": "Customizations will be sold for $money;.",
+        "string_id": "dialog_blackmarket_slot_mask_remove_suffix"
+    },
     "dialog_bm_crafted_sell_title": {
         "base_text": "Are you sure?",
         "loc_text": "Are you sure?",
@@ -98,6 +193,16 @@
         "base_text": "Are you sure?",
         "loc_text": "Are you sure?",
         "string_id": "dialog_bm_mask_assemble_title"
+    },
+    "dialog_bm_mask_custom_abort": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_bm_mask_custom_abort"
+    },
+    "dialog_bm_mask_custom_final_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_bm_mask_custom_final_title"
     },
     "dialog_bm_weapon_buy_title": {
         "base_text": "Are you sure?",
@@ -109,20 +214,160 @@
         "loc_text": "Are you sure?",
         "string_id": "dialog_bm_weapon_modify_title"
     },
+    "dialog_can_become_infamous_desc": {
+        "base_text": "You have fulfilled the conditions for the next level of infamy. To become infamous, press '$become_infamous_menu_item;' in the inventory.",
+        "loc_text": "You have fulfilled the conditions for the next level of infamy. To become infamous, press '$become_infamous_menu_item;' in the inventory.",
+        "string_id": "dialog_can_become_infamous_desc"
+    },
+    "dialog_cant_continue_cs_text": {
+        "base_text": "You can not continue your Crime Spree as you do not have enough Continental Coins. In order to continue from $level;$BTN_SPREE_TICKET; you need $cost; Continental Coins.",
+        "loc_text": "You can not continue your Crime Spree as you do not have enough Continental Coins. In order to continue from $level;$BTN_SPREE_TICKET; you need $cost; Continental Coins.",
+        "string_id": "dialog_cant_continue_cs_text"
+    },
+    "dialog_cant_continue_cs_title": {
+        "base_text": "This can not Continue",
+        "loc_text": "This can not Continue",
+        "string_id": "dialog_cant_continue_cs_title"
+    },
+    "dialog_connection_to_host_lost": {
+        "base_text": "Connection to the host has been lost",
+        "loc_text": "Connection to the host has been lost",
+        "string_id": "dialog_connection_to_host_lost"
+    },
+    "dialog_continue_cs_text": {
+        "base_text": "Do you want to continue your Crime Spree?$NL;This will allow you to continue your Crime Spree from $level;$BTN_SPREE_TICKET; to gain Crime Spree Ranks and accumulate greater rewards.$NL;$NL;This will cost you $cost; Continental Coins.",
+        "loc_text": "Do you want to continue your Crime Spree?$NL;This will allow you to continue your Crime Spree from $level;$BTN_SPREE_TICKET; to gain Crime Spree Ranks and accumulate greater rewards.$NL;$NL;This will cost you $cost; Continental Coins.",
+        "string_id": "dialog_continue_cs_text"
+    },
+    "dialog_continue_cs_title": {
+        "base_text": "Continue Crime Spree",
+        "loc_text": "Continue Crime Spree",
+        "string_id": "dialog_continue_cs_title"
+    },
     "dialog_creating_lobby_title": {
         "base_text": "Creating game",
         "loc_text": "Creating game",
         "string_id": "dialog_creating_lobby_title"
+    },
+    "dialog_cs_cant_claim_rewards_text": {
+        "base_text": "You have no rewards to claim.",
+        "loc_text": "You have no rewards to claim.",
+        "string_id": "dialog_cs_cant_claim_rewards_text"
+    },
+    "dialog_cs_claim_rewards": {
+        "base_text": "Claim Rewards",
+        "loc_text": "Claim Rewards",
+        "string_id": "dialog_cs_claim_rewards"
+    },
+    "dialog_cs_claim_rewards_text": {
+        "base_text": "Are you sure you want to claim your Crime Spree rewards?$NL;$NL;This will end your current Crime Spree lobby, and you will have to start a new one to gain rewards again.",
+        "loc_text": "Are you sure you want to claim your Crime Spree rewards?$NL;$NL;This will end your current Crime Spree lobby, and you will have to start a new one to gain rewards again.",
+        "string_id": "dialog_cs_claim_rewards_text"
+    },
+    "dialog_cs_crash_fail": {
+        "base_text": "Crime Spree Failed",
+        "loc_text": "Crime Spree Failed",
+        "string_id": "dialog_cs_crash_fail"
+    },
+    "dialog_cs_crash_fail_text": {
+        "base_text": "Your Crime Spree has failed due to an unexpected closure of the game.$NL;You can still pay the Continental Coin cost to continue.",
+        "loc_text": "Your Crime Spree has failed due to an unexpected closure of the game.$NL;You can still pay the Continental Coin cost to continue.",
+        "string_id": "dialog_cs_crash_fail_text"
+    },
+    "dialog_cs_ga_already_purchased": {
+        "base_text": "Already Purchased",
+        "loc_text": "Already Purchased",
+        "string_id": "dialog_cs_ga_already_purchased"
+    },
+    "dialog_cs_ga_already_purchased_text": {
+        "base_text": "You can only purchase one Gage Boost per Crime Spree mission.",
+        "loc_text": "You can only purchase one Gage Boost per Crime Spree mission.",
+        "string_id": "dialog_cs_ga_already_purchased_text"
+    },
+    "dialog_cs_ga_in_progress": {
+        "base_text": "Heist In Progress",
+        "loc_text": "Heist In Progress",
+        "string_id": "dialog_cs_ga_in_progress"
+    },
+    "dialog_cs_ga_in_progress_text": {
+        "base_text": "Gage Boosts can not be purchased after the mission has been started.",
+        "loc_text": "Gage Boosts can not be purchased after the mission has been started.",
+        "string_id": "dialog_cs_ga_in_progress_text"
+    },
+    "dialog_default_options_message": {
+        "base_text": "Do you wish to reset all options to their default state?",
+        "loc_text": "Do you wish to reset all options to their default state?",
+        "string_id": "dialog_default_options_message"
+    },
+    "dialog_default_options_title": {
+        "base_text": "Reset options",
+        "loc_text": "Reset options",
+        "string_id": "dialog_default_options_title"
+    },
+    "dialog_dlc_require_restart_desc": {
+        "base_text": "You need to restart PAYDAY 2 to access your new items.",
+        "loc_text": "You need to restart PAYDAY 2 to access your new items.",
+        "string_id": "dialog_dlc_require_restart_desc"
     },
     "dialog_dropin_title": {
         "base_text": "$USER; is joining the game",
         "loc_text": "$USER; is joining the game",
         "string_id": "dialog_dropin_title"
     },
+    "dialog_err_failed_creating_lobby": {
+        "base_text": "Failed to create game.",
+        "loc_text": "Failed to create game.",
+        "string_id": "dialog_err_failed_creating_lobby"
+    },
+    "dialog_err_failed_joining_lobby": {
+        "base_text": "Failed joining game.",
+        "loc_text": "Failed joining game.",
+        "string_id": "dialog_err_failed_joining_lobby"
+    },
+    "dialog_err_not_signed_in": {
+        "base_text": "YOU MUST BE ONLINE TO MAKE USE OF NETWORK MODES.",
+        "loc_text": "YOU MUST BE ONLINE TO MAKE USE OF NETWORK MODES.",
+        "string_id": "dialog_err_not_signed_in"
+    },
+    "dialog_err_room_is_full": {
+        "base_text": "This room has been filled, please try another one.",
+        "loc_text": "This room has been filled, please try another one.",
+        "string_id": "dialog_err_room_is_full"
+    },
+    "dialog_error_title": {
+        "base_text": "Error",
+        "loc_text": "Error",
+        "string_id": "dialog_error_title"
+    },
+    "dialog_fail_load_progress_corrupt": {
+        "base_text": "Progress corrupt. Data will now be deleted.",
+        "loc_text": "Progress corrupt. Data will now be deleted.",
+        "string_id": "dialog_fail_load_progress_corrupt"
+    },
+    "dialog_fail_load_progress_corrupt_retry": {
+        "base_text": "Progress could not be loaded. Try loading again?",
+        "loc_text": "Progress could not be loaded. Try loading again?",
+        "string_id": "dialog_fail_load_progress_corrupt_retry"
+    },
+    "dialog_gage_assignment_completed": {
+        "base_text": "From: Gage [gage@///REDACTED///]$NL;To: $player;$NL;Date: $date; $time;$NL;Subject: GAGE COURIER ASSIGNMENTS$NL;$NL;GOOD JOB!$NL;$NL;Well done, $player;. Thanks for collecting the packages. It's time to get your reward. Go to your inventory and you will find the content of the following packages:$NL;$completed;$NL;$NL;- Gage",
+        "loc_text": "From: Gage [gage@///REDACTED///]$NL;To: $player;$NL;Date: $date; $time;$NL;Subject: GAGE COURIER ASSIGNMENTS$NL;$NL;GOOD JOB!$NL;$NL;Well done, $player;. Thanks for collecting the packages. It's time to get your reward. Go to your inventory and you will find the content of the following packages:$NL;$completed;$NL;$NL;- Gage",
+        "string_id": "dialog_gage_assignment_completed"
+    },
     "dialog_gage_assignment_completed_title": {
         "base_text": "YOU HAVE A NEW MESSAGE",
         "loc_text": "YOU HAVE A NEW MESSAGE",
         "string_id": "dialog_gage_assignment_completed_title"
+    },
+    "dialog_game_started": {
+        "base_text": "The game is currently not joinable",
+        "loc_text": "The game is currently not joinable",
+        "string_id": "dialog_game_started"
+    },
+    "dialog_infamous_info_desc": {
+        "base_text": "You don't have what it takes yet. To become infamous, you will need to get to reputation level $level; and pay a fee of $cash; from your offshore account along with your skill points and the rest of your spending cash.",
+        "loc_text": "You don't have what it takes yet. To become infamous, you will need to get to reputation level $level; and pay a fee of $cash; from your offshore account along with your skill points and the rest of your spending cash.",
+        "string_id": "dialog_infamous_info_desc"
     },
     "dialog_information_title": {
         "base_text": "Information",
@@ -133,6 +378,11 @@
         "base_text": "$num;x $item;",
         "loc_text": "$num;x $item;",
         "string_id": "dialog_item_list_macro"
+    },
+    "dialog_join_pd2_clan": {
+        "base_text": "Go to PAYDAY 2 community page",
+        "loc_text": "Go to PAYDAY 2 community page",
+        "string_id": "dialog_join_pd2_clan"
     },
     "dialog_joining_lobby_title": {
         "base_text": "Joining game",
@@ -154,6 +404,16 @@
         "loc_text": "Kick player",
         "string_id": "dialog_mp_kick_player_title"
     },
+    "dialog_mp_kicked_out_message": {
+        "base_text": "You've been kicked from the game.",
+        "loc_text": "You've been kicked from the game.",
+        "string_id": "dialog_mp_kicked_out_message"
+    },
+    "dialog_mp_kicked_out_title": {
+        "base_text": "Kicked out",
+        "loc_text": "Kicked out",
+        "string_id": "dialog_mp_kicked_out_title"
+    },
     "dialog_mp_restart_level_host_message": {
         "base_text": "Are you sure you want to restart?",
         "loc_text": "Are you sure you want to restart?",
@@ -163,6 +423,11 @@
         "base_text": "Restart",
         "loc_text": "Restart",
         "string_id": "dialog_mp_restart_level_title"
+    },
+    "dialog_mp_vote_restart_message": {
+        "base_text": "A vote has been initiated to restart. The vote will end in $time; seconds.",
+        "loc_text": "A vote has been initiated to restart. The vote will end in $time; seconds.",
+        "string_id": "dialog_mp_vote_restart_message"
     },
     "dialog_no": {
         "base_text": "No",
@@ -174,10 +439,35 @@
         "loc_text": "Ok",
         "string_id": "dialog_ok"
     },
+    "dialog_remove_dead_peer": {
+        "base_text": "Connection to one or more players could not be established.",
+        "loc_text": "Connection to one or more players could not be established.",
+        "string_id": "dialog_remove_dead_peer"
+    },
+    "dialog_request_timed_out_message": {
+        "base_text": "Request to join game timed out",
+        "loc_text": "Request to join game timed out",
+        "string_id": "dialog_request_timed_out_message"
+    },
+    "dialog_request_timed_out_title": {
+        "base_text": "Timed out",
+        "loc_text": "Timed out",
+        "string_id": "dialog_request_timed_out_title"
+    },
+    "dialog_respec_skilltree": {
+        "base_text": "You are about to respec this skill tree.$NL;$NL;Doing a respec resets all skill points in the $tree; skill tree.",
+        "loc_text": "You are about to respec this skill tree.$NL;$NL;Doing a respec resets all skill points in the $tree; skill tree.",
+        "string_id": "dialog_respec_skilltree"
+    },
     "dialog_safehouse_goto_text": {
         "base_text": "Do you want to go to your safe house?",
         "loc_text": "Do you want to go to your safe house?",
         "string_id": "dialog_safehouse_goto_text"
+    },
+    "dialog_safehouse_text": {
+        "base_text": "You haven't visited the safe house yet. Would you like to go there now?",
+        "loc_text": "You haven't visited the safe house yet. Would you like to go there now?",
+        "string_id": "dialog_safehouse_text"
     },
     "dialog_safehouse_title": {
         "base_text": "Safe house",
@@ -189,15 +479,60 @@
         "loc_text": "Are you sure you want to restart current game?",
         "string_id": "dialog_show_restart_game_message"
     },
+    "dialog_skills_place_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_skills_place_title"
+    },
     "dialog_skills_respec_title": {
         "base_text": "Are you sure?",
         "loc_text": "Are you sure?",
         "string_id": "dialog_skills_respec_title"
     },
+    "dialog_telemetry_accept": {
+        "base_text": "$ACCEPT; Accept",
+        "loc_text": "$ACCEPT; Accept",
+        "string_id": "dialog_telemetry_accept"
+    },
+    "dialog_telemetry_decline": {
+        "base_text": "$DECLINE; Decline",
+        "loc_text": "$DECLINE; Decline",
+        "string_id": "dialog_telemetry_decline"
+    },
+    "dialog_telemetry_question": {
+        "base_text": "We are collecting game data with the purpose of improving your game experience. Do you consent to this?",
+        "loc_text": "We are collecting game data with the purpose of improving your game experience. Do you consent to this?",
+        "string_id": "dialog_telemetry_question"
+    },
+    "dialog_telemetry_title": {
+        "base_text": "Privacy Policy for Payday 2",
+        "loc_text": "Privacy Policy for Payday 2",
+        "string_id": "dialog_telemetry_title"
+    },
     "dialog_the_host_has_left_the_game": {
         "base_text": "The host has left the game",
         "loc_text": "The host has left the game",
         "string_id": "dialog_the_host_has_left_the_game"
+    },
+    "dialog_too_low_level": {
+        "base_text": "Your reputation is too low to join this server.",
+        "loc_text": "Your reputation is too low to join this server.",
+        "string_id": "dialog_too_low_level"
+    },
+    "dialog_unlock_infamyitem": {
+        "base_text": "You are about to unlock $item; item.$NL;$NL;It will cost $points; out of $remaining_points; points.",
+        "loc_text": "You are about to unlock $item; item.$NL;$NL;It will cost $points; out of $remaining_points; points.",
+        "string_id": "dialog_unlock_infamyitem"
+    },
+    "dialog_unlock_skill_switch": {
+        "base_text": "You are about to unlock a new skill set.$NL;$NL;$cost_text;",
+        "loc_text": "You are about to unlock a new skill set.$NL;$NL;$cost_text;",
+        "string_id": "dialog_unlock_skill_switch"
+    },
+    "dialog_unlock_skill_switch_title": {
+        "base_text": "Are you sure?",
+        "loc_text": "Are you sure?",
+        "string_id": "dialog_unlock_skill_switch_title"
     },
     "dialog_unsuspend": {
         "base_text": "This skill set is suspended, you can reset all skill points used in this skill set to make it available for use again. Would you like to reset $Name;?",
@@ -209,10 +544,20 @@
         "loc_text": "Unsuspend Skill Set",
         "string_id": "dialog_unsuspend_title"
     },
+    "dialog_use_default_keys_message": {
+        "base_text": "Do you wish to reset all keys to their default state?",
+        "loc_text": "Do you wish to reset all keys to their default state?",
+        "string_id": "dialog_use_default_keys_message"
+    },
     "dialog_wait": {
         "base_text": "Please wait",
         "loc_text": "Please wait",
         "string_id": "dialog_wait"
+    },
+    "dialog_wait_title": {
+        "base_text": "Please wait",
+        "loc_text": "Please wait",
+        "string_id": "dialog_wait_title"
     },
     "dialog_waiting_for_server_response_title": {
         "base_text": "Waiting for game to respond",
@@ -223,6 +568,11 @@
         "base_text": "Warning",
         "loc_text": "Warning",
         "string_id": "dialog_warning_title"
+    },
+    "dialog_xp_to_specialization": {
+        "base_text": "XP to Perk Conversion",
+        "loc_text": "XP to Perk Conversion",
+        "string_id": "dialog_xp_to_specialization"
     },
     "dialog_yes": {
         "base_text": "Yes",
@@ -759,25 +1109,745 @@
         "loc_text": "IRS HACK.",
         "string_id": "mission_undercover_transaction_hl"
     },
+    "savefile_loading": {
+        "base_text": "Loading...",
+        "loc_text": "Loading...",
+        "string_id": "savefile_loading"
+    },
+    "savefile_progress": {
+        "base_text": "Player progression: Version $VERSION; or higher is required.",
+        "loc_text": "Player progression: Version $VERSION; or higher is required.",
+        "string_id": "savefile_progress"
+    },
+    "savefile_progress_description": {
+        "base_text": "Player statistics and game progression.",
+        "loc_text": "Player statistics and game progression.",
+        "string_id": "savefile_progress_description"
+    },
+    "savefile_removing": {
+        "base_text": "Removing...",
+        "loc_text": "Removing...",
+        "string_id": "savefile_removing"
+    },
+    "savefile_saving": {
+        "base_text": "Saving...",
+        "loc_text": "Saving...",
+        "string_id": "savefile_saving"
+    },
+    "savefile_setting": {
+        "base_text": "Game settings: Version $VERSION; or higher is required.",
+        "loc_text": "Game settings: Version $VERSION; or higher is required.",
+        "string_id": "savefile_setting"
+    },
+    "savefile_setting_description": {
+        "base_text": "User specific game settings.",
+        "loc_text": "User specific game settings.",
+        "string_id": "savefile_setting_description"
+    },
+    "sm_10_desc": {
+        "base_text": "Nuclear warheads in the hands of a mobster? Don't ask. Vlad's ready to help you step up. Says he can help you get in touch with the cartels, but the Fed's are combing the streets looking for those missing warheads. Well, let them pull DC apart looking for you. Vlad has another job, and this one is urgent. Get to LA - fast.",
+        "loc_text": "Nuclear warheads in the hands of a mobster? Don't ask. Vlad's ready to help you step up. Says he can help you get in touch with the cartels, but the Fed's are combing the streets looking for those missing warheads. Well, let them pull DC apart looking for you. Vlad has another job, and this one is urgent. Get to LA - fast.",
+        "string_id": "sm_10_desc"
+    },
+    "sm_10_name": {
+        "base_text": "Highway Incident",
+        "loc_text": "Highway Incident",
+        "string_id": "sm_10_name"
+    },
+    "sm_10_obj": {
+        "base_text": "Complete the Aftershock job on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Aftershock job on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_10_obj"
+    },
+    "sm_12_desc": {
+        "base_text": "Before Vlad hands over any of that powder, he needs a little insurance. The name of the Payday Gang means something new. Having us flex a little muscle on his behalf shows his rivals how far he's come. He's a pain in the ass, I know, but after this he'll be ready to introduce you to his cartel, so it's worth it.",
+        "loc_text": "Before Vlad hands over any of that powder, he needs a little insurance. The name of the Payday Gang means something new. Having us flex a little muscle on his behalf shows his rivals how far he's come. He's a pain in the ass, I know, but after this he'll be ready to introduce you to his cartel, so it's worth it.",
+        "string_id": "sm_12_desc"
+    },
+    "sm_12_name": {
+        "base_text": "Paying Rent",
+        "loc_text": "Paying Rent",
+        "string_id": "sm_12_name"
+    },
+    "sm_12_obj": {
+        "base_text": "Complete the Nightclub and Stealing Xmas jobs on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Nightclub and Stealing Xmas jobs on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_12_obj"
+    },
+    "sm_13_desc": {
+        "base_text": "Vlad has hooked us up with a contact in the cartel - Hector Morales. Not quite ready to let us in with their action, not until we prove ourselves. We need to build our notoriety. So time to get a few jobs under our belts. Enough to get your names on the lips of every cop and politician in DC. That should do it.",
+        "loc_text": "Vlad has hooked us up with a contact in the cartel - Hector Morales. Not quite ready to let us in with their action, not until we prove ourselves. We need to build our notoriety. So time to get a few jobs under our belts. Enough to get your names on the lips of every cop and politician in DC. That should do it.",
+        "string_id": "sm_13_desc"
+    },
+    "sm_13_name": {
+        "base_text": "Honest Work",
+        "loc_text": "Honest Work",
+        "string_id": "sm_13_name"
+    },
+    "sm_13_obj": {
+        "base_text": "Reach reputation level 50.",
+        "loc_text": "Reach reputation level 50.",
+        "string_id": "sm_13_obj"
+    },
+    "sm_14_desc": {
+        "base_text": "Hector's ready to work with us. He's looking to move a big shipment of coke to the docks. A very big shipment. Wants us riding in the truck with the product. I'm guessing this amount of blow is going to see Hector move up the ranks in the cartel. Good opportunity for us to move with him.",
+        "loc_text": "Hector's ready to work with us. He's looking to move a big shipment of coke to the docks. A very big shipment. Wants us riding in the truck with the product. I'm guessing this amount of blow is going to see Hector move up the ranks in the cartel. Good opportunity for us to move with him.",
+        "string_id": "sm_14_desc"
+    },
+    "sm_14_name": {
+        "base_text": "Promotion",
+        "loc_text": "Promotion",
+        "string_id": "sm_14_name"
+    },
+    "sm_14_obj": {
+        "base_text": "Complete the Watchdog job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Watchdog job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_14_obj"
+    },
+    "sm_15_desc": {
+        "base_text": "The Feds were waiting for us! Someone, inside or outside the crew, but someone close to us, is a rat. We'll figure out who it was, but until then we stay professional. Hector wants us on another job, sticking it to his rivals - the Mendoza cartel. Let's do this. Maybe it will draw the traitor out.",
+        "loc_text": "The Feds were waiting for us! Someone, inside or outside the crew, but someone close to us, is a rat. We'll figure out who it was, but until then we stay professional. Hector wants us on another job, sticking it to his rivals - the Mendoza cartel. Let's do this. Maybe it will draw the traitor out.",
+        "string_id": "sm_15_desc"
+    },
+    "sm_15_name": {
+        "base_text": "The Price You Pay",
+        "loc_text": "The Price You Pay",
+        "string_id": "sm_15_name"
+    },
+    "sm_15_obj": {
+        "base_text": "Complete the Firestarter job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Firestarter job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_15_obj"
+    },
+    "sm_16_desc": {
+        "base_text": "Hector's got a plan for finishing off the Mendozas, who we reckon are being moved out of the country. Part of that plan is getting info off another gang, the Cobras, but they don't want money - they want meth. Hector won't use his own people for this, so we're going to see the deal goes down. This could be what puts Hector top of the pile, so it's worth our time.",
+        "loc_text": "Hector's got a plan for finishing off the Mendozas, who we reckon are being moved out of the country. Part of that plan is getting info off another gang, the Cobras, but they don't want money - they want meth. Hector won't use his own people for this, so we're going to see the deal goes down. This could be what puts Hector top of the pile, so it's worth our time.",
+        "string_id": "sm_16_desc"
+    },
+    "sm_16_name": {
+        "base_text": "Payment Due",
+        "loc_text": "Payment Due",
+        "string_id": "sm_16_name"
+    },
+    "sm_16_obj": {
+        "base_text": "Complete the Rats job in Very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Rats job in Very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_16_obj"
+    },
+    "sm_17_desc": {
+        "base_text": "All right, we got a new contact. A politician, calling himself The Elephant. Job is a bit of industrial sabotage. Some hot-shot scientist has figured out cold fusion. Sort of technology that will make the oil companies as dead as disco. And the \"Powers That Be\" have a lot of money in those companies, so The Elephant and his friends want to make sure this technology gets buried. Fine by me.",
+        "loc_text": "All right, we got a new contact. A politician, calling himself The Elephant. Job is a bit of industrial sabotage. Some hot-shot scientist has figured out cold fusion. Sort of technology that will make the oil companies as dead as disco. And the \"Powers That Be\" have a lot of money in those companies, so The Elephant and his friends want to make sure this technology gets buried. Fine by me.",
+        "string_id": "sm_17_desc"
+    },
+    "sm_17_name": {
+        "base_text": "Power Play",
+        "loc_text": "Power Play",
+        "string_id": "sm_17_name"
+    },
+    "sm_17_obj": {
+        "base_text": "Complete the Big Oil job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Big Oil job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_17_obj"
+    },
+    "sm_18_desc": {
+        "base_text": "Getting that fusion engine off the scene will make The Elephant happy. And a happy Elephant is an Elephant that pays. He's so happy he has something else for us. The Elephant's next play is having us take out one of his opponents. So that's what we do.",
+        "loc_text": "Getting that fusion engine off the scene will make The Elephant happy. And a happy Elephant is an Elephant that pays. He's so happy he has something else for us. The Elephant's next play is having us take out one of his opponents. So that's what we do.",
+        "string_id": "sm_18_desc"
+    },
+    "sm_18_name": {
+        "base_text": "Pieces Off The Board",
+        "loc_text": "Pieces Off The Board",
+        "string_id": "sm_18_name"
+    },
+    "sm_18_obj": {
+        "base_text": "Complete the Framing Frame job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Framing Frame job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_18_obj"
+    },
+    "sm_19_desc": {
+        "base_text": "The Elephant is more of a back-room power broker. Works through pawns he gets into position, and that is what he wants us to do now. He's got a man - Bob McKendrick - in the running to be DC's mayor. The Elephant wants to make sure his man wins that race.",
+        "loc_text": "The Elephant is more of a back-room power broker. Works through pawns he gets into position, and that is what he wants us to do now. He's got a man - Bob McKendrick - in the running to be DC's mayor. The Elephant wants to make sure his man wins that race.",
+        "string_id": "sm_19_desc"
+    },
+    "sm_19_name": {
+        "base_text": "The Crooks And The Crooked",
+        "loc_text": "The Crooks And The Crooked",
+        "string_id": "sm_19_name"
+    },
+    "sm_19_obj": {
+        "base_text": "Complete the Election Day job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Election Day job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_19_obj"
+    },
+    "sm_1_desc": {
+        "base_text": "Before we begin, we gotta wipe your slate clean. That means erasing whatever dirt the Feds already got on you. You're nothing to them right now, so this shouldn't be too hard. Don't worry, I got your back and will talk you through it. Gives me a chance to make sure you're still up for this life.",
+        "loc_text": "Before we begin, we gotta wipe your slate clean. That means erasing whatever dirt the Feds already got on you. You're nothing to them right now, so this shouldn't be too hard. Don't worry, I got your back and will talk you through it. Gives me a chance to make sure you're still up for this life.",
+        "string_id": "sm_1_desc"
+    },
     "sm_1_name": {
         "base_text": "The Basics",
         "loc_text": "The Basics",
         "string_id": "sm_1_name"
+    },
+    "sm_1_obj": {
+        "base_text": "Complete The Tutorial Heists on stealth and loud or reach reputation level 10.",
+        "loc_text": "Complete The Tutorial Heists on stealth and loud or reach reputation level 10.",
+        "string_id": "sm_1_obj"
+    },
+    "sm_20_desc": {
+        "base_text": "I don't like it when people are trying to force our hands but this guy, The Dentist, has the means to get our associate back. If we want to be able to break Hoxton out of prison we have to play along with The Dentist's little plans. Although \"little\" is truly the wrong word here. The first job he \"so kindly\" asks us to do might be the biggest job we've done yet. He wants us to prove ourselves with the ultimate bank heist - the Benevolent Bank. It's never been successfully hit. If we pull this off, he says he'll help us get a chance to get Hoxton back. But not for free, I guess we'll hear more from him after the job.",
+        "loc_text": "I don't like it when people are trying to force our hands but this guy, The Dentist, has the means to get our associate back. If we want to be able to break Hoxton out of prison we have to play along with The Dentist's little plans. Although \"little\" is truly the wrong word here. The first job he \"so kindly\" asks us to do might be the biggest job we've done yet. He wants us to prove ourselves with the ultimate bank heist - the Benevolent Bank. It's never been successfully hit. If we pull this off, he says he'll help us get a chance to get Hoxton back. But not for free, I guess we'll hear more from him after the job.",
+        "string_id": "sm_20_desc"
+    },
+    "sm_20_name": {
+        "base_text": "Big Time",
+        "loc_text": "Big Time",
+        "string_id": "sm_20_name"
+    },
+    "sm_20_obj": {
+        "base_text": "Complete the Big Bank job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Big Bank job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_20_obj"
+    },
+    "sm_21_desc": {
+        "base_text": "The Dentist has a job for us, something big, but before that we need to get Hoxton back - he's in maximum security. Getting to him means getting to the District Attorney. Problem is he's being protected by a sack of Russian crap, calling himself The Commissar. Solution? Remove The Commissar. Wet work isn't usually our style but...well, exceptions can be made.",
+        "loc_text": "The Dentist has a job for us, something big, but before that we need to get Hoxton back - he's in maximum security. Getting to him means getting to the District Attorney. Problem is he's being protected by a sack of Russian crap, calling himself The Commissar. Solution? Remove The Commissar. Wet work isn't usually our style but...well, exceptions can be made.",
+        "string_id": "sm_21_desc"
+    },
+    "sm_21_name": {
+        "base_text": "Takedown Tango",
+        "loc_text": "Takedown Tango",
+        "string_id": "sm_21_name"
+    },
+    "sm_21_obj": {
+        "base_text": "Complete the Hotline Miami job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Hotline Miami job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_21_obj"
+    },
+    "sm_22_desc": {
+        "base_text": "Killing The Commissar means The Dentist can get to the DA. And that opens things up for us in the field of maximum security prison transfers. Of course, there's only one guy inside that we care about - our old friend Hoxton. He's a high-value, maximum security prisoner for the Feds. Putting pressure on the DA means we can get Hoxton into position for a break-out. So that's exactly what we're going to do.",
+        "loc_text": "Killing The Commissar means The Dentist can get to the DA. And that opens things up for us in the field of maximum security prison transfers. Of course, there's only one guy inside that we care about - our old friend Hoxton. He's a high-value, maximum security prisoner for the Feds. Putting pressure on the DA means we can get Hoxton into position for a break-out. So that's exactly what we're going to do.",
+        "string_id": "sm_22_desc"
+    },
+    "sm_22_name": {
+        "base_text": "Free Bird",
+        "loc_text": "Free Bird",
+        "string_id": "sm_22_name"
+    },
+    "sm_22_obj": {
+        "base_text": "Complete the Hoxton Breakout job in Very Hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Hoxton Breakout job in Very Hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_22_obj"
+    },
+    "sm_23_desc": {
+        "base_text": "Hector, that rat, is in the ground. Now, The Dentist is setting us after something special. He's not saying what it is just yet. First things first, though. There's a Diamond at the McKendrick Museum - THE Diamond. It's a valuable rock, and we're after it. The Dentist needs this diamond for something big, really big and we want a piece of it, so lets get get over to the Museum and grab that stone.",
+        "loc_text": "Hector, that rat, is in the ground. Now, The Dentist is setting us after something special. He's not saying what it is just yet. First things first, though. There's a Diamond at the McKendrick Museum - THE Diamond. It's a valuable rock, and we're after it. The Dentist needs this diamond for something big, really big and we want a piece of it, so lets get get over to the Museum and grab that stone.",
+        "string_id": "sm_23_desc"
+    },
+    "sm_23_name": {
+        "base_text": "Some Things are Forever",
+        "loc_text": "Some Things are Forever",
+        "string_id": "sm_23_name"
+    },
+    "sm_23_obj": {
+        "base_text": "Complete The Diamond job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete The Diamond job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_23_obj"
+    },
+    "sm_24_desc": {
+        "base_text": "The Diamond might be worth a King's ransom, but to The Dentist it's just a tool. Well, part of a tool, to be precise. Seems his real prize is stored in one of the world's toughest vaults - the Golden Grin Casino. We may be able to sneak it out of there, but if things get loud we need a plan B. That's why we're bringing in Sokol. He's designed a drill - the biggest ever, with The Diamond on the tip. Pack your bags - we're going to Vegas.",
+        "loc_text": "The Diamond might be worth a King's ransom, but to The Dentist it's just a tool. Well, part of a tool, to be precise. Seems his real prize is stored in one of the world's toughest vaults - the Golden Grin Casino. We may be able to sneak it out of there, but if things get loud we need a plan B. That's why we're bringing in Sokol. He's designed a drill - the biggest ever, with The Diamond on the tip. Pack your bags - we're going to Vegas.",
+        "string_id": "sm_24_desc"
+    },
+    "sm_24_name": {
+        "base_text": "A Gamble",
+        "loc_text": "A Gamble",
+        "string_id": "sm_24_name"
+    },
+    "sm_24_obj": {
+        "base_text": "Complete the Golden Grin Casino job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Golden Grin Casino job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_24_obj"
+    },
+    "sm_25_desc": {
+        "base_text": "After the Golden Grin, the Payday Gang is known from DC to LA and all points between. But it looks like you're getting an international reputation too. Got a call from The Butcher. A Croatian arms dealer, looking to make it in America. And who are we to stand in the way of someone following the American dream?",
+        "loc_text": "After the Golden Grin, the Payday Gang is known from DC to LA and all points between. But it looks like you're getting an international reputation too. Got a call from The Butcher. A Croatian arms dealer, looking to make it in America. And who are we to stand in the way of someone following the American dream?",
+        "string_id": "sm_25_desc"
+    },
+    "sm_25_name": {
+        "base_text": "A new friend",
+        "loc_text": "A new friend",
+        "string_id": "sm_25_name"
+    },
+    "sm_25_obj": {
+        "base_text": "Complete either The Bomb: Dockyard or The Bomb: Forest jobs  on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete either The Bomb: Dockyard or The Bomb: Forest jobs  on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_25_obj"
+    },
+    "sm_26_desc": {
+        "base_text": "Looks like The Butcher's burgeoning international operations hit something of a snag. The Sosa cartel have been interfering with her shipments. We made a little Balkan friend. Let's keep her that way.",
+        "loc_text": "Looks like The Butcher's burgeoning international operations hit something of a snag. The Sosa cartel have been interfering with her shipments. We made a little Balkan friend. Let's keep her that way.",
+        "string_id": "sm_26_desc"
+    },
+    "sm_26_name": {
+        "base_text": "Shipping Fees",
+        "loc_text": "Shipping Fees",
+        "string_id": "sm_26_name"
+    },
+    "sm_26_obj": {
+        "base_text": "Complete the Scarface job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Scarface job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_26_obj"
+    },
+    "sm_27_desc": {
+        "base_text": "You've come a long way, but don't think for a moment that this is the end. It isn't. You've made the Payday Gang the most wanted gang in the land. Keep it up. Get out there. Rob some banks. Pull off some heists. Do what you do best.",
+        "loc_text": "You've come a long way, but don't think for a moment that this is the end. It isn't. You've made the Payday Gang the most wanted gang in the land. Keep it up. Get out there. Rob some banks. Pull off some heists. Do what you do best.",
+        "string_id": "sm_27_desc"
+    },
+    "sm_27_name": {
+        "base_text": "What We Do Best",
+        "loc_text": "What We Do Best",
+        "string_id": "sm_27_name"
+    },
+    "sm_27_obj": {
+        "base_text": "Gain 20 Crime Spree levels.",
+        "loc_text": "Gain 20 Crime Spree levels.",
+        "string_id": "sm_27_obj"
+    },
+    "sm_28_desc": {
+        "base_text": "Now that we have our fill of suntans and Tequila Sunrises, it's time to start planning for something juicy again. I got something in mind, but to set it up, we need some help, and the help I have in mind will take some convincing. So we gotta do something to impress them. I've got a couple sweet options for you to pick from...",
+        "loc_text": "Now that we have our fill of suntans and Tequila Sunrises, it's time to start planning for something juicy again. I got something in mind, but to set it up, we need some help, and the help I have in mind will take some convincing. So we gotta do something to impress them. I've got a couple sweet options for you to pick from...",
+        "string_id": "sm_28_desc"
+    },
+    "sm_28_name": {
+        "base_text": "Back from Vacation",
+        "loc_text": "Back from Vacation",
+        "string_id": "sm_28_name"
+    },
+    "sm_28_obj": {
+        "base_text": "Complete either The Alesso Heist or the Counterfeit job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete either The Alesso Heist or the Counterfeit job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_28_obj"
+    },
+    "sm_29_desc": {
+        "base_text": "OK, so I've been looking at this one for a while, but needed to be sure we were ready for it. The First World Bank. Old, established, full of secrets and gold, all there for the taking. We're already famous, but this one will get us into the history books.",
+        "loc_text": "OK, so I've been looking at this one for a while, but needed to be sure we were ready for it. The First World Bank. Old, established, full of secrets and gold, all there for the taking. We're already famous, but this one will get us into the history books.",
+        "string_id": "sm_29_desc"
+    },
+    "sm_29_name": {
+        "base_text": "Secrets & Gold",
+        "loc_text": "Secrets & Gold",
+        "string_id": "sm_29_name"
+    },
+    "sm_29_obj": {
+        "base_text": "Complete the First World Bank job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the First World Bank job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_29_obj"
+    },
+    "sm_2_desc": {
+        "base_text": "Okay, so this might just work out. Preparation is important though. You're a professional. You need the right gear for the job. Okay, there may not be much in the cupboard right now, but as you keep pulling off heists, get notorious, we'll get those racks and cabinets filled with all the right gear.",
+        "loc_text": "Okay, so this might just work out. Preparation is important though. You're a professional. You need the right gear for the job. Okay, there may not be much in the cupboard right now, but as you keep pulling off heists, get notorious, we'll get those racks and cabinets filled with all the right gear.",
+        "string_id": "sm_2_desc"
     },
     "sm_2_name": {
         "base_text": "Getting Ready",
         "loc_text": "Getting Ready",
         "string_id": "sm_2_name"
     },
+    "sm_2_obj": {
+        "base_text": "Go to your inventory and equip a deployable, a perk from any perk deck and also spend five skill points.",
+        "loc_text": "Go to your inventory and equip a deployable, a perk from any perk deck and also spend five skill points.",
+        "string_id": "sm_2_obj"
+    },
+    "sm_30_desc": {
+        "base_text": "You gotta wonder how some characters survive this business, but I try to keep an open mind. Anyway, this guy Jimmy wants to work with us, says he has big job lined up. I did some checking and, crazy or not, the grapevine says he's OK, so it might be worth the risk. We better be sure though, because the job involves going up against notorious Russian psycho \"Akan\". Not to be messed with lightly, from what I've heard. First thing Jimmy wants us to do is intercept a Murkywater transport of... get this- an EMP bomb! Says we're gonna need it for the next phase.",
+        "loc_text": "You gotta wonder how some characters survive this business, but I try to keep an open mind. Anyway, this guy Jimmy wants to work with us, says he has big job lined up. I did some checking and, crazy or not, the grapevine says he's OK, so it might be worth the risk. We better be sure though, because the job involves going up against notorious Russian psycho \"Akan\". Not to be messed with lightly, from what I've heard. First thing Jimmy wants us to do is intercept a Murkywater transport of... get this- an EMP bomb! Says we're gonna need it for the next phase.",
+        "string_id": "sm_30_desc"
+    },
+    "sm_30_name": {
+        "base_text": "Don't Wake the Bear",
+        "loc_text": "Don't Wake the Bear",
+        "string_id": "sm_30_name"
+    },
+    "sm_30_obj": {
+        "base_text": "Complete the Murky Station job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Murky Station job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_30_obj"
+    },
+    "sm_31_desc": {
+        "base_text": "This whole 'stopping evil psychos' thing is a little out of our comfort zone, but Jimmy is pretty convincing. Maybe we should see this one through. Only thing is... uh... we gotta go to Russia. There's a cache of high-tech data Jimmy wants us to steal, so that Akan doesn't get his hands on it. He's pretty riled up about it. But even if we take Jimmy at his word, and doing this will be kind of a public service, we can probably squeeze a nice bit of profit from it too. And hey, it'll be a change of pace, right? I hear Siberia is nice this time of year...",
+        "loc_text": "This whole 'stopping evil psychos' thing is a little out of our comfort zone, but Jimmy is pretty convincing. Maybe we should see this one through. Only thing is... uh... we gotta go to Russia. There's a cache of high-tech data Jimmy wants us to steal, so that Akan doesn't get his hands on it. He's pretty riled up about it. But even if we take Jimmy at his word, and doing this will be kind of a public service, we can probably squeeze a nice bit of profit from it too. And hey, it'll be a change of pace, right? I hear Siberia is nice this time of year...",
+        "string_id": "sm_31_desc"
+    },
+    "sm_31_name": {
+        "base_text": "Moscow Mule",
+        "loc_text": "Moscow Mule",
+        "string_id": "sm_31_name"
+    },
+    "sm_31_obj": {
+        "base_text": "Complete the Boiling Point job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Boiling Point job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_31_obj"
+    },
+    "sm_32_desc": {
+        "base_text": "Yeah... it feels like everyone is asking for help from the Payday Gang now. Vlad wants us to help out his cousin, who somehow got wind of our adventure in the Motherland. He's been good for us so far, so if you're up for it, why not hear what he has to say? Or if you're in the mood for something more... greasy, he also mentioned a warehouse full of bikers that need to be shown the way to some holiday cheer. Up to you, guys.",
+        "loc_text": "Yeah... it feels like everyone is asking for help from the Payday Gang now. Vlad wants us to help out his cousin, who somehow got wind of our adventure in the Motherland. He's been good for us so far, so if you're up for it, why not hear what he has to say? Or if you're in the mood for something more... greasy, he also mentioned a warehouse full of bikers that need to be shown the way to some holiday cheer. Up to you, guys.",
+        "string_id": "sm_32_desc"
+    },
+    "sm_32_name": {
+        "base_text": "Animal Farm",
+        "loc_text": "Animal Farm",
+        "string_id": "sm_32_name"
+    },
+    "sm_32_obj": {
+        "base_text": "Complete either the Goat Simulator job or the Santa's Workshop job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete either the Goat Simulator job or the Santa's Workshop job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_32_obj"
+    },
+    "sm_33_desc": {
+        "base_text": "I usually don't like dealing with anonymous outfits, but a request has been made through the grapevine for an order of Falcogini automobiles, and the payday is substantial, worth looking into. There weren't any specifics, so we can do it on our terms. Might be a ticket to higher gains down the road. There are a lot of cops near the Falcogini dealership though, and we gotta get the cars out clean, so no storm of bullets, OK?",
+        "loc_text": "I usually don't like dealing with anonymous outfits, but a request has been made through the grapevine for an order of Falcogini automobiles, and the payday is substantial, worth looking into. There weren't any specifics, so we can do it on our terms. Might be a ticket to higher gains down the road. There are a lot of cops near the Falcogini dealership though, and we gotta get the cars out clean, so no storm of bullets, OK?",
+        "string_id": "sm_33_desc"
+    },
+    "sm_33_name": {
+        "base_text": "That New Car Smell",
+        "loc_text": "That New Car Smell",
+        "string_id": "sm_33_name"
+    },
+    "sm_33_obj": {
+        "base_text": "Complete the Car Shop job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Car Shop job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_33_obj"
+    },
+    "sm_34_desc": {
+        "base_text": "Our old friend The Elephant has brought us a new prospect- a member of a local biker gang. He's a real hard-ass this one, good to have around in a fight. Before he joins up permanently though, he's asked for our help in leaving his gang. Apparently, they don't take kindly to members wanting out. I say we do- it's an investment, and good karma for us. Rust also mentioned a piece of technology in the gang's possession that I could use...",
+        "loc_text": "Our old friend The Elephant has brought us a new prospect- a member of a local biker gang. He's a real hard-ass this one, good to have around in a fight. Before he joins up permanently though, he's asked for our help in leaving his gang. Apparently, they don't take kindly to members wanting out. I say we do- it's an investment, and good karma for us. Rust also mentioned a piece of technology in the gang's possession that I could use...",
+        "string_id": "sm_34_desc"
+    },
+    "sm_34_name": {
+        "base_text": "Chrome, Rubber & Tattoos",
+        "loc_text": "Chrome, Rubber & Tattoos",
+        "string_id": "sm_34_name"
+    },
+    "sm_34_obj": {
+        "base_text": "Complete The Biker Heist on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete The Biker Heist on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_34_obj"
+    },
+    "sm_35_desc": {
+        "base_text": "Looks like our new heister is settling in. Rust still has contacts around the city and got an interesting tip for us. There's a run-down building being used by a local gang that has a panic room filled with loot. Apparently, the room is virtually break-in proof without damaging the contents, but I've got another idea. I think you're going to have some fun with this one guys.",
+        "loc_text": "Looks like our new heister is settling in. Rust still has contacts around the city and got an interesting tip for us. There's a run-down building being used by a local gang that has a panic room filled with loot. Apparently, the room is virtually break-in proof without damaging the contents, but I've got another idea. I think you're going to have some fun with this one guys.",
+        "string_id": "sm_35_desc"
+    },
+    "sm_35_name": {
+        "base_text": "Heavy Lift",
+        "loc_text": "Heavy Lift",
+        "string_id": "sm_35_name"
+    },
+    "sm_35_obj": {
+        "base_text": "Complete the Panic Room job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Panic Room job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_35_obj"
+    },
+    "sm_36_desc": {
+        "base_text": "Hey gang. I got a job for you from The Continental. Turns out they were the ones that took delivery of the Falcoginis, and have been wanting to work with us for a while. Their guy Charon is in deep shit in N.Y.C., needs to be pulled out of a situation. A mutual friend of him and Chains- John Wick, made the introductions. I  got someone else I need to meet there too, that will help us in the future. So, let's get to The Big Apple.",
+        "loc_text": "Hey gang. I got a job for you from The Continental. Turns out they were the ones that took delivery of the Falcoginis, and have been wanting to work with us for a while. Their guy Charon is in deep shit in N.Y.C., needs to be pulled out of a situation. A mutual friend of him and Chains- John Wick, made the introductions. I  got someone else I need to meet there too, that will help us in the future. So, let's get to The Big Apple.",
+        "string_id": "sm_36_desc"
+    },
+    "sm_36_name": {
+        "base_text": "The New York Situation",
+        "loc_text": "The New York Situation",
+        "string_id": "sm_36_name"
+    },
+    "sm_36_obj": {
+        "base_text": "Complete the Brooklyn 10-10 job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Brooklyn 10-10 job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_36_obj"
+    },
+    "sm_37_desc": {
+        "base_text": "Mayor McKendrick has been a rusty nail in our asses long enough. Time for us to give him some payback. And it's gonna be the kind politicians hate- loss of money. Wick got a tip from Charon about a big fundraiser the Mayor is holding and we're going to crash the place, but quiet-like.",
+        "loc_text": "Mayor McKendrick has been a rusty nail in our asses long enough. Time for us to give him some payback. And it's gonna be the kind politicians hate- loss of money. Wick got a tip from Charon about a big fundraiser the Mayor is holding and we're going to crash the place, but quiet-like.",
+        "string_id": "sm_37_desc"
+    },
+    "sm_37_name": {
+        "base_text": "Money in the Water",
+        "loc_text": "Money in the Water",
+        "string_id": "sm_37_name"
+    },
+    "sm_37_obj": {
+        "base_text": "Complete The Yacht Heist on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete The Yacht Heist on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_37_obj"
+    },
+    "sm_38_desc": {
+        "base_text": "\"The taxman cometh\", they say. Very profound. What say we make it the other way around? Got us a nice thank-you-tip from the Continental. There's this IRS guy, a real dirtbag, about to sell a hard drive containing very sensitive information worth millions to some corporate slime-balls. If we intercept the deal, we can take that little mint away from them and keep it for ourselves. It'll be like our own version of Robin Hood, stickin' it to The Man to feed all us needy heisters.",
+        "loc_text": "\"The taxman cometh\", they say. Very profound. What say we make it the other way around? Got us a nice thank-you-tip from the Continental. There's this IRS guy, a real dirtbag, about to sell a hard drive containing very sensitive information worth millions to some corporate slime-balls. If we intercept the deal, we can take that little mint away from them and keep it for ourselves. It'll be like our own version of Robin Hood, stickin' it to The Man to feed all us needy heisters.",
+        "string_id": "sm_38_desc"
+    },
+    "sm_38_name": {
+        "base_text": "Clowns, Death and Tax Returns",
+        "loc_text": "Clowns, Death and Tax Returns",
+        "string_id": "sm_38_name"
+    },
+    "sm_38_obj": {
+        "base_text": "Complete the Undercover job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Undercover job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_38_obj"
+    },
+    "sm_39_desc": {
+        "base_text": "I've been trying to find more ways to cash in on Murkywater. They have tentacles spread all over the place, and have an uncanny way of turning up where you least expect it. There's definitely more to them than what we've seen. They've got a supply line running through D.C. I've been looking at, and it finally looks like something worth our while is coming through.",
+        "loc_text": "I've been trying to find more ways to cash in on Murkywater. They have tentacles spread all over the place, and have an uncanny way of turning up where you least expect it. There's definitely more to them than what we've seen. They've got a supply line running through D.C. I've been looking at, and it finally looks like something worth our while is coming through.",
+        "string_id": "sm_39_desc"
+    },
+    "sm_39_name": {
+        "base_text": "Convoy of Bricks",
+        "loc_text": "Convoy of Bricks",
+        "string_id": "sm_39_name"
+    },
+    "sm_39_obj": {
+        "base_text": "Complete the Slaughterhouse job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Slaughterhouse job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_39_obj"
+    },
+    "sm_3_desc": {
+        "base_text": "Okay. The Fed's have nothing on you. You've got the mask. You've got the guns. But have you got what it takes to make the Payday Gang the stuff of legends? Well, it's time to find out. DC's got branch banks and jewellery stores all over. Been a long while since any of them were knocked over. Too long. Let's get rich.",
+        "loc_text": "Okay. The Fed's have nothing on you. You've got the mask. You've got the guns. But have you got what it takes to make the Payday Gang the stuff of legends? Well, it's time to find out. DC's got branch banks and jewellery stores all over. Been a long while since any of them were knocked over. Too long. Let's get rich.",
+        "string_id": "sm_3_desc"
+    },
     "sm_3_name": {
         "base_text": "Let's Make Some Money",
         "loc_text": "Let's Make Some Money",
         "string_id": "sm_3_name"
     },
+    "sm_3_obj": {
+        "base_text": "Complete the Jewelry Store job and any of the Bank Heists.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Jewelry Store job and any of the Bank Heists.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_3_obj"
+    },
+    "sm_40_desc": {
+        "base_text": "Sometimes fate shows you where your biggest problems are. Keeps you from getting over-confident. Looks like Murkywater got tired of us taking from them and are after revenge. A Murky agent just hacked into Crimenet- says he can shut us down permanently, and I believe him. But he also says he wants to work with us, AGAINST Murkywater. Damn way to say hello, huh? Who knows what this guy really wants, but until we know more about him, we should play along. Make the best of the situation and get some profit out of it. But don't let your guard down for a minute.",
+        "loc_text": "Sometimes fate shows you where your biggest problems are. Keeps you from getting over-confident. Looks like Murkywater got tired of us taking from them and are after revenge. A Murky agent just hacked into Crimenet- says he can shut us down permanently, and I believe him. But he also says he wants to work with us, AGAINST Murkywater. Damn way to say hello, huh? Who knows what this guy really wants, but until we know more about him, we should play along. Make the best of the situation and get some profit out of it. But don't let your guard down for a minute.",
+        "string_id": "sm_40_desc"
+    },
+    "sm_40_name": {
+        "base_text": "Cat Bites Dog",
+        "loc_text": "Cat Bites Dog",
+        "string_id": "sm_40_name"
+    },
+    "sm_40_obj": {
+        "base_text": "Complete the Beneath The Mountain job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Beneath The Mountain job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_40_obj"
+    },
+    "sm_41_desc": {
+        "base_text": "Well, how about that. The mountain job turned out pretty nice, under the circumstances. Hope you guys are up for a plane ride. Locke has another job he wants \"help\" with, onboard a Murkywater cargo plane. He seems hell-bent on pissing all over their operation, which is fine by me. Just keep watching for anything suspicious, 'cause I'm still not convinced he isn't waiting to stick a knife in our back.",
+        "loc_text": "Well, how about that. The mountain job turned out pretty nice, under the circumstances. Hope you guys are up for a plane ride. Locke has another job he wants \"help\" with, onboard a Murkywater cargo plane. He seems hell-bent on pissing all over their operation, which is fine by me. Just keep watching for anything suspicious, 'cause I'm still not convinced he isn't waiting to stick a knife in our back.",
+        "string_id": "sm_41_desc"
+    },
+    "sm_41_name": {
+        "base_text": "Clowns from Above",
+        "loc_text": "Clowns from Above",
+        "string_id": "sm_41_name"
+    },
+    "sm_41_obj": {
+        "base_text": "Complete the Birth of Sky job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Birth of Sky job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_41_obj"
+    },
+    "sm_42_desc": {
+        "base_text": "Still not really sure what to make of this guy, but Locke seems on the up an'up. If nothing else, the way he's been moving against Murkywater, it would be suicide to double-cross us too. And hasn't let us down so far. Says he has info about people that are trying to bring us down. Obviously, we're not gonna give them the chance...",
+        "loc_text": "Still not really sure what to make of this guy, but Locke seems on the up an'up. If nothing else, the way he's been moving against Murkywater, it would be suicide to double-cross us too. And hasn't let us down so far. Says he has info about people that are trying to bring us down. Obviously, we're not gonna give them the chance...",
+        "string_id": "sm_42_desc"
+    },
+    "sm_42_name": {
+        "base_text": "Damage Control",
+        "loc_text": "Damage Control",
+        "string_id": "sm_42_name"
+    },
+    "sm_42_obj": {
+        "base_text": "Complete the Heat Street job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Heat Street job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_42_obj"
+    },
+    "sm_43_desc": {
+        "base_text": "Gang, after a little not-so-friendly persuasion, we got us a lead on Kento. A guy by the name of Kazuo supposedly has some info for us, with one little snag; he's rattling bars at D.C. Central. Lucky for you, I've arranged a transfer, so all we gotta do is make sure to grab him when it happens. This one is gonna get really loud, and I don't think we'll be too popular with the D.D.O.T. afterward, 'cause they're gonna be fixing more than potholes- we're taking down a bridge!",
+        "loc_text": "Gang, after a little not-so-friendly persuasion, we got us a lead on Kento. A guy by the name of Kazuo supposedly has some info for us, with one little snag; he's rattling bars at D.C. Central. Lucky for you, I've arranged a transfer, so all we gotta do is make sure to grab him when it happens. This one is gonna get really loud, and I don't think we'll be too popular with the D.D.O.T. afterward, 'cause they're gonna be fixing more than potholes- we're taking down a bridge!",
+        "string_id": "sm_43_desc"
+    },
+    "sm_43_name": {
+        "base_text": "Bridge Busters",
+        "loc_text": "Bridge Busters",
+        "string_id": "sm_43_name"
+    },
+    "sm_43_obj": {
+        "base_text": "Complete the Green Bridge job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Green Bridge job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_43_obj"
+    },
+    "sm_44_desc": {
+        "base_text": "Time for a little trip up north, guys. Locke has set up a sweet weapons deal with the Butcher, but he needs some extra protection. The deal is going down in a remote Alaskan port, so pack your thermal undies. You'll be traveling incognito, so I've got train tickets booked for you.",
+        "loc_text": "Time for a little trip up north, guys. Locke has set up a sweet weapons deal with the Butcher, but he needs some extra protection. The deal is going down in a remote Alaskan port, so pack your thermal undies. You'll be traveling incognito, so I've got train tickets booked for you.",
+        "string_id": "sm_44_desc"
+    },
+    "sm_44_name": {
+        "base_text": "Polar Safari",
+        "loc_text": "Polar Safari",
+        "string_id": "sm_44_name"
+    },
+    "sm_44_obj": {
+        "base_text": "Complete the Alaskan Deal job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Alaskan Deal job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_44_obj"
+    },
+    "sm_45_desc": {
+        "base_text": "Looks like Locke took us for a bunch of chumps in Alaska and the Butcher is pissed. After what he pulled, we need to show him what happens when you mess with us. Locke has gone dark for the moment, but he's got investments in the Garnet group. If we put a big dent in their finances, it's gonna hurt Locke too, so I've got a little job for you that'll do just that.",
+        "loc_text": "Looks like Locke took us for a bunch of chumps in Alaska and the Butcher is pissed. After what he pulled, we need to show him what happens when you mess with us. Locke has gone dark for the moment, but he's got investments in the Garnet group. If we put a big dent in their finances, it's gonna hurt Locke too, so I've got a little job for you that'll do just that.",
+        "string_id": "sm_45_desc"
+    },
+    "sm_45_name": {
+        "base_text": "Carbon Payback",
+        "loc_text": "Carbon Payback",
+        "string_id": "sm_45_name"
+    },
+    "sm_45_obj": {
+        "base_text": "Complete the Diamond Heist on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Diamond Heist on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_45_obj"
+    },
+    "sm_46_desc": {
+        "base_text": "Hey gang, I think you guys need a break from D.C. and I've got something real old-school lined up for you. An old friend of mine in the Cabot family, out in La La Land, needs some extra people. It's another job against the Garnet group, which means... more diamonds. I owe this guy a favor from way back, so I need you to get out there and help him. And the payday's good, anyway. Show those Hollywood cosmo-drinkers how the pro's from D.C. handle things. It should be a cakewalk.",
+        "loc_text": "Hey gang, I think you guys need a break from D.C. and I've got something real old-school lined up for you. An old friend of mine in the Cabot family, out in La La Land, needs some extra people. It's another job against the Garnet group, which means... more diamonds. I owe this guy a favor from way back, so I need you to get out there and help him. And the payday's good, anyway. Show those Hollywood cosmo-drinkers how the pro's from D.C. handle things. It should be a cakewalk.",
+        "string_id": "sm_46_desc"
+    },
+    "sm_46_name": {
+        "base_text": "Black Suit Blues",
+        "loc_text": "Black Suit Blues",
+        "string_id": "sm_46_name"
+    },
+    "sm_46_obj": {
+        "base_text": "Complete the Reservoir Dogs job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Reservoir Dogs job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_46_obj"
+    },
+    "sm_47_desc": {
+        "base_text": "Friends, I promise I will see you to the end of this, yeah? Bain has been secretly searching for some kind of Holy Grail Dinges for along time and I am committed to help. He may be gone, but the search will continue. Duke has managed to start uncovering a lot of new leads on it, digging through volumes of ancient lore. Before he got taken, Bain set up a plan to find an artifact buried in the foundation of a bank in Brooklyn. This artifact was put there in the early 1900s and may contain clues we need.",
+        "loc_text": "Friends, I promise I will see you to the end of this, yeah? Bain has been secretly searching for some kind of Holy Grail Dinges for along time and I am committed to help. He may be gone, but the search will continue. Duke has managed to start uncovering a lot of new leads on it, digging through volumes of ancient lore. Before he got taken, Bain set up a plan to find an artifact buried in the foundation of a bank in Brooklyn. This artifact was put there in the early 1900s and may contain clues we need.",
+        "string_id": "sm_47_desc"
+    },
+    "sm_47_name": {
+        "base_text": "Old Town, New Captain",
+        "loc_text": "Old Town, New Captain",
+        "string_id": "sm_47_name"
+    },
+    "sm_47_obj": {
+        "base_text": "Complete the Brooklyn Bank job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Brooklyn Bank job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_47_obj"
+    },
+    "sm_48_desc": {
+        "base_text": "If we believe his message, Bain is truly dead. And the Elephant has been arrested. According to Garrett's email logs, The people behind Bain's capture are called The Kataru; they seem to be some kind of ancient and secret society that uses Murkywater as a front. They are offering to trade Bain's body to Garrett in return for some object connected to Bain's grail-thing, which Duke says is called Baldwin's Lament, or something. So if we're going to finish what Bain started and find this thing, whatever it is, we need that object. And it would be fitting payback to put that chop in a kakspul of trouble, yeah?",
+        "loc_text": "If we believe his message, Bain is truly dead. And the Elephant has been arrested. According to Garrett's email logs, The people behind Bain's capture are called The Kataru; they seem to be some kind of ancient and secret society that uses Murkywater as a front. They are offering to trade Bain's body to Garrett in return for some object connected to Bain's grail-thing, which Duke says is called Baldwin's Lament, or something. So if we're going to finish what Bain started and find this thing, whatever it is, we need that object. And it would be fitting payback to put that chop in a kakspul of trouble, yeah?",
+        "string_id": "sm_48_desc"
+    },
+    "sm_48_name": {
+        "base_text": "Garrett's Foil",
+        "loc_text": "Garrett's Foil",
+        "string_id": "sm_48_name"
+    },
+    "sm_48_obj": {
+        "base_text": "Complete the Breakin' Feds job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Breakin' Feds job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_48_obj"
+    },
+    "sm_49_desc": {
+        "base_text": "Dear friends, I knew I had seen something like the Elephant box before, and remembered a visit I once paid to a secret Murkywater storage and research facility out in the desert. This place is basically the heart of Murky, full of insane projects, and what little I saw made me begin to question how much longer I wanted to work with those dwankies. I had a friend help me hack into the security feed and we've managed to find out that they are in fact holding two almost identical cases. Duke is pretty sure the Kataru were trying to gather them for some reason connected to Baldwin's Lament.",
+        "loc_text": "Dear friends, I knew I had seen something like the Elephant box before, and remembered a visit I once paid to a secret Murkywater storage and research facility out in the desert. This place is basically the heart of Murky, full of insane projects, and what little I saw made me begin to question how much longer I wanted to work with those dwankies. I had a friend help me hack into the security feed and we've managed to find out that they are in fact holding two almost identical cases. Duke is pretty sure the Kataru were trying to gather them for some reason connected to Baldwin's Lament.",
+        "string_id": "sm_49_desc"
+    },
+    "sm_49_name": {
+        "base_text": "There's Something in the Desert",
+        "loc_text": "There's Something in the Desert",
+        "string_id": "sm_49_name"
+    },
+    "sm_49_obj": {
+        "base_text": "Complete the Henry's Rock job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Henry's Rock job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_49_obj"
+    },
+    "sm_4_desc": {
+        "base_text": "Well, you've done it now. You're a heister. You're in the club. And one of the perks of said club is connections. Meet Gage. He's going to get us guns and help us move loot, so consider him a valuable ally. He's got a bit of dock-side burglary for you to take care of - keep it real quiet-like.",
+        "loc_text": "Well, you've done it now. You're a heister. You're in the club. And one of the perks of said club is connections. Meet Gage. He's going to get us guns and help us move loot, so consider him a valuable ally. He's got a bit of dock-side burglary for you to take care of - keep it real quiet-like.",
+        "string_id": "sm_4_desc"
+    },
     "sm_4_name": {
         "base_text": "Midnight Heist",
         "loc_text": "Midnight Heist",
         "string_id": "sm_4_name"
+    },
+    "sm_4_obj": {
+        "base_text": "Secure four bags in the Shadow Raid job. This can be done in multiple playthroughs.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Secure four bags in the Shadow Raid job. This can be done in multiple playthroughs.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_4_obj"
+    },
+    "sm_50_desc": {
+        "base_text": "The Elephant, now released from lockup after being falsely charged by that chop Garrett with fake Kataru evidence, is looking for some payback. Looks like he's going to help us find Baldwin's Lament, and Bain too. He's tipped us off about an auction taking place in Salem, Massachusetts where they're offering items from a shipwreck recently discovered in Antarctica. According to the notes and research left by Duke's grandfather, one of the passengers was somehow involved with the Kataru. This passenger was apparently traveling to an unknown location and hoped to divert the course of the ship when it disappeared in 1905. Something he carried with him is apparently important, and you know... an auction with lots of nice, juicy antiques might just boost our coffers a bit, yeah?",
+        "loc_text": "The Elephant, now released from lockup after being falsely charged by that chop Garrett with fake Kataru evidence, is looking for some payback. Looks like he's going to help us find Baldwin's Lament, and Bain too. He's tipped us off about an auction taking place in Salem, Massachusetts where they're offering items from a shipwreck recently discovered in Antarctica. According to the notes and research left by Duke's grandfather, one of the passengers was somehow involved with the Kataru. This passenger was apparently traveling to an unknown location and hoped to divert the course of the ship when it disappeared in 1905. Something he carried with him is apparently important, and you know... an auction with lots of nice, juicy antiques might just boost our coffers a bit, yeah?",
+        "string_id": "sm_50_desc"
+    },
+    "sm_50_name": {
+        "base_text": "The Lost Recovered",
+        "loc_text": "The Lost Recovered",
+        "string_id": "sm_50_name"
+    },
+    "sm_50_obj": {
+        "base_text": "Complete the Shacklethorne Auction job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Shacklethorne Auction job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_50_obj"
+    },
+    "sm_51_desc": {
+        "base_text": "OK, here we go. Those Kataru dwankies have had their nasty paws on our Bain for far too long. With information provided by the Elephant, I have managed to find where Bain is being kept. Murkywater has many facilities and this is one of the worst- a run-down prison they bought from the US military in the 70s, located on a small island with a lighthouse. No one pays attention to the place as long as the lighthouse works, because the Murkys are running it through a utilities subsidiary. The prison was originally used to hold Japanese POWs after Pearl Harbor and has been equipped with advanced medical facilities. When I was with Murky, rumor was they did some very nasty experiments there. I'm working on a plan to get you in there and extract Bain. Let's hope we're not too late.",
+        "loc_text": "OK, here we go. Those Kataru dwankies have had their nasty paws on our Bain for far too long. With information provided by the Elephant, I have managed to find where Bain is being kept. Murkywater has many facilities and this is one of the worst- a run-down prison they bought from the US military in the 70s, located on a small island with a lighthouse. No one pays attention to the place as long as the lighthouse works, because the Murkys are running it through a utilities subsidiary. The prison was originally used to hold Japanese POWs after Pearl Harbor and has been equipped with advanced medical facilities. When I was with Murky, rumor was they did some very nasty experiments there. I'm working on a plan to get you in there and extract Bain. Let's hope we're not too late.",
+        "string_id": "sm_51_desc"
+    },
+    "sm_51_name": {
+        "base_text": "Lazarus Down",
+        "loc_text": "Lazarus Down",
+        "string_id": "sm_51_name"
+    },
+    "sm_51_obj": {
+        "base_text": "Complete the Hell's Island job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Hell's Island job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_51_obj"
+    },
+    "sm_52_desc": {
+        "base_text": "Dear friends, the Dentist and those Murky keks have infected Bain with a strange virus while they had him. I managed to pull some information from the Murky mainframe and recognize the codename. The virus is a refined strain of something they got hold of many years ago, when they were contracted by the US government to develop biological toxins using loopholes in existing bio-warfare treaties. I had an old bio-med contact look at it and, while the virus isn't contagious, the situation is blerrie awful. There is no cure. Bain only has, at most, a few days until he is consumed from within. I asked Chains once when Bain's obsession with this whole secret dinges started, and he told me about the Cagliostro manuscript being payment for a hospital job many years ago, involving the blood of a patient in isolation. I remember an incident back at Murky around the same time, with a huge scandal and coverup. One of the... volunteers... Murky was doing medical tests on had gotten out and needed to be contained. It can't be a coincidence. Maybe Bain's search, will ultimately be his end.",
+        "loc_text": "Dear friends, the Dentist and those Murky keks have infected Bain with a strange virus while they had him. I managed to pull some information from the Murky mainframe and recognize the codename. The virus is a refined strain of something they got hold of many years ago, when they were contracted by the US government to develop biological toxins using loopholes in existing bio-warfare treaties. I had an old bio-med contact look at it and, while the virus isn't contagious, the situation is blerrie awful. There is no cure. Bain only has, at most, a few days until he is consumed from within. I asked Chains once when Bain's obsession with this whole secret dinges started, and he told me about the Cagliostro manuscript being payment for a hospital job many years ago, involving the blood of a patient in isolation. I remember an incident back at Murky around the same time, with a huge scandal and coverup. One of the... volunteers... Murky was doing medical tests on had gotten out and needed to be contained. It can't be a coincidence. Maybe Bain's search, will ultimately be his end.",
+        "string_id": "sm_52_desc"
+    },
+    "sm_52_name": {
+        "base_text": "Turnaround",
+        "loc_text": "Turnaround",
+        "string_id": "sm_52_name"
+    },
+    "sm_52_obj": {
+        "base_text": "Complete the No Mercy job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the No Mercy job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_52_obj"
+    },
+    "sm_53_desc": {
+        "base_text": "Bain knows his time is running out, but he's hell-bent on seeing his crew, all of us, get the reward we deserve before it's over. He was always talking about pulling off the 'greatest heist' or whatever... and I never really did know what he meant, until now. It's like this- at the end of the American civil war, President Lincoln issued pardons to Confederate soldiers, to help unite the country. To make them easier to distribute, many of the documents were left without assignees, and were delivered by his generals. As it happens, some of these pardons still exist, locked away... in the blerrie White House. And listen to this, friends- they are still legal! Imagine getting away with all we've done and retiring... that would indeed be something mighty, yeah? Well, you chops, we're going for it. Now that the building it has been nicely emptied by the dwankies causing all the world-upending ruckus, we can probably get inside. They only seem to have a skeleton crew of Murkys guarding it- no doubt maneuvered in place by the Dentist after the Secret Service and other agencies were relocated. But it's not going to be easy... and it will be an all-or-nothing job. If we fail, it's over. For real, this time.",
+        "loc_text": "Bain knows his time is running out, but he's hell-bent on seeing his crew, all of us, get the reward we deserve before it's over. He was always talking about pulling off the 'greatest heist' or whatever... and I never really did know what he meant, until now. It's like this- at the end of the American civil war, President Lincoln issued pardons to Confederate soldiers, to help unite the country. To make them easier to distribute, many of the documents were left without assignees, and were delivered by his generals. As it happens, some of these pardons still exist, locked away... in the blerrie White House. And listen to this, friends- they are still legal! Imagine getting away with all we've done and retiring... that would indeed be something mighty, yeah? Well, you chops, we're going for it. Now that the building it has been nicely emptied by the dwankies causing all the world-upending ruckus, we can probably get inside. They only seem to have a skeleton crew of Murkys guarding it- no doubt maneuvered in place by the Dentist after the Secret Service and other agencies were relocated. But it's not going to be easy... and it will be an all-or-nothing job. If we fail, it's over. For real, this time.",
+        "string_id": "sm_53_desc"
+    },
+    "sm_53_name": {
+        "base_text": "The Greatest Heist of All",
+        "loc_text": "The Greatest Heist of All",
+        "string_id": "sm_53_name"
+    },
+    "sm_53_obj": {
+        "base_text": "Complete The White House job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete The White House job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_53_obj"
     },
     "sm_5_desc": {
         "base_text": "Great work. Left those Murkywater goons scratching their asses and wondering where their shit went. Gage is happy, and Murkywater isn't. This means you're starting to get notorious. And, at the end of the day, notoriety is your life-blood. Money can be stolen, see. Gold can come and go. But notoriety - that's what you're really worth. So let's get some more.",
@@ -794,10 +1864,115 @@
         "loc_text": "Complete the Go Bank and Diamond Store jobs.$NL;This assignment requires you to play from the lobby to the end of the heist.",
         "string_id": "sm_5_obj"
     },
+    "sm_6_desc": {
+        "base_text": "Outstanding. People are starting to hear about the Payday Gang. I told you notoriety matters. You need it to get the real big scores. And the people who supply those scores are watching. They're waiting to see what you can do. I think I have just the jobs to do that.",
+        "loc_text": "Outstanding. People are starting to hear about the Payday Gang. I told you notoriety matters. You need it to get the real big scores. And the people who supply those scores are watching. They're waiting to see what you can do. I think I have just the jobs to do that.",
+        "string_id": "sm_6_desc"
+    },
+    "sm_6_name": {
+        "base_text": "Time to show off",
+        "loc_text": "Time to show off",
+        "string_id": "sm_6_name"
+    },
+    "sm_6_obj": {
+        "base_text": "Complete at least three Transport heists.$NL;Complete the Transport: Train Heist and steal the turret prototype.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete at least three Transport heists.$NL;Complete the Transport: Train Heist and steal the turret prototype.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_6_obj"
+    },
+    "sm_7_desc": {
+        "base_text": "You proved you have what it takes to get in, get loud and get the job done. That brings contacts our way. Here's our first - Vlad Kozak. Vlad's crazy. Even for someone spat from the Russian mobscene, this big guy stands apart, Well, he likes your work. We'll see if that's a good thing. But before he lets you into bed with him, you're going to have to do a little grunt work.",
+        "loc_text": "You proved you have what it takes to get in, get loud and get the job done. That brings contacts our way. Here's our first - Vlad Kozak. Vlad's crazy. Even for someone spat from the Russian mobscene, this big guy stands apart, Well, he likes your work. We'll see if that's a good thing. But before he lets you into bed with him, you're going to have to do a little grunt work.",
+        "string_id": "sm_7_desc"
+    },
+    "sm_7_name": {
+        "base_text": "International Connections",
+        "loc_text": "International Connections",
+        "string_id": "sm_7_name"
+    },
+    "sm_7_obj": {
+        "base_text": "Complete the Mallcrasher and Four Store jobs on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Mallcrasher and Four Store jobs on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_7_obj"
+    },
+    "sm_8_desc": {
+        "base_text": "Vlad's happy, and, trust me, we want to keep that guy smiling. He's so happy, in fact, he's got a couple of jobs for you that're a little bit personal. Do these for him, he says, and we're gonna be his top guys. Can't hurt to do the big guy a couple of little favors, can it?",
+        "loc_text": "Vlad's happy, and, trust me, we want to keep that guy smiling. He's so happy, in fact, he's got a couple of jobs for you that're a little bit personal. Do these for him, he says, and we're gonna be his top guys. Can't hurt to do the big guy a couple of little favors, can it?",
+        "string_id": "sm_8_desc"
+    },
+    "sm_8_name": {
+        "base_text": "Personal Favors",
+        "loc_text": "Personal Favors",
+        "string_id": "sm_8_name"
+    },
+    "sm_8_obj": {
+        "base_text": "Complete the White Xmas job and Ukrainian Job on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the White Xmas job and Ukrainian Job on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_8_obj"
+    },
+    "sm_9_desc": {
+        "base_text": "Okay, Vlad - well, he likes how you do things. Says he's got a job for you. Something special. Something big. He wants you to boost 'something' from that Murkywater warehouse you hit for Gage, you remember that? Vlad is pitching against the Murkies. Something like that can only end in trouble for everyone. So make sure you hit it hard and fast.",
+        "loc_text": "Okay, Vlad - well, he likes how you do things. Says he's got a job for you. Something special. Something big. He wants you to boost 'something' from that Murkywater warehouse you hit for Gage, you remember that? Vlad is pitching against the Murkies. Something like that can only end in trouble for everyone. So make sure you hit it hard and fast.",
+        "string_id": "sm_9_desc"
+    },
+    "sm_9_name": {
+        "base_text": "Duck & Cover",
+        "loc_text": "Duck & Cover",
+        "string_id": "sm_9_name"
+    },
+    "sm_9_obj": {
+        "base_text": "Complete the Meltdown job on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Meltdown job on the Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_9_obj"
+    },
+    "sm_end_name": {
+        "base_text": "Here's to Another Heist!",
+        "loc_text": "Here's to Another Heist!",
+        "string_id": "sm_end_name"
+    },
+    "sm_first_safehouse_desc": {
+        "base_text": "Since you'll be out on the streets wreaking havoc, you're gonna need a place to call home- a safe house. I got just the place. It's nothing too fancy but it will have to do for now. Head over there and check it out, then later we can go about making some money.",
+        "loc_text": "Since you'll be out on the streets wreaking havoc, you're gonna need a place to call home- a safe house. I got just the place. It's nothing too fancy but it will have to do for now. Head over there and check it out, then later we can go about making some money.",
+        "string_id": "sm_first_safehouse_desc"
+    },
     "sm_first_safehouse_name": {
         "base_text": "A Safe Haven",
         "loc_text": "A Safe Haven",
         "string_id": "sm_first_safehouse_name"
+    },
+    "sm_first_safehouse_obj": {
+        "base_text": "Visit your safehouse atleast once.",
+        "loc_text": "Visit your safehouse atleast once.",
+        "string_id": "sm_first_safehouse_obj"
+    },
+    "sm_hoxton_revenge_desc": {
+        "base_text": "Hoxton used his time on the inside well. He wasn't even out of his prison pyjamas before busting in the FBI headquarters and getting everything he could about the rat. No name - the Feds are too canny for that - but the location of the safehouse where the rat is being held. Time to finish this.",
+        "loc_text": "Hoxton used his time on the inside well. He wasn't even out of his prison pyjamas before busting in the FBI headquarters and getting everything he could about the rat. No name - the Feds are too canny for that - but the location of the safehouse where the rat is being held. Time to finish this.",
+        "string_id": "sm_hoxton_revenge_desc"
+    },
+    "sm_hoxton_revenge_name": {
+        "base_text": "Bullets in the Safe House",
+        "loc_text": "Bullets in the Safe House",
+        "string_id": "sm_hoxton_revenge_name"
+    },
+    "sm_hoxton_revenge_obj": {
+        "base_text": "Complete the Hoxton Revenge job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "loc_text": "Complete the Hoxton Revenge job on the Very Hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.",
+        "string_id": "sm_hoxton_revenge_obj"
+    },
+    "sm_moving_up_desc": {
+        "base_text": "OK, I told you before that people are watching you, One guy in particular has an interest in you. I might have something big coming up with this new contact, but the job he has in mind will be difficult and you have to get ready for it. Come back when you've prepped a bit more and I will set you up.",
+        "loc_text": "OK, I told you before that people are watching you, One guy in particular has an interest in you. I might have something big coming up with this new contact, but the job he has in mind will be difficult and you have to get ready for it. Come back when you've prepped a bit more and I will set you up.",
+        "string_id": "sm_moving_up_desc"
+    },
+    "sm_moving_up_name": {
+        "base_text": "Moving up in the World",
+        "loc_text": "Moving up in the World",
+        "string_id": "sm_moving_up_name"
+    },
+    "sm_moving_up_obj": {
+        "base_text": "Reach reputation level 25.",
+        "loc_text": "Reach reputation level 25.",
+        "string_id": "sm_moving_up_obj"
     },
     "wp_ap_escape": {
         "base_text": "Escape!",
